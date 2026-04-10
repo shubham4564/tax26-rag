@@ -27,7 +27,7 @@ def prepare_eval_set(max_samples: int = 200) -> list[dict]:
     and extract expected section numbers.
     """
     print("[load_dataset] downloading quotientai/irs_form_instruction_qa_pairs …")
-    ds = load_dataset("quotientai/irs_form_instruction_qa_pairs", split="train")
+    ds = load_dataset("quotientai/irs_form_instruction_qa_pairs", split="test")
     print(f"[load_dataset] {len(ds)} total records")
     print(f"[load_dataset] columns: {ds.column_names}")
 

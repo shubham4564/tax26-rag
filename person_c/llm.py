@@ -1,13 +1,21 @@
 # ============================================================
-# FILE: person_c/llm.py  (Gemini version)
+# FILE: person_c/llm.py  (multi-provider: Perplexity / Gemini / OpenAI / Anthropic)
 # ============================================================
-# Add to requirements.txt:
-#   google-generativeai
+# requirements.txt needs only:
+#   openai          ← used for both OpenAI AND Perplexity (same SDK)
+#   google-genai    ← only if using Gemini
+#   anthropic       ← only if using Anthropic
 #
-# Add to .env:
-#   GEMINI_API_KEY=your_key_here
-#   LLM_PROVIDER=gemini
-#   GEMINI_MODEL=gemini-1.5-flash   # or gemini-1.5-pro / gemini-2.0-flash
+# .env for Perplexity:
+#   LLM_PROVIDER=perplexity
+#   PERPLEXITY_API_KEY=pplx-xxxxxxxxxxxxxxxx
+#   PERPLEXITY_MODEL=sonar              # see model table below
+#
+# Perplexity free-tier models (as of April 2026):
+#   sonar                — fast, lightweight (recommended for eval runs)
+#   sonar-pro            — stronger reasoning, higher cost
+#   sonar-reasoning      — chain-of-thought, slower
+#   sonar-reasoning-pro  — best quality, most expensive
 # ============================================================
 
 import os
@@ -25,10 +33,14 @@ def call_llm(
     max_tokens:    int = 1024,
 ) -> str:
     """
-    Unified LLM call. Routes to Gemini, OpenAI, or Anthropic
-    based on LLM_PROVIDER in .env.
+    Unified LLM call. Routes based on LLM_PROVIDER in .env.
+    Supported: perplexity | gemini | openai | anthropic
     """
-    if LLM_PROVIDER == "gemini":
+    if LLM_PROVIDER == "perplexity":
+        return _call_perplexity(system_prompt, user_message,
+                                model or os.getenv("PERPLEXITY_MODEL", "sonar"),
+                                temperature, max_tokens)
+    elif LLM_PROVIDER == "gemini":
         return _call_gemini(system_prompt, user_message,
                             model or os.getenv("GEMINI_MODEL", "gemini-1.5-flash"),
                             temperature, max_tokens)
@@ -36,30 +48,58 @@ def call_llm(
         return _call_anthropic(system_prompt, user_message,
                                model or "claude-3-haiku-20240307",
                                temperature, max_tokens)
-    else:  # default: openai
+    else:  # openai
         return _call_openai(system_prompt, user_message,
                             model or "gpt-4o-mini",
                             temperature, max_tokens)
 
 
+# ── Perplexity ───────────────────────────────────────────────
+# Uses the OpenAI SDK — Perplexity's API is fully compatible.
+
+def _call_perplexity(system_prompt, user_message, model, temperature, max_tokens) -> str:
+    from openai import OpenAI
+    client = OpenAI(
+        api_key=os.getenv("PERPLEXITY_API_KEY"),
+        base_url="https://api.perplexity.ai",   # only difference from OpenAI
+    )
+    resp = client.chat.completions.create(
+        model=model,
+        temperature=temperature,
+        max_tokens=max_tokens,
+        messages=[
+            {"role": "system", "content": system_prompt},
+            {"role": "user",   "content": user_message},
+        ],
+    )
+    return resp.choices[0].message.content.strip()
+
+
 # ── Gemini ───────────────────────────────────────────────────
 
 def _call_gemini(system_prompt, user_message, model, temperature, max_tokens) -> str:
-    import google.generativeai as genai
+    from google import genai
+    from google.genai import types
 
-    genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
+    client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
+    model_id = model.replace("models/", "")
 
-    client = genai.GenerativeModel(
-        model_name=model,
-        system_instruction=system_prompt,          # Gemini's system prompt field
-        generation_config=genai.GenerationConfig(
+    response = client.models.generate_content(
+        model=model_id,
+        contents=user_message,
+        config=types.GenerateContentConfig(
+            system_instruction=system_prompt,
             temperature=temperature,
             max_output_tokens=max_tokens,
         ),
     )
-
-    response = client.generate_content(user_message)
-    return response.text.strip()
+    # response.text is None when the model returns no candidates
+    # (e.g. safety filter triggered or empty generation)
+    text = response.text
+    if text is None:
+        print(f"  [llm WARN] Gemini returned None response for model={model_id}")
+        return ""
+    return text.strip()
 
 
 # ── OpenAI (unchanged, kept for reference) ───────────────────

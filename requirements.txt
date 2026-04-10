@@ -34,7 +34,7 @@ networkx>=3.0  # Graph construction and community detection
 
 # Testing (optional)
 pytest>=7.4.0
-google-generativeai
+google-genai
 chromadb
 rank_bm25
 sentence-transformers
