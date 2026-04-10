@@ -1,0 +1,25 @@
+# 0. Setup (everyone, day 1)
+git clone <your-repo> && cd tax-rag
+pip install -r requirements.txt
+cp .env.example .env     # fill in OPENAI_API_KEY or ANTHROPIC_API_KEY
+
+# 1. Person A — build the two corpora (days 1–7)
+python -m person_a.run_pipeline
+# Output: data/chunks/flat_corpus.jsonl
+#         data/chunks/hierarchy_corpus.jsonl
+
+# 2. Person B — index both corpora (day 8, after A hands off)
+python -m person_b.build_index              # first time
+python -m person_b.build_index --rebuild    # if re-running from scratch
+# Smoke test:
+python -m person_b.retrieve                 # runs built-in test queries
+
+# 3. Person C — test pipeline then launch UI (day 9)
+python -m person_c.pipeline                 # quick smoke test (3 configs)
+streamlit run person_c/app.py               # full demo app
+
+# 4. Person D — load dataset, run eval, analyze (days 7–13)
+python -m person_d.load_dataset             # download & save eval_set.jsonl
+python -m person_d.run_eval --dry-run       # test 5 questions first
+python -m person_d.run_eval                 # full run (takes 30–60 min)
+python -m person_d.analyze                  # comparison table + report

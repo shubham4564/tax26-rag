@@ -34,3 +34,15 @@ networkx>=3.0  # Graph construction and community detection
 
 # Testing (optional)
 pytest>=7.4.0
+google-generativeai
+chromadb
+rank_bm25
+sentence-transformers
+openai
+anthropic
+streamlit
+datasets
+pandas
+tqdm
+python-dotenv
+tiktoken
