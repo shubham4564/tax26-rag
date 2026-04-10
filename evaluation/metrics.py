@@ -70,7 +70,7 @@ def llm_judge(
     Returns {"faithfulness": 1-5, "completeness": 1-5}.
     Falls back to {"faithfulness": -1, "completeness": -1} on error.
     """
-    from person_c.llm import call_llm
+    from generation.llm import call_llm
     prompt = JUDGE_TEMPLATE.format(
         question=question,
         reference=reference[:800],      # truncate to save tokens

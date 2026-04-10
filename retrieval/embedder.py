@@ -3,7 +3,7 @@
 # ============================================================
 from __future__ import annotations
 from functools import lru_cache
-from shared.config import EMBED_MODEL
+from config import EMBED_MODEL
 
 
 def _best_device() -> str:

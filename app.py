@@ -1,13 +1,13 @@
 """
 Streamlit demo app.
-Run with:  streamlit run person_c/app.py
+Run with:  streamlit run app.py
 """
 import sys
 from pathlib import Path
-sys.path.insert(0, str(Path(__file__).parent.parent))
+sys.path.insert(0, str(Path(__file__).parent))
 
 import streamlit as st
-from person_c.pipeline import answer
+from generation.pipeline import answer
 
 st.set_page_config(page_title="Tax Code RAG", page_icon="⚖️", layout="wide")
 

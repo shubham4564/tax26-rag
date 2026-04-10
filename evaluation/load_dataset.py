@@ -1,14 +1,14 @@
 """
 Download and prepare the HuggingFace QA eval set.
-Run once:  python -m person_d.load_dataset
+Run once:  python -m evaluation.load_dataset
 """
 import sys, re
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from datasets import load_dataset
-from shared.config import EVAL_SET_PATH
-from shared.utils  import save_jsonl
+from config import EVAL_SET_PATH
+from utils  import save_jsonl
 
 
 # Regex to find section numbers like §162, §1381, §501(c)(3)

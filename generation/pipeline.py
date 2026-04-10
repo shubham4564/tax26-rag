@@ -7,9 +7,9 @@ import sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
-from person_c.prompts        import SYSTEM_PROMPT, SYSTEM_PROMPT_NO_RAG
-from person_c.llm            import call_llm
-from person_c.context_builder import build_user_prompt
+from generation.prompts        import SYSTEM_PROMPT, SYSTEM_PROMPT_NO_RAG
+from generation.llm            import call_llm
+from generation.context_builder import build_user_prompt
 
 
 def answer(
@@ -34,7 +34,7 @@ def answer(
 
     if not no_rag:
         # Import here to avoid circular imports during testing
-        from person_b.retrieve import retrieve
+        from retrieval.retrieve import retrieve
         chunks = retrieve(question, mode=retrieval_mode, corpus=corpus, k=k)
 
     sys_prompt  = SYSTEM_PROMPT_NO_RAG if no_rag else SYSTEM_PROMPT

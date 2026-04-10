@@ -2,7 +2,7 @@
 The single public interface Person C and Person D import.
 
 Usage:
-    from person_b.retrieve import retrieve
+    from retrieval.retrieve import retrieve
 
     chunks = retrieve("What cooperative organizations are exempt?",
                       mode="hybrid", corpus="hierarchy", k=5)
@@ -11,11 +11,11 @@ from __future__ import annotations
 import chromadb
 from functools import lru_cache
 
-from shared.config import (
+from config import (
     CHROMA_PATH, FLAT_COLLECTION, HIERARCHY_COLLECTION, RETRIEVAL_K
 )
-from person_b.embedder  import embed
-from person_b.bm25_store import get_flat_bm25, get_hierarchy_bm25
+from retrieval.embedder  import embed
+from retrieval.bm25_store import get_flat_bm25, get_hierarchy_bm25
 
 
 # ── Chroma helpers ──────────────────────────────────────────

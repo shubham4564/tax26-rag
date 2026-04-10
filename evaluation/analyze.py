@@ -1,7 +1,7 @@
 """
 Load eval results and produce the comparison table + findings.
-Usage:  python -m person_d.analyze
-        python -m person_d.analyze --path outputs/eval_results/eval_20240101_120000.csv
+Usage:  python -m evaluation.analyze
+    python -m evaluation.analyze --path outputs/eval_results/eval_20240101_120000.csv
 """
 import sys, argparse
 from pathlib import Path
@@ -9,7 +9,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 
 import math
 import pandas as pd
-from shared.config import OUTPUTS
+from config import OUTPUTS
 
 
 def nanmean(series: pd.Series) -> float:
@@ -114,7 +114,7 @@ def write_markdown_report(summary_df: pd.DataFrame, out_path: Path):
 def main(path: str | None = None):
     csv_path = Path(path) if path else OUTPUTS / "eval_latest.csv"
     if not csv_path.exists():
-        print(f"[ERROR] {csv_path} not found. Run person_d.run_eval first.")
+        print(f"[ERROR] {csv_path} not found. Run evaluation.run_eval first.")
         return
 
     df = pd.read_csv(csv_path)

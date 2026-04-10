@@ -1,4 +1,4 @@
-"""
+﻿"""
 Minimal parser for Nevada tax codes.
 Adjust `parse_nevada_file` to match your actual Nevada file format.
 """
@@ -40,7 +40,7 @@ def parse_nevada_file(fp: Path) -> list[dict]:
 
     # If Nevada data is a single section dict (same shape as Title 26):
     if isinstance(data, dict) and "statute" in data:
-        from person_a.parser import parse_section
+        from ingestion.parser import parse_section
         return parse_section(data, source="nevada")
 
     return []
@@ -55,3 +55,4 @@ def parse_nevada_directory(nevada_dir: Path) -> list[dict]:
             print(f"  [WARN nevada] {fp.name}: {e}")
     print(f"[nevada_parser] extracted {len(all_nodes)} nodes")
     return all_nodes
+

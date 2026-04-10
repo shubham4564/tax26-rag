@@ -5,7 +5,7 @@ Rebuilt each run (~5 s for 20k chunks — acceptable).
 from __future__ import annotations
 from functools import lru_cache
 from rank_bm25 import BM25Okapi
-from shared.utils import load_jsonl
+from utils import load_jsonl
 
 
 def _tokenize(text: str) -> list[str]:
@@ -34,10 +34,10 @@ class BM25Store:
 # Lazy singletons — built once per process
 @lru_cache(maxsize=1)
 def get_flat_bm25() -> BM25Store:
-    from shared.config import FLAT_CORPUS_PATH
+    from config import FLAT_CORPUS_PATH
     return BM25Store(str(FLAT_CORPUS_PATH))
 
 @lru_cache(maxsize=1)
 def get_hierarchy_bm25() -> BM25Store:
-    from shared.config import HIERARCHY_CORPUS_PATH
+    from config import HIERARCHY_CORPUS_PATH
     return BM25Store(str(HIERARCHY_CORPUS_PATH))

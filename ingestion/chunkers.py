@@ -1,11 +1,11 @@
-"""
+﻿"""
 Two chunking strategies:
-  1. flat_chunk   — merge + split by token count, no hierarchy signal
-  2. hierarchy_chunk — prepend full breadcrumb path to every chunk text
+  1. flat_chunk   â€” merge + split by token count, no hierarchy signal
+  2. hierarchy_chunk â€” prepend full breadcrumb path to every chunk text
                        + add a parent-summary chunk per subsection
 """
 import hashlib
-from shared.schema import Chunk, ChunkMetadata
+from schema import Chunk, ChunkMetadata
 
 MAX_WORDS = 400   # ~400 tokens
 
@@ -15,7 +15,7 @@ def _word_count(text: str) -> int:
 
 
 def _split_long(text: str, max_words: int = MAX_WORDS) -> list[str]:
-    """Split a text string into ≤max_words segments at sentence boundaries."""
+    """Split a text string into â‰¤max_words segments at sentence boundaries."""
     sentences = text.replace("\n", " ").split(". ")
     chunks, buf = [], []
     buf_len = 0
@@ -33,7 +33,7 @@ def _split_long(text: str, max_words: int = MAX_WORDS) -> list[str]:
 
 def _make_chunk_id(text: str, prefix: str) -> str:
     h = hashlib.md5(text.encode()).hexdigest()[:8]
-    safe = prefix.replace(" ", "_").replace(">", "").replace("§", "S")[:60]
+    safe = prefix.replace(" ", "_").replace(">", "").replace("Â§", "S")[:60]
     return f"{safe}_{h}"
 
 
@@ -49,7 +49,7 @@ def _meta_from_node(node: dict) -> ChunkMetadata:
     )
 
 
-# ── FLAT CHUNKER ────────────────────────────────────────────
+# â”€â”€ FLAT CHUNKER â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 def flat_chunk(nodes: list[dict]) -> list[Chunk]:
     """
@@ -95,7 +95,7 @@ def flat_chunk(nodes: list[dict]) -> list[Chunk]:
     return chunks
 
 
-# ── HIERARCHY CHUNKER ────────────────────────────────────────
+# â”€â”€ HIERARCHY CHUNKER â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
 
 def hierarchy_chunk(nodes: list[dict]) -> list[Chunk]:
     """
@@ -132,7 +132,7 @@ def hierarchy_chunk(nodes: list[dict]) -> list[Chunk]:
             key = f"{parts[0]}_{parts[1]}"
             parent_groups.setdefault(key, []).append(node)
 
-    # ── parent summary chunks ──
+    # â”€â”€ parent summary chunks â”€â”€
     for key, group_nodes in parent_groups.items():
         combined = " ".join(n["raw_text"] for n in group_nodes)
         if _word_count(combined) < 20:
@@ -154,3 +154,4 @@ def hierarchy_chunk(nodes: list[dict]) -> list[Chunk]:
         ))
 
     return chunks
+

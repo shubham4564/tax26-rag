@@ -1,9 +1,9 @@
 """
 Run the full evaluation across all 4 system configurations.
 Usage:
-    python -m person_d.run_eval           # full run
-    python -m person_d.run_eval --dry-run # 5 questions only
-    python -m person_d.run_eval --n 50    # custom sample size
+    python -m evaluation.run_eval           # full run
+    python -m evaluation.run_eval --dry-run # 5 questions only
+    python -m evaluation.run_eval --n 50    # custom sample size
 """
 import sys, argparse
 from pathlib import Path
@@ -14,11 +14,11 @@ import pandas as pd
 from tqdm import tqdm
 from datetime import datetime
 
-from shared.config import EVAL_SET_PATH, OUTPUTS
-from shared.utils  import load_jsonl
-from person_c.pipeline import answer
-from person_b.retrieve  import retrieve
-from person_d.metrics   import recall_at_k, mrr, llm_judge
+from config import EVAL_SET_PATH, OUTPUTS
+from utils  import load_jsonl
+from generation.pipeline import answer
+from retrieval.retrieve  import retrieve
+from evaluation.metrics   import recall_at_k, mrr, llm_judge
 
 
 # ── System configurations to compare ────────────────────────

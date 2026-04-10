@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-ROOT        = Path(__file__).parent.parent
+ROOT        = Path(__file__).parent
 DATA_RAW    = ROOT / "data" / "raw"
 DATA_CHUNKS = ROOT / "data" / "chunks"
 DATA_INDEX  = ROOT / "data" / "indexes"

@@ -1,7 +1,7 @@
 """
 Build persistent Chroma collections for both corpora.
 Run once (or re-run to rebuild):
-    python -m person_b.build_index
+    python -m retrieval.build_index
 """
 import sys
 from pathlib import Path
@@ -10,12 +10,12 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 import chromadb
 from tqdm import tqdm
 
-from shared.config import (
+from config import (
     FLAT_CORPUS_PATH, HIERARCHY_CORPUS_PATH,
     CHROMA_PATH, FLAT_COLLECTION, HIERARCHY_COLLECTION,
 )
-from shared.utils  import load_jsonl, batched
-from person_b.embedder import embed
+from utils  import load_jsonl, batched
+from retrieval.embedder import embed
 
 
 def _get_client() -> chromadb.PersistentClient:
@@ -76,10 +76,10 @@ def index_corpus(
 
 def main(rebuild: bool = False):
     if not FLAT_CORPUS_PATH.exists():
-        print(f"[ERROR] {FLAT_CORPUS_PATH} not found. Run person_a first.")
+        print(f"[ERROR] {FLAT_CORPUS_PATH} not found. Run ingestion first.")
         return
     if not HIERARCHY_CORPUS_PATH.exists():
-        print(f"[ERROR] {HIERARCHY_CORPUS_PATH} not found. Run person_a first.")
+        print(f"[ERROR] {HIERARCHY_CORPUS_PATH} not found. Run ingestion first.")
         return
 
     index_corpus(FLAT_CORPUS_PATH,      FLAT_COLLECTION,      rebuild=rebuild)

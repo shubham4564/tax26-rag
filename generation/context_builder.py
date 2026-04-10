@@ -2,7 +2,7 @@
 Formats retrieved chunks into a structured context string
 and builds the final user prompt.
 """
-from person_c.prompts import USER_TEMPLATE, USER_TEMPLATE_NO_RAG
+from generation.prompts import USER_TEMPLATE, USER_TEMPLATE_NO_RAG
 
 
 def format_context(chunks: list[dict]) -> str:
