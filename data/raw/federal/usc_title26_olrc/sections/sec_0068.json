@@ -1,0 +1,134 @@
+{
+  "section_number": 68,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle A",
+      "chapter": "CHAPTER 1",
+      "subchapter": "Subchapter B",
+      "part": "PART I",
+      "section": "§68"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 101–508, title XI, §11103(a), Nov. 5, 1990, 104 Stat. 1388–406 ; amended Pub. L. 103–66, title XIII, §§13201(b)(3)(E), 13204, Aug. 10, 1993, 107 Stat. 459 , 462; Pub. L. 105–277, div. J, title IV, §4004(b)(2), Oct. 21, 1998, 112 Stat. 2681–911 ; Pub. L. 107–16, title I, §103(a), June 7, 2001, 115 Stat. 44 ; Pub. L. 112–240, title I, §101(b)(2)(A), Jan. 2, 2013, 126 Stat. 2316 ; Pub. L. 115–97, title I, §§11002(d)(2), 11046(a), Dec. 22, 2017, 131 Stat. 2061 , 2088; Pub. L. 115–141, div. U, title IV, §401(a)(33), Mar. 23, 2018, 132 Stat. 1186 ; Pub. L. 119–21, title VII, §70111(a), July 4, 2025, 139 Stat. 164 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§68",
+    "heading": "§68. Overall limitation on itemized deductions",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "In general",
+        "text": "In the case of an individual, the amount of the itemized deductions otherwise allowable for the taxable year (determined without regard to this section) shall be reduced by 2/37 of the lesser of- (1) such amount of itemized deductions, or (2) so much of the taxable income of the taxpayer for the taxable year (determined without regard to this section and increased by such amount of itemized deductions) as exceeds the dollar amount at which the 37 percent rate bracket under section 1 begins with respect to the taxpayer."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Coordination with other limitations",
+        "text": "This section shall be applied after the application of any other limitation on the allowance of any itemized deduction."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "2025",
+        "entries": [
+          "Pub. L. 119–21 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (f) relating, respectively, to general rule, applicable amount, exception for certain itemized deductions, coordination with other limitations, exception for estates and trusts, and this section not applying to any taxable year beginning after Dec. 31, 2017, and before Jan. 1, 2026."
+        ]
+      },
+      {
+        "year": "2018",
+        "entries": [
+          "Subsec. (b)(2). Pub. L. 115–141 substituted \"shall be\" for \"shall be shall be\" in introductory provisions."
+        ]
+      },
+      {
+        "year": "2017",
+        "entries": [
+          "Subsec. (b)(2)(B). Pub. L. 115–97, §11002(d)(2), substituted \"1(f)(3)(A)(ii)\" for \"1(f)(3)(B)\" and \"2016\" for \"1992\".",
+          "Subsec. (f). Pub. L. 115–97, §11046(a), added subsec. (f)."
+        ]
+      },
+      {
+        "year": "2013",
+        "entries": [
+          "Subsec. (b). Pub. L. 112–240, §101(b)(2)(A)(i), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: \"(1) In general.-For purposes of this section, the term 'applicable amount' means $100,000 ($50,000 in the case of a separate return by a married individual within the meaning of section 7703). \"(2) Inflation adjustments.-In the case of any taxable year beginning in a calendar year after 1991, each dollar amount contained in paragraph (1) shall be increased by an amount equal to- \"(A) such dollar amount, multiplied by \"(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting 'calendar year 1990' for 'calendar year 1992' in subparagraph (B) thereof.\" Subsecs. (f), (g). Pub. L. 112–240, §101(b)(2)(A)(ii), struck out subsecs. (f) and (g), which related to phaseout of limitation and termination of applicability of section, respectively."
+        ]
+      },
+      {
+        "year": "2001",
+        "entries": [
+          "Subsecs. (f), (g). Pub. L. 107-16 added subsecs. (f) and (g)."
+        ]
+      },
+      {
+        "year": "1998",
+        "entries": [
+          "Subsec. (c)(3). Pub. L. 105–277 substituted \"for casualty or theft losses described in paragraph (2) or (3) of section 165(c) or for losses described in section 165(d)\" for \"for losses described in subsection (c)(3) or (d) of section 165\"."
+        ]
+      },
+      {
+        "year": "1993",
+        "entries": [
+          "Subsec. (b)(2)(B). Pub. L. 103–66, §13201(b)(3)(E), substituted \"1992\" for \"1989\".",
+          "Subsec. (f). Pub. L. 103–66, §13204, struck out heading and text of subsec. (f). Text read as follows: \"This section shall not apply to any taxable year beginning after December 31, 1995.\""
+        ]
+      }
+    ],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 2025 Amendment",
+        "pub_law": "Pub. L. 119–21, title VII, §70111(c)",
+        "effective_date": "apply to taxable years beginning after December 31, 2025.",
+        "text": "Pub. L. 119–21, title VII, §70111(c), July 4, 2025, 139 Stat. 165 , provided that: \"The amendments made by this section [amending this section and section 199A of this title] shall apply to taxable years beginning after December 31, 2025.\""
+      },
+      {
+        "heading": "Effective Date of 2017 Amendment",
+        "pub_law": "Pub. L. 115–97",
+        "effective_date": "taxable years beginning after Dec.",
+        "text": "Amendment by section 11002(d)(2) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title. Pub. L. 115–97, title I, §11046(b), Dec. 22, 2017, 131 Stat. 2088 , provided that: \"The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2017.\""
+      },
+      {
+        "heading": "Effective Date of 2013 Amendment",
+        "pub_law": "Pub. L. 112–240",
+        "effective_date": "taxable years beginning after Dec.",
+        "text": "Amendment by Pub. L. 112–240 applicable to taxable years beginning after Dec. 31, 2012, see section 101(b)(3) of Pub. L. 112–240, set out as a note under section 1 of this title."
+      },
+      {
+        "heading": "Effective Date of 2001 Amendment",
+        "pub_law": "Pub. L. 107–16, title I, §103(b)",
+        "effective_date": "apply to taxable years beginning after December 31, 2005.",
+        "text": "Pub. L. 107–16, title I, §103(b), June 7, 2001, 115 Stat. 45 , provided that: \"The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2005.\""
+      },
+      {
+        "heading": "Effective Date of 1998 Amendment",
+        "pub_law": "Pub. L. 105–277, div. J, title IV, §4004(c)(3), Oct. 21, 1998, 112 Stat. 2681",
+        "effective_date": "apply to taxable years beginning after December 31, 1990.",
+        "text": "Pub. L. 105–277, div. J, title IV, §4004(c)(3), Oct. 21, 1998, 112 Stat. 2681–911 , provided that: \"The amendment made by subsection (b)(2) [amending this section] shall apply to taxable years beginning after December 31, 1990.\""
+      },
+      {
+        "heading": "Effective Date of 1993 Amendment",
+        "pub_law": "Pub. L. 103–66",
+        "effective_date": "taxable years beginning after Dec.",
+        "text": "Amendment by section 13201(b)(3)(E) of Pub. L. 103–66 applicable to taxable years beginning after Dec. 31, 1992, see section 13201(c) of Pub. L. 103–66, set out as a note under section 1 of this title."
+      },
+      {
+        "heading": "Effective Date",
+        "pub_law": "Pub. L. 101–508",
+        "effective_date": "taxable years beginning after Dec.",
+        "text": "Section applicable to taxable years beginning after Dec. 31, 1990, see section 11103(e) of Pub. L. 101–508, set out as an Effective Date of 1990 Amendment note under section 1 of this title."
+      }
+    ]
+  }
+}

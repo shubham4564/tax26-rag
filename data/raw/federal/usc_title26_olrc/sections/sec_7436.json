@@ -1,0 +1,151 @@
+{
+  "section_number": 7436,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle F",
+      "chapter": "CHAPTER 76",
+      "subchapter": "Subchapter B",
+      "section": "§7436"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 105–34, title XIV, §1454(a), Aug. 5, 1997, 111 Stat. 1055 ; amended Pub. L. 105–206, title III, §3103(b)(1), July 22, 1998, 112 Stat. 731 ; Pub. L. 106–554, §1(a)(7) [title III, §314(f)], Dec. 21, 2000, 114 Stat. 2763 , 2763A-643.)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§7436",
+    "heading": "§7436. Proceedings for determination of employment status",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Creation of remedy",
+        "text": "If, in connection with an audit of any person, there is an actual controversy involving a determination by the Secretary as part of an examination that- (1) one or more individuals performing services for such person are employees of such person for purposes of subtitle C, or (2) such person is not entitled to the treatment under subsection (a) of section 530 of the Revenue Act of 1978 with respect to such an individual, upon the filing of an appropriate pleading, the Tax Court may determine whether such a determination by the Secretary is correct and the proper amount of employment tax under such determination. Any such redetermination by the Tax Court shall have the force and effect of a decision of the Tax Court and shall be reviewable as such."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Limitations",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Petitioner",
+            "text": "A pleading may be filed under this section only by the person for whom the services are performed."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Time for filing action",
+            "text": "If the Secretary sends by certified or registered mail notice to the petitioner of a determination by the Secretary described in subsection (a), no proceeding may be initiated under this section with respect to such determination unless the pleading is filed before the 91st day after the date of such mailing."
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "No adverse inference from treatment while action is pending",
+            "text": "If, during the pendency of any proceeding brought under this section, the petitioner changes his treatment for employment tax purposes of any individual whose employment status as an employee is involved in such proceeding (or of any individual holding a substantially similar position) to treatment as an employee, such change shall not be taken into account in the Tax Court's determination under this section."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Small case procedures",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "In general",
+            "text": "At the option of the petitioner, concurred in by the Tax Court or a division thereof before the hearing of the case, proceedings under this section may (notwithstanding the provisions of section 7453) be conducted subject to the rules of evidence, practice, and procedure applicable under section 7463 if the amount of employment taxes placed in dispute is $50,000 or less for each calendar quarter involved."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Finality of decisions",
+            "text": "A decision entered in any proceeding conducted under this subsection shall not be reviewed in any other court and shall not be treated as a precedent for any other case not involving the same petitioner and the same determinations."
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Certain rules to apply",
+            "text": "Rules similar to the rules of the last sentence of subsection (a), and subsections (c), (d), and (e), of section 7463 shall apply to proceedings conducted under this subsection."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(d)",
+        "heading": "Special rules",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Restrictions on assessment and collection pending action, etc.",
+            "text": "The principles of subsections (a), (b), (c), (d), and (f) of section 6213, section 6214(a), section 6215, section 6503(a), section 6512, and section 7481 shall apply to proceedings brought under this section in the same manner as if the Secretary's determination described in subsection (a) were a notice of deficiency."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Awarding of costs and certain fees",
+            "text": "Section 7430 shall apply to proceedings brought under this section."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(e)",
+        "heading": "Employment tax",
+        "text": "The term \"employment tax\" means any tax imposed by subtitle C."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [
+      "Section 530 of the Revenue Act of 1978, referred to in subsec. (a)(2), is section 530 of Pub.",
+      "L. 95–600, which is set out as a note under section 3401 of this title."
+    ],
+    "amendments": [
+      {
+        "year": "2000",
+        "entries": [
+          "Subsec. (a). Pub. L. 106–554 inserted \"and the proper amount of employment tax under such determination\" before period at end of first sentence."
+        ]
+      },
+      {
+        "year": "1998",
+        "entries": [
+          "Subsec. (c)(1). Pub. L. 105–206 substituted \"$50,000\" for \"$10,000\"."
+        ]
+      }
+    ],
+    "other_notes": [
+      {
+        "heading": "Prior Provisions",
+        "text": "A prior section 7436 was renumbered section 7437 of this title."
+      }
+    ]
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 2000 Amendment",
+        "pub_law": "Pub. L. 106–554",
+        "effective_date": "effective as if included in the provisions of the Taxpayer Relief Act of 1997, Pub.",
+        "text": "Amendment by Pub. L. 106–554 effective as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 1(a)(7) [title III, §314(g)] of Pub. L. 106–554, set out as a note under section 56 of this title."
+      },
+      {
+        "heading": "Effective Date of 1998 Amendment",
+        "pub_law": "Pub. L. 105–206, title III, §3103(c)",
+        "effective_date": "apply to proceedings commenced after the date of the enactment of this Act [July 22, 1998].",
+        "text": "Pub. L. 105–206, title III, §3103(c), July 22, 1998, 112 Stat. 731 , provided that: \"The amendments made by this section [amending this section and sections 7443A and 7463 of this title] shall apply to proceedings commenced after the date of the enactment of this Act [July 22, 1998].\""
+      }
+    ]
+  }
+}

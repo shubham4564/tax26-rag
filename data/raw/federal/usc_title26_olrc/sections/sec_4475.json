@@ -1,0 +1,116 @@
+{
+  "section_number": 4475,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle D",
+      "chapter": "CHAPTER 36",
+      "subchapter": "Subchapter C",
+      "section": "§4475"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 119–21, title VII, §70604(a), July 4, 2025, 139 Stat. 285 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§4475",
+    "heading": "§4475. Imposition of tax",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "In general",
+        "text": "There is hereby imposed on any remittance transfer a tax equal to 1 percent of the amount of such transfer."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Payment of tax",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "In general",
+            "text": "The tax imposed by this section with respect to any remittance transfer shall be paid by the sender with respect to such transfer."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Collection of tax",
+            "text": "The remittance transfer provider with respect to any remittance transfer shall collect the amount of the tax imposed under subsection (a) with respect to such transfer from the sender and remit such tax quarterly to the Secretary at such time and in such manner as provided by the Secretary,1"
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Secondary liability",
+            "text": "Where any tax imposed by subsection (a) is not paid at the time the transfer is made, then to the extent that such tax is not collected, such tax shall be paid by the remittance transfer provider."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Tax limited to cash and similar instruments",
+        "text": "The tax imposed under subsection (a) shall apply only to any remittance transfer for which the sender provides cash, a money order, a cashier's check, or any other similar physical instrument (as determined by the Secretary) to the remittance transfer provider."
+      },
+      {
+        "level": "subsection",
+        "label": "(d)",
+        "heading": "Nonapplication to certain noncash remittance transfers",
+        "text": "Subsection (a) shall not apply to any remittance transfer for which the funds being transferred are- (1) withdrawn from an account held in or by a financial institution- (A) which is described in subparagraphs (A) through (H) of section 5312(a)(2) of title 31, United States Code, and (B) that is subject to the requirements under subchapter II of chapter 53 of such title, or (2) funded with a debit card or a credit card which is issued in the United States."
+      },
+      {
+        "level": "subsection",
+        "label": "(e)",
+        "heading": "Definitions",
+        "text": "For purposes of this section-",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "In general",
+            "text": "The terms \"remittance transfer\", \"remittance transfer provider\", and \"sender\" shall each have the respective meanings given such terms by section 919(g) of the Electronic Fund Transfer Act (15 U.S.C. 1693o–1(g))."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Credit card",
+            "text": "The term \"credit card\" has the same meaning given such term under section 920(c)(3) of the Electronic Fund Transfer Act (15 U.S.C. 1693o–2(c)(3))."
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Debit card",
+            "text": "The term \"debit card\" has the same meaning given such term under section 920(c)(2) of the Electronic Fund Transfer Act (15 U.S.C. 1693o–2(c)(2)), without regard to subparagraph (B) of such section."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(f)",
+        "heading": "Application of anti-conduit rules",
+        "text": "For purposes of section 7701(l), with respect to any multiple-party arrangements involving the sender, a remittance transfer shall be treated as a financing transaction."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date",
+        "pub_law": "Pub. L. 119–21, title VII, §70604(c)",
+        "effective_date": "apply to transfers made after December 31, 2025.",
+        "text": "Pub. L. 119–21, title VII, §70604(c), July 4, 2025, 139 Stat. 286 , provided that: \"The amendments made by this section [enacting this subchapter] shall apply to transfers made after December 31, 2025.\" 1 So in original. The comma probably should be a period."
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "section_number": 1032,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle A",
+      "chapter": "CHAPTER 1",
+      "subchapter": "Subchapter O",
+      "part": "PART III",
+      "section": "§1032"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Aug. 16, 1954, ch. 736, 68A Stat. 303 ; Pub. L. 98–369, div. A, title I, §57(a), July 18, 1984, 98 Stat. 574 ; Pub. L. 106–554, §1(a)(7) [title IV, §401(c)], Dec. 21, 2000, 114 Stat. 2763 , 2763A-649.)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§1032",
+    "heading": "§1032. Exchange of stock for property",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Nonrecognition of gain or loss",
+        "text": "No gain or loss shall be recognized to a corporation on the receipt of money or other property in exchange for stock (including treasury stock) of such corporation. No gain or loss shall be recognized by a corporation with respect to any lapse or acquisition of an option, or with respect to a securities futures contract (as defined in section 1234B), to buy or sell its stock (including treasury stock)."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Basis",
+        "text": "For basis of property acquired by a corporation in certain exchanges for its stock, see section 362."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "2000",
+        "entries": [
+          "Subsec. (a). Pub. L. 106–554 inserted \", or with respect to a securities futures contract (as defined in section 1234B),\" after \"an option\" in second sentence."
+        ]
+      },
+      {
+        "year": "1984",
+        "entries": [
+          "Subsec. (a). Pub. L. 98–369 inserted provision that no gain or loss shall be recognized by a corporation with respect to any lapse or acquisition of an option to buy or sell its stock (including treasury stock)."
+        ]
+      }
+    ],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 2000 Amendment",
+        "pub_law": "Pub. L. 106–554, §1(a)(7) [title IV, §401(j)], Dec. 21, 2000, 114 Stat. 2763",
+        "effective_date": "",
+        "text": "Pub. L. 106–554, §1(a)(7) [title IV, §401(j)], Dec. 21, 2000, 114 Stat. 2763 , 2763A-651, provided that: \"The amendments made by this section [enacting section 1234B of this title and amending this section and sections 1091, 1092, 1223, 1233, 1234A, 1256 and 7701 of this title] shall take effect on the date of the enactment of this Act [Dec. 21, 2000].\""
+      },
+      {
+        "heading": "Effective Date of 1984 Amendment",
+        "pub_law": "Pub. L. 98–369, div. A, title I, §57(b)",
+        "effective_date": "apply to options acquired or lapsed after the date of the enactment of this Act [July 18, 1984] in taxable years ending after such date.",
+        "text": "Pub. L. 98–369, div. A, title I, §57(b), July 18, 1984, 1984, 98 Stat. 574 , provided that: \"The amendment made by subsection (a) [amending this section] shall apply to options acquired or lapsed after the date of the enactment of this Act [July 18, 1984] in taxable years ending after such date.\""
+      }
+    ]
+  }
+}

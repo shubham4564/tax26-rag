@@ -1,0 +1,284 @@
+{
+  "section_number": 1278,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle A",
+      "chapter": "CHAPTER 1",
+      "subchapter": "Subchapter P",
+      "part": "PART V",
+      "section": "§1278"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added and amended Pub. L. 98–369, div. A, title I, §41(a), title X, §1001(b)(24), July 18, 1984, 98 Stat. 547 ; Pub. L. 99–514, title XVIII, §§1803(a)(6), 1878(a), 1899A(32), Oct. 22, 1986, 100 Stat. 2793 , 2903, 2960; Pub. L. 100–647, title I, §§1006(u)(2), 1018(c)(2), (3), Nov. 10, 1988, 102 Stat. 3427 , 3578; Pub. L. 103–66, title XIII, §13206(b)(2), Aug. 10, 1993, 107 Stat. 465 ; Pub. L. 115–141, div. U, title IV, §401(a)(181), (c)(1)(G), Mar. 23, 2018, 132 Stat. 1193 , 1205.)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§1278",
+    "heading": "§1278. Definitions and special rules",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "In general",
+        "text": "For purposes of this part-",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Market discount bond",
+            "text": "",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "In general",
+                "text": "Except as provided in subparagraph (B), the term \"market discount bond\" means any bond having market discount."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Exceptions",
+                "text": "The term \"market discount bond\" shall not include-"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(i)",
+        "heading": "Short-term obligations",
+        "text": "Any obligation with a fixed maturity date not exceeding 1 year from the date of issue.",
+        "children": [
+          {
+            "level": "clause",
+            "label": "(ii)",
+            "heading": "United States savings bonds",
+            "text": "Any United States savings bond."
+          },
+          {
+            "level": "clause",
+            "label": "(iii)",
+            "heading": "Installment obligations",
+            "text": "Any installment obligation to which section 453B applies."
+          },
+          {
+            "level": "subparagraph",
+            "label": "(C)",
+            "heading": "Section 1277 not applicable to tax-exempt obligations",
+            "text": "For purposes of section 1277, the term \"market discount bond\" shall not include any tax-exempt obligation (as defined in section 1275(a)(3))."
+          },
+          {
+            "level": "subparagraph",
+            "label": "(D)",
+            "heading": "Treatment of bonds acquired at original issue",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(i)",
+        "heading": "In general",
+        "text": "Except as otherwise provided in this subparagraph or in regulations, the term \"market discount bond\" shall not include any bond acquired by the taxpayer at its original issue.",
+        "children": [
+          {
+            "level": "clause",
+            "label": "(ii)",
+            "heading": "Treatment of bonds acquired for less than issue price",
+            "text": "Clause (i) shall not apply to any bond if- (I) the basis of the taxpayer in such bond is determined under section 1012, and (II) such basis is less than the issue price of such bond determined under subpart A of this part."
+          },
+          {
+            "level": "clause",
+            "label": "(iii)",
+            "heading": "Bonds acquired in certain reorganizations",
+            "text": "Clause (i) shall not apply to any bond issued pursuant to a plan of reorganization (within the meaning of section 368(a)(1)) in exchange for another bond having market discount. Solely for purposes of section 1276, the preceding sentence shall not apply if such other bond was issued on or before July 18, 1984 (the date of the enactment of section 1276) and if the bond issued pursuant to such plan of reorganization has the same term and the same interest rate as such other bond had."
+          },
+          {
+            "level": "clause",
+            "label": "(iv)",
+            "heading": "Treatment of certain transferred basis property",
+            "text": "For purposes of clause (i), if the adjusted basis of any bond in the hands of the taxpayer is determined by reference to the adjusted basis of such bond in the hands of a person who acquired such bond at its original issue, such bond shall be treated as acquired by the taxpayer at its original issue."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Market discount",
+            "text": "",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "In general",
+                "text": "The term \"market discount\" means the excess (if any) of- (i) the stated redemption price of the bond at maturity, over (ii) the basis of such bond immediately after its acquisition by the taxpayer."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Coordination where bond has original issue discount",
+                "text": "In the case of any bond having original issue discount, for purposes of subparagraph (A), the stated redemption price of such bond at maturity shall be treated as equal to its revised issue price."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(C)",
+                "heading": "De minimis rule",
+                "text": "If the market discount is less than ¼ of 1 percent of the stated redemption price of the bond at maturity multiplied by the number of complete years to maturity (after the taxpayer acquired the bond), then the market discount shall be considered to be zero."
+              }
+            ]
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Bond",
+            "text": "The term \"bond\" means any bond, debenture, note, certificate, or other evidence of indebtedness."
+          },
+          {
+            "level": "paragraph",
+            "label": "(4)",
+            "heading": "Revised issue price",
+            "text": "The term \"revised issue price\" means the sum of- (A) the issue price of the bond, and (B) the aggregate amount of the original issue discount includible in the gross income of all holders for periods before the acquisition of the bond by the taxpayer (determined without regard to section 1272(a)(7)) or, in the case of a tax-exempt obligation, the aggregate amount of the original issue discount which accrued in the manner provided by section 1272(a) (determined without regard to paragraph (7) thereof) during periods before the acquisition of the bond by the taxpayer."
+          },
+          {
+            "level": "paragraph",
+            "label": "(5)",
+            "heading": "Original issue discount, etc.",
+            "text": "The terms \"original issue discount\", \"stated redemption price at maturity\", and \"issue price\" have the respective meanings given such terms by subpart A of this part."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Election to include market discount currently",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "In general",
+            "text": "If the taxpayer makes an election under this subsection- (A) sections 1276 and 1277 shall not apply, and (B) market discount on any market discount bond shall be included in the gross income of the taxpayer for the taxable years to which it is attributable (as determined under the rules of subsection (b) of section 1276). Except for purposes of sections 103, 871(a), 881, 1441, 1442, and 6049 (and such other provisions as may be specified in regulations), any amount included in gross income under subparagraph (B) shall be treated as interest for purposes of this title."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Scope of election",
+            "text": "An election under this subsection shall apply to all market discount bonds acquired by the taxpayer on or after the 1st day of the 1st taxable year to which such election applies."
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Period to which election applies",
+            "text": "An election under this subsection shall apply to the taxable year for which it is made and for all subsequent taxable years, unless the taxpayer secures the consent of the Secretary to the revocation of such election."
+          },
+          {
+            "level": "paragraph",
+            "label": "(4)",
+            "heading": "Basis adjustment",
+            "text": "The basis of any bond in the hands of the taxpayer shall be increased by the amount included in gross income pursuant to this subsection."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Regulations",
+        "text": "The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subpart, including regulations providing proper adjustments in the case of a bond the principal of which may be paid in 2 or more payments. (Added and amended Pub. L. 98–369, div. A, title I, §41(a), title X, §1001(b)(24), July 18, 1984, 98 Stat. 547 ; Pub. L. 99–514, title XVIII, §§1803(a)(6), 1878(a), 1899A(32), Oct. 22, 1986, 100 Stat. 2793 , 2903, 2960; Pub. L. 100–647, title I, §§1006(u)(2), 1018(c)(2), (3), Nov. 10, 1988, 102 Stat. 3427 , 3578; Pub. L. 103–66, title XIII, §13206(b)(2), Aug. 10, 1993, 107 Stat. 465 ; Pub. L. 115–141, div. U, title IV, §401(a)(181), (c)(1)(G), Mar. 23, 2018, 132 Stat. 1193 , 1205.)"
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "2018",
+        "entries": [
+          "Subsec. (a)(4)(B). Pub. L. 115–141, §401(c)(1)(G), struck out \"or (b)(4)\" after \"1272(a)(7)\".",
+          "Subsec. (b)(1). Pub. L. 115–141, §401(a)(181), substituted \"871(a),\" for \"871(a),,\" in concluding provisions."
+        ]
+      },
+      {
+        "year": "1993",
+        "entries": [
+          "Subsec. (a)(1)(B)(ii)–(iv). Pub. L. 103–66, §13206(b)(2)(A)(i), redesignated cls. (iii) and (iv) as (ii) and (iii), respectively, and struck out heading and text of former cl. (ii). Text read as follows: \"Any tax-exempt obligation (as defined in section 1275(a)(3)).\"",
+          "Subsec. (a)(1)(C), (D). Pub. L. 103–66, §13206(b)(2)(A)(ii), (iii), added subpar. (C) and redesignated former subpar. (C) as (D).",
+          "Subsec. (a)(4)(B). Pub. L. 103–66, §13206(b)(2)(B)(ii), inserted before period at end \"or, in the case of a tax-exempt obligation, the aggregate amount of the original issue discount which accrued in the manner provided by section 1272(a) (determined without regard to paragraph (7) thereof) during periods before the acquisition of the bond by the taxpayer\".",
+          "Subsec. (b)(1). Pub. L. 103–66, §13206(b)(2)(B)(i), substituted \"sections 103, 871(a),\" for \"sections 871(a)\" in last sentence."
+        ]
+      },
+      {
+        "year": "1988",
+        "entries": [
+          "Subsec. (a)(4)(B). Pub. L. 100–647, §1006(u)(2), substituted \"section 1272(a)(7)\" for \"section 1272(a)(6)\".",
+          "Subsec. (b)(4). Pub. L. 100–647, §1018(c)(3), added par. (4).",
+          "Subsec. (c). Pub. L. 100–647, §1018(c)(2), inserted before period at end \", including regulations providing proper adjustments in the case of a bond the principal of which may be paid in 2 or more payments\"."
+        ]
+      },
+      {
+        "year": "1986",
+        "entries": [
+          "Subsec. (a)(1)(B)(i). Pub. L. 99–514, §1878(a), amended Pub. L. 98–369, §1001(b), by adding a par. (24), effective as if included in Pub. L. 98–369. See 1984 Amendment note below.",
+          "Subsec. (a)(1)(C). Pub. L. 99–514, §1803(a)(6), added subpar. (C).",
+          "Subsec. (a)(4). Pub. L. 99–514, §1899A(32), substituted \"means\" for \"means of\" in introductory provisions."
+        ]
+      },
+      {
+        "year": "1984",
+        "entries": [
+          "Subsec. (a)(1)(B)(i). Pub. L. 98–369, §1001(b)(24), as added by Pub. L. 99–514, §1878(a), substituted \"6 months\" for \"1 year\", applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below."
+        ]
+      }
+    ],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 2018 Amendment",
+        "pub_law": "Pub. L. 115–141",
+        "effective_date": "",
+        "text": "Amendment by section 401(c)(1)(G) of Pub. L. 115–141 applicable to debt instruments issued on or after July 2, 1982, see section 401(c)(1)(H) of Pub. L. 115–141, set out as a note under section 163 of this title."
+      },
+      {
+        "heading": "Effective Date of 1993 Amendment",
+        "pub_law": "Pub. L. 103–66",
+        "effective_date": "",
+        "text": "Amendments by Pub. L. 103–66 applicable to obligations purchased (within the meaning of section 1272(d)(1) of this title) after Apr. 30, 1993, see section 13206(b)(3) of Pub. L. 103–66, set out as a note under section 1276 of this title."
+      },
+      {
+        "heading": "Effective Date of 1988 Amendment",
+        "pub_law": "Pub. L. 100–647",
+        "effective_date": "effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub.",
+        "text": "Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title."
+      },
+      {
+        "heading": "Effective Date of 1986 Amendment",
+        "pub_law": "Pub. L. 99–514",
+        "effective_date": "effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub.",
+        "text": "Amendment by sections 1803(a)(6) and 1878(a) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title."
+      },
+      {
+        "heading": "Effective Date of 1984 Amendment",
+        "pub_law": "Pub. L. 98–369",
+        "effective_date": "",
+        "text": "Amendment by Pub. L. 98–369 applicable to property acquired after June 22, 1984, and before Jan. 1, 1988, see section 1001(e) of Pub. L. 98–369, set out as a note under section 166 of this title."
+      },
+      {
+        "heading": "Effective Date",
+        "pub_law": "Pub. L. 98–369",
+        "effective_date": "taxable years ending after July 18, 1984, except as otherwise provided, see section 44 of Pub.",
+        "text": "Section applicable to taxable years ending after July 18, 1984, except as otherwise provided, see section 44 of Pub. L. 98–369, set out as a note under section 1271 of this title."
+      },
+      {
+        "heading": "Plan Amendments Not Required Until January 1, 1989",
+        "pub_law": "Pub. L. 99–514",
+        "effective_date": "",
+        "text": "For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§1101–1147 and 1171–1177] or title XVIII [§§1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title."
+      }
+    ]
+  }
+}

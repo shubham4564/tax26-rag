@@ -1,0 +1,85 @@
+{
+  "section_number": 2603,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle B",
+      "chapter": "CHAPTER 13",
+      "subchapter": "Subchapter A",
+      "section": "§2603"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 94–455, title XX, §2006(a), Oct. 4, 1976, 90 Stat. 1881 ; amended Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2718 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§2603",
+    "heading": "§2603. Liability for tax",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Personal liability",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Taxable distributions",
+            "text": "In the case of a taxable distribution, the tax imposed by section 2601 shall be paid by the transferee."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Taxable termination",
+            "text": "In the case of a taxable termination or a direct skip from a trust, the tax shall be paid by the trustee."
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Direct skip",
+            "text": "In the case of a direct skip (other than a direct skip from a trust), the tax shall be paid by the transferor."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Source of tax",
+        "text": "Unless otherwise directed pursuant to the governing instrument by specific reference to the tax imposed by this chapter, the tax imposed by this chapter on a generation-skipping transfer shall be charged to the property constituting such transfer."
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Cross reference",
+        "text": "For provisions making estate and gift tax provisions with respect to transferee liability, liens, and related matters applicable to the tax imposed by section 2601, see section 2661."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "1986",
+        "entries": [
+          "Pub. L. 99–514 amended section generally, substituting tax liability provisions consisting of language placing liability, under different circumstances, on the transferee, the trustee, or the transferor, the source of the tax, and a cross reference to section 2661 for former provisions which covered the question of liability for tax with language covering the trustee and the distributee, the limitation on personal liability of the trustee who relied on certain information furnished by the Secretary, the limitation on personal liability of distributee, and the lien on property transferred until the tax was paid in full or became unenforceable by reason of lapse of time."
+        ]
+      }
+    ],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 1986 Amendment",
+        "pub_law": "Pub. L. 99–514",
+        "effective_date": "",
+        "text": "Section applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as a note under section 2601 of this title."
+      }
+    ]
+  }
+}

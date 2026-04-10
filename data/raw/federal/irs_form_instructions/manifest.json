@@ -1,0 +1,48 @@
+{
+  "count": 7,
+  "records": [
+    {
+      "doc_type": "form_instruction",
+      "form_page": "about-form-1040",
+      "url": "https://www.irs.gov/pub/irs-pdf/i1040gi.pdf",
+      "path": "data\\raw\\federal\\irs_form_instructions\\i1040gi.pdf"
+    },
+    {
+      "doc_type": "form_instruction",
+      "form_page": "about-schedule-a-form-1040",
+      "url": "https://www.irs.gov/pub/irs-pdf/i1040sca.pdf",
+      "path": "data\\raw\\federal\\irs_form_instructions\\i1040sca.pdf"
+    },
+    {
+      "doc_type": "form_instruction",
+      "form_page": "about-schedule-c-form-1040",
+      "url": "https://www.irs.gov/pub/irs-pdf/i1040sc.pdf",
+      "path": "data\\raw\\federal\\irs_form_instructions\\i1040sc.pdf"
+    },
+    {
+      "doc_type": "form_instruction",
+      "form_page": "about-schedule-d-form-1040",
+      "url": "https://www.irs.gov/pub/irs-pdf/i1040sd.pdf",
+      "path": "data\\raw\\federal\\irs_form_instructions\\i1040sd.pdf"
+    },
+    {
+      "doc_type": "form_instruction",
+      "form_page": "about-schedule-e-form-1040",
+      "url": "https://www.irs.gov/pub/irs-pdf/i1040se.pdf",
+      "path": "data\\raw\\federal\\irs_form_instructions\\i1040se.pdf"
+    },
+    {
+      "doc_type": "form_instruction",
+      "form_page": "about-schedule-se-form-1040",
+      "url": "https://www.irs.gov/pub/irs-pdf/i1040sse.pdf",
+      "path": "data\\raw\\federal\\irs_form_instructions\\i1040sse.pdf"
+    },
+    {
+      "doc_type": "form_instruction",
+      "form_page": "about-form-w-9",
+      "url": "https://www.irs.gov/pub/irs-pdf/iw9.pdf",
+      "path": "data\\raw\\federal\\irs_form_instructions\\iw9.pdf"
+    }
+  ],
+  "generated_at": "2026-04-09T15:34:47.673783"
+}

@@ -1,0 +1,85 @@
+{
+  "section_number": 1397,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle A",
+      "chapter": "CHAPTER 1",
+      "subchapter": "Subchapter U",
+      "part": "PART III",
+      "section": "§1397"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 551 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§1397",
+    "heading": "§1397. Other definitions and special rules",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Wages",
+        "text": "For purposes of this subpart-",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "In general",
+            "text": "The term \"wages\" has the same meaning as when used in section 51."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Certain training and educational benefits",
+            "text": "",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "In general",
+                "text": "The following amounts shall be treated as wages paid to an employee: (i) Any amount paid or incurred by an employer which is excludable from the gross income of an employee under section 127, but only to the extent paid or incurred to a person not related to the employer. (ii) In the case of an employee who has not attained the age of 19, any amount paid or incurred by an employer for any youth training program operated by such employer in conjunction with local education officials."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Related person",
+                "text": "A person is related to any other person if the person bears a relationship to such other person specified in section 267(b) or 707(b)(1), or such person and such other person are engaged in trades or businesses under common control (within the meaning of subsections (a) and (b) of section 52). For purposes of the preceding sentence, in applying section 267(b) or 707(b)(1), \"10 percent\" shall be substituted for \"50 percent\"."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Controlled groups",
+        "text": "For purposes of this subpart- (1) all employers treated as a single employer under subsection (a) or (b) of section 52 shall be treated as a single employer for purposes of this subpart, and (2) the credit (if any) determined under section 1396 with respect to each such employer shall be its proportionate share of the wages giving rise to such credit."
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Certain other rules made applicable",
+        "text": "For purposes of this subpart, rules similar to the rules of section 51(k) and subsections (c), (d), and (e) of section 52 shall apply."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [],
+    "other_notes": [
+      {
+        "heading": "Prior Provisions",
+        "text": "A prior section 1397, added Pub. L. 95–600, title VI, §601(a), Nov. 6, 1978, 92 Stat. 2895 , related to special rules applicable to an electing general stock ownership corporation, prior to repeal by Pub. L. 99–514, title XIII, §1303(a), Oct. 22, 1986, 100 Stat. 2658 ."
+      }
+    ]
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": []
+  }
+}

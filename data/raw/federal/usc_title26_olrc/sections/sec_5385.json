@@ -1,0 +1,78 @@
+{
+  "section_number": 5385,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle E",
+      "chapter": "CHAPTER 51",
+      "subchapter": "Subchapter F",
+      "part": "PART III",
+      "section": "§5385"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1386 ; amended Pub. L. 89–44, title VIII, §806(c)(4), June 21, 1965, 79 Stat. 164 ; Pub. L. 90–619, §§3(b), 4, Oct. 22, 1968, 82 Stat. 1237 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§5385",
+    "heading": "§5385. Specially sweetened natural wines",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Definition",
+        "text": "Specially sweetened natural wine is the product made by adding to natural wine of the winemaker's own production a sufficient quantity of pure dry sugar, or juice or concentrated juice from the same kind of fruit, separately or in combination, to produce a finished product having a total solids content in excess of 17 percent by weight and an alcoholic content of not more than 14 percent by volume, and shall include extra sweet kosher wine and similarly heavily sweetened wines."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Cellar treatment",
+        "text": "Specially sweetened natural wines may be blended with each other, or with natural wine or heavy bodied blending wine in the further production of specially sweetened natural wine only, if the wines so blended are made from the same kind of fruit. Wines produced under this section may be cellar treated under the provisions of section 5382(a) and (c). Wine spirits may not be added to specially sweetened natural wine."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "1968",
+        "entries": [
+          "Subsec. (a). Pub. L. 90–619, §3(b), substituted \"not more than 14 percent\" for \"less than 14 percent\".",
+          "Subsec. (b). Pub. L. 90–619, §4, authorized cellar treatment of specially sweetened natural wines, special natural wines, and agricultural wines."
+        ]
+      },
+      {
+        "year": "1965",
+        "entries": [
+          "Subsec. (a). Pub. L. 89–44 substituted \"total solids content in excess of 17\" for \"sugar solids content in excess of 15\"."
+        ]
+      }
+    ],
+    "other_notes": [
+      {
+        "heading": "Prior Provisions",
+        "text": "A prior section 5385, act Aug. 16, 1954, ch. 736, 68A Stat. 671 , consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859."
+      }
+    ]
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 1968 Amendment",
+        "pub_law": "Pub. L. 90–619",
+        "effective_date": "effective on first day of first month which begins 90 days or more after Oct.",
+        "text": "Amendment by Pub. L. 90–619 effective on first day of first month which begins 90 days or more after Oct. 22, 1968, see section 6 of Pub. L. 90–619, set out as a note under section 5373 of this title."
+      },
+      {
+        "heading": "Effective Date of 1965 Amendment",
+        "pub_law": "Pub. L. 89–44",
+        "effective_date": "effective Jan.",
+        "text": "Amendment by Pub. L. 89–44 effective Jan. 1, 1966, see section 806(d)(2) of Pub. L. 89–44, set out as a note under section 5383 of this title."
+      }
+    ]
+  }
+}

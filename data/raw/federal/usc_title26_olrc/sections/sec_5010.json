@@ -1,0 +1,189 @@
+{
+  "section_number": 5010,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle E",
+      "chapter": "CHAPTER 51",
+      "subchapter": "Subchapter A",
+      "part": "PART I",
+      "section": "§5010"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 96–598, §6(a), Dec. 24, 1980, 94 Stat. 3488 ; amended Pub. L. 98–369, div. A, title I, §27(a)(2), July 18, 1984, 98 Stat. 507 ; Pub. L. 100–647, title V, §5063(a), Nov. 10, 1988, 102 Stat. 3681 ; Pub. L. 101–508, title XI, §11201(a)(2), Nov. 5, 1990, 104 Stat. 1388–415 ; Pub. L. 109–59, title XI, §11125(b)(14), Aug. 10, 2005, 119 Stat. 1956 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§5010",
+    "heading": "§5010. Credit for wine content and for flavors content",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Allowance of credit",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Wine content",
+            "text": "On each proof gallon of the wine content of distilled spirits, there shall be allowed a credit against the tax imposed by section 5001 (or 7652) equal to the excess of- (A) $13.50, over (B) the rate of tax which would be imposed on the wine under section 5041(b) but for its removal to bonded premises."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Flavors content",
+            "text": "On each proof gallon of the flavors content of distilled spirits, there shall be allowed a credit against the tax imposed by section 5001 (or 7652) equal to $13.50."
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Fractional part of proof gallon",
+            "text": "In the case of any fractional part of a proof gallon of the wine content, or of the flavors content, of distilled spirits, a proportionate credit shall be allowed."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Time for determining and allowing credit",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "In general",
+            "text": "The credit allowable by subsection (a)- (A) shall be determined at the same time the tax is determined under section 5006 (or 7652) on the distilled spirits containing the wine or flavors, and (B) shall be allowable at the time the tax imposed by section 5001 (or 7652) on such distilled spirits is payable as if the credit allowable by this section constituted a reduction in the rate of tax."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Determination of content in the case of imports",
+            "text": "For purposes of this section, the wine content, and the flavors content, of imported distilled spirits shall be established by such chemical analysis, certification, or other methods as may be set forth in regulations prescribed by the Secretary."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Definitions",
+        "text": "For purposes of this section-",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Wine content",
+            "text": "",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "In general",
+                "text": "The term \"wine content\" means alcohol derived from wine."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Wine",
+                "text": "The term \"wine\"- (i) means wine on which tax would be imposed by paragraph (1), (2), or (3) of section 5041(b) but for its removal to bonded premises, and (ii) does not include any substance which has been subject to distillation at a distilled spirits plant after receipt in bond."
+              }
+            ]
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Flavors content",
+            "text": "",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "In general",
+                "text": "Except as provided in subparagraph (B), the term \"flavors content\" means alcohol derived from flavors of a type for which drawback is allowable under section 5114."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Exceptions",
+                "text": "The term \"flavors content\" does not include- (i) alcohol derived from flavors made at a distilled spirits plant, (ii) alcohol derived from flavors distilled at a distilled spirits plant, and (iii) in the case of any distilled spirits product, alcohol derived from flavors to the extent such alcohol exceeds (on a proof gallon basis) 2½ percent of the finished product."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "2005",
+        "entries": [
+          "Subsec. (c)(2)(A). Pub. L. 109–59 substituted \"section 5114\" for \"section 5134\"."
+        ]
+      },
+      {
+        "year": "1990",
+        "entries": [
+          "Subsec. (a)(1), (2). Pub. L. 101–508 substituted \"$13.50\" for \"$12.50\"."
+        ]
+      },
+      {
+        "year": "1988",
+        "entries": [
+          "Subsec. (c)(2)(B). Pub. L. 100–647 added cl. (ii) and redesignated former cl. (ii) as (iii)."
+        ]
+      },
+      {
+        "year": "1984",
+        "entries": [
+          "Subsec. (a)(1), (2). Pub. L. 98–369 substituted \"$12.50\" for \"$10.50\"."
+        ]
+      }
+    ],
+    "other_notes": [
+      {
+        "heading": "Prior Provisions",
+        "text": "A prior section 5010, act Aug. 16, 1954, ch. 736, 68A Stat. 603 , related to miscellaneous stamp provisions, prior to the general revision of this chapter by Pub. L. 85–859."
+      }
+    ]
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 2005 Amendment",
+        "pub_law": "Pub. L. 109–59",
+        "effective_date": "effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, see section 11125(c) of Pub.",
+        "text": "Amendment by Pub. L. 109–59 effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, see section 11125(c) of Pub. L. 109–59, set out as a note under section 5002 of this title."
+      },
+      {
+        "heading": "Effective Date of 1990 Amendment",
+        "pub_law": "Pub. L. 101–508",
+        "effective_date": "effective Jan.",
+        "text": "Amendment by Pub. L. 101–508 effective Jan. 1, 1991, see section 11201(d) of Pub. L. 101–508, set out as a note under section 5001 of this title."
+      },
+      {
+        "heading": "Effective Date of 1988 Amendment",
+        "pub_law": "Pub. L. 100–647, title V, §5063(b), Nov. 10, 1988, 102 Stat. 3681",
+        "effective_date": "",
+        "text": "Pub. L. 100–647, title V, §5063(b), Nov. 10, 1988, 102 Stat. 3681 , provided that: \"The amendments made by this section [amending this section] shall apply with respect to distilled spirits withdrawn from bond after the date of the enactment of this Act [Nov. 10, 1988].\""
+      },
+      {
+        "heading": "Effective Date of 1984 Amendment",
+        "pub_law": "Pub. L. 98–369",
+        "effective_date": "effective Oct.",
+        "text": "Amendment by Pub. L. 98–369 effective Oct. 1, 1985, see section 27(d)(1) of Pub. L. 98–369, set out as a note under section 5001 of this title."
+      },
+      {
+        "heading": "Effective Date",
+        "pub_law": "Pub. L. 96–598, §6(c), Dec. 24, 1980, 94 Stat. 3489",
+        "effective_date": "",
+        "text": "Pub. L. 96–598, §6(c), Dec. 24, 1980, 94 Stat. 3489 , provided that: \"The amendments made by subsections (a) and (b) [enacting this section] shall take effect on January 1, 1980.\""
+      }
+    ]
+  }
+}

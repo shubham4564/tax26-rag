@@ -1,0 +1,23 @@
+{
+  "total_scenarios": 500,
+  "by_complexity": {
+    "simple": 100,
+    "moderate": 287,
+    "complex": 113
+  },
+  "by_jurisdiction": {
+    "US": 82,
+    "CA": 70,
+    "NY": 61,
+    "TX": 79,
+    "FL": 68,
+    "NYC": 74,
+    "SF": 66
+  },
+  "by_tax_type": {
+    "income": 500,
+    "sales": 0,
+    "other": 0
+  },
+  "generated_date": "2026-02-10T23:53:19.071109"
+}

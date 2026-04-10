@@ -1,0 +1,58 @@
+{
+  "section_number": 4105,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle D",
+      "chapter": "CHAPTER 32",
+      "subchapter": "Subchapter A",
+      "part": "PART III",
+      "section": "§4105"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 108–357, title VIII, §866(a), Oct. 22, 2004, 118 Stat. 1621 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§4105",
+    "heading": "§4105. Two-party exchanges",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "In general",
+        "text": "In a two-party exchange, the delivering person shall not be liable for the tax imposed under section 4081(a)(1)(A)(ii)."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Two-party exchange",
+        "text": "The term \"two-party exchange\" means a transaction, other than a sale, in which taxable fuel is transferred from a delivering person registered under section 4101 as a taxable fuel registrant to a receiving person who is so registered where all of the following occur: (1) The transaction includes a transfer from the delivering person, who holds the inventory position for taxable fuel in the terminal as reflected in the records of the terminal operator. (2) The exchange transaction occurs before or contemporaneous with completion of removal across the rack from the terminal by the receiving person. (3) The terminal operator in its books and records treats the receiving person as the person that removes the product across the terminal rack for purposes of reporting the transaction to the Secretary. (4) The transaction is the subject of a written contract."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [],
+    "other_notes": [
+      {
+        "heading": "Prior Provisions",
+        "text": "Prior sections 4111 to 4113, 4121, and 4131 of this title constituted a former subchapter B of this chapter, see Prior Provisions note set out preceding section 4121 of this title."
+      }
+    ]
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date",
+        "pub_law": "Pub. L. 108–357, title VIII, §866(c), Oct. 22, 2004, 118 Stat. 1622",
+        "effective_date": "",
+        "text": "Pub. L. 108–357, title VIII, §866(c), Oct. 22, 2004, 118 Stat. 1622 , provided that: \"The amendment made by this section [enacting this section] shall take effect on the date of the enactment of this Act [Oct. 22, 2004].\""
+      }
+    ]
+  }
+}

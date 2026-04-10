@@ -1,0 +1,185 @@
+{
+  "section_number": 473,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle A",
+      "chapter": "CHAPTER 1",
+      "subchapter": "Subchapter E",
+      "part": "PART II",
+      "section": "§473"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 96–223, title IV, §403(a)(1), Apr. 2, 1980, 94 Stat. 302 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§473",
+    "heading": "§473. Qualified liquidations of LIFO inventories",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "General rule",
+        "text": "If, for any liquidation year- (1) there is a qualified liquidation of goods which the taxpayer inventories under the LIFO method, and (2) the taxpayer elects to have the provisions of this section apply with respect to such liquidation, then the gross income of the taxpayer for such taxable year shall be adjusted as provided in subsection (b)."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Adjustment for replacements",
+        "text": "If the liquidated goods are replaced (in whole or in part) during any replacement year and such replacement is reflected in the closing inventory for such year, then the gross income for the liquidation year shall be- (1) decreased by an amount equal to the excess of- (A) the aggregate replacement cost of the liquidated goods so replaced during such year, over (B) the aggregate cost of such goods reflected in the opening inventory of the liquidation year, or (2) increased by an amount equal to the excess of- (A) the aggregate cost reflected in such opening inventory of the liquidated goods so replaced during such year, over (B) such aggregate replacement cost."
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Qualified liquidation defined",
+        "text": "For purposes of this section-",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "In general",
+            "text": "The term \"qualified liquidation\" means- (A) a decrease in the closing inventory of the liquidation year from the opening inventory of such year, but only if (B) the taxpayer establishes to the satisfaction of the Secretary that such decrease is directly and primarily attributable to a qualified inventory interruption."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Qualified inventory interruption defined",
+            "text": "",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "In general",
+                "text": "The term \"qualified inventory interruption\" means a regulation, request, or interruption described in subparagraph (B) but only to the extent provided in the notice published pursuant to subparagraph (B)."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Determination by Secretary",
+                "text": "Whenever the Secretary, after consultation with the appropriate Federal officers, determines- (i) that- (I) any Department of Energy regulation or request with respect to energy supplies, or (II) any embargo, international boycott, or other major foreign trade interruption, has made difficult or impossible the replacement during the liquidation year of any class of goods for any class of taxpayers, and (ii) that the application of this section to that class of goods and taxpayers is necessary to carry out the purposes of this section, he shall publish a notice of such determinations in the Federal Register, together with the period to be affected by such notice."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(d)",
+        "heading": "Other definitions and special rules",
+        "text": "For purposes of this section-",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Liquidation year",
+            "text": "The term \"liquidation year\" means the taxable year in which occurs the qualified liquidation to which this section applies."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Replacement year",
+            "text": "The term \"replacement year\" means any taxable year in the replacement period; except that such term shall not include any taxable year after the taxable year in which replacement of the liquidated goods is completed."
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Replacement period",
+            "text": "The term \"replacement period\" means the shorter of- (A) the period of the 3 taxable years following the liquidation year, or (B) the period specified by the Secretary in a notice published in the Federal Register with respect to that qualified inventory interruption. Any period specified by the Secretary under subparagraph (B) may be modified by the Secretary in a subsequent notice published in the Federal Register."
+          },
+          {
+            "level": "paragraph",
+            "label": "(4)",
+            "heading": "LIFO method",
+            "text": "The term \"LIFO method\" means the method of inventorying goods described in section 472."
+          },
+          {
+            "level": "paragraph",
+            "label": "(5)",
+            "heading": "Election",
+            "text": "",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "In general",
+                "text": "An election under subsection (a) shall be made subject to such conditions, and in such manner and form and at such time, as the Secretary may prescribe by regulation."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Irrevocable election",
+                "text": "An election under this section shall be irrevocable and shall be binding for the liquidation year and for all determinations for prior and subsequent taxable years insofar as such determinations are affected by the adjustments under this section."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(e)",
+        "heading": "Replacement; inventory basis",
+        "text": "For purposes of this chapter-",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Replacements",
+            "text": "If the closing inventory of the taxpayer for any replacement year reflects an increase over the opening inventory of such goods for such year, the goods reflecting such increase shall be considered, in the order of their acquisition, as having been acquired in replacement of the goods most recently liquidated (whether or not in a qualified liquidation) and not previously replaced."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Amount at which replacement goods taken into account",
+            "text": "In the case of any qualified liquidation, any goods considered under paragraph (1) as having been acquired in replacement of the goods liquidated in such liquidation shall be taken into purchases and included in the closing inventory of the taxpayer for the replacement year at the inventory cost basis of the goods replaced."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(f)",
+        "heading": "Special rules for application of adjustments",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Period of limitations",
+            "text": "If- (A) an adjustment is required under this section for any taxable year by reason of the replacement of liquidated goods during any replacement year, and (B) the assessment of a deficiency, or the allowance of a credit or refund of an overpayment of tax attributable to such adjustment, for any taxable year, is otherwise prevented by the operation of any law or rule of law (other than section 7122, relating to compromises), then such deficiency may be assessed, or credit or refund allowed, within the period prescribed for assessing a deficiency or allowing a credit or refund for the replacement year if a notice for deficiency is mailed, or claim for refund is filed, within such period."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Interest",
+            "text": "Solely for purposes of determining interest on any overpayment or underpayment attributable to an adjustment made under this section, such overpayment or underpayment shall be treated as an overpayment or underpayment (as the case may be) for the replacement year."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(g)",
+        "heading": "Coordination with section 472",
+        "text": "The Secretary shall prescribe such regulations as may be necessary to coordinate the provisions of this section with the provisions of section 472."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date",
+        "pub_law": "Pub. L. 96–223, title IV, §403(a)(3), Apr. 2, 1980, 94 Stat. 304",
+        "effective_date": "apply to qualified liquidations (within the meaning of section 473(c) of the Internal Revenue Code of 1986 [formerly I.",
+        "text": "Pub. L. 96–223, title IV, §403(a)(3), Apr. 2, 1980, 94 Stat. 304 , as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095 , provided that: \"The amendments made by paragraphs (1) and (2) [enacting this section] shall apply to qualified liquidations (within the meaning of section 473(c) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954]) in taxable years ending after October 31, 1979.\""
+      }
+    ]
+  }
+}

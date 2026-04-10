@@ -1,0 +1,51 @@
+{
+  "section_number": 9041,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle H",
+      "chapter": "CHAPTER 96",
+      "section": "§9041"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 93–443, title IV, §408(c), Oct. 15, 1974, 88 Stat. 1302 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§9041",
+    "heading": "§9041. Judicial review",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Review of agency action by the Commission",
+        "text": "Any agency action by the Commission made under the provisions of this chapter shall be subject to review by the United States Court of Appeals for the District of Columbia Circuit upon petition filed in such court within 30 days after the agency action by the Commission for which review is sought."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Review procedures",
+        "text": "The provisions of chapter 7 of title 5, United States Code, apply to judicial review of any agency action, as defined in section 551(13) of title 5, United States Code, by the Commission."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date",
+        "pub_law": "Pub. L. 93–443",
+        "effective_date": "taxable years beginning after Dec.",
+        "text": "Section applicable with respect to taxable years beginning after Dec. 31, 1974, see section 410(c)(1) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under section 30101 of Title 52, Voting and Elections."
+      }
+    ]
+  }
+}

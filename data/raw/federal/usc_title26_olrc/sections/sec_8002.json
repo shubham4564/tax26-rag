@@ -1,0 +1,112 @@
+{
+  "section_number": 8002,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle G",
+      "chapter": "CHAPTER 91",
+      "section": "§8002"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Aug. 16, 1954, ch. 736, 68A Stat. 925 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§8002",
+    "heading": "§8002. Membership",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Number and selection",
+        "text": "The Joint Committee shall be composed of 10 members as follows:",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "From Committee on Finance",
+            "text": "Five members who are members of the Committee on Finance of the Senate, three from the majority and two from the minority party, to be chosen by such Committee; and"
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "From Committee on Ways and Means",
+            "text": "Five members who are members of the Committee on Ways and Means of the House of Representatives, three from the majority and two from the minority party, to be chosen by such Committee."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Tenure of office",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "General limitation",
+            "text": "No person shall continue to serve as a member of the Joint Committee after he has ceased to be a member of the Committee by which he was chosen, except that-"
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Exception",
+            "text": "The members chosen by the Committee on Ways and Means who have been reelected to the House of Representatives may continue to serve as members of the Joint Committee notwithstanding the expiration of the Congress."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Vacancies",
+        "text": "A vacancy in the Joint Committee-",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Effect",
+            "text": "Shall not affect the power of the remaining members to execute the functions of the Joint Committee; and"
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Manner of filling",
+            "text": "Shall be filled in the same manner as the original selection, except that-",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "Adjournment or recess of Congress",
+                "text": "In case of a vacancy during an adjournment or recess of Congress for a period of more than 2 weeks, the members of the Joint Committee who are members of the Committee entitled to fill such vacancy may designate a member of such Committee to serve until his successor is chosen by such Committee; and"
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Expiration of Congress",
+                "text": "In the case of a vacancy after the expiration of a Congress which would be filled by the Committee on Ways and Means, the members of such Committee who are continuing to serve as members of the Joint Committee may designate a person who, immediately prior to such expiration, was a member of such Committee and who is re-elected to the House of Representatives, to serve until his successor is chosen by such Committee."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(d)",
+        "heading": "Allowances",
+        "text": "The members shall serve without compensation in addition to that received for their services as members of Congress; but they shall be reimbursed for travel, subsistence, and other necessary expenses incurred by them in the performance of the duties vested in the Joint Committee, other than expenses in connection with meetings of the Joint Committee held in the District of Columbia during such times as the Congress is in session."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": []
+  }
+}

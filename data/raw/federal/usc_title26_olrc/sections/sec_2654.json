@@ -1,0 +1,128 @@
+{
+  "section_number": 2654,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle B",
+      "chapter": "CHAPTER 13",
+      "subchapter": "Subchapter F",
+      "section": "§2654"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2727 ; amended Pub. L. 100–647, title I, §1014(g)(12), (13), Nov. 10, 1988, 102 Stat. 3565 , 3566; Pub. L. 101–239, title VII, §7811(j)(2), Dec. 19, 1989, 103 Stat. 2411 ; Pub. L. 105–206, title VI, §6013(a)(4)(B), July 22, 1998, 112 Stat. 819 ; Pub. L. 113–295, div. A, title II, §221(a)(95)(B)(iii), Dec. 19, 2014, 128 Stat. 4051 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§2654",
+    "heading": "§2654. Special rules",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Basis adjustment",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "In general",
+            "text": "Except as provided in paragraph (2), if property is transferred in a generation-skipping transfer, the basis of such property shall be increased (but not above the fair market value of such property) by an amount equal to that portion of the tax imposed by section 2601 with respect to the transfer which is attributable to the excess of the fair market value of such property over its adjusted basis immediately before the transfer. The preceding shall be applied after any basis adjustment under section 1015 with respect to the transfer."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Certain transfers at death",
+            "text": "If property is transferred in a taxable termination which occurs at the same time as and as a result of the death of an individual, the basis of such property shall be adjusted in a manner similar to the manner provided under section 1014(a); except that, if the inclusion ratio with respect to such property is less than 1, any increase or decrease in basis shall be limited by multiplying such increase or decrease (as the case may be) by the inclusion ratio."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Certain trusts treated as separate trusts",
+        "text": "For purposes of this chapter- (1) the portions of a trust attributable to transfers from different transferors shall be treated as separate trusts, and (2) substantially separate and independent shares of different beneficiaries in a trust shall be treated as separate trusts. Except as provided in the preceding sentence, nothing in this chapter shall be construed as authorizing a single trust to be treated as 2 or more trusts. For purposes of this subsection, a trust shall be treated as part of an estate during any period that the trust is so treated under section 645."
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Disclaimers",
+        "text": "For provisions relating to the effect of a qualified disclaimer for purposes of this chapter, see section 2518."
+      },
+      {
+        "level": "subsection",
+        "label": "(d)",
+        "heading": "Limitation on personal liability of trustee",
+        "text": "A trustee shall not be personally liable for any increase in the tax imposed by section 2601 which is attributable to the fact that- (1) section 2642(c) (relating to exemption of certain nontaxable gifts) does not apply to a transfer to the trust which was made during the life of the transferor and for which a gift tax return was not filed, or (2) the inclusion ratio with respect to the trust is greater than the amount of such ratio as computed on the basis of the return on which was made (or was deemed made) an allocation of the GST exemption to property transferred to such trust. The preceding sentence shall not apply if the trustee has knowledge of facts sufficient reasonably to conclude that a gift tax return was required to be filed or that the inclusion ratio was erroneous."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "2014",
+        "entries": [
+          "Subsec. (a)(1). Pub. L. 113–295 struck out \"(computed without regard to section 2604)\" after \"section 2601\"."
+        ]
+      },
+      {
+        "year": "1998",
+        "entries": [
+          "Subsec. (b). Pub. L. 105–206 inserted at end \"For purposes of this subsection, a trust shall be treated as part of an estate during any period that the trust is so treated under section 645.\""
+        ]
+      },
+      {
+        "year": "1989",
+        "entries": [
+          "Subsec. (a)(1). Pub. L. 101–239 inserted at end \"The preceding shall be applied after any basis adjustment under section 1015 with respect to the transfer.\""
+        ]
+      },
+      {
+        "year": "1988",
+        "entries": [
+          "Subsec. (a)(2). Pub. L. 100–647, §1014(g)(12), inserted \"or decrease\" after \"any increase\" and \"or decrease (as the case may be)\" after \"such increase\".",
+          "Subsec. (b). Pub. L. 100–647, §1014(g)(13), substituted \"Certain trusts\" for \"Separate shares\" in heading and amended text generally. Prior to amendment, text read as follows: \"Substantially separate and independent shares of different beneficiaries in a trust shall be treated as separate trusts.\""
+        ]
+      }
+    ],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 2014 Amendment",
+        "pub_law": "Pub. L. 113–295",
+        "effective_date": "effective Dec.",
+        "text": "Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title."
+      },
+      {
+        "heading": "Effective Date of 1998 Amendment",
+        "pub_law": "Pub. L. 105–206",
+        "effective_date": "effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub.",
+        "text": "Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates (see section 1305 of Pub. L. 105–34), see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title."
+      },
+      {
+        "heading": "Effective Date of 1989 Amendment",
+        "pub_law": "Pub. L. 101–239",
+        "effective_date": "effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub.",
+        "text": "Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title."
+      },
+      {
+        "heading": "Effective Date of 1988 Amendment",
+        "pub_law": "Pub. L. 100–647",
+        "effective_date": "effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub.",
+        "text": "Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title."
+      },
+      {
+        "heading": "Effective Date",
+        "pub_law": "Pub. L. 99–514",
+        "effective_date": "",
+        "text": "Section applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as a note under section 2601 of this title."
+      }
+    ]
+  }
+}

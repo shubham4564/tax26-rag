@@ -1,0 +1,130 @@
+{
+  "section_number": 2704,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle B",
+      "chapter": "CHAPTER 14",
+      "section": "§2704"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 101–508, title XI, §11602(a), Nov. 5, 1990, 104 Stat. 1388–498 ; amended Pub. L. 104–188, title I, §1702(f)(3)(C), Aug. 20, 1996, 110 Stat. 1871 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§2704",
+    "heading": "§2704. Treatment of certain lapsing rights and restrictions",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Treatment of lapsed voting or liquidation rights",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "In general",
+            "text": "For purposes of this subtitle, if- (A) there is a lapse of any voting or liquidation right in a corporation or partnership, and (B) the individual holding such right immediately before the lapse and members of such individual's family hold, both before and after the lapse, control of the entity, such lapse shall be treated as a transfer by such individual by gift, or a transfer which is includible in the gross estate of the decedent, whichever is applicable, in the amount determined under paragraph (2)."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Amount of transfer",
+            "text": "For purposes of paragraph (1), the amount determined under this paragraph is the excess (if any) of- (A) the value of all interests in the entity held by the individual described in paragraph (1) immediately before the lapse (determined as if the voting and liquidation rights were nonlapsing), over (B) the value of such interests immediately after the lapse."
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Similar rights",
+            "text": "The Secretary may by regulations apply this subsection to rights similar to voting and liquidation rights."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Certain restrictions on liquidation disregarded",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "In general",
+            "text": "For purposes of this subtitle, if- (A) there is a transfer of an interest in a corporation or partnership to (or for the benefit of) a member of the transferor's family, and (B) the transferor and members of the transferor's family hold, immediately before the transfer, control of the entity, any applicable restriction shall be disregarded in determining the value of the transferred interest."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Applicable restriction",
+            "text": "For purposes of this subsection, the term \"applicable restriction\" means any restriction- (A) which effectively limits the ability of the corporation or partnership to liquidate, and (B) with respect to which either of the following applies: (i) The restriction lapses, in whole or in part, after the transfer referred to in paragraph (1). (ii) The transferor or any member of the transferor's family, either alone or collectively, has the right after such transfer to remove, in whole or in part, the restriction."
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Exceptions",
+            "text": "The term \"applicable restriction\" shall not include- (A) any commercially reasonable restriction which arises as part of any financing by the corporation or partnership with a person who is not related to the transferor or transferee, or a member of the family of either, or (B) any restriction imposed, or required to be imposed, by any Federal or State law."
+          },
+          {
+            "level": "paragraph",
+            "label": "(4)",
+            "heading": "Other restrictions",
+            "text": "The Secretary may by regulations provide that other restrictions shall be disregarded in determining the value of the transfer of any interest in a corporation or partnership to a member of the transferor's family if such restriction has the effect of reducing the value of the transferred interest for purposes of this subtitle but does not ultimately reduce the value of such interest to the transferee."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Definitions and special rules",
+        "text": "For purposes of this section-",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Control",
+            "text": "The term \"control\" has the meaning given such term by section 2701(b)(2)."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Member of the family",
+            "text": "The term \"member of the family\" means, with respect to any individual- (A) such individual's spouse, (B) any ancestor or lineal descendant of such individual or such individual's spouse, (C) any brother or sister of the individual, and (D) any spouse of any individual described in subparagraph (B) or (C)."
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Attribution",
+            "text": "The rule of section 2701(e)(3) shall apply for purposes of determining the interests held by any individual."
+          }
+        ]
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "1996",
+        "entries": [
+          "Subsec. (c)(3). Pub. L. 104–188 substituted \"section 2701(e)(3)\" for \"section 2701(e)(3)(A)\"."
+        ]
+      }
+    ],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 1996 Amendment",
+        "pub_law": "Pub. L. 104–188",
+        "effective_date": "effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub.",
+        "text": "Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title."
+      }
+    ]
+  }
+}

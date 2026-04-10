@@ -1,0 +1,120 @@
+{
+  "section_number": 3241,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle C",
+      "chapter": "CHAPTER 22",
+      "subchapter": "Subchapter E",
+      "section": "§3241"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 107–90, title II, §204(d), Dec. 21, 2001, 115 Stat. 892 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§3241",
+    "heading": "§3241. Determination of tier 2 tax rate based on average account benefits ratio",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "In general",
+        "text": "For purposes of sections 3201(b), 3211(b), and 3221(b), the applicable percentage for any calendar year is the percentage determined in accordance with the table in subsection (b)."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Tax rate schedule",
+        "text": "",
+        "table": [
+          {
+            "income_range": "2.5",
+            "tax_formula": "3.0"
+          },
+          {
+            "income_range": "3.0",
+            "tax_formula": "3.5"
+          },
+          {
+            "income_range": "3.5",
+            "tax_formula": "4.0"
+          },
+          {
+            "income_range": "4.0",
+            "tax_formula": "6.1"
+          },
+          {
+            "income_range": "6.1",
+            "tax_formula": "6.5"
+          },
+          {
+            "income_range": "6.5",
+            "tax_formula": "7.0"
+          },
+          {
+            "income_range": "7.0",
+            "tax_formula": "7.5"
+          },
+          {
+            "income_range": "7.5",
+            "tax_formula": "8.0"
+          },
+          {
+            "income_range": "8.0",
+            "tax_formula": "8.5"
+          },
+          {
+            "income_range": "8.5",
+            "tax_formula": "9.0"
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Definitions related to determination of rates of tax",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Average account benefits ratio",
+            "text": "For purposes of this section, the term \"average account benefits ratio\" means, with respect to any calendar year, the average determined by the Secretary of the account benefits ratios for the 10 most recent fiscal years ending before such calendar year. If the amount determined under the preceding sentence is not a multiple of 0.1, such amount shall be increased to the next highest multiple of 0.1."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Account benefits ratio",
+            "text": "For purposes of this section, the term \"account benefits ratio\" means, with respect to any fiscal year, the amount determined by the Railroad Retirement Board by dividing the fair market value of the assets in the Railroad Retirement Account and of the National Railroad Retirement Investment Trust (and for years before 2002, the Social Security Equivalent Benefits Account) as of the close of such fiscal year by the total benefits and administrative expenses paid from the Railroad Retirement Account and the National Railroad Retirement Investment Trust during such fiscal year."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(d)",
+        "heading": "Notice",
+        "text": "No later than December 1 of each calendar year, the Secretary shall publish a notice in the Federal Register of the rates of tax determined under this section which are applicable for the following calendar year."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date",
+        "pub_law": "Pub. L. 107–90",
+        "effective_date": "Effective and Termination Dates of 2001 Amendments note under section 24 of this title.",
+        "text": "Subchapter applicable to calendar years beginning after Dec. 31, 2001, see section 204(f) of Pub. L. 107–90, set out as an Effective and Termination Dates of 2001 Amendments note under section 24 of this title."
+      }
+    ]
+  }
+}

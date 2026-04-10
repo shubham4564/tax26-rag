@@ -1,0 +1,50 @@
+{
+  "input_dir": "data\\raw\\federal\\irs_form_instructions",
+  "pdf_count": 7,
+  "processed_count": 7,
+  "results": [
+    {
+      "source_file": "data\\raw\\federal\\irs_form_instructions\\i1040gi.pdf",
+      "output_text_file": "data\\processed\\explanatory_text\\data_raw_federal_irs_form_instructions_i1040gi.pdf.txt",
+      "method": "direct",
+      "chars_extracted": 638689
+    },
+    {
+      "source_file": "data\\raw\\federal\\irs_form_instructions\\i1040sc.pdf",
+      "output_text_file": "data\\processed\\explanatory_text\\data_raw_federal_irs_form_instructions_i1040sc.pdf.txt",
+      "method": "direct",
+      "chars_extracted": 125519
+    },
+    {
+      "source_file": "data\\raw\\federal\\irs_form_instructions\\i1040sca.pdf",
+      "output_text_file": "data\\processed\\explanatory_text\\data_raw_federal_irs_form_instructions_i1040sca.pdf.txt",
+      "method": "direct",
+      "chars_extracted": 109080
+    },
+    {
+      "source_file": "data\\raw\\federal\\irs_form_instructions\\i1040sd.pdf",
+      "output_text_file": "data\\processed\\explanatory_text\\data_raw_federal_irs_form_instructions_i1040sd.pdf.txt",
+      "method": "direct",
+      "chars_extracted": 92540
+    },
+    {
+      "source_file": "data\\raw\\federal\\irs_form_instructions\\i1040se.pdf",
+      "output_text_file": "data\\processed\\explanatory_text\\data_raw_federal_irs_form_instructions_i1040se.pdf.txt",
+      "method": "direct",
+      "chars_extracted": 73022
+    },
+    {
+      "source_file": "data\\raw\\federal\\irs_form_instructions\\i1040sse.pdf",
+      "output_text_file": "data\\processed\\explanatory_text\\data_raw_federal_irs_form_instructions_i1040sse.pdf.txt",
+      "method": "direct",
+      "chars_extracted": 33825
+    },
+    {
+      "source_file": "data\\raw\\federal\\irs_form_instructions\\iw9.pdf",
+      "output_text_file": "data\\processed\\explanatory_text\\data_raw_federal_irs_form_instructions_iw9.pdf.txt",
+      "method": "direct",
+      "chars_extracted": 45213
+    }
+  ],
+  "generated_at": "2026-04-09T15:41:27.782882"
+}

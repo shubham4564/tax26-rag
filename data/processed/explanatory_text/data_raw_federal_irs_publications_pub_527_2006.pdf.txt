@@ -1,0 +1,1196 @@
+Userid: ________ DTD TIP04 Leading adjust: 0% ❏ Draft ❏ Ok to Print
+PAGER/SGML Fileid: P527.SGM (21-Nov-2006) (Init. & date)
+Page 1 of 22 of Publication 527 9:33 - 21-NOV-2006
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Publication 527 ContentsCat. No. 15052W
+What’s New ..................... 1Department
+of the Reminder ...................... 1ResidentialTreasury Introduction..................... 2
+Internal
+Rental Income ................... 2Revenue Rental
+Service Rental Expenses ................. 2
+Repairs and Improvements........ 3
+Property Other Expenses................ 3
+Condominiums and Cooperatives.... 4
+Not Rented for Profit.............. 5
+(Including
+Property Changed to Rental Use...... 5
+Rental of Renting Part of Property............ 5
+Vacation Homes) Personal Use of Dwelling Unit
+(Including Vacation Home)....... 5
+Dwelling Unit Used as Home....... 6
+For use in preparing Figuring Days of Personal Use...... 6
+How To Divide Expenses.......... 8
+2006 Returns How To Figure Rental Income
+and Deductions............. 8
+Depreciation.................... 8
+Special Depreciation Allowance..... 9
+MACRS ..................... 10
+MACRS Depreciation Under GDS.... 13
+Optional Tables................ 14
+MACRS Depreciation Under ADS.... 15
+Casualties and Thefts.............. 15
+Limits on Rental Losses............ 15
+At-Risk Rules................. 15
+Passive Activity Limits............ 15
+How To Report Rental Income and
+Expenses ................... 16
+Schedule E (Form 1040).......... 17
+How To Get Tax Help.............. 19
+Index.......................... 20
+What’s New
+Special depreciation allowance.You can
+take a special depreciation allowance (in addi-
+tion to your regular MACRS depreciation deduc-
+tion) for qualified Gulf Opportunity Zone (GO
+Zone) property. See Special Depreciation Allow-
+ance, under Depreciation, later, for more infor-
+mation.
+Reminder
+Photographs of missing children.The Inter-
+nal Revenue Service is a proud partner with the
+National Center for Missing and Exploited Chil-
+dren. Photographs of missing children selected
+Get forms and other information
+by the Center may appear in this publication onfaster and easier by: pages that would otherwise be blank. You can
+help bring these children home by looking at the
+Internet • www.irs.gov photographs and calling 1-800-THE-LOST
+(1-800-843-5678) if you recognize a child.
+
+Page 2 of 22 of Publication 527 9:33 - 21-NOV-2006
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+❏ 946 How To Depreciate Property receive is rent. Include the payment in your
+income in the year you receive it regardless ofIntroduction
+Form (and Instructions) your method of accounting.
+This publication discusses rental income and
+❏ 4562 Depreciation and Amortization Expenses paid by tenant.If your tenant paysexpenses, including depreciation, and explains
+any of your expenses, the payments are rentalhow to report them on your return. It also covers❏ 5213 Election To Postpone income. You must include them in your income.casualty losses on rental property and the pas- Determination as To Whether the You can deduct the expenses if they are deduct-sive activity and at-risk rules. Presumption Applies That an ible rental expenses. See Rental Expenses,Activity Is Engaged in for ProfitSale of rental property.For information on later, for more information.
+❏ 8582 Passive Activity Loss Limitationshow to figure and report any gain or loss from
+the sale or other disposition of your rental prop- Example 1. Your tenant pays the water and❏ Schedule E (Form 1040)Supplementalerty, get Publication 544, Sales and Other Dis- sewage bill for your rental property and deductsIncome and Losspositions of Assets. it from the normal rent payment. Under the termsSee How To Get Tax Help at the end of thisof the lease, your tenant does not have to paySale of main home used as rental property.publication for information about getting thesethis bill. Include the utility bill paid by the tenantFor information on how to figure and report anypublications and forms. and any amount received as a rent payment ingain or loss from the sale or other disposition of your rental income. You can deduct the utilityyour main home that you also used as rental payment made by your tenant as a rental ex-property, get Publication 523, Selling Your pense.Home. Rental Income
+Example 2. While you are out of town, theComments and suggestions. We welcome You generally must include in your gross incomefurnace in your rental property stops working.your comments about this publication and yourall amounts you receive as rent. Rental incomeYour tenant pays for the necessary repairs andsuggestions for future editions. is any payment you receive for the use or occu-deducts the repair bill from the rent payment.You can write to us at the following address:pation of property. In addition to amounts youInclude the repair bill paid by the tenant and anyreceive as normal rent payments, there areamount received as a rent payment in yourother amounts, discussed later, that may beInternal Revenue Service rental income. You can deduct the repair pay-rental income.Individual Forms and Publications Branch ment made by your tenant as a rental expense.
+SE:W:CAR:MP:T:I When to report. When you report rental in-Property or services.If you receive property1111 Constitution Ave. NW, IR-6406 come on your return depends on whether youor services, instead of money, as rent, includeWashington, DC 20224 are a cash basis taxpayer or use an accrualthe fair market value of the property or servicesmethod. in your rental income.We respond to many letters by telephone.    If you are a cash basis taxpayer, you reportIf the services are provided at an agreedTherefore, it would be helpful if you would in-rental income on your return for the year youupon or specified price, that price is the fairclude your daytime phone number, including theactually or constructively receive it. You are amarket value unless there is evidence to thearea code, in your correspondence. cash basis taxpayer if you report income in thecontrary.You can email us at *taxforms@irs.gov. (The year you receive it, regardless of when it was
+asterisk must be included in the address.)earned. You constructively receive income Example. Your tenant is a painter. He offersPlease put “Publications Comment” on the sub-when it is made available to you, for example, byto paint your rental property instead of paying 2ject line. Although we cannot respond individu-being credited to your bank account. months’ rent. You accept his offer.ally to each email, we do appreciate your  If you use an accrual method, you generallyInclude in your rental income the amount thefeedback and will consider your comments asreport income when you earn it, rather thantenant would have paid for 2 months’ rent. Youwe revise our tax products. when you receive it. You generally deduct yourcan deduct that same amount as a rental ex-expenses when you incur them, rather thanOrdering forms and publications. Visit pense for painting your property.when you pay them.www.irs.gov/formspubs to download forms and  For more information about when you con-Lease with option to buy.If the rental agree-publications, call 1-800-829-3676, or write to thestructively receive income and accrual methodsment gives your tenant the right to buy youraddress below and receive a response within 10of accounting, see Publication 538, Accountingrental property, the payments you receive underbusiness days after your request is received.Periods and Methods. the agreement are generally rental income. If
+your tenant exercises the right to buy the prop-Advance rent. Advance rent is any amountNational Distribution Center erty, the payments you receive for the periodyou receive before the period that it covers.P.O. Box 8903 after the date of sale are considered part of theInclude advance rent in your rental income in theBloomington, IL 61702-8903 selling price.year you receive it regardless of the period cov-
+ered or the method of accounting you use.Rental of property also used as a home.IfTax questions. If you have a tax question, you rent property that you also use as yourvisit www.irs.gov or call 1-800-829-1040. We Example. You sign a 10-year lease to renthome and you rent it fewer than 15 days duringcannot answer tax questions sent to either of theyour property. In the first year, you receivethe tax year, do not include the rent you receiveabove addresses. $5,000 for the first year’s rent and $5,000 as rentin your income and do not deduct rental ex-
+for the last year of the lease. You must includepenses. However, you can deduct on Schedule
+$10,000 in your income in the first year.Useful Items A (Form 1040) the interest, taxes, and casualty
+You may want to see: and theft losses that are allowed for nonrentalSecurity deposits.Do not include a security
+property. See Personal Use of Dwelling Unitdeposit in your income when you receive it if youPublication (Including Vacation Home), later.plan to return it to your tenant at the end of the
+lease. But if you keep part or all of the security❏ 463 Travel, Entertainment, Gift, and Car Part interest.If you own a part interest indeposit during any year because your tenantExpenses rental property, you must report your part of thedoes not live up to the terms of the lease, includerental income from the property.❏ 534 Depreciating Property Placed in the amount you keep in your income in that year.Service Before 1987 If an amount called a security deposit is to be
+used as a final payment of rent, it is advance❏ 535 Business Expenses
+rent. Include it in your income when you receive❏ 547 Casualties, Disasters, and Thefts Rental Expensesit.
+❏ 551 Basis of Assets Payment for canceling a lease.If your tenant This section discusses expenses of renting
+❏ 925 Passive Activity and At-Risk Rules pays you to cancel a lease, the amount you property that you ordinarily can deduct from your
+Page 2 Publication 527 (2006)
+
+Page 3 of 22 of Publication 527 9:33 - 21-NOV-2006
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+rental income. It includes information on theUncollected rent.If you are a cash basis tax-Other Expenses
+expenses you can deduct if you rent a condo- payer, you do not report uncollected rent. Be-
+minium or cooperative apartment, if you rent cause you do not include it in your income, youIn addition to depreciation and the cost of re-
+part of your property, or if you change your cannot deduct it. pairs, you can deduct the following expenses
+property to rental use. Depreciation, which you from your rental income.If you use an accrual method, you report
+can also deduct from your rental income, isincome when you earn it. If you are unable to• Advertising.discussed later under Depreciation. collect the rent, you may be able to deduct it as a
+• Cleaning and maintenance.business bad debt. See chapter 10 of Publica-When to deduct. You generally deduct yourtion 535 for more information about business• Utilities.rental expenses in the year you pay them.bad debts.
+• Insurance.Vacant rental property.If you hold property
+for rental purposes, you may be able to deductRepairs and Improvements • Taxes.
+your ordinary and necessary expenses (includ-
+• Interest.You can deduct the cost of repairs to your rentaling depreciation) for managing, conserving, or
+property. You cannot deduct the cost of im-maintaining the property while the property is • Points.provements. You recover the cost of improve-vacant. However, you cannot deduct any loss of
+• Commissions.ments by taking depreciation (explained later).rental income for the period the property is va-
+cant. • Tax return preparation fees.Separate the costs of repairs and im-
+provements, and keep accurate rec-Pre-rental expenses.You can deduct your • Travel expenses.ords. You will need to know the cost ofordinary and necessary expenses for managing,
+RECORDS
+• Rental payments.improvements when you sell or depreciate yourconserving, or maintaining rental property from
+property.the time you make it available for rent. • Local transportation expenses.
+Some of these expenses are discussed next.Depreciation.You can begin to depreciate Repairs. A repair keeps your property in goodrental property when it is ready and available foroperating condition. It does not materially add toRental payments for property.You can de-rent. See Placed-in-Service Date under Depre- the value of your property or substantially pro-duct the rent you pay for property that you useciation, later. long its life. Repainting your property inside orfor rental purposes. If you buy a leasehold forout, fixing gutters or floors, fixing leaks, plaster-Expenses for rental property sold.If you sell rental purposes, you can deduct an equal part ofing, and replacing broken windows are exam-property you held for rental purposes, you can the cost each year over the term of the lease.ples of repairs.deduct the ordinary and necessary expenses for
+Rental of equipment. You can deduct themanaging, conserving, or maintaining the prop- If you make repairs as part of an extensive
+rent you pay for equipment that you use forerty until it is sold. remodeling or restoration of your property, the
+rental purposes. However, in some cases, leasewhole job is an improvement.Personal use of rental property. If you contracts are actually purchase contracts. If so,sometimes use your rental property for personal you cannot deduct these payments. You canImprovements. An improvement adds to thepurposes, you must divide your expenses be- recover the cost of purchased equipmentvalue of property, prolongs its useful life, ortween rental and personal use. Also, your rental through depreciation.adapts it to new uses. Table 1 shows examplesexpense deductions may be limited. See Per- of many improvements.sonal Use of Dwelling Unit (Including Vacation Insurance premiums paid in advance.If you If you make an improvement to property, theHome), later. pay an insurance premium for more than onecost of the improvement must be capitalized.year in advance, each year you can deduct thePart interest.If you own a part interest in The capitalized cost can generally be depreci-part of the premium payment that will apply torental property, you can deduct your part of the ated as if the improvement were separate prop-that year. You cannot deduct the total premiumexpenses that you paid. erty. in the year you pay it.
+Table 1. Examples of Improvements Local benefit taxes.Generally, you cannot
+deduct charges for local benefits that increase
+Caution. Work you do (or have done) on your home that does not add much to eitherthe value of your property, such as charges for
+the value or the life of the property, but rather keeps the property in good condition, isputting in streets, sidewalks, or water and sewer
+considered a repair, not an improvement. systems. These charges are nondepreciable
+capital expenditures. You must add them to the
+Additions Heating & Air Conditioning basis of your property. You can deduct localBedroom Heating system benefit taxes if they are for maintaining, repair-Bathroom Central air conditioning ing, or paying interest charges for the benefits.Deck Furnace
+Garage Duct work Interest expense.You can deduct mortgage
+Porch Central humidifier interest you pay on your rental property. Chapter
+Patio Filtration system 4 of Publication 535 explains mortgage interest
+in detail.Lawn & Grounds Plumbing
+Expenses paid to obtain a mortgage.Landscaping Septic system
+Certain expenses you pay to obtain a mortgageDriveway Water heater
+on your rental property cannot be deducted asWalkway Soft water system
+Fence Filtration system interest. These expenses, which include mort-
+Retaining wall gage commissions, abstract fees, and recording
+Sprinkler system Interior Improvements fees, are capital expenses. However, you can
+Swimming pool Built-in appliances amortize them over the life of the mortgage.
+Kitchen modernization
+Form 1098. If you paid $600 or more ofMiscellaneous Flooring
+mortgage interest on your rental property to anyStorm windows, doors Wall-to-wall carpeting
+one person, you should receive a Form 1098,New roof
+Mortgage Interest Statement, or similar state-Central vacuum Insulation
+ment showing the interest you paid for the year.Wiring upgrades Attic
+Satellite dish Walls, floor If you and at least one other person (other than
+Security system Pipes, duct work your spouse if you file a joint return) were liable
+for, and paid interest on, the mortgage, and the
+Publication 527 (2006) Page 3
+
+Page 4 of 22 of Publication 527 9:33 - 21-NOV-2006
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+other person received the Form 1098, reportConstant-yield method.If the OID is not de to collect rental income or to manage, conserve,
+minimis, you must use the constant-yieldyour share of the interest on Schedule E (Form or maintain your rental property. You must prop-
+method to figure how much you can deduct each1040), line 13. Attach a statement to your return erly allocate your expenses between rental and
+year.showing the name and address of the other nonrental activities. You cannot deduct the cost
+You figure your deduction for the first year inperson. In the left margin of Schedule E, next to of traveling away from home if the primary pur-
+the following manner.line 13, enter “See attached.” pose of the trip was the improvement of your
+property. You recover the cost of improvements1. Determine the issue price of the loan. Gen-Points.   The term “points” is often used to by taking depreciation. For information on travelerally, this equals the proceeds of the loan.describe some of the charges paid by a bor- expenses, see chapter 1 of Publication 463.If you paid points on the loan, the issuerower to take out a loan or a mortgage. These
+To deduct travel expenses, you mustprice generally is the difference betweencharges are also called loan origination fees,
+keep records that follow the rules inthe proceeds and the points.maximum loan charges, or premium charges. If chapter 5 of Publication 463.RECORDS
+any of these charges (points) are solely for the2. Multiply the result in (1) by the yield to
+use of money, they are interest. maturity.
+Points paid when you take out a loan or Local transportation expenses.You can de-3. Subtract any qualified stated interest pay-mortgage result in original issue discount (OID). duct your ordinary and necessary local transpor-ments from the result in (2). This is theIn general, the points (OID) are deductible as tation expenses if you incur them to collect rentalOID you can deduct in the first year.interest unless they must be capitalized. How income or to manage, conserve, or maintain
+you figure the amount of points (OID) you canTo figure your deduction in any subsequentyour rental property.
+deduct each year depends on whether or notyear, you start with the adjusted issue price. To Generally, if you use your personal car,
+your total OID, including the OID resulting fromget the adjusted issue price, add to the issuepickup truck, or light van for rental activities, youthe points, is insignificant or de minimis. If theprice any OID previously deducted. Then followcan deduct the expenses using one of two meth-OID is not de minimis, you must use the con-steps (2) and (3) above. ods: actual expenses or the standard mileagestant-yield method to figure how much you canThe yield to maturity (YTM) is generallyrate. For 2006, the standard mileage rate is 441/2
+deduct. shown in the literature you receive from your cents a mile for all business miles. For morelender. If you do not have this information, con-information, see chapter 4 of Publication 463.De minimis OID. The OID is de minimis if itsult your lender or tax advisor. In general, theis less than one-fourth of 1% (.0025) of the To deduct car expenses under eitherYTM is the discount rate that, when used instated redemption price at maturity multiplied by method, you must keep records thatcomputing the present value of all principal andthe number of full years from the date of original follow the rules in chapter 5 of Publica-interest payments, produces an amount equal toRECORDS
+issue to maturity (the term of the loan). tion 463. In addition, you must complete Formthe principal amount of the loan.If the OID is de minimis, you can choose one 4562, Part V, and attach it to your tax return.Qualified stated interest (QSI) is stated inter-of the following ways to figure the amount youest that is unconditionally payable in cash orcan deduct each year. property (other than another loan of the issuer)Tax return preparation.You can deduct, as a
+at least annually over the term of the loan at arental expense, the part of tax return preparation1. On a constant-yield basis over the term ofsingle fixed rate. fees you paid to prepare Schedule E (Formthe loan.
+1040), Part I. For example, on your 2006 Sched-2. On a straight line basis over the term ofExample of constant yield.The facts are ule E you can deduct fees paid in 2006 to pre-the loan. the same as in the previous example. The yieldpare Part I of your 2005 Schedule E. You canto maturity on your loan is 10.2467%, com-also deduct, as a rental expense, any expense3. In proportion to stated interest payments.pounded annually. (other than federal taxes and penalties) you paid4. In its entirety at maturity of the loan.You figure the amount of points (OID) youto resolve a tax underpayment related to yourcan deduct in 2006 as follows.You make this choice by deducting the OID in a rental activities.
+manner consistent with the method chosen onPrincipal amount of the loan..... $100,000your timely filed tax return for the tax year in CondominiumsMinus: Points.............. 1,500which the loan is issued. Issue price of the loan......... $ 98,500 and Cooperatives
+Multiplied by: YTM........... × .102467Example of de minimis amount.On Janu- Total.................... 10,093 If you rent out a condominium or a cooperativeary 1, 2006, you took out a loan for $100,000.Minus: QSI................ 10,000 apartment, special rules apply. CondominiumsThe loan matures on January 1, 2016 (a 10-yearPoints (OID) deductible in 2006 $ 93 are treated differently from cooperatives.term), and the stated principal amount of theYou figure the deduction for 2007 as follows.
+loan ($100,000) is payable on that date. An
+interest payment of $10,000 is payable to theIssue price................ $98,500 Condominiumbank on January 2 of each year, beginning onPlus: Points (OID) deducted in 2006 93
+Adjusted issue price.......... $98,593January 2, 2007. When the loan was made, you If you own a condominium, you own a dwelling
+Multiplied by: YTM........... × .102467paid $1,500 in points to the bank. The points unit in a multi-unit building. You also own a
+Total.................... 10,103reduced the issue price of the loan from share of the common elements of the structure,
+Minus: QSI................ 10,000$100,000 to $98,500, resulting in $1,500 of OID. such as land, lobbies, elevators, and servicePoints (OID) deductible in 2007 . . $ 103You determine that the points (OID) you paid are areas. You and the other condominium owners
+de minimis based on the following computation. may pay dues or assessments to a special cor-Loan or mortgage ends. If your loan orporation that is organized to take care of themortgage ends, you may be able to deduct anyRedemption price at maturity common elements.remaining points (OID) in the tax year in which(principal amount of the loan)..... $100,000 If you rent your condominium to others, youthe loan or mortgage ends. A loan or mortgageMultiplied by: The term of the loan in can deduct:may end due to a refinancing, prepayment, fore-complete years.............. × 10
+Multiplied by................ × .0025 closure, or similar event. However, if the refi-• Depreciation,
+De minimis amount $ 2,500 nancing is with the same lender, the remaining• Repairs,points (OID) generally are not deductible in theThe points (OID) you paid ($1,500) are less thanyear in which the refinancing occurs, but may be• Upkeep,the de minimis amount. Therefore, you have de deductible over the term of the new mortgage orminimis OID and you can choose one of the four • Dues,loan.ways discussed earlier to figure the amount you • Interest and taxes, andcan deduct each year. Under the straight lineTravel expenses. You can deduct the ordi-
+• Assessments for the care of the commonmethod, you can deduct $150 each year for 10nary and necessary expenses of traveling away
+parts of the structure.years. from home if the primary purpose of the trip was
+Page 4 Publication 527 (2006)
+
+Page 5 of 22 of Publication 527 9:33 - 21-NOV-2006
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+You cannot deduct special assessments you deduct these expenses only if they, together to certain limitations, only if you itemize your
+pay to a condominium management corporation with certain other miscellaneous itemized de- deductions on Schedule A (Form 1040).
+for improvements. But you may be able to re- ductions, total more than 2% of your adjustedYou cannot deduct any part of the cost of the
+cover your share of the cost of any improvement gross income. first phone line even if your tenants have unlim-
+by taking depreciation. ited use of it.
+Postponing decision.If your rental income isYou do not have to divide the expenses thatmore than your rental expenses for at least 3
+Cooperative belong only to the rental part of your property.years out of a period of 5 consecutive years, youFor example, if you paint a room that you rent, orIf you have a cooperative apartment that youare presumed to be renting your property toif you pay premiums for liability insurance inrent to others, you can usually deduct, as amake a profit. You may choose to postpone theconnection with renting a room in your home,rental expense, all the maintenance fees youdecision of whether the rental is for profit by filingyour entire cost is a rental expense. If you installpay to the cooperative housing corporation.Form 5213. a second phone line strictly for your tenant’sHowever, you cannot deduct a payment See Publication 535 for more information.use, all of the cost of the second line is deducti-earmarked for a capital asset or improvement, ble as a rental expense. You can deduct depre-or otherwise charged to the corporation’s capital ciation, discussed later, on the part of theaccount. For example, you cannot deduct a pay- property used for rental purposes as well as onment used to pave a community parking lot, the furniture and equipment you use for rentalProperty Changedinstall a new roof, or pay the principal of the purposes.corporation’s mortgage. You must add the pay-to Rental Usement to the basis of your stock in the corpora- How to divide expenses.If an expense is fortion. both rental use and personal use, such as mort-If you change your home or other property (or aTreat as a capital cost the amount you were gage interest or heat for the entire house, youpart of it) to rental use at any time other than theassessed for capital items. This cannot be more must divide the expense between rental use andbeginning of your tax year, you must dividethan the amount by which your payments to the personal use. You can use any reasonableyearly expenses, such as taxes and insurance,corporation exceeded your share of the corpora- method for dividing the expense. It may be rea-between rental use and personal use.tion’s mortgage interest and real estate taxes. sonable to divide the cost of some items (forYou can deduct as rental expenses only the Your share of interest and taxes is the example, water) based on the number of peoplepart of the expense that is for the part of the yearamount the corporation elected to allocate to using them. However, the two most commonthe property was used or held for rental pur-you, if it reasonably reflects those expenses for methods for dividing an expense are one basedposes.your apartment. Otherwise, figure your share in on the number of rooms in your home and oneFor depreciation purposes, treat the propertythe following way. based on the square footage of your home.as being placed in service on the conversion
+date.1. Divide the number of your shares of stock Example. You rent a room in your house.   You cannot deduct depreciation or insur-by the total number of shares outstanding, The room is 12 × 15 feet, or 180 square feet.ance for the part of the year the property wasincluding any shares held by the corpora- Your entire house has 1,800 square feet of floorheld for personal use. However, you can includetion. space. You can deduct as a rental expense 10%the home mortgage interest and real estate tax2. Multiply the corporation’s deductible inter- of any expense that must be divided betweenexpenses for the part of the year the propertyest by the number you figured in (1). This rental use and personal use. If your heating billwas held for personal use as an itemized deduc-is your share of the interest. for the year for the entire house was $600, $60tion on Schedule A (Form 1040). ($600 × 10%) is a rental expense. The balance,3. Multiply the corporation’s deductible taxes $540, is a personal expense that you cannotExample. Your tax year is the calendarby the number you figured in (1). This is deduct.year. You moved from your home in May andyour share of the taxes.
+started renting it out on June 1. You can deductIn addition to the maintenance fees paid toas rental expenses seven-twelfths of your yearlythe cooperative housing corporation, you canexpenses, such as taxes and insurance.deduct your direct payments for repairs, upkeep, Personal Use ofStarting with June, you can deduct as rentaland other rental expenses, including interestexpenses the amounts you pay for items gener-paid on a loan used to buy your stock in the Dwelling Unitally billed monthly, such as utilities.corporation. The depreciation deduction allowedWhen figuring depreciation, treat the prop-for cooperative apartments is discussed later. (Including Vacationerty as placed in service on June 1.
+Home)
+If you have any personal use of a dwelling unitNot Rented for Profit Renting Part of (defined later) (including a vacation home) that
+you rent, you must divide your expenses be-If you do not rent your property to make a profit,
+Property tween rental use and personal use. See Figuringyou can deduct your rental expenses only up to
+Days of Personal Use and How To Divide Ex-the amount of your rental income. You cannotIf you rent part of your property, you must dividepenses, later.carry forward to the next year any rental ex-certain expenses between the part of the prop-penses that are more than your rental income for If you used a dwelling unit for personal pur-erty used for rental purposes and the part of thethe year. For more information about the rules poses, it may be considered a “dwelling unitproperty used for personal purposes, as thoughfor an activity not engaged in for profit, see used as a home.” If it is, you cannot deductyou actually had two separate pieces of prop-chapter 1 of Publication 535. rental expenses that are more than your rentalerty. income for the unit. See Dwelling Unit Used as
+  You can deduct the expenses related to theWhere to report. Report your not-for-profit Home and How To Figure Rental Income and
+part of the property used for rental purposes,rental income on Form 1040, line 21. You can Deductions, later. If the dwelling unit is not con-
+such as home mortgage interest and real estateinclude your mortgage interest (if you use the sidered a dwelling unit used as a home, you can
+taxes, as rental expenses on Schedule E (Formproperty as your main home or second home), deduct rental expenses that are more than your
+1040). You can also deduct as a rental expensereal estate taxes, and casualty losses on the rental income for the unit, subject to certain
+a part of other expenses that normally are non-appropriate lines of Schedule A (Form 1040) if limits. See Limits on Rental Losses, later.
+deductible personal expenses, such as ex-you itemize your deductions.
+penses for electricity, or painting the outside ofClaim your other rental expenses, subject to Exception for minimal rental use.If you use
+your house.the rules explained in chapter 1 of Publication the dwelling unit as a home and you rent it fewer
+535, as miscellaneous itemized deductions on You can deduct the expenses for the part of than 15 days during the year, do not include any
+line 22 of Schedule A (Form 1040). You can the property used for personal purposes, subject of the rent in your income and do not deduct any
+Publication 527 (2006) Page 5
+
+Page 6 of 22 of Publication 527 9:33 - 21-NOV-2006
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+of the rental expenses. See Dwelling Unit Usedbathroom, and a small kitchen. You rented the months). On the following June 1, you move
+as Home, later. back into your old house.basement apartment at a fair rental price to
+The days you used the house as your maincollege students during the regular school year.
+Dwelling unit. A dwelling unit includes a home from January 1 to February 28 and fromYou rented to them on a 9-month lease (273
+house, apartment, condominium, mobile home, June 1 to December 31 of the next year are notdays). You figured 10% of the total days rentedboat, vacation home, or similar property. A counted as days of personal use.to others at a fair rental price is 27 days.dwelling unit has basic living accommodations,During June (30 days), your brothers stayedsuch as sleeping space, a toilet, and cooking Example 2. On January 31, you moved outwith you and lived in the basement apartmentfacilities. A dwelling unit does not include prop- of the condominium where you had lived for 3rent free.erty used solely as a hotel, motel, inn, or similar years. You offered it for rent at a fair rental priceYour basement apartment was used as aestablishment. beginning on February 1. You were unable tohome because you used it for personal pur-Property is used solely as a hotel, motel, inn, rent it until April. On September 15, you sold theposes for 30 days. Rent-free use by your broth-or similar establishment if it is regularly available condominium.
+ers is considered personal use. Your personalfor occupancy by paying customers and is not The days you used the condominium as your
+use (30 days) is more than the greater of 14used by an owner as a home during the year. main home from January 1 to January 31 are not
+days or 10% of the total days it was rented (27counted as days of personal use when deter-
+days).Example. You rent a room in your home mining whether you used it as a home.
+that is always available for short-term occu-
+Example 2. You rented the guest bedroompancy by paying customers. You do not use the Figuring Daysin your home at a fair rental price during the localroom yourself and you allow only paying cus-
+of Personal Usetomers to use the room. The room is used solely college’s homecoming, commencement, and
+as a hotel, motel, inn, or similar establishmentfootball weekends (a total of 27 days). YourA day of personal use of a dwelling unit is anyand is not a dwelling unit. sister-in-law stayed in the room, rent free, for theday that the unit is used by any of the followinglast 3 weeks (21 days) in July. You figured 10%persons.of the total days rented to others at a fair rentalDwelling Unit Used as Home
+price is 3 days. 1. You or any other person who has an inter-
+The tax treatment of rental income and ex- est in it, unless you rent it to another ownerThe room was used as a home because you
+penses for a dwelling unit that you also use for as his or her main home under a sharedused it for personal purposes for 21 days. That is
+personal purposes depends on whether you use equity financing agreement (defined later).more than the greater of 14 days or 10% of the
+it as a home. (See How To Figure Rental Income However, see Use as Main Home Before27 days it was rented (3 days).
+and Deductions, later). or After Renting under Dwelling Unit Used
+  You use a dwelling unit as a home during As Home , earlier.Example 3. You own a condominium apart-
+the tax year if you use it for personal purposesment in a resort area. You rented it at a fair rental2. A member of your family or a member ofmore than the greater of: price for a total of 170 days during the year. Forthe family of any other person who has an12 of these days, the tenant was not able to useinterest in it, unless the family member1. 14 days, or the apartment and allowed you to use it evenuses the dwelling unit as his or her main2. 10% of the total days it is rented to othersthough you did not refund any of the rent. Yourhome and pays a fair rental price. Familyat a fair rental price. family actually used the apartment for 10 ofincludes only brothers and sisters,those days. Therefore, the apartment is treatedhalf-brothers and half-sisters, spouses, an-See Figuring Days of Personal Use, later. as having been rented for 160 (170 – 10) days.cestors (parents, grandparents, etc.) andIf a dwelling unit is used for personal pur-
+You figure 10% of the total days rented to otherslineal descendants (children, grandchild-poses on a day it is rented at a fair rental price,
+at a fair rental price is 16 days. Your family alsoren, etc.).do not count that day as a day of rental use in
+used the apartment for 7 other days during theapplying (2) above. Instead, count it as a day of 3. Anyone under an arrangement that letsyear.personal use in applying both (1) and (2) above. you use some other dwelling unit.You used the apartment as a home becauseThis rule does not apply when dividing expenses
+you used it for personal purposes for 17 days.4. Anyone at less than a fair rental price.between rental and personal use.
+That is more than the greater of 14 days or 10%
+Fair rental price.A fair rental price for yourof the 160 days it was rented (16 days). Main home. If the other person or member ofproperty generally is the amount of rent that a the family in (1) or (2) above has more than oneperson who is not related to you would be willing home, his or her main home is ordinarily the oneto pay. The rent you charge is not a fair rentalUse as Main Home he or she lived in most of the time.price if it is substantially less than the rentsBefore or After Renting
+charged for other properties that are similar to Shared equity financing agreement.This is
+For purposes of determining whether a dwellingyour property. an agreement under which two or more persons
+Ask yourself the following questions when unit was used as a home, you may not have toacquire undivided interests for more than 50
+comparing another property with yours. count days you used the property as your mainyears in an entire dwelling unit, including the
+home before or after renting it or offering it forland, and one or more of the co-owners is enti-• Is it used for the same purpose? rent as days of personal use. Do not count themtled to occupy the unit as his or her main home
+• Is it approximately the same size? as days of personal use if: upon payment of rent to the other co-owner or
+owners.• Is it in approximately the same condition?• You rented or tried to rent the property for
+12 or more consecutive months. Donation of use of property. You use a• Does it have similar furnishings?
+dwelling unit for personal purposes if:• You rented or tried to rent the property for• Is it in a similar location? a period of less than 12 consecutive • You donate the use of the unit to a charita-If any of the answers are no, the propertiesmonths and the period ended because ble organization,probably are not similar. you sold or exchanged the property.
+• The organization sells the use of the unit
+This special rule does not apply when dividingat a fund-raising event, andExamples expenses between rental and personal use.
+• The “purchaser” uses the unit.The following examples show how to determine
+Example 1. On February 28, you moved outwhether you used your rental property as a
+of the house you had lived in for 6 years be-home. Examples
+cause you accepted a job in another town. You
+rent your house at a fair rental price from MarchExample 1. You converted the basement of The following examples show how to determine
+15 of that year to May 14 of the next year (14your home into an apartment with a bedroom, a days of personal use.
+Page 6 Publication 527 (2006)
+
+Page 7 of 22 of Publication 527 9:33 - 21-NOV-2006
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Table 2. Worksheet for Figuring the Limit on Rental Deductions for a Dwelling Unit Used as a Home
+Use this worksheet only if you answer “yes” to all the following questions.
+• Did you use the dwelling unit as a home this year? (See Dwelling Unit Used as Home.)
+• Did you rent the dwelling unit 15 days or more this year?
+• Is the total of your rental expenses and depreciation more than your rental income?
+1. Enter rents received..................................................
+2a.Enter the rental portion of deductible home mortgage interest (see instructions)........
+b. Enter the rental portion of real estate taxes..................................
+c. Enter the rental portion of deduction casualty and theft losses (see instructions)........
+d. Enter direct rental expenses (see instructions)................................
+e. Fully deductible rental expenses. Add lines 2a–2d...........................
+3. Subtract line 2e from line 1. If zero or less, enter -0-............................
+4a.Enter the rental portion of expenses directly related to operating or maintaining the
+dwelling unit (such as repairs, insurance, and utilities)..........................
+b. Enter the rental portion of excess mortgage interest (see instructions)...............
+c. Add lines 4a and 4b..................................................
+d. Allowable expenses. Enter the smaller of line 3 or line 4c.......................
+5. Subtract line 4d from line 3. If zero or less, enter -0-............................
+6a.Enter the rental portion of excess casualty and theft losses (see instructions)..........
+b. Enter the rental portion of depreciation of the dwelling unit.......................
+c. Add lines 6a and 6b..................................................
+d. Allowable excess casualty and theft losses and depreciation. Enter the smaller of
+line 5 or line 6c......................................................
+7a. Operating expenses to be carried over to next year. Subtract line 4d from line 4c . . . .
+b. Excess casualty and theft losses and depreciation to be carried over to next year.
+Subtract line 6d from line 6c.............................................
+Enter the amounts on lines 2e, 4d, and 6d on the appropriate lines of Schedule E (Form 1040), Part I.
+Worksheet Instructions
+Follow these instructions for the worksheet above. If you were unable to deduct all your expenses last year because of the rental income limit, add
+these unused amounts to your expenses for this year.
+Line 2a. Figure the mortgage interest on the dwelling unit that you could deduct on Schedule A (Form 1040) if you had not rented the unit. Do not
+include interest on a loan that did not benefit the dwelling unit. For example, do not include interest on a home equity loan used to pay off credit cards or
+other personal loans, buy a car, or pay college tuition. Include interest on a loan used to buy, build, or improve the dwelling unit, or to refinance such a
+loan. Enter the rental portion of this interest on line 2a of the worksheet.
+Line 2c. Figure the casualty and theft losses related to the dwelling unit that you could deduct on Schedule A (Form 1040) if you had not rented the
+dwelling unit. To do this, complete Form 4684, Casualties and Thefts, Section A, treating the losses as personal losses. On Form 4684, line 19, enter
+10% of your adjusted gross income figured without your rental income and expenses from the dwelling unit. If your loss occurred after August 24, 2005,
+and was the result of Hurricane Katrina, enter zero on line 19. Enter the rental portion of the result from Form 4684, line 21, on line 2c of this worksheet.
+Note. Do not file this Form 4684 or use it to figure your personal losses on Schedule A. Instead, figure the personal portion on a separate Form 4684.
+Line 2d. Enter the total of your rental expenses that are directly related only to the rental activity. These include interest on loans used for rental
+activities other than to buy, build, or improve the dwelling unit. Also include rental agency fees, advertising, office supplies, and depreciation on office
+equipment used in your rental activity.
+Line 4b. On line 2a, you entered the rental portion of the mortgage interest you could deduct on Schedule A if you had not rented the dwelling unit.
+Enter on line 4b of this worksheet the rental portion of the mortgage interest you could not deduct on Schedule A because it is more than the limit on home
+mortgage interest. Do not include interest on a loan that did not benefit the dwelling unit (as explained in the line 2a instructions).
+Line 6a. To find the rental portion of excess casualty and theft losses, use the Form 4684 you prepared for line 2c of this worksheet.
+A. Enter the amount from Form 4684, line 10......................................................
+B. Enter the rental portion of A...............................................................
+C. Enter the amount from line 2c of this worksheet..................................................
+D. Subtract C from B. Enter the result here and on line 6a of this worksheet.................................
+Allocating the limited deduction. If you cannot deduct all of the amount on line 4c or 6c this year, you can allocate the allowable deduction in any
+way you wish among the expenses included on line 4c or 6c. Enter the amount you allocate to each expense on the appropriate line of Schedule E, Part I.
+Publication 527 (2006) Page 7
+
+Page 8 of 22 of Publication 527 9:33 - 21-NOV-2006
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Example 1. You and your neighbor are the unit under the rules explained in How To rental expenses. See How To Report Rental
+co-owners of a condominium at the beach. You Income and Expenses, later.Figure Rental Income and Deductions, later.
+rent the unit to vacationers whenever possible. Your deductible rental expenses can beWhen dividing your expenses, follow these
+The unit is not used as a main home by anyone. more than your gross rental income. However,rules.
+Your neighbor uses the unit for 2 weeks every see Limits on Rental Losses, later.
+• Any day that the unit is rented at a fairyear.
+rental price is a day of rental use even ifBecause your neighbor has an interest in theyou used the unit for personal purposesProperty Used as a Homeunit, both of you are considered to have used the
+that day. This rule does not apply whenunit for personal purposes during those 2 If you use a dwelling unit as a home during thedetermining whether you used the unit asweeks. year, how you figure your rental income anda home.
+deductions depends on how many days the unitExample 2. You and your neighbors are • Any day that the unit is available for rentwas rented at a fair rental price.co-owners of a house under a shared equity but not actually rented is not a day offinancing agreement. Your neighbors live in the Rented fewer than 15 days. If you use arental use.house and pay you a fair rental price. dwelling unit as a home and you rent it fewer
+Even though your neighbors have an interest than 15 days during the year, do not include any
+Example. Your beach cottage was avail-in the house, the days your neighbors live there rental income in your income. Also, you cannot
+able for rent from June 1 through August 31 (92are not counted as days of personal use by you. deduct any expenses as rental expenses.
+days). Your family uses the cottage during theThis is because your neighbors rent the house
+Rented 15 days or more.If you use a dwell-last 2 weeks in May (14 days). You were unableas their main home under a shared equity fi-
+ing unit as a home and rent it 15 days or moreto find a renter for the first week in August (7nancing agreement.
+during the year, you include all your rental in-days). The person who rented the cottage for
+come in your income. See How To ReportExample 3. You own a rental property thatJuly allowed you to use it over a weekend (2
+Rental Income and Expenses, later. If you had ayou rent to your son. Your son has no interest indays) without any reduction in or refund of rent.
+net profit from the rental property for the yearthis property. He uses it as his main home. HeThe cottage was not used at all before May 17 or
+(that is, if your rental income is more than thepays you a fair rental price for the property.after August 31. total of your rental expenses, including depreci-Your son’s use of the property is not personalYou figure the part of the cottage expensesation), deduct all of your rental expenses. How-use by you because your son is using it as histo treat as rental expenses as follows. ever, if you had a net loss, your deduction formain home, he has no interest in the property,
+certain rental expenses is limited.• The cottage was used for rental a total ofand he is paying you a fair rental price.
+85 days (92 − 7). The days it was avail- Limit on deductions. If your rental ex-able for rent but not rented (7 days) areExample 4. You rent your beach house to penses are more than your rental income, younot days of rental use. The July weekendRosa. Rosa rents her house in the mountains to cannot use the excess expenses to offset in-(2 days) you used it is rental use becauseyou. You each pay a fair rental price. come from other sources. The excess can beyou received a fair rental price for theYou are using your house for personal pur- carried forward to the next year and treated asweekend.poses on the days that Rosa uses it because rental expenses for the same property. Any ex-
+your house is used by Rosa under an arrange- penses carried forward to next year will be sub-• You used the cottage for personal pur-
+ment that allows you to use her house. ject to any limits that apply next year. You canposes for 14 days (the last 2 weeks in
+deduct the expenses carried over to a year onlyMay).Example 5. You rent an apartment to your up to the amount of your rental income for that
+• The total use of the cottage was 99 daysmother at less than a fair rental price. You are year, even if you do not use the property as your
+(14 days personal use + 85 days rentalusing the apartment for personal purposes on home for that year.
+use).the days that your mother rents it because you To figure your deductible rental expenses
+rent it for less than a fair rental price. and any carryover to next year, use Table 2.• Your rental expenses are 85/99 (86%) of
+the cottage expenses.
+Days Used for When determining whether you used the cot-Repairs and Maintenance Depreciationtage as a home, the July weekend (2 days) you
+used it is personal use even though you re-Any day that you spend working substantially full You recover the cost of income producing prop-ceived a fair rental price for the weekend. There-time repairing and maintaining (not improving) erty through yearly tax deductions. You do thisfore, you had 16 days of personal use and 83your property is not counted as a day of personal by depreciating the property; that is, by deduct-days of rental use for this purpose. Because youuse. Do not count such a day as a day of per- ing some of the cost on the tax return each year.used the cottage for personal purposes moresonal use even if family members use the prop- Three basic factors determine how much de-than 14 days and more than 10% of the days oferty for recreational purposes on the same day. preciation you can deduct. They are: (1) yourrental use (8 days), you used it as a home. If you
+basis in the property, (2) the recovery period forhave a net loss, you may not be able to deductExample. You own a cabin in the mountains the property, and (3) the depreciation methodall of the rental expenses. See Property Used asthat you rent during the summer. You spend 3 used. You cannot simply deduct your mortgagea Home  in the following discussion.days at the cabin each May, working full time to or principal payments, or the cost of furniture,repair anything that was damaged over the win- fixtures and equipment, as an expense.ter and get the cabin ready for the summer. You
+How To Figure Rental You can deduct depreciation only on the partalso spend 3 days each September, working fullIncome and Deductions of your property used for rental purposes. De-time to repair any damage done by renters and preciation reduces your basis for figuring gain orgetting the cabin ready for the winter. How you figure your rental income and deduc-loss on a later sale or exchange.These 6 days do not count as days of per-tions depends on whether you used the dwellingYou may have to use Form 4562 to figuresonal use even if your family uses the cabinunit as a home (see Dwelling Unit Used as and report your depreciation. See How To Re-while you are repairing it. Home, earlier) and, if you used it as a home,port Rental Income and Expenses, later. Also
+how many days the property was rented at a fairsee Publication 946.
+How To Divide Expenses rental price.
+Claiming the correct amount of depreciation.
+If you use a dwelling unit for both rental and You should claim the correct amount of depreci-
+personal purposes, divide your expenses be- ation each tax year. Even if you did not claim
+Property Not Used as a Home
+tween the rental use and the personal use based depreciation that you were entitled to deduct,
+If you do not use a dwelling unit as a home,on the number of days used for each purpose. you must still reduce your basis in the property
+report all the rental income and deduct all theYou can deduct expenses for the rental use of by the full amount of depreciation that you could
+Page 8 Publication 527 (2006)
+
+Page 9 of 22 of Publication 527 9:33 - 21-NOV-2006
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+have deducted. See Decreases to basis, later, all part of the cost of land and cannot be depreci- type of property and when it was placed in serv-
+ice. For property used in rental activities you useated.for more information. If you did not deduct the
+one of the following.correct amount of depreciation for property in
+any year, you may be able to make a correctionProperty you own. To claim depreciation, • MACRS (Modified Accelerated Cost Re-for that year by filing Form 1040X, Amendedyou usually must be the owner of the property.covery System) for property placed inU.S. Individual Income Tax Return. If you are notYou are considered as owning property even if itservice after 1986.
+allowed to make the correction on an amended is subject to a debt.
+• ACRS (Accelerated Cost Recovery Sys-return, you can change your accounting methodRented property.Generally, if you pay renttem) for property placed in service afterto claim the correct amount of depreciation. Seeon property, you cannot depreciate that prop-1980 but before 1987.Changing your accounting method, later. erty. Usually, only the owner can depreciate it. If
+• Useful lives and either straight line or anyou make permanent improvements to the prop-Filing an amended return.You can file an
+accelerated method of depreciation, sucherty, you may be able to depreciate the improve-amended return to correct the amount of depre- as the declining balance method, for prop-ments. See Additions or improvements tociation claimed for any property in any of the erty placed in service before 1981.property, later.following situations.
+Cooperative apartments.If you are a ten-• You claimed the incorrect amount be- This publication discusses MACRSant-stockholder in a cooperative housing corpo-cause of a mathematical error made in only. If you need information about de-ration and rent your cooperative apartment toany year. preciating property placed in serviceCAUTION
+!
+others, you can deduct depreciation for your• You claimed the incorrect amount be- before 1987, see Publication 534.stock in the corporation.cause of a posting error made in any year. If you placed property in service before 2006,Figure your depreciation deduction as fol-continue to use the same method of figuring• You have not adopted a method of ac- lows. depreciation that you used in the past.counting for the property.
+1. Figure the depreciation for all the deprecia-
+Section 179 deduction.You cannot claim theble real property owned by the corporation.If an amended return is allowed, you must file
+section 179 deduction for property held to pro-(Depreciation methods are discussedit by the later of the following dates. duce rental income. See chapter 2 of Publicationlater.) If you bought your cooperative stock• 3 years from the date you filed your origi- 946.after its first offering, figure the depreciablenal return for the year in which you did notbasis of this property as follows.deduct the correct amount. (A return filed Alternative minimum tax.If you use acceler-
+early is considered filed on the due date.) ated depreciation, you may have to file Forma. Multiply your cost per share by the total
+6251, Alternative Minimum Tax–Individuals.number of outstanding shares.• 2 years from the time you paid your tax for Accelerated depreciation can be determinedthat year. b. Add to the amount figured in (a) anyunder MACRS, ACRS, and any other methodmortgage debt on the property on thethat allows you to deduct more depreciation thanChanging your accounting method. To date you bought the stock. you could deduct using a straight line method.change your accounting method, you must filec. Subtract from the amount figured in (b)Form 3115, Application for Change in Account- any mortgage debt that is not for theSpecial Depreciationing Method, to get the consent of the IRS. In depreciable real property, such as theAllowancesome instances, that consent is automatic. For part for the land.more information, see Changing Your Account-
+You can take a special depreciation allowanceing Method in Publication 946. 2. Subtract from the amount figured in (1) any(in addition to your regular MACRS depreciation
+depreciation for space owned by the cor-deduction) for qualified Gulf Opportunity Zone
+poration that can be rented but cannot be(GO Zone) property you placed in service inWhat Property Can be Depreciated lived in by tenant-stockholders. 2006. The allowance is 50% of the property’s
+depreciable basis. You figure the special depre-3. Divide the number of your shares of stockYou can depreciate your property if it meets all ciation allowance before you figure your regularby the total number of shares outstanding,the following requirements. MACRS deduction.including any shares held by the corpora-• You own the property. tion. Electing a lower or no special allowance.
+• You use the property in your business or You can elect to deduct a 30% or no special4. Multiply the result of (2) by the percentage
+income-producing activity (such as rental allowance for all property in each class of prop-you figured in (3). This is your depreciation
+property). erty placed in service during the tax year. Toon the stock.
+make an election, attach a statement to your• The property has a determinable useful Your depreciation deduction for the yearreturn indicating what election you are makinglife. cannot be more than the part of your adjustedand the class of property for which you arebasis (defined later) in the stock of the corpora-• The property is expected to last more than making the election.tion that is allocable to your rental property.1 year.
+See Cooperative apartments under What
+• The property is not excepted propertyProperty Can Be Depreciated? in chapter 1 ofQualified Gulf Opportunity Zone(such as property placed in service andPublication 946 for more information. Propertydisposed of in the same year and section
+197 intangibles). Your property is qualified GO Zone property if itNo deduction greater than basis.The total
+meets the following requirements.of all your yearly depreciation deductions cannot
+be more than the cost or other basis of theProperty having a determinable useful life. 1. It is one of the following types of property.property. For this purpose, your yearly deprecia-To be depreciable, your property must have a
+tion deductions include any depreciation thatdeterminable useful life. This means that it must a. Property depreciated under MACRS
+you were allowed to claim, even if you did notbe something that wears out, decays, gets used with a recovery period of 20 years or
+claim it.up, becomes obsolete, or loses its value from less.
+natural causes. b. Water utility property.
+Land. You can never depreciate the cost ofDepreciation Methods c. Certain computer software.land because land does not wear out, become
+There are three ways to figure depreciation. Theobsolete, or get used up. The costs of clearing, d. Qualified leasehold improvement prop-
+depreciation method you use depends on thegrading, planting, and landscaping are usually erty.
+Publication 527 (2006) Page 9
+
+Page 10 of 22 of Publication 527 9:33 - 21-NOV-2006
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+club, massage parlor, hot tub facility, sun-Table 3. MACRS Recovery Periods for Property Used in Rental Activities
+tan facility, or any store, the principal busi-
+ness of which is the sale of alcoholicMACRS Recovery Period beverages for consumption off premises.
+General Alternative • Any gambling or animal racing property.Depreciation Depreciation
+Type of Property System System • Property for which you elected not to claim
+any special depreciation allowance.Computers and their peripheral equipment............. 5  years 5 years
+Office machinery, such as:
+More information. For more informationTypewriters
+about the special depreciation allowance, seeCalculators
+Copiers................................. 5  years 6 years Publication 946.
+Automobiles................................. 5  years 5 years
+Light trucks.................................. 5  years 5 years MACRS
+Appliances, such as:
+Stoves Most business and investment property placed
+Refrigerators............................. 5  years 9 years in service after 1986 is depreciated using
+Carpets .................................... 5  years 9 years MACRS.
+Furniture used in rental property.................... 5  years 9 years MACRS consists of two systems that deter-
+mine how you depreciate your property—theOffice furniture and equipment, such as: General Depreciation System (GDS) and theDesks Alternative Depreciation System (ADS). GDS isFiles................................... 7  years 10 years
+used to figure your depreciation deduction forAny property that does not have a class life and that has not property used in most rental activities, unlessbeen designated by law as being in any other class.... 7  years 12 years
+you elect ADS.
+Roads ..................................... 1 5  years 20 years To figure your MACRS deduction, you need
+Shrubbery................................... 1 5  years 20 years to know the following information about your
+Fences ..................................... 1 5  years 20 years property:
+Residential rental property (buildings or structures) 1. Its recovery period,and structural components such as furnaces,
+2. Its placed-in-service date, andwaterpipes, venting, etc....................... 27.5 years 40 years
+3. Its depreciable basis.Additions and improvements, such as a new roof......... The same recovery period as
+that of the property to which
+the addition or improvement isPersonal home changed to rental use.Youmade, determined as if the must use MACRS to figure the depreciation onproperty were placed in property used as your home and changed toservice at the same time as rental property in 2006.the addition or improvement.
+Excluded property.You cannot use MACRS
+for certain personal property placed in service ine. Certain nonresidential real property andOriginal use test.The original use of theyour rental property in 2006 if it had been previ-residential rental property. property in the GO Zone must have begun withously placed in service before MACRS becameyou after August 27, 2005. effective. Generally, personal property is ex-2. It meets the tests explained next underUsed property can be qualified GO Zonecluded from MACRS if you (or a person relatedOther tests to be met. property if it has not previously been used withinto you) owned or used it in 1986 or if your tenant
+the GO Zone. Also, additional capital expendi-is a person (or someone related to the person)3. It is not excepted property explained later
+tures you incurred after August 27, 2005, towho owned or used it in 1986. However, theunder Excepted property.
+recondition or rebuild your property meet theproperty is not excluded if your 2006 deduction
+original use test if the original use of the propertyunder MACRS (using a half-year convention) isOther tests to be met.To be qualified GO in the GO Zone began with you. less than the deduction you would have underZone property, the property must meet all of the
+ACRS. See Can You Use MACRS To Depreci-If you sold property you placed in servicefollowing tests.
+ate Your Property? in Publication 946 for moreafter August 27, 2005, and you leased it back
+• Acquisition date test. information.within 3 months after you originally placed the
+property in service, the lessor is considered to• Placed-in-service date test.
+be the original user of the property.
+• Substantial use test. Recovery Periods Under GDS
+Excepted property.Qualified GO Zone prop-• Original use test. Each item of property that can be depreciated iserty does not include any of the following.assigned to a property class. The recovery pe-Acquisition date test.You must have ac- • Property required to be depreciated using riod of the property depends on the class thequired the property by purchase after August 27, property is in. Under GDS, the recovery periodthe Alternative Depreciation System2005, with no binding written contract for the of an asset is generally the same as its property(ADS).acquisition in effect before August 28, 2005. class. The property classes under GDS are:• Property any portion of which is financedPlaced-in-service date test.The property • 3-year property,with the proceeds of a tax-exempt obliga-must be placed in service for use in your trade ortion under section 103 of the Internal Rev-• 5-year property,business or for the production of income beforeenue Code.January 1, 2008 (January 1, 2009, in the case of • 7-year property,• Any qualified revitalization building forqualifying nonresidential real property and resi-
+• 10-year property,which you have elected to claim a com-dential rental property).
+mercial revitalization deduction for quali-• 15-year property,Substantial use test.Substantially all (80 fied revitalization expenditures.percent or more) of the use of the property must • 20-year property,• Any property used in connection with anybe in the GO Zone and in the active conduct of
+• Nonresidential real property, andyour trade or business in the GO Zone. private or commercial golf course, country
+Page 10 Publication 527 (2006)
+
+Page 11 of 22 of Publication 527 9:33 - 21-NOV-2006
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+• Residential rental property. placed in service at the same time as the addi- Cost Basis
+tion or improvement.
+The basis of property you buy is usually its cost.The class to which property is assigned is
+The cost is the amount you pay for it in cash, indetermined by its class life. Class lives and re-Example. You own a residential rental
+debt obligation, in other property, or in services.covery periods for most assets are listed in Ap- house that you have been renting since 1986
+Your cost also includes amounts you pay for:pendix B in Publication 946. and that you are depreciating under ACRS. You
+Under GDS, property that you placed in serv- put an addition onto the house and placed it in• Sales tax charged on the purchase (see
+ice during 2006 in your rental activities generallyservice in 2006. You must use MACRS for the Caution below),
+falls into one of the following classes. Also seeaddition. Under GDS, the addition is depreciated• Freight charges to obtain the property, andTable 3. as residential rental property over 27.5 years.
+• Installation and testing charges.• 5-year property. This class includes com-
+puters and peripheral equipment, office ma-Placed-in-Service Datechinery (typewriters, calculators, copiers, At the time this publication went to
+etc.), automobiles, and light trucks. print, Congress was considering legis-You can begin to depreciate property when you
+This class also includes appliances, car- lation that would extend the deductionplace it in service in your trade or business or for
+CAUTION
+!
+peting, furniture, etc., used in a residential for state and local general sales tax that expiredthe production of income. Property is considered
+rental real estate activity. at the end of 2005. If this deduction is extended,placed in service in a rental activity when it is
+you may be able to take a deduction for yourDepreciation on automobiles, certain com-ready and available for a specific use in thatstate and local general sales taxes instead ofputers, and cellular telephones is limited.activity. state and local income taxes as an itemizedSee chapter 5 of Publication 946.
+deduction on Schedule A (Form 1040). If youExample 1. On November 22 of last year,• 7-year property. This class includes office make that choice, you cannot include thoseyou purchased a dishwasher for your rentalfurniture and equipment (desks, files, etc.). sales taxes as part of your cost basis. To find outproperty. The appliance was delivered on De-This class also includes any property that if this legislation was enacted, and for morecember 7, but was not installed and ready fordoes not have a class life and that has not details, go to www.irs.gov, click on More Formsuse until January 3 of this year. Because thebeen designated by law as being in any and Publications, and then on What’s Hot indishwasher was not ready for use last year, it isother class. forms and publications, or see Publication 553,not considered placed in service until this year.Highlights of 2006 Tax Changes.• 15-year property. This class includes If the appliance had been ready for use whenroads and shrubbery (if depreciable).it was delivered in December of last year, itLoans with low or no interest.If you buy
+• Residential rental property. This class property on any time-payment plan that chargeswould have been considered placed in service in
+includes any real property that is a rental little or no interest, the basis of your property isDecember, even if it was not actually used until
+building or structure (including a mobile your stated purchase price, less the amountthis year.
+home) for which 80% or more of the gross considered to be unstated interest. See Un-
+rental income for the tax year is from stated Interest and Original Issue Discount inExample 2. On April 6, you purchased a
+dwelling units. It does not include a unit in Publication 537, Installment Sales.house to use as residential rental property. You
+a hotel, motel, inn, or other establishmentmade extensive repairs to the house and had itReal property.If you buy real property, suchwhere more than half of the units are usedready for rent on July 5. You began to advertiseas a building and land, certain fees and otheron a transient basis. If you live in any partthe house for rent in July and actually rented itexpenses you pay are part of your cost basis inof the building or structure, the grossbeginning September 1. The house is consid-the property.rental income includes the fair rental valueered placed in service in July when it was readyof the part you live in. The recovery period Real estate taxes.If you buy real propertyand available for rent. You can begin to depreci-for residential rental property is 27.5 and agree to pay real estate taxes on it that wereate the house in July.years. owed by the seller and the seller did not reim-
+burse you, the taxes you pay are treated as partExample 3. You moved from your home in
+of your basis in the property. You cannot deductJuly. During August and September you madeThe other property classes do not gen- them as taxes paid.erally apply to property used in rentalseveral repairs to the house. On October 1, youIf you reimburse the seller for real estateactivities. These classes are not dis-listed the property for rent with a real estateCAUTION
+!
+taxes the seller paid for you, you can usuallycussed in this publication. See Publication 946company, which rented it on December 1. Thededuct that amount. Do not include that amountfor more information. property is considered placed in service on Oc-in your basis in the property.tober 1, the date when it was available for rent.
+Settlement fees and other costs.Settle-Qualified Indian reservation property.
+ment fees and closing costs that are for buyingShorter recovery periods were provided under
+Depreciable Basis the property are part of your basis in the prop-MACRS for qualified Indian reservation property
+erty. These include:placed in service on Indian reservations beforeThe depreciable basis of property used in a2006. For more information, see chapter 4 of • Abstract fees,rental activity is generally its adjusted basisPublication 946. when you place it in service in that activity. This• Charges for installing utility services,
+is its cost or other basis when you acquired it,Additions or improvements to property. • Legal fees,adjusted for certain items occurring before youTreat depreciable additions or improvements
+place it in service in the rental activity.• Recording fees,you make to any property as separate property
+If you depreciate your property underitems for depreciation purposes. The recovery • Surveys,MACRS, you may also have to reduce yourperiod for an addition or improvement to prop-
+• Transfer taxes,basis by certain deductions and credits with re-erty begins on the later of: 
+spect to the property. • Title insurance, and1. The date the addition or improvement isBasis and adjusted basis are explained inplaced in service, or • Any amounts the seller owes that youthe following discussions. agree to pay, such as back taxes or inter-2. The date the property to which the addition If you used the property for personalest, recording or mortgage fees, chargesor improvement was made is placed in purposes before changing it to rentalfor improvements or repairs, and salesservice. use, its depreciable basis is the lessercommissions.CAUTION
+!
+of its adjusted basis or its fair market value whenThe property class and recovery period of
+you change it to rental use. See Basis of Prop-the addition or improvement is the one that Some settlement fees and closing costs you
+erty Changed to Rental Use, later.would apply to the original property if it were cannot include in your basis in the property are:
+Publication 527 (2006) Page 11
+
+Page 12 of 22 of Publication 527 9:33 - 21-NOV-2006
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+1. Fire insurance premiums, If you received property in one of these ways, certain costs you can choose either to deduct or
+see Publication 551 for information on how toto capitalize. If you capitalize these costs, in-2. Rent or other charges relating to occu-figure your basis. clude them in your basis. If you deduct them, dopancy of the property before closing, and not include them in your basis.
+3. Charges connected with getting or refi- The costs you may be able to choose to
+Adjusted Basisnancing a loan, such as: deduct or to capitalize include carrying charges,
+such as interest and taxes, that you must pay toBefore you can figure allowable depreciation,a. Points (discount points, loan origination own property.you may have to make certain adjustments (in-fees), For more information about deducting orcreases and decreases) to the basis of the prop-
+capitalizing costs, see chapter 7 in Publicationb. Mortgage insurance premiums, erty. The result of these adjustments to the basis
+535.is the adjusted basis.c. Loan assumption fees,
+Increases to basis.You must increase the Decreases to basis.You must decrease thed. Cost of a credit report, and
+basis of any property by the cost of all itemsbasis of your property by any items that repre-e. Fees for an appraisal required by aproperly added to a capital account. This in-sent a return of your cost. These include:lender. cludes:
+• The amount of any insurance or other pay-
+• The cost of any additions or improvementsment you receive as the result of a casu-Also, do not include amounts placed in es-having a useful life of more than one year,alty or theft loss,crow for the future payment of items such as
+taxes and insurance. • Amounts spent after a casualty to restore• Any deductible casualty loss not coveredthe damaged property,Assumption of a mortgage. If you buy by insurance,
+property and become liable for an existing mort-• The cost of extending utility service lines• Any amount you receive for granting angage on the property, your basis is the amountto the property, and easement,you pay for the property plus the amount that still• Legal fees, such as the cost of defendingmust be paid on the mortgage. • Any residential energy credit you were al-and perfecting title. lowed before 1986, or after 2005, if youExample. You buy a building for $60,000 added the cost of the energy items to theAdditions or improvements. Add to thecash and assume a mortgage of $240,000 on it. basis of your home, andbasis of your property the amount an addition orYour basis is $300,000.
+improvement actually cost you, including any• The amount of depreciation you couldamount you borrowed to make the addition orLand and buildings.If you buy buildings and have deducted on your tax returns underimprovement. This includes all direct costs, suchyour cost includes the cost of the land on which the method of depreciation you selected. Ifas material and labor, but not your own labor. Itthey stand, you must divide the cost between the you took less depreciation than you couldalso includes all expenses related to the additionland and the buildings to figure the basis for have under the method you selected, youor improvement.depreciation of the buildings. The part of the cost must decrease the basis by the amountFor example, if you had an architect draw upthat you allocate to each asset is the ratio of the you could have taken under that method.plans for remodeling your property, the archi-fair market value of that asset to the fair market
+tect’s fee is a part of the cost of the remodeling.value of the whole property at the time you buy If you deducted more depreciation than youOr, if you had your lot surveyed to put up ait. should have, you must decrease your basis byfence, the cost of the survey is a part of the costIf you are not certain of the fair market values the amount you should have deducted, plus theof the fence.of the land and the buildings, you can divide the part of the excess you deducted that actuallyKeep separate accounts for depreciable ad-cost between them based on their assessed lowered your tax liability for any year.ditions or improvements made after you placevalues for real estate tax purposes.
+the property in service in your rental activity. For
+information on depreciating additions or im-Example. You buy a house and land for Basis of Propertyprovements, see Additions or improvements to$100,000. The purchase contract does not Changed to Rental Useproperty, earlier, under Recovery Periods Underspecify how much of the purchase price is for the
+GDS . When you change property you held for per-house and how much is for the land.
+sonal use to rental use (for example, you rentThe latest real estate tax assessment on the The cost of landscaping improvements
+your former home), you figure the basis for de-property was based on an assessed value of is usually treated as an addition to the
+preciation using the lesser of fair market value or$80,000, of which $68,000 is for the house and basis of the land, which is not deprecia-CAUTION
+!
+adjusted basis.$12,000 is for the land. ble. See What Property Can Be Depreciated,
+You can allocate 85% ($68,000 ÷ $80,000) earlier.
+Fair market value.This is the price at whichof the purchase price to the house and 15%
+Assessments for local improvements. the property would change hands between a($12,000 ÷ $80,000) of the purchase price to the
+Assessments for items which tend to increasebuyer and a seller, neither having to buy or sell,land.
+the value of property, such as streets and side-and both having reasonable knowledge of all theYour basis in the house is $85,000 (85% of
+walks, must be added to the basis of the prop-relevant facts. Sales of similar property, on or$100,000) and your basis in the land is $15,000
+erty. For example, if your city installs curbing onabout the same date, may be helpful in figuring(15% of $100,000).
+the street in front of your house, and assessesthe fair market value of the property.
+you and your neighbors for the cost of curbing,
+you must add the assessment to the basis ofBasis Other Than Cost Figuring the basis.The basis for deprecia-your property. Also add the cost of legal feestion is the lesser of:paid to obtain a decrease in an assessmentThere are many times when you cannot use cost
+• The fair market value of the property onlevied against property to pay for local improve-as a basis. You cannot use cost as a basis for
+the date you changed it to rental use, orments. You cannot deduct these items as taxesproperty that you received:
+or depreciate them. • Your adjusted basis on the date of the• In return for services you performed,  Assessments for maintenance or repair or change—that is, your original cost ormeeting interest charges are deductible as• In an exchange for other property, other basis of the property, plus the cost oftaxes. Do not add them to your basis in the permanent additions or improvements• As a gift, property. since you acquired it, minus deductions for• From your spouse, or from your former any casualty or theft losses claimed onDeducting vs. capitalizing costs.Youspouse as the result of a divorce, or earlier years’ income tax returns and othercannot add to your basis costs that are deducti-
+decreases to basis.• As an inheritance. ble as current expenses. However, there are
+Page 12 Publication 527 (2006)
+
+Page 13 of 22 of Publication 527 9:33 - 21-NOV-2006
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Example. Several years ago you built your 1. Subtract the depreciation taken in the firstDeclining Balance Method
+home for $140,000 on a lot that cost you year ($100) from the basis of the property
+To figure your MACRS deduction, first deter-$14,000. Before changing the property to rental ($1,000), and
+mine your declining balance rate from the tableuse last year, you added $28,000 of permanent 2. Multiply the remaining basis ($900) byon the next page. However, if you elect to useimprovements to the house and claimed a 22.22%. The depreciation for the secondthe 150% declining balance method for 5- or$3,500 deduction for a casualty loss to the year is $200.7-year property, figure the declining balancehouse. Because land is not depreciable, you can
+rate by dividing 1.5 (150%) by the recovery pe-only include the cost of the house when figuring Residential rental property.In the first yearriod for the property.the basis for depreciation. that you claim depreciation for residential rentalIn the first tax year, multiply the adjustedThe adjusted basis of the house at the time property, you can only claim depreciation for thebasis of the property by the declining balanceof the change in use was $164,500 ($140,000 + number of months the property is in use, andrate and apply the appropriate convention to$28,000 − $3,500). you must use the mid-month convention (ex-figure your depreciation. In later years (beforeOn the date of the change in use, your prop- plained under Conventions, next).the year you switch to the straight line method),erty had a fair market value of $168,000, of
+use the following steps to figure your deprecia-which $21,000 was for the land and $147,000
+tion.was for the house. Conventions
+The basis for depreciation on the house is1. Reduce your adjusted basis by the depre-the fair market value at the date of the change Under MACRS, conventions establish when theciation allowable for the earlier years.($147,000), because it is less than your adjusted recovery period begins and ends. The conven-
+2. Multiply the new adjusted basis in (1) bybasis ($164,500). tion you use determines the number of months
+the same rate used in earlier years. for which you can claim depreciation in the year
+you place property in service and in the year youMACRS Depreciation See Conventions, later, for information on de-dispose of the property.preciation in the year you dispose of property.Under GDS
+Mid-month convention.  A mid-month con-Declining balance rates.The following tableYou can figure your MACRS depreciation de- vention is used for all residential rental propertyshows the declining balance rate that applies forduction under GDS in one of two ways. The and nonresidential real property. Under this con-each class of property and the first year fordeduction is substantially the same both ways. vention, you treat all property placed in service,which the straight line method will give an equal(The difference, if any, is slight.) You can either: or disposed of, during any month as placed inor greater deduction. (The rates for 5- andservice, or disposed of, at the midpoint of that• Actually compute the deduction using the7-year property are based on the 200% declin-month.depreciation method and convention thating balance method. The rate for 15-year prop-
+apply over the recovery period of the prop- Mid-quarter convention.A mid-quarter con-erty is based on the 150% declining balance
+erty, or vention must be used if the mid-month conven-method.)
+tion does not apply and the total depreciable• Use the percentage from the optional basis of MACRS property placed in service inClass Declining Balance Rate YearMACRS tables, shown later. the last 3 months of a tax year (excluding non-5 40% 4th
+If you actually compute the deduction, the de-7 28.57% 5th residential real property, residential rental prop-
+preciation method you use depends on the class15 10% 7th erty, and property placed in service and
+of the property. disposed of in the same year) is more than 40%
+of the total basis of all such property you place in
+5-, 7-, or 15-year property.For property in the service during the year.Straight Line Method5- or 7-year class, use the 200% declining bal- Under this convention, you treat all property
+ance method and a half-year convention. How- placed in service, or disposed of, during anyTo figure your MACRS deduction under theever, in limited cases you must use the quarter of a tax year as placed in service, orstraight line method, you must apply a differentmid-quarter convention, if it applies. These con- disposed of, at the midpoint of the quarter.depreciation rate to the adjusted basis of yourventions are explained later. For property in theproperty for each tax year in the recovery period.15-year class, use the 150% declining balance Example. During the tax year, Tom MartinIn the first year, multiply the adjusted basis ofmethod and a half-year convention. purchased the following items to use in his rentalthe property by the straight line rate. You must
+You can also choose to use the 150% declin- property. He elects not to claim the special de-figure the depreciation for the first year using the
+ing balance method for property in the 5- or preciation allowance, discussed earlier.convention that applies. (See Conventions,
+7-year class. The choice to use the 150% later.) • A dishwasher for $400 that he placed inmethod for one item in a class of property ap- service in January.plies to all property in that class that is placed inStraight line rate.For any tax year, figure the
+service during the tax year of the election. Youstraight line rate by dividing the number 1 by the• Used furniture for $100 that he placed in
+make this election on Form 4562. In Part III,years remaining in the recovery period at theservice in September.
+column (f), enter “150 DB.” beginning of the tax year. When figuring the• A refrigerator for $500 that he placed inIf you use either the 200% or 150% decliningnumber of years remaining, you must take intoservice in October.balance method, you figure your deduction us-account the convention used in the first year. If
+ing the straight line method in the first tax yearthe remaining recovery period at the beginning Tom uses the calendar year as his tax year. The
+that the straight line method gives you an equalof the tax year is less than 1 year, the straight total basis of all property placed in service that
+or larger deduction. line rate for that tax year is 100%. year is $1,000. The $500 basis of the refrigerator
+placed in service during the last 3 months of hisYou can also choose to use the straight line
+Example. You place in service property withtax year exceeds $400 (40% × $1,000). Tommethod with a half-year or mid-quarter conven-
+a basis of $1,000 and a 5-year recovery period.must use the mid-quarter convention instead oftion for 5-, 7-, or 15-year property. The choice to
+The straight line rate is 20% (1 divided by 5) forthe half-year convention for all three items.use the straight line method for one item in a
+the first tax year. After you apply the half-yearclass of property applies to all property in that
+convention, the first year rate is 10% (20% di-Half-year convention. The half-year conven-class that is placed in service during the tax year
+vided by 2). Depreciation for the first year is tion is used if neither the mid-quarter conventionof the election. You elect the straight line method
+$100. nor the mid-month convention applies. Underon Form 4562. In Part III, column (f), enter “S/L.”
+At the beginning of the second year, the this convention, you treat all property placed inOnce you make this election, you cannot
+remaining recovery period is 41/2 years because service, or disposed of, during a tax year aschange to another method.
+of the half-year convention. The straight line rate placed in service, or disposed of, at the midpoint
+Residential rental property.You must use for the second year is 22.22% (1 divided by 4.5). of that tax year.
+the straight line method and a mid-month con- To figure your depreciation deduction for the If this convention applies, you deduct a
+vention for residential rental property. second year: half-year of depreciation for the first year and the
+Publication 527 (2006) Page 13
+
+Page 14 of 22 of Publication 527 9:33 - 21-NOV-2006
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Figure the depreciation deduction by multi-
+plying your unadjusted basis in the property by
+the percentage shown in the appropriate table.
+Your unadjusted basis is your depreciable basis
+without reduction for MACRS depreciation pre-
+viously claimed.
+Once you begin using an optional table to
+figure depreciation, you must continue to use it
+for the entire recovery period unless there is an
+adjustment to the basis of your property for a
+reason other than:
+1. Depreciation allowed or allowable, or
+2. An addition or improvement that is depreci-
+ated as a separate item of property.
+If there is an adjustment for any reason other
+than (1) or (2) (for example, because of a de-
+ductible casualty loss) you can no longer use the
+table. For the year of the adjustment and for the
+remaining recovery period, figure depreciation
+using the property’s adjusted basis at the end of
+the year and the appropriate depreciation
+method, as explained earlier under MACRS De-
+preciation Under GDS.
+Tables 4-A, 4-B, and 4-C.The percentages in
+these tables take into account the half-year and
+mid-quarter conventions. Use Table 4-A for
+5-year property, Table 4-B for 7-year property,
+and Table 4-C for 15-year property. Use the
+percentage in the second column (half-year con-
+vention) unless you must use the mid-quarter
+convention (explained earlier). If you must use
+the mid-quarter convention, use the column that
+corresponds to the calendar year quarter in
+which you placed the property in service.
+Example 1. You purchased a stove and re-
+frigerator and placed them in service in June.
+Your basis in the stove is $600 and your basis in
+the refrigerator is $1,000. Both are 5-year prop-
+erty. Using the half-year convention column in
+Table 4-A, you find the depreciation percentage
+for year 1 is 20%. For that year your depreciation
+deduction is $120 ($600 × .20) for the stove and
+$200 ($1,000 × .20) for the refrigerator.
+For year 2, you find your depreciation per-
+centage is 32%. That year’s depreciation deduc-
+tion will be $192 ($600 × .32) for the stove and
+$320 ($1,000 × .32) for the refrigerator.
+Example 2. Assume the same facts as in
+Example 1, except you buy the refrigerator in
+October instead of June. You must use the
+mid-quarter convention to figure depreciation on
+the stove and refrigerator. The refrigerator was
+placed in service in the last 3 months of the tax
+year, and its basis ($1,000) is more than 40% of
+the total basis of all property placed in service
+during the year ($1,600 × .40 = $640).
+Because you placed the refrigerator in serv-
+Table 4. Optional MACRS Tables
+Table 4-A. MACRS 5-Year Property
+Half-year convention Mid-quarter convention
+Year First
+quarter
+Second
+quarter
+Third
+quarter
+Fourth
+quarter
+1
+2
+3
+4
+5
+6
+20.00%
+32.00
+19.20
+11.52
+11.52
+5.76
+35.00%
+26.00
+15.60
+11.01
+11.01
+1.38
+25.00%
+30.00
+18.00
+11.37
+11.37
+4.26
+15.00%
+34.00
+20.40
+12.24
+11.30
+7.06
+5.00%
+38.00
+22.80
+13.68
+10.94
+9.58
+Table 4-B. MACRS 7-Year Property
+Half-year convention Mid-quarter convention
+Year First
+quarter
+Second
+quarter
+Third
+quarter
+Fourth
+quarter
+1
+2
+3
+4
+5
+6
+Table 4-C. MACRS 15-Year Property
+Half-year convention Mid-quarter convention
+Year First
+quarter
+Second
+quarter
+Third
+quarter
+Fourth
+quarter
+1
+2
+3
+4
+5
+6
+Table 4-D. Residential Rental Property (27.5-year)
+14.29%
+24.49
+17.49
+12.49
+8.93
+8.92
+25.00%
+21.43
+15.31
+10.93
+8.75
+8.74
+17.85%
+23.47
+16.76
+11.97
+8.87
+8.87
+10.71%
+25.51
+18.22
+13.02
+9.30
+8.85
+3.57%
+27.55
+19.68
+14.06
+10.04
+8.73
+5.00%
+9.50
+8.55
+7.70
+6.93
+6.23
+8.75%
+9.13
+8.21
+7.39
+6.65
+5.99
+6.25%
+9.38
+8.44
+7.59
+6.83
+6.15
+3.75%
+9.63
+8.66
+7.80
+7.02
+6.31
+1.25%
+9.88
+8.89
+8.00
+7.20
+6.48
+Use the row for the month of the taxable year placed in service.
+Year 1 Year 2 Year 3 Year 4 Year 5 Year 6
+Jan.
+Feb.
+March
+Apr.
+May
+June
+July
+Aug.
+Sept.
+Oct.
+Nov.
+Dec.
+3.485% 3.636%
+3.182
+2.879
+2.576
+2.273
+1.970
+1.667
+1.364
+1.061
+0.758
+0.455
+0.152
+3.636
+3.636
+3.636
+3.636
+3.636
+3.636
+3.636
+3.636
+3.636
+3.636
+3.636
+3.636%
+3.636
+3.636
+3.636
+3.636
+3.636
+3.636
+3.636
+3.636
+3.636
+3.636
+3.636
+3.636%
+3.636
+3.636
+3.636
+3.636
+3.636
+3.636
+3.636
+3.636
+3.636
+3.636
+3.636
+3.636%
+3.636
+3.636
+3.636
+3.636
+3.636
+3.636
+3.636
+3.636
+3.636
+3.636
+3.636
+3.636%
+3.636
+3.636
+3.636
+3.636
+3.636
+3.636
+3.636
+3.636
+3.636
+3.636
+3.636
+ice in October, you use the fourth quarter col-
+umn of Table 4-A and find that the depreciation
+last year that you depreciate the property. You 4-C make the change from declining balance topercentage for year 1 is 5%. Your depreciation
+deduct a full year of depreciation for any otherstraight line in the year that straight line will yielddeduction for the refrigerator is $50 ($1,000 ×
+year during the recovery period. a larger deduction. See Declining Balance .05).
+Method, earlier. Because you placed the stove in service in
+June, you use the second quarter column ofOptional Tables If you elect to use the straight line method for
+Table 4-A and find that the depreciation percent-5-, 7-, or 15-year property, or the 150% declining
+You can use the tables in Table 4 to compute age for year 1 is 25%. For that year, your depre-balance method for 5- or 7-year property, use
+annual depreciation under MACRS. The tables ciation deduction for the stove is $150 ($600 ×the tables in Appendix A of Publication 946.
+show the percentages for the first 6 years. See .25).
+Appendix A of Publication 946 for complete ta-
+How to use the tables.The following sectionTable 4-D.  Use this table for residential rentalbles. The percentages in Tables 4-A, 4-B, and
+explains how to use the optional tables. property. Find the row for the month that you
+Page 14 Publication 527 (2006)
+
+Page 15 of 22 of Publication 527 9:33 - 21-NOV-2006
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+placed the property in service. Use the percent- other payment you received. For more informa- from passive activities. Nor can you offset taxes
+ages listed for that month to figure your depreci- tion, see Publication 547. on income, other than passive income, with
+ation deduction. The mid-month convention is credits resulting from passive activities. Any ex-How to report.   If you had a casualty or thefttaken into account in the percentages shown in cess loss or credit is carried forward to the nextthat involved property used in your rental activ-the table. tax year.ity, you figure the net gain or loss in Section B ofFor a detailed discussion of these rules, seeForm 4684, Casualties and Thefts. Also, youExample. You purchased a single family Publication 925.may have to report the net gain or loss fromrental house and placed it in service in February. You may have to complete Form 8582 toForm 4684 on Form 4797, Sales of BusinessYour basis in the house is $160,000. Using Ta- figure the amount of any passive activity loss forProperty. (Follow the instructions for Formble 4-D, you find that the percentage for property the current tax year for all activities and the4684.)placed in service in February of year 1 is amount of the passive activity loss allowed on3.182%. That year’s depreciation deduction is your tax return. See Form 8582 not required
+$5,091 ($160,000 × .03182). under Losses From Rental Real Estate Activi-
+ties, later, to determine whether you have toLimits onMACRS Depreciation complete Form 8582.
+Under ADS Rental Losses
+Exception for Real EstateIf you choose, you can use the ADS method forRental real estate activities are generally con-
+most property. Under ADS, you use the straight Professionalssidered passive activities, and the amount of
+line method of depreciation. loss you can deduct is limited. Generally, youRental activities in which you materially partici-Table 3 shows the recovery periods for prop-cannot deduct losses from rental real estatepated during the year are not passive activitieserty used in rental activities that you depreciateactivities unless you have income from otherif, for that year, you were a real estate profes-under ADS. passive activities. However, you may be able tosional. Losses from these activities are not lim-See Appendix B in Publication 946 for otherdeduct rental losses without regard to whetherited by the passive activity rules.property. If your property is not listed, it is con-you have income from other passive activities if
+For this purpose, each interest you have in asidered to have no class life. Under ADS, per-you “materially” or “actively” participated in your
+rental real estate activity is a separate activity,sonal property with no class life is depreciatedrental activity. See Passive Activity Limits, later.
+unless you choose to treat all interests in rentalusing a recovery period of 12 years.  Losses from passive activities are first sub-
+real estate activities as one activity.Use the mid-month convention for residentialject to the at-risk rules. At-risk rules limit the
+rental property and nonresidential real property. If you were a real estate professional foramount of deductible losses from holding most
+For all other property, use the half-year or 2006, complete line 43 of Schedule E (Formreal property placed in service after 1986.
+mid-quarter convention. 1040).Exception. If your rental losses are less than
+Election. For property placed in service dur-$25,000, and you actively participated in theReal estate professional.You qualified as a
+ing 2006 you choose to use ADS by entering therental activity, the passive activity limits probablyreal estate professional for the tax year if you
+depreciation on Form 4562, Part III, line 20.do not apply to you. See Losses From Rental met both of the following requirements.
+The election of ADS for one item in a class ofReal Estate Activities, later.
+property generally applies to all property in that 1. More than half of the personal servicesProperty used as a home. If you used theclass that is placed in service during the tax year you performed in all trades or businessesrental property as a home during the year, theof the election. However, the election applies on during the tax year were performed in realpassive activity rules do not apply to that home.a property-by-property basis for residential property trades or businesses in which youInstead, you must follow the rules explainedrental property and nonresidential real property. materially participated.under Personal Use of Dwelling Unit (IncludingOnce you choose to use ADS, you cannot 2. You performed more than 750 hours ofVacation Home), earlier.change your election. services during the tax year in real prop-
+erty trades or businesses in which you ma-At-Risk Rules
+terially participated.
+The at-risk rules place a limit on the amount youDo not count personal services you per-Casualties and Thefts can deduct as losses from activities often de-formed as an employee in real property trades orscribed as tax shelters. Losses from holding realbusinesses unless you were a 5% owner of yourAs a result of a casualty or theft, you may have aproperty (other than mineral property) placed inemployer. You were a 5% owner if you ownedloss related to your property. You may be able toservice before 1987 are not subject to the at-risk(or are considered to have owned) more thandeduct the loss on your income tax return. Forrules. 5% of your employer’s outstanding stock, orinformation on casualty and theft losses (busi-Generally, any loss from an activity subjectcapital or profits interest.ness and nonbusiness), see Publication 547.to the at-risk rules is allowed only to the extent ofIf you file a joint return, do not count yourthe total amount you have at risk in the activity atCasualty. Damage to, destruction of, or loss spouse’s personal services to determinethe end of the tax year. You are considered atof property is a casualty if it results from an whether you met the preceding requirements.risk in an activity to the extent of cash and theidentifiable event that is sudden, unexpected, or However, you can count your spouse’s partici-adjusted basis of other property you contributedunusual. pation in an activity in determining if you materi-to the activity and certain amounts borrowed forally participated.Theft. The unlawful taking and removing ofuse in the activity. See Publication 925 for more
+your money or property with the intent to depriveinformation. Real property trades or businesses.A
+you of it is a theft. real property trade or business is a trade or
+business that does any of the following with realPassive Activity LimitsGain from casualty or theft.When you have property.a casualty to, or theft of, your property and youIn general, all rental activities (except thosereceive money, including insurance, that is more • Develops or redevelops it.meeting the exception for real estate profession-than your adjusted basis in the property, you • Constructs or reconstructs it.als, below) are passive activities. For this pur-generally must report the gain. However, underpose, a rental activity is an activity from whichcertain circumstances, you may defer paying tax • Acquires it.you receive income mainly for the use of tangi-by choosing to postpone reporting the gain. To • Converts it.ble property, rather than for services.do this, you must generally buy replacement
+property within 2 years after the close of the firstLimits on passive activity deductions and • Rents or leases it.
+tax year in which any part of your gain is real-credits.Deductions for losses from passive• Operates or manages it.ized. The cost of the replacement property must activities are limited. You generally cannot offset
+be equal to or more than the net insurance or income, other than passive income, with losses• Brokers it.
+Publication 527 (2006) Page 15
+
+Page 16 of 22 of Publication 527 9:33 - 21-NOV-2006
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Material participation.Generally, you materi-Example. Mike is single and had the follow-legislation was enacted, and for more details, go
+ally participated in an activity for the tax year if ing income and losses during the tax year:to www.irs.gov, click on More Forms and Publi-
+you were involved in its operations on a regular, cations, and then on What’s Hot in forms and
+Salary..................... $42,300continuous, and substantial basis during the publications, or see Publication 553, Highlights
+Dividends................... 3 0 0year. For more information, see Publication 925. of 2006 Tax Changes.Interest.................... 1,400Participating spouse.If you are married,Rental loss.................. (4,000)
+determine whether you materially participated in Form 8582 not required. Do not completeThe rental loss resulted from the rental of aan activity by also counting any participation in Form 8582 if you meet all of the following condi-house Mike owned. Mike had advertised andthe activity by your spouse during the year. Do tions.rented the house to the current tenant himself.this even if your spouse owns no interest in the
+He also collected the rents, which usually cameactivity or files a separate return for the year. • Your only passive activities were rental
+by mail. All repairs were either done or con-real estate activities in which you actively
+tracted out by Mike.Choice to treat all interests as one activity. participated.
+Even though the rental loss is a loss from aIf you were a real estate professional and had • Your overall net loss from these activitiespassive activity, because Mike actively partici-more than one rental real estate interest during is $25,000 or less ($12,500 or less if mar-pated in the rental property management, hethe year, you can choose to treat all the interests ried filing separately).can use the entire $4,000 loss to offset his otheras one activity. You can make this choice for any
+income.year that you qualify as a real estate profes- • You do not have any prior year unallowed
+sional. If you forgo making the choice for one losses from any passive activities.Maximum special allowance. If your modi-year, you can still make it for a later year. • If married filing separately, you lived apartfied adjusted gross income is $100,000 or lessIf you make the choice, it is binding for the from your spouse all year.($50,000 or less if married filing separately), youtax year you make it and for any later year thatcan deduct your loss up to $25,000 ($12,500 ifyou are a real estate professional. This is true • You have no current or prior year unal-married filing separately). If your modified ad-even if you are not a real estate professional in lowed credits from passive activities.justed gross income is more than $100,000any intervening year. (For that year, the excep- • Your modified adjusted gross income is(more than $50,000 if married filing separately),tion for real estate professionals will not apply in $100,000 or less ($50,000 or less if mar-this special allowance is limited to 50% of thedetermining whether your activity is subject to ried filing separately).difference between $150,000 ($75,000 if mar-the passive activity rules.) ried filing separately) and your modified ad-• You do not hold any interest in a rentalSee the instructions for Schedule E (Formjusted gross income. If your modified adjusted1040) for information about making this choice. real estate activity as a limited partner orgross income is $150,000 or more ($75,000 oras a beneficiary of an estate or a trust.more if you are married filing separately), you
+generally cannot use the special allowance.Losses From Rental If you meet all of the conditions listed above,
+Modified adjusted gross income.This isReal Estate Activities your rental real estate activities are not limited
+your adjusted gross income from Form 1040,by the passive activity rules and you do not haveIf you or your spouse actively participated in aline 38, figured without taking into account:to complete Form 8582. Enter each rental realpassive rental real estate activity, you can de- estate loss from line 22 of Schedule E (Form1. Taxable social security or equivalent tier 1duct up to $25,000 of loss from the activity from 1040) on line 23 of Schedule E.railroad retirement benefits,your nonpassive income. This special allowance
+If you do not meet all of the conditions listedis an exception to the general rule disallowing2. Deductible contributions to an IRA or cer-above, see the instructions for Form 8582 to findlosses in excess of income from passive activi-tain other qualified retirement plans,out if you must complete and attach that form toties. Similarly, you can offset credits from the
+3. The exclusion allowed for qualified U.S. your tax return.activity against the tax on up to $25,000 of
+savings bond interest used to pay highernonpassive income after taking into account any
+educational expenses,losses allowed under this exception.
+If you are married, filing a separate return,4. The exclusion allowed for em-
+and lived apart from your spouse for the entire How To Reportployer-provided adoption benefits,
+tax year, your special allowance cannot be more
+5. Any passive activity income or loss in-than $12,500. If you lived with your spouse at Rental Incomecluded on Form 8582,any time during the year and are filing a sepa-
+rate return, you cannot use the special allow- and Expenses6. Any passive income or loss or any loss
+ance to reduce your nonpassive income or taxallowable by reason of the exception for
+on nonpassive income. If you rent buildings, rooms, or apartments, andreal estate professionals discussed earlier,
+provide only heat and light, trash collection, etc.,The maximum amount of the special allow-7. Any overall loss from a publicly tradedance is reduced if your modified adjusted gross you normally report your rental income and ex-partnership (see Publicly Traded Partner-income is more than $100,000 ($50,000 if mar- penses on Schedule E (Form 1040), Part I. How-ships (PTPs) in the instructions for Formried filing separately). ever, do not use that schedule to report a8582), not-for-profit activity. See Not Rented For Profit,
+Example. Jane is single and has $40,000 in8. The deduction for one-half of earlier.
+wages, $2,000 of passive income from a limitedself-employment tax, If you provide significant services that arepartnership, and $3,500 of passive loss from a primarily for your tenant’s convenience, such as9. The deduction allowed for interest on stu-rental real estate activity in which she activelydent loans, or regular cleaning, changing linen, or maid serv-participated. $2,000 of Jane’s $3,500 loss off-
+ice, you report your rental income and expensessets her passive income. The remaining $1,50010. The deduction for income attributable toon Schedule C (Form 1040), Profit or Loss Fromloss can be deducted from her $40,000 wages.domestic activities (see the instructions forBusiness, or Schedule C-EZ, Net Profit FromForm 8903).
+Business. Significant services do not include theActive participation.You actively partici-
+furnishing of heat and light, cleaning of publicpated in a rental real estate activity if you (andAt the time this publication went to
+areas, trash collection, etc. For information, seeyour spouse) owned at least 10% of the rental print, Congress was considering legis-
+Publication 334, Tax Guide for Small Businessproperty and you made management decisions lation that would extend the deductionCAUTION
+!
+(For Individuals Who Use Schedule C or C-EZ).in a significant and bona fide sense. Manage- for tuition and fees. If this deduction is extended,
+You also may have to pay self-employment taxment decisions include approving new tenants,it also would not be taken into account when
+on your rental income. See chapter 10 in Publi-deciding on rental terms, approving expendi-figuring modified adjusted gross income for the
+tures, and similar decisions. cation 334, Tax Guide for Small Business.maximum special allowance. To find out if this
+Page 16 Publication 527 (2006)
+
+Page 17 of 22 of Publication 527 9:33 - 21-NOV-2006
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+to return it to her tenant at the end of the lease, She uses Table 4-D to find her depreciationSchedule E (Form 1040)
+she does not include it in her income. Her housepercentage. Because she placed the property in
+expenses for the year are as follows:Use Schedule E (Form 1040), Part I, to report service in February, she finds the percentage to
+your rental income and expenses. List your total be 3.182%.
+Mortgage interest.............. $1,800income, expenses, and depreciation for each On April 1, Eileen bought a new dishwasherFire insurance (1-year policy)...... 1 0 0rental property. Be sure to answer the question for the rental property at a cost of $425. TheMiscellaneous repairs (after renting) 297on line 2. dishwasher is personal property used in a rentalReal estate taxes imposed and paid 1,200If you have more than three rental or royalty
+real estate activity, which has a 5-year recoveryproperties, complete and attach as many Eileen must divide the real estate taxes,period. She uses the percentage underSchedules E as are needed to list the properties.mortgage interest, and fire insurance between“Half-year convention” in Table 4-A to figure herComplete lines 1 and 2 for each property. How-the personal use of the property and the rentalever, fill in the “Totals” column on only one MACRS depreciation deduction for the dish-use of the property. She can deductSchedule E. The figures in the “Totals” column washer.eleven-twelfths of these expenses as rental ex-on that Schedule E should be the combined On May 1, Eileen paid $4,000 to have apenses. She can include the balance of thetotals of all Schedules E. furnace installed in the house. The furnace isallowable taxes and mortgage interest onPage 2 of Schedule E is used to report in-Schedule A (Form 1040) if she itemizes. She residential rental property. Because she placedcome or loss from partnerships, S corporations,cannot deduct the balance of the fire insurancethe property in service in May, she finds theestates, trusts, and real estate mortgage invest-because it is a personal expense. percentage from Table 4-D to be 2.273%.ment conduits. If you need to use page 2 of
+Eileen bought this house in 1981 forSchedule E, use page 2 of the same Schedule E Eileen figures her net rental income or loss
+$35,000. Her property tax was based on as-you used to enter the combined totals in Part I. for the house as follows:
+sessed values of $10,000 for the land andOn Schedule E, page 1, line 20, enter the
+$25,000 for the house. Before changing it todepreciation you are claiming. You must com- Total rental income received
+rental property, Eileen added several improve-($750 × 1 1 )............. $8,250plete and attach Form 4562 for rental activities
+ments to the house. She figures her adjustedMinus: Expensesonly if you are claiming:
+basis as follows: Mortgage interest ($1,800 ×• Depreciation on property placed in service 11/12) ................ $1,650during 2006, Improvements Cost Fire insurance ($100 × 11/12)9 2
+House ..................... $25,000 Miscellaneous repairs .... 2 9 7• Depreciation on listed property (such as a
+Remodeled kitchen............ 4,200 Real estate taxes ($1,200 ×car), regardless of when it was placed in
+11/12) ................ 1,100Recreation room.............. 5,800service, or Total expenses......... 3,139New roof ................... 1,600
+• Any car expenses reported on a form Balance ............... $5,111Patio and deck............... 2,400
+other than Schedule C or C-EZ (Form Minus: DepreciationAdjusted basis............... $39,000
+1040) or Form 2106 or Form 2106-EZ. House ($39,000 × 3.182%) $1,241
+On February 1, when Eileen changed her Dishwasher ($425 × 20%) 85Otherwise, figure your depreciation on your ownhouse to rental property, the property had a fairFurnace ($4,000 × 2.273%) 91worksheet. You do not have to attach thesemarket value of $152,000. Of this amount, Total depreciation....... 1,417computations to your return. $35,000 was for the land and $117,000 was forNet rental income for house $3,694
+the house.
+Illustrated Example Eileen uses Schedule E (Form 1040), Part I,Because Eileen’s adjusted basis is less than
+to report her rental income and expenses. Shethe fair market value on the date of the change,In January, Eileen Johnson bought a condomin- enters her income, expenses, and depreciationEileen uses $39,000 as her basis for deprecia-ium apartment to live in. Instead of selling the for the house in the column for Property A. Shetion.house she had been living in, she decided to uses Form 4562 to figure and report her depreci-Because the house is residential rental prop-change it to rental property. Eileen selected a
+ation. Eileen’s Schedule E (Form 1040) iserty, she must use the straight line method oftenant and started renting the house on Febru-
+shown next. Her Form 4562 is not shown. Seedepreciation using either the GDS recovery pe-ary 1. Eileen charges $750 a month for rent and
+Publication 946 for information on how to pre-riod or the ADS recovery period. She choosescollects it herself. Eileen received a $750 secur-
+pare Form 4562.the GDS recovery period of 27.5 years.ity deposit from her tenant. Because she plans
+Publication 527 (2006) Page 17
+
+Page 18 of 22 of Publication 527 9:33 - 21-NOV-2006
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+SCHEDULE E OMB No. 1545-0074
+Supplemental Income and Loss
+(Form 1040) (From rental real estate, royalties, partnerships,
+S corporations, estates, trusts, REMICs, etc.)
+/H17075Attach to Form 1040, 1040NR, or Form 1041. /H17075See Instructions for Schedule E (Form 1040).
+Department of the Treasury
+Internal Revenue Service
+Attachment
+Sequence No. 13
+Your social security numberName(s) shown on return
+Income or Loss From Rental Real Estate and Royalties Note. If you are in the business of renting personal property, use
+Schedule C or C-EZ (see page E-3). Report farm rental income or loss from Form 4835 on page 2, line 40.
+List the type and location of each rental real estate property:1
+A
+B
+C
+NoYes2
+A
+B
+C
+Properties Totals
+(Add columns A, B, and C.)Income: CBA
+333 Rents received
+4 Royalties received 44
+Expenses:
+5Advertising5
+6Auto and travel (see page E-4)6
+7Cleaning and maintenance7
+8Commissions8
+9Insurance9
+1010 Legal and other professional fees
+11
+Mortgage interest paid to banks,
+etc. (see page E-4) 12
+11
+12
+Other interest
+12
+13
+Repairs
+13
+14
+Supplies
+14
+15
+Taxes
+15
+16
+Utilities
+16
+1717
+Other (list) /H1707518
+18
+1919Add lines 5 through 1819
+Depreciation expense or depletion
+(see page E-4)
+20
+20 20
+21Total expenses. Add lines 19 and 2021
+Income or (loss) from rental real
+estate or royalty properties.
+Subtract line 21 from line 3 (rents)
+or line 4 (royalties). If the result is
+a (loss), see page E-5 to find out
+if you must file Form 6198
+22
+22
+Deductible rental real estate loss.
+Caution. Your rental real estate
+loss on line 22 may be limited. See
+page E-5 to find out if you must
+file  Form 8582. Real estate
+professionals must complete line
+43 on page 2
+23
+)() ()(23
+2424 Income.  Add positive amounts shown on line 22. Do not include any losses
+)(25Losses. Add royalty losses from line 22 and rental real estate losses from line 23. Enter total losses here25
+26 Total rental real estate and royalty income or (loss). Combine lines 24 and 25. Enter the result here.
+If Parts II, III, IV, and line 40 on page 2 do not apply to you, also enter this amount on Form 1040, 
+line 17, or Form 1040NR, line 18. Otherwise, include this amount in the total on line 41 on page 2
+26
+For Paperwork Reduction Act Notice, see page E-7 of the instructions. Cat. No. 11344L Schedule E (Form 1040) 2006
+Part I
+Management fees
+(99)
+For each rental real estate property
+listed on line 1, did you or your family
+use it during the tax year for personal
+purposes for more than the greater of:
+● 14 days or
+● 10% of the total days rented at
+fair rental value?
+(See page E-3.)
+2006
+Eileen Johnson 123 00 4567
+Brick House
+123 Main Street, Hometown, MN 56200 /H12011
+8,250
+92
+1,650
+297
+1,100
+3,139
+1,417
+4,556
+3,694
+8,250
+1,650
+3,139
+1,417
+3,694
+3,694
+Page 18 Publication 527 (2006)
+
+Page 19 of 22 of Publication 527 9:33 - 21-NOV-2006
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+How To Get Tax Help
+You can get help with unresolved available free to eligible tax- equipment, call resolve a tax problem, have
+1-800-829-4059 to ask taxtax issues, order free publications payers. questions about how the tax
+questions or to order formsand forms, ask tax questions, and law applies to your individual• Check the status of your 2006 and publications.get information from the IRS in sev- tax return, or you’re morerefund. Click on Where’s Myeral ways. By selecting the method comfortable talking with• TeleTax topics. CallRefund. Wait at least 6 weeksthat is best for you, you will have someone in person, visit your1-800-829-4477 to listen tofrom the date you filed yourquick and easy access to tax help. local Taxpayer Assistancepre-recorded messages cov-return (3 weeks if you filed Center where you can spreadering various tax topics.electronically). Have yourContacting your Taxpayer Advo- out your records and talk with2006 tax return available be-cate. The Taxpayer Advocate • Refund information. To check an IRS representativecause you will need to knowService is an independent organi- the status of your 2006 re- face-to-face. No appointmentyour social security number,zation within the IRS whose em- fund, call 1-800-829-4477 is necessary, but if you pre-your filing status, and the ex-ployees assist taxpayers who are and press 1 for automated re- fer, you can call your localact whole dollar amount ofexperiencing economic harm, who fund information or call Center and leave a messageyour refund.are seeking help in resolving tax 1-800-829-1954. Be sure to requesting an appointment to
+problems that have not been re- wait at least 6 weeks from the• Download forms, instructions, resolve a tax account issue. Asolved through normal channels, or date you filed your return (3and publications. representative will call youweeks if you filed electroni-who believe that an IRS system or back within 2 business days• Order IRS products online. cally). Have your 2006 tax re-procedure is not working as it to schedule an in-person ap-turn available because youshould. • Research your tax questions pointment at your conve-will need to know your socialonline.You can contact the Taxpayer nience. To find the number,security number, your filingAdvocate Service by calling go to www.irs.gov/localcon-• Search publications online by status, and the exact wholetoll-free 1-877-777-4778 or TTY/ tacts or look in the phonetopic or keyword. dollar amount of your refund.TDD 1-800-829-4059 to see if you book under United States• View Internal Revenue Bulle-are eligible for assistance. You can Government, Internal Reve-tins (IRBs) published in thealso call or write to your local tax- nue Service.Evaluating the quality of ourlast few years.payer advocate, whose phone telephone services. To ensure
+number and address are listed in IRS representatives give accurate,• Figure your withholding al- Mail. You can send youryour local telephone directory and courteous, and professional an-lowances using our withhold- order for forms, instruc-in Publication 1546, The Taxpayer swers, we use several methods toing calculator. tions, and publications toAdvocate Service of the IRS - How evaluate the quality of our tele-the address below. You should re-• Sign up to receive local andto Get Help With Unresolved Tax phone services. One method is forceive a response within 10 busi-national tax news by email.Problems. You can file Form 911, a second IRS representative to lis-ness days after your request isApplication for Taxpayer Assis- ten in on or record random tele-• Get information on starting received.tance Order, or ask an IRS em- phone calls. Another is to ask someand operating a small busi-
+ployee to complete it on your callers to complete a short surveyness. National Distribution Centerbehalf. For more information, go to at the end of the call. P.O. Box 8903www.irs.gov/advocate. Phone. Many services Bloomington, IL 61702-8903
+Walk-in. Many productsare available by phone.Low income tax clinics
+CD for tax products. Youand services are available(LITCs). LITCs are independent
+can order Publicationon a walk-in basis.organizations that provide low in-• Ordering forms, instructions, 1796, IRS Tax Productscome taxpayers with representa- and publications. Call CD, and obtain:tion in federal tax controversies • Products. You can walk in to1-800-829-3676 to order cur-with the IRS for free or for a nomi- • A CD that is released twicemany post offices, libraries,rent-year forms, instructions,nal charge. The clinics also provide so you have the latest prod-and IRS offices to pick upand publications, andtax education and outreach for tax- ucts. The first release ships incertain forms, instructions,prior-year forms and instruc-payers with limited English profi- January and the final releaseand publications. Some IRStions. You should receiveciency or who speak English as a ships in March.offices, libraries, groceryyour order within 10 days.second language. Publication stores, copy centers, city and• Current-year forms, instruc-• Asking tax questions. Call the4134, Low Income Taxpayer Clinic county government offices, tions, and publications.IRS with your tax questions atList, provides information on clinics credit unions, and office sup-1-800-829-1040.in your area. It is available at www. • Prior-year forms, instructions,ply stores have a collection ofirs.gov or at your local IRS office. and publications.• Solving problems. You can products available to print
+get face-to-face help solving from a CD or photocopy from • Bonus: Historical Tax Prod-Free tax services.To find out tax problems every business reproducible proofs. Also, ucts DVD - Ships with the fi-what services are available, get day in IRS Taxpayer Assis- some IRS offices and librariesPublication 910, IRS Guide to Free nal release.tance Centers. An employee have the Internal RevenueTax Services. It contains a list of • Tax Map: an electronic re-can explain IRS letters, re- Code, regulations, Internalfree tax publications and describes search tool and finding aid.quest adjustments to your ac- Revenue Bulletins, and Cu-other free tax information services,count, or help you set up a mulative Bulletins availableincluding tax education and assis- • Tax law frequently askedpayment plan. Call your local for research purposes.tance programs and a list of questions.Taxpayer Assistance CenterTeleTax topics. • Services. You can walk in to • Tax Topics from the IRS tele-for an appointment. To find your local Taxpayer Assis-Internet. You can access phone response system.the number, go to www.irs. tance Center every businessthe IRS website at www. gov/localcontacts or look in • Fill-in, print, and save fea-day for personal, face-to-faceirs.gov 24 hours a day, 7 the phone book under United tax help. An employee can tures for most tax forms.days a week to: States Government, Internal explain IRS letters, request • Internal Revenue Bulletins.Revenue Service.• E-file your return. Find out adjustments to your tax ac-
+about commercial tax prepa- • Toll-free and email technical• TTY/TDD equipment. If you count, or help you set up a
+ration and e-file services have access to TTY/TDD payment plan. If you need to support.
+Publication 527 (2006) Page 19
+
+Page 20 of 22 of Publication 527 9:33 - 21-NOV-2006
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Buy the CD from National Tech- owner or any taxpayer about to• Tax Map: an electronic re- • An interactive “Teens in Biz”
+nical Information Service (NTIS) atstart a business. This year’s CD search tool and finding aid. module that gives practical
+www.irs.gov/cdorders for $25 (no includes: tips for teens about starting• Web links to various govern-handling fee) or call their own business, creating a• Helpful information, such as ment agencies, business as-1-877-CDFORMS business plan, and filinghow to prepare a business sociations, and IRS(1-877-233-6767) toll free to buy taxes.plan, find financing for your organizations.the CD for $25 (plus a $5 handlingbusiness, and much more.fee). Price is subject to change. • “Rate the Product” survey— An updated version of this CD is
+• All the business tax forms, in- your opportunity to suggestavailable each year in early April.CD for small busi- structions, and publications changes for future editions.You can get a free copy by callingnesses.  Publication needed to successfully man- 1-800-829-3676 or by visiting www.• A site map of the CD to help3207, The Small Busi- irs.gov/smallbiz.age a business. you navigate the pages of theness Resource Guide CD for 2006,
+is a must for every small business• Tax law changes for 2006. CD with ease. ■
+To help us develop a more useful index, please let us know if you have ideas for index entries.Index
+ See “Comments and Suggestions” in the “Introduction” for the ways you can reach us.
+Assessments for Comments on publication .... 2 MACRS ( See ModifiedA
+maintenance .............. 1 2 Accelerated Cost RecoveryCommissions ................ 3Accelerated Cost Recovery
+System (MACRS))Assessments, local (See LocalSystem (ACRS): (See also Computers:
+Methods .................9 ,  1 3assessments)Modified Accelerated Cost MACRS recovery
+Ownership of property....... 9Recovery System Assistance (See Tax help) periods.................. 1 1
+Placement in service........ 5(MACRS)) ................. 1 0Assumption of mortgage.... 1 2 Condominiums .............4 ,  6Rental expense............. 3Effective date............... 9At-risk rules................. 1 5Constructive receipt of Rented property............. 9Accounting methods: income ..................... 2Attorneys’ fees..........11, 12 Section 179 deduction....... 9Accrual method............. 2 Cooperative housing.... 5 ,  6 ,  9Automobiles: Special depreciationCash method ............... 2 MACRS recovery Cost basis................... 1 1 allowances............... 9Change of method........... 9 periods.................. 1 1Credit reports............... 1 2 Straight line method......9 ,  1 3
+Constructive receipt of Credits: Useful life................... 9
+income ................... 2 Residential energy credit beforeVacant rental property....... 3B
+Accrual method taxpayers... 2 1986 .................... 1 2Discount, bonds and notesBasis:
+ACRS (Accelerated Cost issued at (See Original issueAdjusted basis............. 1 2
+Recovery System): discount (OID))Assessments for local DEffective date............... 9 improvements............ 1 2 Dividing of expenses (SeeDays of personal use......... 6Active participation......... 1 6 Basis other than cost....... 1 2 Allocation of expenses)
+Days used for repairs andActivities not for profit....... 5 Cost basis................. 1 1 Dwelling units:maintenance ............... 8Decreases to............... 1 2Additions to property: (See also Definition................... 6
+Deductions: (See also RentalDeductions:Improvements)............. 1 1 Fair rental price............. 6
+expenses) .................. 2Capitalization of costs Personal use of...........5 ,  6Basis...................... 1 2
+Capitalizing costs vs. effect onv s . .................... 1 2MACRS recovery period.... 1 1 basis.................... 1 2Not greater than basis..... 9Adjusted basis: EDepreciation (See Depreciation)Fair market value........... 1 2MACRS depreciation....... 1 2 Easements .................. 1 2How to figure rentalIncreases to................ 1 2Adjusted gross income (AGI): Equipment rental expense.... 3deductions................ 8MACRS depreciableModified (See Modified adjusted Limitations on............8 ,  1 5basis.................... 1 1 Expenses  (See Rental expenses)gross income (MAGI)) Passive activity losses (SeeProperty changed to rental
+Advance rent................. 2 Passive activity)u s e...................... 1 2 FSecurity deposits............ 2 Property not used as
+Fair market value (FMV)..... 1 2Advertising................... 3 home ..................... 8C Fair rental price............6 ,  8Property used as home...... 8Allocation of expenses: Capital expenditures: Fees:Depreciation..............8-15Change of property to rental Deductions vs. effect on Loan origination fees.....4 ,  1 2u s e....................... 5 Alternative Depreciation Systembasis.................... 1 2 Points (See Points)(ADS) (See ModifiedHow to divide expenses...... 8 Improvements............... 3 Settlement fees and otherAccelerated Cost RecoveryPart of property rented....... 5 Local benefit taxes.......... 3 costs.................... 1 1System (MACRS))Personal use of rental Mortgages, payments to Tax return preparationBasis (See Basis)property................3 ,  5 obtain.................... 3 fees....................3 ,  4Change of accountingAlternative Depreciation SystemCars: First-year expensing......... 9method ................... 9(ADS): MACRS recovery Form 1040:Change of property to rentalElection of................. 1 5 periods.................. 1 1 Not rented for profitu s e....................5 ,  1 0MACRS ...............10, 14 Cash method taxpayers...... 2 income ................... 5Claiming correct amountAlternative minimum tax (AMT): Casualty losses............. 1 5 Part of property rented....... 5o f ........................ 8Accelerated depreciation Change of accounting Rental income andDeclining balancemethods .................. 9 method .................... 9 expenses ................ 1 6method ................9 ,  1 3
+Amended returns............. 9Charitable contributions: Schedule E................ 1 7Duration of property expected to
+Apartments: Use of property.............. 6 Form 1098:last more than one year . . . 9
+Basement apartments....... 6 Cleaning and Mortgage interest........... 3Eligible property............. 9
+Dwelling units............... 6 maintenance ............... 3 Excepted property........... 9 Form 4684:
+First-year expensing......... 9Appraisal fees............... 1 2Closing costs............... 1 1 Casualties and thefts....... 1 5
+Page 20 Publication 527 (2006)
+
+Page 21 of 22 of Publication 527 9:33 - 21-NOV-2006
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Form 4797: Loans: Home, property also usedP
+Sales of business a s......................2 ,  8Assumption fees........... 1 2Part interest:
+property................. 1 5 Improvements............... 3Charges connected with getting Expenses ................... 3
+Insurance................... 3Form 8582: or refinancing, cost Income ..................... 2
+Interest payments........... 3Passive activity losses..... 1 5 , basis.................... 1 2Passive activity............. 1 5
+Local transportation16 Low or no interest.......... 1 1 Maximum special
+expenses ...............3 ,  4Free tax services............ 1 9 Origination fees............. 4 allowance................ 1 6
+Not used as home........... 8Local assessments.......... 1 2Personal property: Part of property rented....... 5Losses (See Gains and losses) Rental income from .......... 2G Points....................3 ,  4Personal use of rental property:Pre-rental expenses......... 3Gains and losses: (See also Property changed toAt-risk rules................ 1 5 Rental payments............ 3M rental use)................ 5 - 8Casualty and theft Repairs..................... 3Material participation........ 1 5Placed-in-service date....... 1 1losses................... 1 5 Sale of property............. 3Minimal rental use Points.................. 3 ,  4 ,  1 2Limits on rental losses...... 1 5 Tax return preparationexception .................. 5Pre-rental expenses.......... 3Passive activity losses...... 1 5 fees....................3 ,  4Missing children, photographs Principal residence (See Home)Rental real estate Taxes ...................... 3of .......................... 1Profit, property not rentedactivities................. 1 6 Tenant, paid by............. 2Modified Accelerated Cost for ......................... 5Sale of rental property....2 ,  1 5 Travel expenses............ 3Recovery System Property changed to rentalGeneral depreciation system Utilities..................... 3(MACRS) ...............10-15 use ......................... 5(GDS) (See Modified Vacant rental property....... 3Additions or improvements to Basis...................... 1 2Accelerated Cost Recovery Rental income:property................. 1 1System (MACRS)) MACRS depreciation....... 1 0 Advance rent................ 2Adjusted basis............. 1 2Property not used as home: Cancellation of leaseAlternative Depreciation SystemRental income and payments ................. 2(ADS) ...............10, 15H deductions................ 8 Dwelling unit used asBasis other than cost....... 1 2Help (See Tax help) home ..................... 6Property used as home (SeeConventions............... 1 3Home: Figuring.................... 8Use of home)Cost basis................. 1 1Main home .................. 6 Lease with option to buy..... 2Publications (See Tax help)Declining balanceUse as rental property (See Use Minimal rental use
+method .................. 1 3of home) exception................. 5
+Depreciable basis.......... 1 1 Not rented for profit.......... 5Q
+Determination of Not used as home........... 8Qualified Gulf Opportunity ZoneI deduction................ 1 0 Part interest................. 2property:
+Improvements: (See also Effective date............... 9 Property received fromAcquisition date test........ 1 0Repairs).................... 3 Excluded property.......... 1 0 tenant.................... 2Excepted property.......... 1 0Assessments for local Reporting................2 ,  1 6General Depreciation System Original use test............ 1 0improvements............ 1 2 Security deposit............. 2(GDS) ...............10, 13 Placed in service dateBasis...................... 1 2 Services received fromNonresidential rental test...................... 1 0Depreciation of rented tenant.................... 2property................. 1 0Substantial use test........ 1 0property.................. 9 Uncollected rent............. 3Personal home changed to Qualified Gulf Opportunity ZoneMACRS recovery period.... 1 1 Used as home ............2 ,  8rental use................ 1 0 property, requirements for theIndian reservation Rental losses (See Gains andProperty used in rental activitiesspecial allowance.......... 9property................... 1 1 losses;  Passive activity)(Table 3)................. 9
+Insurance .................... 3 Repairs: (See alsoRecovery periods.........9 ,  1 3
+Casualty or theft loss R Improvements).............. 3Residential rentalpayments ................ 1 2 Assessments forReal estateproperty.............11, 13Change of property to rental maintenance............. 1 2professionals............. 1 5Special depreciationu s e....................... 5 Personal use of rental propertyPassive activity rules, exceptionallowances............... 9Fire insurance premiums, cost exception for days used fort o ....................... 1 5Straight line method........ 1 3basis.................... 1 2 repairs andReal estate taxes............ 1 1Modified adjusted gross incomePart of property rented....... 5 maintenance.............. 8Real property trades or(MAGI) .................... 1 6Premiums paid in businesses................ 1 5More information (See Tax help)advance .................. 3
+Recordkeeping requirements:Mortgages .................... 3Title insurance, cost STravel and transportationAssumption of, costbasis.................... 1 1 Sale of property:expenses ................. 4basis.................... 1 2Interest payments: (See also Expenses ................... 3Recovery periods........... 1 1Change of property to rentalMortgages)................. 3 Gain or loss..............2 ,  1 5Rent ......................... 1 2u s e....................... 5Loan origination fees........ 4 Main home .................. 2Advance rent................ 2End of, OID................. 4Rental expenses............ 3 Section 179 deductions...... 9Fair price................... 6Interest...................3 ,  5 Security deposits............ 2Rental expenses............. 2Mortgage insurance Settlement fees............. 1 1L Advertising.................. 3premiums ................ 1 2 Shared equity financingLand: Allocation between rental andPart of property rented....... 5 agreements ................ 6Cost basis................. 1 2 personal uses............. 8
+Special depreciation allowance:Depreciation................ 9 Change of property to rental
+Qualified Gulf Opportunity ZoneN u s e....................... 5Leases: property.................. 9Cleaning andCancellation payments...... 2 Nonresidential real
+Special depreciationmaintenance.............. 3Equipment leasing........... 3 property................... 1 0
+allowances................. 9Commissions ............... 3Limits: Not-for-profit activities ....... 5
+Spouse:Deductions, how to figure.... 8Passive activity losses and
+Material participation....... 1 6Depreciation................ 3credits................... 1 5
+O Standard mileage rates....... 4Dwelling unit used asRental expense
+home ..................... 6Original issue discountdeductions................ 8 Suggestions for
+Equipment rental............ 3(OID)....................... 4Rental losses.............. 1 5 publication................. 2
+Publication 527 (2006) Page 21
+
+Page 22 of 22 of Publication 527 9:33 - 21-NOV-2006
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Surveys ..................... 1 1Tax help..................... 1 9TTY/TDD information........ 1 9Utilities....................3 ,  1 2
+Tax return preparation
+fees......................3 ,  4TU V
+Taxes:Tables and figures: Uncollected rent: Vacant rental property ........ 3Deduction of................ 3Declining balance depreciation Income ..................... 3Vacation homes:Local benefit taxes.......... 3rates.................... 1 3 Use of home: Dividing of expenses........ 8Real estate taxes........... 1 1Improvements, examples of Before or after renting....... 6 Dwelling unit................ 6Transfer taxes............. 1 1(Table 1)................. 3 Change to rental use.....5 ,  1 0Fair rental price............. 6Taxpayer Advocate.......... 1 9MACRS optional tables (Table Days of personal use........ 6 Minimal rental use
+Theft losses................. 1 54–D ) .................... 1 4 Fair rental price............. 6 exception................. 5
+Title insurance.............. 1 1MACRS optional tables (Tables Minimal rental use Personal use of ............. 5
+4–A, 4–B, and 4–C)..... 1 4Transfer taxes............... 1 1 exception................. 5Valuation:
+MACRS recovery periods for Passive activity rulesTravel and transportation Fair market value........... 1 2
+rental activity property (Table exception................ 1 5expenses: ■3 ) ........................ 9 Personal use as dwellingLocal transportation
+Tax credits: unit....................... 5expenses ...............3 ,  4
+Residential energy credit Rental income andRecordkeeping.............. 4
+allowed before 1986, effect deductions ................ 8Rental expenses............ 3
+on basis................. 1 2Standard mileage rate....... 4
+Page 22 Publication 527 (2006)

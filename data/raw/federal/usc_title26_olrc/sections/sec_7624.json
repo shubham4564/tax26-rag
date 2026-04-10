@@ -1,0 +1,64 @@
+{
+  "section_number": 7624,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle F",
+      "chapter": "CHAPTER 78",
+      "subchapter": "Subchapter B",
+      "section": "§7624"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 100–690, title VII, §7602(a), Nov. 18, 1988, 102 Stat. 4507 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§7624",
+    "heading": "§7624. Reimbursement to State and local law enforcement agencies",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Authorization of reimbursement",
+        "text": "Whenever a State or local law enforcement agency provides information to the Internal Revenue Service that substantially contributes to the recovery of Federal taxes imposed with respect to illegal drug-related activities (or money laundering in connection with such activities), such agency may be reimbursed by the Internal Revenue Service for costs incurred in the investigation (including but not limited to reasonable expenses, per diem, salary, and overtime) not to exceed 10 percent of the sum recovered."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Records; 10 percent limitation",
+        "text": "The Internal Revenue Service shall maintain records of the receipt of information from a contributing agency and shall notify the agency when monies have been recovered as the result of such information. Following such notification, the agency shall submit a statement detailing the investigative costs it incurred. Where more than 1 State or local agency has given information that substantially contributes to the recovery of Federal taxes, the Internal Revenue Service shall equitably allocate investigative costs among such agencies not to exceed an aggregate amount of 10 percent of the taxes recovered."
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "No reimbursement where duplicative",
+        "text": "No State or local agency may receive reimbursement under this section if reimbursement has been received by such agency under a Federal or State forfeiture program or under State revenue laws."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date",
+        "pub_law": "Pub. L. 100–690",
+        "effective_date": "Effective Date of 1988 Amendment note under section 6103 of this title.",
+        "text": "Section applicable to information first provided more than 90 days after Nov. 18, 1988, see section 7602(e) of Pub. L. 100–690, set out as an Effective Date of 1988 Amendment note under section 6103 of this title."
+      },
+      {
+        "heading": "Regulations",
+        "pub_law": "Pub. L. 100–690, title VII, §7602(g), Nov. 18, 1988, 102 Stat. 4508",
+        "effective_date": "",
+        "text": "Pub. L. 100–690, title VII, §7602(g), Nov. 18, 1988, 102 Stat. 4508 , provided that: \"The Secretary of the Treasury shall, not later than 90 days after the date of enactment of this Act [Nov. 18, 1988], prescribe such rules and regulations as shall be necessary and proper to carry out the provisions of this section [enacting section 7624 of this title, amending sections 6103 and 7809 of this title, and enacting provisions set out as notes under sections 6103 and 7809 of this title], including regulations relating to the definition of information which substantially contributes to the recovery of Federal taxes and the substantiation of expenses required in order to receive a reimbursement.\""
+      }
+    ]
+  }
+}

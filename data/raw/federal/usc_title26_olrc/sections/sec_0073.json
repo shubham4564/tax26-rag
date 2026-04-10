@@ -1,0 +1,58 @@
+{
+  "section_number": 73,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle A",
+      "chapter": "CHAPTER 1",
+      "subchapter": "Subchapter B",
+      "part": "PART II",
+      "section": "§73"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Aug. 16, 1954, ch. 736, 68A Stat. 24 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§73",
+    "heading": "§73. Services of child",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Treatment of amounts received",
+        "text": "Amounts received in respect of the services of a child shall be included in his gross income and not in the gross income of the parent, even though such amounts are not received by the child."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Treatment of expenditures",
+        "text": "All expenditures by the parent or the child attributable to amounts which are includible in the gross income of the child (and not of the parent) solely by reason of subsection (a) shall be treated as paid or incurred by the child."
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Parent defined",
+        "text": "For purposes of this section, the term \"parent\" includes an individual who is entitled to the services of a child by reason of having parental rights and duties in respect of the child."
+      },
+      {
+        "level": "subsection",
+        "label": "(d)",
+        "heading": "Cross reference",
+        "text": "For assessment of tax against parent in certain cases, see section 6201(c)."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": []
+  }
+}

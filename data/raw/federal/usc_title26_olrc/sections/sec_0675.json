@@ -1,0 +1,72 @@
+{
+  "section_number": 675,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle A",
+      "chapter": "CHAPTER 1",
+      "subchapter": "Subchapter J",
+      "part": "PART I",
+      "section": "§675"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Aug. 16, 1954, ch. 736, 68A Stat. 229 ; Pub. L. 100–647, title I, §1014(a)(2), Nov. 10, 1988, 102 Stat. 3559 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§675",
+    "heading": "§675. Administrative powers",
+    "text": "",
+    "children": [
+      {
+        "level": "paragraph",
+        "label": "(1)",
+        "heading": "Power to deal for less than adequate and full consideration",
+        "text": "A power exercisable by the grantor or a nonadverse party, or both, without the approval or consent of any adverse party enables the grantor or any person to purchase, exchange, or otherwise deal with or dispose of the corpus or the income therefrom for less than an adequate consideration in money or money's worth."
+      },
+      {
+        "level": "paragraph",
+        "label": "(2)",
+        "heading": "Power to borrow without adequate interest or security",
+        "text": "A power exercisable by the grantor or a nonadverse party, or both, enables the grantor to borrow the corpus or income, directly or indirectly, without adequate interest or without adequate security except where a trustee (other than the grantor) is authorized under a general lending power to make loans to any person without regard to interest or security."
+      },
+      {
+        "level": "paragraph",
+        "label": "(3)",
+        "heading": "Borrowing of the trust funds",
+        "text": "The grantor has directly or indirectly borrowed the corpus or income and has not completely repaid the loan, including any interest, before the beginning of the taxable year. The preceding sentence shall not apply to a loan which provides for adequate interest and adequate security, if such loan is made by a trustee other than the grantor and other than a related or subordinate trustee subservient to the grantor. For periods during which an individual is the spouse of the grantor (within the meaning of section 672(e)(2)), any reference in this paragraph to the grantor shall be treated as including a reference to such individual."
+      },
+      {
+        "level": "paragraph",
+        "label": "(4)",
+        "heading": "General powers of administration",
+        "text": "A power of administration is exercisable in a nonfiduciary capacity by any person without the approval or consent of any person in a fiduciary capacity. For purposes of this paragraph, the term \"power of administration\" means any one or more of the following powers: (A) a power to vote or direct the voting of stock or other securities of a corporation in which the holdings of the grantor and the trust are significant from the viewpoint of voting control; (B) a power to control the investment of the trust funds either by directing investments or reinvestments, or by vetoing proposed investments or reinvestments, to the extent that the trust funds consist of stocks or securities of corporations in which the holdings of the grantor and the trust are significant from the viewpoint of voting control; or (C) a power to reacquire the trust corpus by substituting other property of an equivalent value."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "1988",
+        "entries": [
+          "Par. (3). Pub. L. 100–647 inserted at end \"For periods during which an individual is the spouse of the grantor (within the meaning of section 672(e)(2)), any reference in this paragraph to the grantor shall be treated as including a reference to such individual.\""
+        ]
+      }
+    ],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 1988 Amendment",
+        "pub_law": "Pub. L. 100–647",
+        "effective_date": "effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub.",
+        "text": "Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title."
+      }
+    ]
+  }
+}

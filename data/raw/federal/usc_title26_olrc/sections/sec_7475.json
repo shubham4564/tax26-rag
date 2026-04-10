@@ -1,0 +1,66 @@
+{
+  "section_number": 7475,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle F",
+      "chapter": "CHAPTER 76",
+      "subchapter": "Subchapter C",
+      "part": "PART III",
+      "section": "§7475"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 99–514, title XV, §1553(a), Oct. 22, 1986, 100 Stat. 2754 ; amended Pub. L. 109–280, title VIII, §860(a), Aug. 17, 2006, 120 Stat. 1020 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§7475",
+    "heading": "§7475. Practice fee",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "In general",
+        "text": "The Tax Court is authorized to impose a periodic registration fee on practitioners admitted to practice before such Court. The frequency and amount of such fee shall be determined by the Tax Court, except that such amount may not exceed $30 per year."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Use of fees",
+        "text": "The fees described in subsection (a) shall be available to the Tax Court to employ independent counsel to pursue disciplinary matters and to provide services to pro se taxpayers."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "2006",
+        "entries": [
+          "Subsec. (b). Pub. L. 109–280 inserted \"and to provide services to pro se taxpayers\" before period at end."
+        ]
+      }
+    ],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 2006 Amendment",
+        "pub_law": "Pub. L. 109–280, title VIII, §860(b), Aug. 17, 2006, 120 Stat. 1020",
+        "effective_date": "",
+        "text": "Pub. L. 109–280, title VIII, §860(b), Aug. 17, 2006, 120 Stat. 1020 , provided that: \"The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [Aug. 17, 2006].\""
+      },
+      {
+        "heading": "Effective Date",
+        "pub_law": "Pub. L. 99–514, title XV, §1553(c), Oct. 22, 1986, 100 Stat. 2754",
+        "effective_date": "",
+        "text": "Pub. L. 99–514, title XV, §1553(c), Oct. 22, 1986, 100 Stat. 2754 , provided that: \"The amendments made by this section [enacting this section and amending sections 7472 and 7473 of this title] shall take effect on January 1, 1987.\""
+      }
+    ]
+  }
+}

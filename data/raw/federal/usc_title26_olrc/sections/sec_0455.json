@@ -1,0 +1,145 @@
+{
+  "section_number": 455,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle A",
+      "chapter": "CHAPTER 1",
+      "subchapter": "Subchapter E",
+      "part": "PART II",
+      "section": "§455"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 85–866, title I, §28(a), Sept. 2, 1958, 72 Stat. 1625 ; amended Pub. L. 94–455, title XIX, §§1901(a)(67), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1775 , 1834.)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§455",
+    "heading": "§455. Prepaid subscription income",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Year in which included",
+        "text": "Prepaid subscription income to which this section applies shall be included in gross income for the taxable years during which the liability described in subsection (d)(2) exists."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Where taxpayer's liability ceases",
+        "text": "In the case of any prepaid subscription income to which this section applies- (1) If the liability described in subsection (d)(2) ends, then so much of such income as was not includible in gross income under subsection (a) for preceding taxable years shall be included in gross income for the taxable year in which the liability ends. (2) If the taxpayer dies or ceases to exist, then so much of such income as was not includible in gross income under subsection (a) for preceding taxable years shall be included in gross income for the taxable year in which such death, or such cessation of existence, occurs."
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Prepaid subscription income to which this section applies",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Election of benefits",
+            "text": "This section shall apply to prepaid subscription income if and only if the taxpayer makes an election under this section with respect to the trade or business in connection with which such income is received. The election shall be made in such manner as the Secretary may by regulations prescribe. No election may be made with respect to a trade or business if in computing taxable income the cash receipts and disbursements method of accounting is used with respect to such trade or business."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Scope of election",
+            "text": "An election made under this section shall apply to all prepaid subscription income received in connection with the trade or business with respect to which the taxpayer has made the election; except that the taxpayer may, to the extent permitted under regulations prescribed by the Secretary, include in gross income for the taxable year of receipt the entire amount of any prepaid subscription income if the liability from which it arose is to end within 12 months after the date of receipt. An election made under this section shall not apply to any prepaid subscription income received before the first taxable year for which the election is made."
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "When election may be made",
+            "text": "",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "With consent",
+                "text": "A taxpayer may, with the consent of the Secretary, make an election under this section at any time."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Without consent",
+                "text": "A taxpayer may, without the consent of the Secretary, make an election under this section for his first taxable year in which he receives prepaid subscription income in the trade or business. Such election shall be made not later than the time prescribed by law for filing the return for the taxable year (including extensions thereof) with respect to which such election is made."
+              }
+            ]
+          },
+          {
+            "level": "paragraph",
+            "label": "(4)",
+            "heading": "Period to which election applies",
+            "text": "An election under this section shall be effective for the taxable year with respect to which it is first made and for all subsequent taxable years, unless the taxpayer secures the consent of the Secretary to the revocation of such election. For purposes of this title, the computation of taxable income under an election made under this section shall be treated as a method of accounting."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(d)",
+        "heading": "Definitions",
+        "text": "For purposes of this section-",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Prepaid subscription income",
+            "text": "The term \"prepaid subscription income\" means any amount (includible in gross income) which is received in connection with, and is directly attributable to, a liability which extends beyond the close of the taxable year in which such amount is received, and which is income from a subscription to a newspaper, magazine, or other periodical."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Liability",
+            "text": "The term \"liability\" means a liability to furnish or deliver a newspaper, magazine, or other periodical."
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Receipt of prepaid subscription income",
+            "text": "Prepaid subscription income shall be treated as received during the taxable year for which it is includible in gross income under section 451 (without regard to this section)."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(e)",
+        "heading": "Deferral of income under established accounting procedures",
+        "text": "Notwithstanding the provisions of this section, any taxpayer who has, for taxable years prior to the first taxable year to which this section applies, reported his income under an established and consistent method or practice of accounting for prepaid subscription income (to which this section would apply if an election were made) may continue to report his income for taxable years to which this title applies in accordance with such method or practice."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "1976",
+        "entries": [
+          "Subsec. (c). Pub. L. 94–455, §1906(b)(13)(A), struck out \"or his delegate\" after \"Secretary\" wherever appearing.",
+          "Subsec. (c)(3)(B). Pub. L. 94–455, §1901(a)(67), substituted \"for his first taxable year in which he receives prepaid subscription income in the trade or business\" for \"for his first taxable year (i) which begins after December 31, 1957, and (ii) in which he receives prepaid subscription income in the trade or business\"."
+        ]
+      }
+    ],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 1976 Amendment",
+        "pub_law": "Pub. L. 94–455",
+        "effective_date": "effective for taxable years beginning after Dec.",
+        "text": "Amendment by section 1901(a)(67) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title."
+      },
+      {
+        "heading": "Effective Date",
+        "pub_law": "Pub. L. 85–866, title I, §28(c), Sept. 2, 1958, 72 Stat. 1626",
+        "effective_date": "taxable years beginning after December 31, 1957.",
+        "text": "Pub. L. 85–866, title I, §28(c), Sept. 2, 1958, 72 Stat. 1626 , provided that: \"The amendments made by subsections (a) and (b) [enacting this section] shall apply with respect to taxable years beginning after December 31, 1957.\""
+      }
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "section_number": 5351,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle E",
+      "chapter": "CHAPTER 51",
+      "subchapter": "Subchapter F",
+      "part": "PART I",
+      "section": "§5351"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1378 ; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834 ; Pub. L. 114–113, div. Q, title III, §332(b)(2)(B), Dec. 18, 2015, 129 Stat. 3106 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§5351",
+    "heading": "§5351. Bonded wine cellar",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "In general",
+        "text": "Any person establishing premises for the production, blending, cellar treatment, storage, bottling, packaging, or repackaging of untaxpaid wine (other than wine produced exempt from tax under section 5042), including the use of wine spirits in wine production, shall, before commencing operations, make application to the Secretary and, except as provided under section 5551(d), file bond and receive permission to operate."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Definitions",
+        "text": "For purposes of this chapter-",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Bonded wine cellar",
+            "text": "The term \"bonded wine cellar\" means any premises described in subsection (a), including any such premises established by a taxpayer described in section 5551(d)."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Bonded winery",
+            "text": "At the discretion of the Secretary, any bonded wine cellar that engages in production operations may be designated as a \"bonded winery\"."
+          }
+        ]
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "2015",
+        "entries": [
+          "Pub. L. 114–113 designated existing provisions as subsec. (a), inserted heading, inserted \", except as provided under section 5551(d),\" before \"file bond\", struck out \"Such premises shall be known as 'bonded wine cellars'; except that any such premises engaging in production operations may, in the discretion of the Secretary, be designated as a 'bonded winery'.\" at end, and added subsec. (b)."
+        ]
+      },
+      {
+        "year": "1976",
+        "entries": [
+          "Pub. L. 94–455 struck out \"or his delegate\" after \"Secretary\" wherever appearing."
+        ]
+      }
+    ],
+    "other_notes": [
+      {
+        "heading": "Prior Provisions",
+        "text": "A prior section 5351, act Aug. 16, 1954, ch. 736, 68A Stat. 663 , consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859."
+      }
+    ]
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 2015 Amendment",
+        "pub_law": "Pub. L. 114–113",
+        "effective_date": "",
+        "text": "Amendment by Pub. L. 114–113 applicable to any calendar quarters beginning more than 1 year after Dec. 18, 2015, see section 332(c) of Pub. L. 114–113, set out as a note under section 5061 of this title."
+      },
+      {
+        "heading": "Effective Date",
+        "pub_law": "Pub. L. 85–859",
+        "effective_date": "effective July 1, 1959, see section 210(a)(1) of Pub.",
+        "text": "Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set out as a note under section 5001 of this title."
+      }
+    ]
+  }
+}

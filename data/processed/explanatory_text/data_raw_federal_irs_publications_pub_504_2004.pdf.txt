@@ -1,0 +1,1744 @@
+Userid: ________ Leading adjust: -50% ❏ Draft ❏ Ok to Print
+PAGER/SGML Fileid: P504.SGM (14-Oct-2004) (Init. & date)
+Filename: C:\Documents and Settings\JLPohl00\Desktop\04p504i.sgm
+Page 1 of 30 of Publication 504 9:09 - 14-OCT-2004
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+ContentsDepartment of the Treasury
+Internal Revenue Service Reminders ................................ 1
+Introduction.............................. 2
+Publication 504 Filing Status.............................. 2
+Cat. No. 15006I Joint Return............................ 3
+Separate Returns........................ 4
+Head of Household....................... 5
+Divorced Exemptions ............................... 6
+Personal Exemptions..................... 6
+Exemptions for Dependents................ 6or Separated Dependency Tests....................... 6
+Phaseout of Exemptions................... 11
+Individuals Alimony .................................. 12
+General Rules.......................... 12
+Instruments Executed After 1984............ 13For use in preparing Instruments Executed Before 1985........... 16
+Qualified Domestic Relations Order........... 182004 Returns
+Individual Retirement Arrangements........... 18
+Property Settlements....................... 18
+Transfer Between Spouses................. 19
+Gift Tax on Property Settlements............ 21
+Sale of Jointly-Owned Property.............. 21
+Costs of Getting a Divorce................... 21
+Tax Withholding and Estimated Tax........... 22
+Community Property ....................... 22
+Community Income ...................... 22
+Alimony (Community Income)............... 24
+How To Get Tax Help....................... 24
+Index .................................... 27
+Reminders
+Relief from joint liability.In some cases, one spouse
+may be relieved of joint liability for tax, interest, and penal-
+ties on a joint tax return. For more information, see Relief
+from joint liability under Joint Return.
+Social security numbers for dependents.You must in-
+clude the taxpayer identification number (generally the
+social security number) of every person for whom you
+claim an exemption. See Exemptions for Dependents
+under Exemptions, later.
+Individual taxpayer identification number (ITIN).The
+IRS will issue an ITIN to a nonresident or resident alien
+who does not have and is not eligible to get a social
+security number (SSN). To apply for an ITIN, Form W-7,
+Application for IRS Individual Taxpayer Identification Num-
+Get forms and other information ber, must be filed with the IRS. It usually takes about 4 to 6faster and easier by: weeks to get an ITIN. The ITIN is entered wherever an
+SSN is requested on a tax return. If you are required to
+Internet • www.irs.gov include another person’s SSN on your return and that
+FAX • 703–368–9694 (from your fax machine) person does not have and cannot get an SSN, enter that
+person’s ITIN.
+
+Page 2 of 30 of Publication 504 9:09 - 14-OCT-2004
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Change of address.If you change your mailing address, feedback and will consider your comments as we revise
+be sure to notify the Internal Revenue Service. You can our tax products.
+use Form 8822, Change of Address. Mail it to the InternalTax questions. If you have a tax question, visitRevenue Service Center for your old address. (Addresseswww.irs.gov or call 1-800-829-1040. We cannot answerfor the Service Centers are on the back of the form.)tax questions at either of the addresses listed above.
+Change of name. If you change your name, be sure toOrdering forms and publications.Visit www.irs.gov/notify the Social Security Administration using Form SS-5,formspubs to download forms and publications, callApplication for a Social Security Card. 1-800-829-3676, or write to one of the three addresses
+shown under How To Get Tax Help in the back of thisChange of withholding.If you have been claiming a publication.withholding exemption for your spouse, and you divorce or
+legally separate, you must give your employer a new Form
+Useful ItemsW-4, Employee’s Withholding Allowance Certificate, within
+You may want to see:10 days after the divorce or separation showing the correct
+number of exemptions.
+PublicationsPhotographs of missing children.The Internal Reve-
+❏ 501 Exemptions, Standard Deduction, and Filingnue Service is a proud partner with the National Center for
+InformationMissing and Exploited Children. Photographs of missing
+children selected by the Center may appear in this publica-❏ 544 Sales and Other Dispositions of Assets
+tion on pages that would otherwise be blank. You can help
+❏ 555 Community Propertybring these children home by looking at the photographs
+and calling 1-800-THE-LOST (1-800-843-5678) if you rec-❏ 590 Individual Retirement Arrangements (IRAs)
+ognize a child.
+❏ 971 Innocent Spouse Relief
+Form (and Instructions)
+Introduction ❏ 8332 Release of Claim to Exemption for Child of
+This publication explains tax rules that apply if you are Divorced or Separated Parents
+divorced or separated from your spouse. It covers general❏ 8379 Injured Spouse Claim and Allocationfiling information and can help you choose your filing sta-
+tus. It also can help you decide which exemptions you are❏ 8857 Request for Innocent Spouse Relief (And
+entitled to claim, including exemptions for dependents. Separation of Liability and Equitable Relief)
+The publication also discusses payments and transfersSee How To Get Tax Help near the end of this publica-of property that often occur as a result of divorce and howtion for information about getting publications and forms.you must treat them on your tax return. Examples include
+alimony, child support, other court-ordered payments,
+property settlements, and transfers of individual retirement
+Filing Statusarrangements. In addition, this publication also explains
+deductions allowed for some of the costs of obtaining a
+Your filing status is used in determining whether you mustdivorce and how to handle tax withholding and estimated
+file a return, your standard deduction, and the correct tax. Ittax payments.
+may also be used in determining whether you can claimThe last part of the publication explains special rulescertain deductions and credits. The filing status you canthat may apply to persons who live in community propertychoose depends partly on your marital status on the laststates. day of your tax year.
+Comments and suggestions. We welcome your com- Marital status.If you are considered unmarried, yourments about this publication and your suggestions forfiling status is single or, if you meet certain requirements,future editions. head of household or qualifying widow(er). If you are con-You can write to us at the following address: sidered married, your filing status is either married filing a
+joint return or married filing a separate return. For informa-Internal Revenue Service tion about the single and qualifying widow(er) filing sta-Individual Forms and Publications Branch tuses, see Publication 501.SE:W:CAR:MP:T:I
+Considered unmarried.You are considered unmar-1111 Constitution Ave. NW
+ried for the whole year if either of the following applies.Washington, DC 20224
+1. You have obtained a final decree of divorce or sepa-
+We respond to many letters by telephone. Therefore, itrate maintenance by the last day of your tax year. You
+would be helpful if you would include your daytime phonemust follow your state law to determine if you are
+number, including the area code, in your correspondence.divorced or legally separated.
+You can email us at *taxforms@irs.gov. (The asterisk Exception. If you and your spouse obtain a divorce
+must be included in the address.) Please put “Publications in one year for the sole purpose of filing tax returns as
+Comment” on the subject line. Although we cannot re- unmarried individuals, and at the time of divorce you
+spond individually to each email, we do appreciate your intend to remarry each other and do so in the next tax
+Page 2
+
+Page 3 of 30 of Publication 504 9:09 - 14-OCT-2004
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+year, you and your spouse must file as married individ- There are three types of relief available.
+uals. 
+1. Separation of liability, which may apply to joint filers
+2. You have obtained a decree of annulment, which who are divorced, widowed, legally separated, or
+holds that no valid marriage ever existed. You musthave not lived together for the past 12 months.
+file amended returns (Form 1040X, Amended U.S.
+2. Innocent spouse relief, which may apply to all jointIndividual Income Tax Return) for all tax years af-
+filers.fected by the annulment that are not closed by the
+statute of limitations. The statute of limitations gener-3. Equitable relief, which applies to all joint filers.
+ally does not end until 3 years after the due date ofInnocent spouse relief and separation of liability applyyour original return. On the amended return you willonly to items incorrectly reported on the return. If a spousechange your filing status to single, or if you meetdoes not qualify for innocent spouse relief or separation ofcertain requirements, head of household. liability, the IRS may grant equitable relief.
+Each of these kinds of relief is different, and they eachConsidered married.You are considered married for
+have different requirements. You must file Form 8857 tothe whole year if you are separated but you have not
+request any of these kinds of relief. Publication 971 ex-obtained a final decree of divorce or separate maintenance
+plains these kinds of relief and who may qualify for them.by the last day of your tax year. An interlocutory decree is
+You can also find information on our website atnot a final decree.
+www.irs.gov.
+Exception.If you live apart from your spouse, under
+certain circumstances you may be considered unmarriedTax refund applied to spouse’s debts.The overpay-
+and can file as head of household. See Head of House- ment shown on your joint return may be used to pay the
+hold, later. past-due amount of your spouse’s debts. You can get your
+share of the refund if you qualify as an injured spouse.
+Joint Return Injured spouse.You are an injured spouse if you file a
+joint return and all or part of your share of the overpaymentIf you are married, you and your spouse can choose to filewas, or is expected to be, applied against your spouse’sa joint return. If you file jointly, you both must include allpast-due federal tax, state income tax, child or spousalyour income, exemptions, deductions, and credits on thatsupport, or federal nontax debt, such as a student loan. Anreturn. You can file a joint return even if one of you had noinjured spouse can get a refund for his or her share of theincome or deductions. overpayment that would otherwise be used to pay the
+past-due amount.If both you and your spouse have income, you
+To be considered an injured spouse, you must:should usually figure your tax on both a joint
+return and separate returns to see which gives
+TIP
+1. File a joint return, andyou the lower tax.
+2. Have reported income (such as wages, interest,
+Nonresident alien.To file a joint return, at least one ofetc.), or
+you must be a U.S. citizen or resident at the end of the tax3. Have made and reported tax payments (such as fed-year. If either of you was a nonresident alien at any timeeral income tax withheld from wages or estimated taxduring the tax year, you can file a joint return only if youpayments), or claimed the earned income credit oragree to treat the nonresident spouse as a resident of theother refundable credit, andUnited States. This means that your combined worldwide
+incomes are subject to U.S. income tax. These rules are4. Not be required to pay the past-due amount.
+explained in Publication 519, U.S. Tax Guide for Aliens.
+Note. If the injured spouse’s permanent home is in aSigning a joint return.Both you and your spouse must
+community property state, then the injured spouse mustsign the return, or it will not be considered a joint return.
+only meet (1) and (4) above. For more information, see
+Joint and individual liability.Both you and your spousePublication 555, Community Property.
+are responsible, jointly and individually, for the tax and any
+Refunds that involve community property statesinterest or penalty due on your joint return. This means that
+must be divided according to local law. If you liveone spouse may be held liable for all the tax due even if all
+in a community property state in which all com-the income was earned by the other spouse.
+CAUTION
+!
+munity property is subject to the debts of either spouse,
+Divorced taxpayers.If you are divorced, you are stillyour entire refund can be used to pay those debts.  
+jointly and individually responsible for any tax, interest, andIf you are an injured spouse, you must file Form 8379 topenalties due on a joint return for a tax year ending beforehave your portion of the overpayment refunded to you.your divorce. This responsibility applies even if your di-Follow the instructions on the form.vorce decree states that your former spouse will be re-If you have not filed your joint return and you know thatsponsible for any amounts due on previously filed jointyour joint refund will be offset, file Form 8379 with yourreturns. return. You should receive your refund within 14 weeks
+Relief from joint liability.In some cases, a spouse will from the date the paper return is filed or within 11 weeks
+be relieved of the tax, interest, and penalties on a joint from the date the return is filed electronically.
+return. You can ask for relief no matter how small the If you filed your joint return and your joint refund was
+liability. offset, file Form 8379 by itself. When filed after offset, it can
+Page 3
+
+Page 4 of 30 of Publication 504 9:09 - 14-OCT-2004
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Table 1. Itemized Deductions on Separate Returns
+This table shows itemized deductions you can claim on your separate return whether you paid the
+expenses separately with your own funds or jointly with your spouse. Caution: If you live in a community
+property state, these rules do not apply. See Community Property.
+THEN you can deduct on your separate
+IF you paid ... AND you  ... federal return ...
+medical expenses paid with funds deposited in a joint checking half of the total medical expenses, subject to
+account in which you and your spouse have the limits, unless you can show that you alone
+an equal interest paid the expenses.
+state income tax file a separate state income tax return the state income tax you alone paid during the
+year.
+file a joint state income tax return and you the state income tax you alone paid during the
+and your spouse are jointly and individually year.
+liable for the full amount of the state income
+tax
+file a joint state income tax return and you the smaller of:
+are liable for only your own share of state
+• the state income tax you alone paid during
+income tax the year, or
+• the total state income tax you and your
+spouse paid during the year multiplied by
+the following fraction. The numerator is
+your gross income and the denominator
+is your combined gross income.
+property tax paid the tax on property held as tenants by the property tax you alone paid.
+the entirety
+mortgage interest paid the interest on a qualified home held the mortgage interest you alone paid.
+as tenants by the entirety
+casualty loss have a casualty loss on a home you own half of the loss, subject to the deduction limits.
+as tenants by the entirety Neither spouse may report the total casualty
+loss.
+take up to 8 weeks to receive your refund. Do not attach information on exemptions you can claim on your separate
+return, see Exemptions, later.the previously filed tax return, but do include copies of all
+Forms W-2 and W-2G for both spouses and any FormsCommunity or separate income.If you live in a commu-1099 that show income tax withheld. nity property state and file a separate return, your income
+Generally, you must file Form 8379 no later than 6 yearsmay be separate income or community income for income
+from the date you are notified of the offset (3 years if thetax purposes. For more information, see Community In-
+offset was used to pay federal tax debt). A separate Formcome  under Community Property, later.
+8379 must be filed for each tax year to be considered.Separate liability.If you and your spouse file separately,
+An injured spouse claim is different from an inno-you each are responsible only for the tax due on your own
+cent spouse relief request. An injured spousereturn.
+uses Form 8379 to request the division of the tax
+CAUTION
+!
+Itemized deductions.If you and your spouse file sepa-overpayment attributed to each spouse. An innocent
+rate returns and one of you itemizes deductions, the otherspouse uses Form 8857 to request relief from joint liabilityspouse will not qualify for the standard deduction andfor tax, interest, and penalties on a joint return for items ofshould also itemize deductions.the other spouse (or former spouse) that were incorrectly
+reported on the joint return. For information on innocentDividing itemized deductions.You may be able to
+claim itemized deductions on a separate return for certainspouses, see Relief from joint liability, earlier.
+expenses that you paid separately or jointly with your
+spouse. See Table 1.Separate Returns
+Separate returns may give you a higher tax.Some
+If you and your spouse file separate returns, you shouldmarried couples file separate returns because each wants
+each report only your own income, exemptions, deduc-to be responsible only for his or her own tax. But in almost
+tions, and credits on your individual return. You can file aall instances, if you file separate returns, you will pay more
+separate return even if only one of you had income. For combined federal tax than you would with a joint return.
+Page 4
+
+Page 5 of 30 of Publication 504 9:09 - 14-OCT-2004
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+This is because special rules apply if you file a separateHead of Household
+return. These rules include the following items.
+You may be eligible to file as head of household if you meet
+1. Your tax rates will increase at income levels that arethe requirements discussed below.
+lower than those for a joint return filer. Filing as head of household has the following advan-
+tages.2. Your exemption amount for figuring the alternative
+minimum tax will be half of that allowed a joint return1. You can claim the standard deduction even if yourfiler. spouse files a separate return and itemizes deduc-
+3. You cannot take the credit for child and dependenttions.
+care expenses in most cases. 2. Your standard deduction is higher than is allowed on
+4. You cannot take the earned income credit. a single or married filing separate return.
+5. You cannot take the exclusion or credit for adoption3. Your tax rate may be lower than it is on a single or
+expenses in most instances. married filing separate return.
+6. You cannot take the credit for higher education ex-4. You may be able to claim certain credits (such as
+dependent care credit and earned income credit) youpenses (Hope and lifetime learning credits), the de-
+cannot claim on a married filing separate return.duction for student loan interest, or the deduction for
+qualified tuition and related expenses. 5. Your income limits that reduce the child tax credit,
+retirement savings contributions credit, itemized de-7. You cannot exclude the interest from qualified sav-
+ductions, and the amount you can claim for exemp-ings bonds that you used for higher education ex-
+tions will be more than the limits on a married filingpenses. separate return.
+8. If you lived with your spouse at any time during the
+tax year: Requirements. You can file as head of household only if
+you were unmarried or considered unmarried on the lasta. You cannot claim the credit for the elderly or the
+day of the year. You also must have paid more than halfdisabled,
+the cost of keeping up a home that was the main home forb. You will have to include in income up to 85% ofmore than half the year (except for temporary absences,
+any social security or equivalent railroad retire-such as for school) for you and any of the following qualify-
+ment benefits you received, and ing persons. 
+c. You cannot roll over amounts from a traditional1. Certain unmarried children. This includes your un-IRA into a Roth IRA. married child, grandchild, stepchild, foster child, or
+adopted child. A foster child must qualify as your9. Your income limits that reduce the child tax credit,dependent and must have lived in your home for theretirement savings contributions credit, itemized de-entire year.ductions, and amount you can claim for exemptions
+2. Certain married children. This includes your mar-will be half of the limits allowed a joint return filer.
+ried child, grandchild, stepchild, foster child, or10. Your capital loss deduction limit is $1,500 (instead ofadopted child for whom you can claim an exemption.$3,000 on a joint return). This also includes your married child, grandchild,
+stepchild, or adopted child for whom you could claim11. Your basic standard deduction, if allowable, is half of
+an exemption except that: that allowed a joint return filer. See Itemized deduc-
+tions, earlier. a. By your written declaration you allow the noncus-
+todial parent to claim the exemption, or
+Joint return after separate returns.If either you or your b. The noncustodial parent provided at least $600
+spouse files a separate return, you can change to a joint for the support of the child and claims the exemp-
+tion under a pre-1985 agreement.return any time within 3 years from the due date (not
+including extensions) of the separate returns. This applies
+3. Other relatives. This includes any other relative foreven if either of you filed as head of household. Use Form
+whom you can claim an exemption. However, your1040X.
+parent for whom you can claim an exemption does
+not have to live with you. (See  Father or mother,Separate returns after joint return.After the due date of later.) For a list of persons who are relatives foryour return, you and your spouse cannot file separatepurposes of these requirements, see 1. Member of
+returns if you previously filed a joint return. Household or Relationship Test under Dependency
+Tests, later.Exception.A personal representative for a decedent
+can change from a joint return elected by the survivingYour married child or other relative will not qualify you as
+spouse to a separate return for the decedent. The personala head of household if you claim an exemption for that
+representative has one year from the due date (includingperson under a multiple support agreement (discussed
+extensions) of the joint return to make the change.later).
+Page 5
+
+Page 6 of 30 of Publication 504 9:09 - 14-OCT-2004
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Father or mother.If your parent for whom you canPersonal Exemptionsclaim an exemption does not live with you, you can file as
+head of household if you paid more than half the cost ofYou can claim your own exemption unless someone else
+keeping up a home that was your parent’s main home forcan claim it. If you are married, you may be able to take an
+the entire year. This includes paying more than half theexemption for your spouse. These are called personal
+cost of keeping your parent in a rest home or home for theexemptions.elderly.
+Considered unmarried.Even if you are married, you willExemption for Your Spouse
+be considered unmarried on the last day of the year if you
+Your spouse is never considered your dependent. Youmeet all of the following tests. 
+may be able to take an exemption for your spouse only
+1. You file a separate return. because you are married.
+2. You paid more than half the cost of keeping up your
+home for the tax year. Joint return.On a joint return, you can claim one exemp-
+tion for yourself and one for your spouse.3. Your spouse did not live in your home during the last
+6 months of the tax year. If your spouse had any gross income, you can claim his
+or her exemption only if you file a joint return.4. Your home was, for more than half the year, the
+main home of your child, stepchild, adopted child, or
+for the entire year, the main home for your fosterSeparate return.If you file a separate return, you canchild. You generally must be able to claim an exemp-take an exemption for your spouse only if your spouse hadtion for your child. However, you can still meet thisno gross income and was not the dependent of anothertest if you cannot claim an exemption for your childtaxpayer. If your spouse is the dependent of another tax-only because:
+payer, you cannot claim an exemption for your spouse
+a. By your written declaration you allow the noncus-even if the other taxpayer does not actually claim your
+todial parent to claim the exemption, or spouse’s exemption.
+b. The noncustodial parent provided at least $600Alimony paid.If you paid alimony to your spouse, you
+for the support of the child and claims the exemp-cannot take an exemption for your spouse. This is because
+tion under a pre-1985 agreement. alimony is gross income to the spouse who received it.
+Nonresident alien spouse.If your spouse was a non-Divorced or separated spouse.You cannot take an ex-resident alien at any time during the tax year, and you haveemption for your former spouse for the year in which younot chosen to treat your spouse as a resident alien, you arewere divorced or legally separated under a final decree.considered unmarried for head of household purposes.This rule applies even if you paid all your former spouse’sHowever, your spouse is not a qualifying person for headsupport that year.of household purposes. You must have paid most of the
+cost of keeping up a home that was the main home for
+most of the year for you and a qualifying person (other than
+Exemptions for Dependents
+your spouse) and meet the other requirements to file as
+You can take an exemption for each person who meets allhead of household.
+five of the dependency tests discussed later.
+Keeping up a home.You are keeping up a home only if If you can claim an exemption for your depen-you pay more than half the cost of its upkeep. This includesdent, the dependent cannot claim his or her ownrent, mortgage interest, taxes, insurance on the home, exemption on his or her own tax return. This isCAUTION
+!
+repairs, utilities, and food eaten in the home. This does nottrue even if you do not claim the dependent’s exemption oninclude the cost of clothing, education, medical treatment,your return or if the exemption will be reduced or elimi-or transportation for any member of the household.nated under the phaseout rule for high-income individuals.
+More information.For more information on filing as head
+of household, see Publication 501. Dependency Tests
+The following five tests must be met for you to claim an
+exemption for a person (dependent) other than yourself orExemptions
+your spouse.
+Generally, you can deduct $3,100 for each exemption you
+claim in 2004. However, if your adjusted gross income is1. Member of Household or Relationship Test.
+more than $107,025, see Phaseout of Exemptions, later. 2. Citizen or Resident Test.There are two types of exemptions: personal exemp-
+tions and exemptions for dependents. If you are entitled to3. Joint Return Test.
+claim an exemption for a dependent (such as your child),4. Gross Income Test.that dependent cannot claim his or her personal exemption
+on his or her own tax return. 5. Support Test.
+Page 6
+
+Page 7 of 30 of Publication 504 9:09 - 14-OCT-2004
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+take the exemption. It does not matter if the child lives1. Member of Household
+abroad with the nonresident alien parent.or Relationship Test
+Special rule for your adopted child.If you are a U.S.To meet this test, the person must either: citizen who has legally adopted a child who is not a U.S.
+citizen or resident and the other dependency tests are met,1. Be related to you, or you can take the exemption if your home is the child’s main
+2. Live with you for the entire year as a member of yourhome and the child is a member of your household for the
+household. entire year.
+Related.A person related to you in any of the following3. Joint Return Testways meets this test even if he or she did not live with you
+for the entire year as a member of your household.Even if the other dependency tests are met, you are gener-
+ally not allowed an exemption for a person other thanChild Stepmother yourself or your spouse if he or she files a joint return.Stepchild Stepfather However, this test does not apply if a joint return is filed byMother Mother-in-law a dependent and his or her spouse merely as a claim forFather Father-in-law refund and no tax liability would exist for either spouse onGrandparent Brother-in-law
+separate returns.Great-grandparent Sister-in-law
+Brother Son-in-law
+Sister Daughter-in-law
+4. Gross Income TestGrandchild If related by blood:
+Great-grandchild Uncle
+Generally, you cannot take an exemption for a personHalf-brother Aunt
+other than yourself or your spouse if that person had grossHalf-sister Nephew
+income of $3,100 or more for 2004. All income in the formStepbrother Niece
+Stepsister
+of money, property, and services that is not exempt from
+tax is gross income. Gross income does not include non-Any relationships that have been established by marriagetaxable income, such as welfare benefits or nontaxableare not considered ended by death or divorce. social security benefits.
+Child.Your child is: Special rules for your child.The gross income test does
+not apply if your child: 1. Your son, daughter, stepson, stepdaughter, or legally
+adopted son or daughter, 1. Is under age 19 at the end of the year, or
+2. A child who lived with you in your home as a member2. Is a student under age 24 at the end of the year.of your family, if placed with you by an authorized
+placement agency for legal adoption, or Child.See 1. Member of Household or Relationship
+Test, earlier, for the definition of “child.”3. A foster child (any child who lived with you in your
+home as a member of your family for the entire year).Student.To qualify as a student, your child must be,
+during some part of each of 5 calendar months during theAuthorized placement agency.An authorized place-year (not necessarily consecutive): ment agency includes any person authorized by state law
+to place children for legal adoption. 1. A full-time student at a school that has a regular
+teaching staff and course of study, and a regularly
+Member of household.If the person is not related to you,enrolled body of students in attendance, or
+he or she must have lived in your home as a member of2. A student taking a full-time, on-farm training courseyour household for the entire year (except for temporarygiven by a school described in (1) above or by aabsences, such as for vacation or school). A person is notstate, county, or local government.a member of your household if at any time during your tax
+year the relationship between you and that person violates A full-time student is one who is enrolled for the number
+local law. of hours or courses the school considers to be full-time
+attendance.
+ The term “school” includes elementary schools, junior2. Citizen or Resident Test and senior high schools, colleges, universities, and techni-
+cal, trade, and mechanical schools. It does not includeTo meet the citizen or resident test, a person must be aon-the-job training courses, correspondence schools, orU.S. citizen or resident, or a resident of Canada or Mexiconight schools.for some part of the calendar year in which your tax year
+begins.
+Children usually are citizens or residents of the country
+5. Support Test
+of their parents. If you were a U.S. citizen when your child
+was born, the child may be a U.S. citizen although the Generally, you must provide more than half of a person’s
+other parent was a nonresident alien and the child was total support for the calendar year to meet the support test.
+born in a foreign country. If so, and the other dependency If you file a joint return, the support could have come from
+tests are met, the child is your dependent and you may you or your spouse. Even if you did not provide over half
+Page 7
+
+Page 8 of 30 of Publication 504 9:09 - 14-OCT-2004
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+the person’s support, you will be treated as having pro- The special rule does not apply if the child’s support is
+vided over half the support if you meet the tests explained determined under a multiple support agreement discussed
+later under Multiple Support Agreement. later.
+If you are divorced or separated and you or the other “Child” is defined earlier under 1. Member of Household
+parent, or both together, provided over half your child’sor Relationship Test.
+support for the year, the support test for your child may be
+Support provided by others.Support provided to a childbased on a special rule. See Support Test for Child of
+of a divorced or separated parent by a relative or friend isDivorced or Separated Parents, later.
+not included as support provided by the parent. However, ifIn figuring total support, you must include money the
+you remarried, the support your new spouse provided isperson provided for his or her own support, even if this
+treated as provided by you.money was not taxable (for example, gifts, savings, and
+welfare benefits).
+Example 1. You are divorced. During the whole year,Support includes food, a place to live, clothes, medical
+you and your child lived with your mother in a house sheand dental care, recreation, and education. In figuring
+owns. You must include your child’s share of the fair rentalsupport, use the actual cost of these items. However, the
+value of the home in figuring total support, but not as part ofcost of a place to live is figured at its fair rental value.
+the support provided by you.
+Items not to include in support.Support does not in-
+Example 2. You have two children from a former mar-clude income tax, social security and Medicare taxes,
+riage who lived with you. You remarried and lived in apremiums for life insurance, or funeral expenses. If your
+home owned by your present spouse. Your children’schild was a student, do not include amounts he or she
+share of the fair rental value of the home is treated asreceived as scholarships while a full-time student.
+provided by you.
+Joint ownership of home.If the person lives with you in
+Custodial parent.Under the special rule, the parent whoa home that is jointly owned by you and your spouse or
+had custody of the child for the greater part of the year (theformer spouse, and each of you has the right to use and
+custodial parent) is generally treated as the parent wholive in the home, each of you is considered to provide half
+provided more than half of the child’s support. This parentof the person’s lodging. However, if your decree of divorce
+is usually allowed to claim the exemption for the child if thegives only you the right to use and live in the home, you are
+other dependency tests are met. However, see Noncus-considered to provide the person’s entire lodging. This is
+todial parent, later.true even though legal title to the home remains in the
+names of both you and your former spouse. Custody. Custody is usually determined by the terms of
+the most recent decree of divorce or separate mainte-Capital items.You must include capital items such as anance, or a later custody decree. If there is no decree, it willcar or furniture in figuring support, but only if they werebe determined by the written separation agreement.actually given to, or bought by, the person for his or her useIf neither a decree nor an agreement establishes cus-or benefit. Do not include the cost of a capital item for thetody, then the parent who had physical custody of the childuse or benefit of other members of the household. Forfor the greater part of the year is considered to haveexample, include in support a bicycle purchased by andcustody of the child. This also applies if a decree or agree-used solely by the person for transportation; do not includement calls for “split” custody, or if the validity of a decree ora lawn mower you purchase that is occasionally used byagreement awarding custody is uncertain because of legalthe person. proceedings pending on the last day of the calendar year.
+If the parents were divorced or separated during the
+year after having had joint custody of the child before the
+Support Test for Child of Divorced or
+separation, the parent who had custody for the greater partSeparated Parents
+of the rest of the year is considered the custodial parent.
+The support test for a child of divorced or separated par-
+Example 1. Under the terms of your divorce decree,ents is based on the special rule explained here and shown
+you had custody of your child for 10 months of the year.in Figure 1. However, the special rule applies only if the
+Your former spouse had custody for the other 2 months.parents meet all three of the following requirements.
+You and your former spouse provided the child’s total
+1. The parents: support. You are considered to have provided more than
+half the child’s support because you are the custodiala. Are divorced or legally separated under a decreeparent.of divorce or separate maintenance,
+Example 2. You and your former spouse provided yourb. Are separated under a written separation agree-
+child’s total support for the year. You had custody of yourment, or
+child under your 1992 divorce decree, but in October 2004,c. Lived apart at all times during the last 6 months ofa new custody decree granted custody to your formerthe calendar year. spouse. Because you had custody for the greater part of
+the year, you are the custodial parent and are considered2. One or both parents provide more than half theto have provided more than half of your child’s support.child’s total support for the calendar year.
+3. One or both parents have custody of the child forExample 3. You were separated on June 1. Before the
+more than half the calendar year. separation, you and your spouse had joint custody of your
+Page 8
+
+Page 9 of 30 of Publication 504 9:09 - 14-OCT-2004
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Figure 1. Support Test for Child of Divorced or Separated Parents
+Start Here
+No
+Yes
+Are the parents divorced
+or legally separated,
+separated under a written
+agreement, or did they
+live apart the last 6
+months of the year?
+Did one or both parents
+furnish over half of the
+child’s total support?
+Is the child in the custody
+of one or both parents for
+more than half of the
+year?
+Did the custodial parent
+sign a Form 8332 or
+similar statement
+releasing the exemption?
+Did any one person
+provide over half of
+the child’s total
+support?
+The person who provided
+over half of the child’s
+support meets the
+support test.
+See Multiple Support
+Agreement.
+Did the custodial parent
+sign a decree or
+agreement executed
+after 1984 releasing the
+exemption for the tax
+year?
+Is there a decree or
+agreement executed
+before 1985 (and not
+modified after 1984)
+that entitles the
+noncustodial parent
+to the exemption?
+Did the noncustodial
+parent provide at
+least $600 of the
+child’s support
+during the year?
+The custodial
+parent meets the
+support test.
+The noncustodial parent
+meets the support test.
+/H17074
+/H17074
+/H17075
+/H17075
+/H17075/H17075
+/H17075
+/H17075
+/H17074
+/H17074
+/H17074
+/H17074
+/H17075
+/H17075
+/H17075
+Yes
+Yes
+Yes
+No
+No
+No
+No
+Yes
+NoYes
+Yes
+Yes
+No
+No
+Is the noncustodial parent
+attaching the signed form
+or other required
+documentation to his or
+her return?
+/H17074
+/H17075
+No
+/H17074
+Yes
+/H17074
+child. Your spouse had custody from June through Sep- months following the separation, your spouse was the
+tember and you had custody from October through De- custodial parent for the year and is treated as having
+cember. Because your spouse had custody for 4 of the 7 provided more than half of the child’s support for the year.
+Page 9
+
+Page 10 of 30 of Publication 504 9:09 - 14-OCT-2004
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Noncustodial parent.Under the special rule, the parent b. The noncustodial parent can claim the child as a
+dependent without regard to any condition, suchwho did not have custody, or who had it for the shorter
+as payment of support.time, is the noncustodial parent. The noncustodial parent is
+treated as the parent who provided more than half of thec. The years for which the noncustodial parent canchild’s support if any one of the following three conditionsclaim the child as a dependent.is met.
+2. The noncustodial parent attaches a copy of the fol-1. The custodial parent signs a written declaration thatlowing pages of the decree or agreement to his orhe or she will not claim the exemption for the child,her tax return for the tax year.and the noncustodial parent attaches this written
+a. The cover page (write the other parent’s socialdeclaration to his or her return.
+security number on this page).2. The custodial parent signed a decree or agreement
+b. The pages that contain the information shown inexecuted after 1984 that states that the custodial
+item (1).parent will not claim the exemption for the tax year,
+and the noncustodial parent attaches the appropriatec. The signature page with the other parent’s signa-documentation to his or her return. ture and the date of the agreement.
+3. A decree or agreement executed before 1985 pro-
+vides that the noncustodial parent is entitled to theIf these requirements are not met, you must at-
+exemption, and he or she gave at least $600 for the tach to your return Form 8332 or a similar state-
+child’s support during the year. This is true unless ment from the custodial parent releasing theCAUTION
+!
+the pre-1985 decree or agreement was modified af-exemption.
+ter 1984 to specify that this provision will not apply.
+Divorce decree or separation agreement made
+before 1985.If you are a noncustodial parent who claimsExample 1. Under your 1984 divorce decree, your for-a child’s exemption under a decree or agreement mademer spouse has custody of your child. The decree specifi-before 1985, you must give at least $600 for that child’scally states that you can claim the child’s exemption. Yousupport.
+provided $1,000 of your child’s support during the year andChild support.Child support payments received fromyour spouse provided the rest. You are considered to havethe noncustodial parent are considered used for the child’sprovided over half the child’s support. See item (3) above.support, even if actually spent on things other than sup-
+port.Example 2. You and your spouse provided all of your
+child’s support. Under your 1988 written separation agree-Example. Your 1984 divorce decree requires you toment, your spouse has custody of your child. Because thepay child support to the custodial parent and states thatagreement was made after 1984, you are considered toyou can claim your child’s exemption. The custodial parenthave provided over half the child’s support only if yourpaid for all support items and put the $1,000 child supportspouse agrees not to claim the child’s exemption by sign-you paid during the year into a savings account for theing a written declaration. See item (1) above. child. Because your payments are considered used for
+support, you are considered to have provided over half theWritten declaration.The custodial parent should use
+child’s support.Form 8332, or a similar statement (containing the informa-
+tion required by the form), to make the written declarationBack child support.If you fail to pay child support into release the exemption to the noncustodial parent. Thethe year it is due, but pay it in a later year, any payment ofnoncustodial parent must attach the form or statement tothe overdue amount is not considered child support either
+his or her tax return. for the year it was due or for the year in which it is paid. It is
+The exemption can be released for a single year, for apayment of an amount owed to the custodial parent, but it
+number of specified years (for example, alternate years),is not child support provided by you.
+or for all future years, as specified in the declaration. If the
+Example. You and your former spouse provide all yourexemption is released for more than one year, the original
+child’s support. Your 1984 divorce decree requires you torelease must be attached to the return of the noncustodial
+pay $800 child support each year to the custodial parentparent for the first year, and a copy of the release must be
+and allows you to claim your child’s exemption. Last yearattached to the return for each succeeding tax year for
+you paid only $500, but you made up the $300 you owedwhich the noncustodial parent claims the exemption.
+by paying $1,100 this year. The $300 back child supportDivorce decree or separation agreement made afteryou paid this year is not considered support for last year or1984. If your divorce decree or separation agreement wasfor this year.executed after 1984, you do not have to attach Form 8332
+or a similar statement if both of the following requirements
+Medical Expensesare met.
+A child of divorced or separated parents whose support1. The decree or agreement states all of the following.
+test is based on the special rule described in this section is
+a. The custodial parent will not claim the child as atreated as a dependent of both parents for the medical
+dependent. expense deduction. A parent can deduct medical ex-
+Page 10
+
+Page 11 of 30 of Publication 504 9:09 - 14-OCT-2004
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Figure 2. Can You Claim an Exemption for a Person
+Under a Multiple Support Agreement?
+If no one person alone pays more than half of another person’s support, use this chart to see if you can claim
+an exemption for that person under a multiple support agreement.
+Start Here
+Yes
+No
+Did you pay over 10% of another person’s support?
+Could you claim the other person’s exemption were it not for the
+support test?
+Could at least one other individual claim the other person’s
+exemption were it not for the support test?
+Did you and that other individual or those other people together
+pay over half of the other person’s support?
+Did anyone alone pay over half of the other person’s support?
+Did you receive and keep a signed waiver statement from each
+other individual who paid over 10% of the other person’s support
+and could claim the person’s exemption were it not for the
+support test?
+You can claim the person’s exemption under a
+multiple support agreement.
+You cannot claim the person’s exemption under a
+multiple support agreement.
+/H17075
+/H17074
+Yes
+/H17074
+Yes
+/H17074
+Yes
+/H17074
+No
+/H17074
+Yes
+/H17074
+/H17074
+No
+/H17075
+No
+/H17075
+No
+/H17075
+Yes
+/H17075
+No
+/H17075
+Are you attaching a Form 2120 to your return?
+Yes
+/H17074
+No
+/H17075
+penses he or she paid for the child even if an exemption for emption for that person if the requirements in Figure 2 are
+the child is claimed by the other parent. met. See Form 2120, Multiple Support Declaration, for
+more information.
+Multiple Support Agreement Phaseout of Exemptions
+Sometimes no one individual provides more than half of
+The amount you can claim as a deduction for exemptionsthe support of a person. Instead, two or more people, each
+is phased out if your adjusted gross income (AGI) for 2004of whom would be able to take the exemption but for the
+falls within the range shown for your filing status (see nextsupport test, together provide more than half of the
+person’s support. One of those people can claim an ex- page).
+Page 11
+
+Page 12 of 30 of Publication 504 9:09 - 14-OCT-2004
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Filing Status AGI Example 1. A court order retroactively corrected a
+mathematical error under your divorce decree to express
+Single................. $142,700 – $265,200 the original intent to spread the payments over more than
+10 years. This change also is effective retroactively forMarried filing jointly or federal tax purposes.qualifying widow(er)....... $214,050 – $336,550
+Example 2. Your original divorce decree did not fix anyMarried filing separately.... $107,025 – $168,275
+part of the payment as child support. To reflect the true
+intention of the court, a court order retroactively correctedHead of household....... $178,350 – $300,850
+the error by designating a part of the payment as child
+support. The amended order is effective retroactively forIf your AGI is more than the highest amount for yourfederal tax purposes.filing status, your deduction for exemptions is zero. If your
+AGI falls within the range, use the Deduction for Exemp-Deducting alimony paid.You can deduct alimony you
+paid, whether or not you itemize deductions on your return.tions Worksheet in the instructions for Form 1040 to figure
+You must file Form 1040. You cannot use Form 1040A oryour deduction.
+Form 1040EZ.
+Enter the amount of alimony you paid on Form 1040,
+line 34a. In the space provided on line 34b, enter yourAlimony spouse’s social security number.
+If you paid alimony to more than one person, enter theAlimony is a payment to or for a spouse or former spousesocial security number of one of the recipients. Show theunder a divorce or separation instrument. It does not in-social security number and amount paid to each otherclude voluntary payments that are not made under a di-recipient on an attached statement. Enter your total pay-vorce or separation instrument. ments on line 34a.Alimony is deductible by the payer and must be included
+If you do not provide your spouse’s social securityin the spouse’s or former spouse’s income. Although this
+number, you may have to pay a $50 penalty anddiscussion is generally written for the payer of the alimony,
+your deduction may be disallowed.the recipient can use the information to determine whetherCAUTION
+!
+an amount received is alimony.
+Reporting alimony received.Report alimony you re-To be alimony, a payment must meet certain require-
+ceived on Form 1040, line 11. You cannot use Form 1040Aments. Different requirements apply to payments under
+or Form 1040EZ.instruments executed after 1984 and to payments under
+instruments executed before 1985. These requirements You must give the person who paid the alimonyare discussed later. your social security number. If you do not, you
+may have to pay a $50 penalty.CAUTION
+!
+Spouse or former spouse.Unless otherwise stated in
+the following discussions about alimony, the term “spouse”Withholding on nonresident aliens.If you are a U.S.includes former spouse. citizen or resident and you pay alimony to a nonresident
+alien spouse, you may have to withhold income tax at aDivorce or separation instrument.The term “divorce orrate of 30% (or lower treaty rate) on each payment. Forseparation instrument” means: more information, see Publication 515, Withholding of Tax
+on Nonresident Aliens and Foreign Entities.1. A decree of divorce or separate maintenance or a
+written instrument incident to that decree,
+General Rules2. A written separation agreement, or
+The following rules apply to alimony regardless of when3. A decree or any type of court order requiring a
+the divorce or separation instrument was executed.spouse to make payments for the support or mainte-
+nance of the other spouse. This includes a temporaryPayments not alimony.Not all payments under a divorcedecree, an interlocutory (not final) decree, and a de-or separation instrument are alimony. Alimony does notcree of alimony pendente lite (while awaiting actioninclude:on the final decree or agreement).
+1. Child support,
+Invalid decree.Payments under a divorce decree can2. Noncash property settlements,be alimony even if the decree’s validity is in question. A
+divorce decree is valid for tax purposes until a court having3. Payments that are your spouse’s part of community
+proper jurisdiction holds it invalid. income, as explained later under Community Prop-
+erty,Amended instrument. An amendment to a divorce de-
+cree may change the nature of your payments. Amend-4. Payments to keep up the payer’s property, or
+ments are not ordinarily retroactive for federal tax5. Use of property.purposes. However, a retroactive amendment to a divorce
+decree correcting a clerical error to reflect the original
+intent of the court will generally be effective retroactivelyExample. Under your written separation agreement,
+for federal tax purposes. your spouse lives rent-free in a home you own and you
+Page 12
+
+Page 13 of 30 of Publication 504 9:09 - 14-OCT-2004
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Table 2. Expenses for a Jointly-Owned Home
+Use the table below to find how much of your payment is alimony and how much you can claim as an
+itemized deduction.
+THEN you can deduct and your
+IF you must pay spouse (or former spouse) AND you can claim as an
+all of the ... AND your home is ...must include as alimony ... itemized deduction ...
+mortgage payments jointly owned half of the total payments half of the interest as interest
+(principal and expense (if the home is a
+interest) qualified home).
+1
+held as tenants in half of the total payments half of the real estate taxes2 andreal estate taxes
+common none of the home insurance.and home insurance
+held as tenants by none of the payments all of the real estate taxes and
+the entirety or in none of the home insurance.
+joint tenancy
+1Your spouse (or former spouse) can deduct the other half of the interest if the home is a qualified home.
+2Your spouse (or former spouse) can deduct the other half of the real estate taxes.
+must pay the mortgage, real estate taxes, insurance, re- mony on your return. Your former spouse must report them
+pairs, and utilities for the home. Because you own the as alimony received and can include them in figuring de-
+home and the debts are yours, your payments for the ductible medical expenses.
+mortgage, real estate taxes, insurance, and repairs are not
+Example 2. Under your separation agreement, youalimony. Neither is the value of your spouse’s use of the
+must pay the real estate taxes, mortgage payments, andhome.
+insurance premiums on a home owned by your spouse. IfIf they otherwise qualify, you can deduct the payments
+they otherwise qualify, you can deduct the payments asfor utilities as alimony. Your spouse must report them as
+alimony on your return, and your spouse must report themincome. If you itemize deductions, you can deduct the real
+as alimony received. If itemizing deductions, your spouseestate taxes and, if the home is a qualified home, you can
+can deduct the real estate taxes and, if the home is aalso include the interest on the mortgage in figuring your
+qualified home, also include the interest on the mortgage indeductible interest.
+figuring deductible interest.Child support.To determine whether a payment is
+child support, see the separate discussions under Instru- Life insurance premiums.Alimony includes premiums
+ments Executed After 1984 or Instruments Executed you must pay under your divorce or separation instrument
+Before 1985, later. for insurance on your life to the extent your spouse owns
+the policy.Underpayment. If both alimony and child support pay-
+ments are called for by your divorce or separation instru-Payments for jointly-owned home.If your divorce orment, and you pay less than the total required, theseparation instrument states that you must pay expensespayments apply first to child support and then to alimony.for a home owned by you and your spouse or former
+spouse, some of your payments may be alimony. SeeExample. Your divorce decree calls for you to pay yourTable 2.former spouse $200 a month as child support and $150 a
+month as alimony. If you pay the full amount of $4,200
+Instruments Executed After 1984during the year, you can deduct $1,800 as alimony and
+your former spouse must report $1,800 as alimony re-The following rules for alimony apply to payments underceived. If you pay only $3,600 during the year, $2,400 isdivorce or separation instruments executed after 1984.child support. You can deduct only $1,200 as alimony and
+your former spouse must report $1,200 as alimony re-Exception for instruments executed before 1985.ceived. There are two situations where the rules for instruments
+executed after 1984 apply to instruments executed beforePayments to a third party.Cash payments (including 1985.checks and money orders) to a third party on behalf of your
+spouse under the terms of your divorce or separation1. A divorce or separation instrument executed beforeinstrument may be alimony, if they otherwise qualify.1985 and then modified after 1984 to specify that theThese include payments for your spouse’s medical ex- after-1984 rules will apply.penses, housing costs (rent, utilities, etc.), taxes, tuition,
+2. A temporary divorce or separation instrument exe-etc. The payments are treated as received by your spouse
+cuted before 1985 and incorporated into, or adoptedand then paid to the third party.
+by, a final decree executed after 1984 that:
+Example 1. Under your divorce decree, you must pay a. Changes the amount or period of payment, oryour former spouse’s medical and dental expenses. If the
+payments otherwise qualify, you can deduct them as ali- b. Adds or deletes any contingency or condition.
+Page 13
+
+Page 14 of 30 of Publication 504 9:09 - 14-OCT-2004
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+For the rules for alimony payments under pre-1985 3. You receive the written request from your spouse
+before you file your return for the year you made theinstruments not meeting these exceptions, see Instru-
+payments.ments Executed Before 1985, later.
+Example 1. In November 1984, you and your formerPayments designated as not alimony.You and your
+spouse executed a written separation agreement. In Feb- spouse can designate that otherwise qualifying payments
+are not alimony. You do this by including a provision in yourruary 1985, a decree of divorce was substituted for the
+divorce or separation instrument that states the paymentswritten separation agreement. The decree of divorce did
+are not deductible as alimony by you and are excludablenot change the terms for the alimony you pay your former
+from your spouse’s income. For this purpose, any instru-spouse. The decree of divorce is treated as executed
+ment (written statement) signed by both of you that makesbefore 1985. Alimony payments under this decree are not
+this designation and that refers to a previous written sepa-subject to the rules for payments under instruments exe-
+ration agreement is treated as a written separation agree-cuted after 1984.
+ment. If you are subject to temporary support orders, the
+Example 2. Assume the same facts as in Example 1 designation must be made in the original or a later tempo-
+except that the decree of divorce changed the amount of rary support order.
+the alimony. In this example, the decree of divorce is not Your spouse can exclude the payments from income
+treated as executed before 1985. The alimony payments only if he or she attaches a copy of the instrument
+are subject to the rules for payments under instruments designating them as not alimony to his or her return. The
+executed after 1984. copy must be attached each year the designation applies.
+Spouses cannot be members of the same household.
+Payments to your spouse while you are members of the
+Alimony Requirements
+same household are not alimony if you are legally sepa-
+A payment to or for a spouse under a divorce or separationrated under a decree of divorce or separate maintenance.
+instrument is alimony if the spouses do not file a joint returnA home you formerly shared is considered one household,
+with each other and all the following requirements are met. even if you physically separate yourselves in the home.
+You are not treated as members of the same household
+1. The payment is in cash. if one of you is preparing to leave the household and does
+leave no later than one month after the date of the pay-2. The instrument does not designate the payment asment.not alimony.
+Exception.If you are not legally separated under a3. The spouses are not members of the same house-decree of divorce or separate maintenance, a paymenthold at the time the payments are made. This re-under a written separation agreement, support decree, orquirement applies only if the spouses are legallyother court order may qualify as alimony even if you areseparated under a decree of divorce or separatemembers of the same household when the payment ismaintenance. made.
+4. There is no liability to make any payment (in cash orLiability for payments after death of recipient spouse.property) after the death of the recipient spouse.If you must continue to make payments for any period after
+5. The payment is not treated as child support. your spouse’s death, the part of the payment that would
+continue is not alimony whether made before or after theEach of these requirements is discussed below. death. If all of the payment would continue, then none of
+the payments made before or after the death are alimony.Payments must be in cash.Only cash payments, includ- The divorce or separation instrument does not have toing checks and money orders, qualify as alimony. Theexpressly state that the payments cease upon the death offollowing do not qualify as alimony. your spouse if, for example, the liability for continued
+• Transfers of services or property (including a debtpayments would end under state law.
+instrument of a third party or an annuity contract).
+Example. You must pay your former spouse $10,000 in• Execution of a debt instrument by the payor. cash each year for 10 years. Your divorce decree states
+• The use of property. that the payments will end upon your former spouse’s
+death. You must also pay your former spouse or your
+Payments to a third party.Cash payments to a thirdformer spouse’s estate $20,000 in cash each year for 10
+party under the terms of your divorce or separation instru-years. The death of your spouse would not terminate these
+ment can qualify as cash payments to your spouse. Seepayments under state law.
+Payments to a third party under General Rules, earlier. The $10,000 annual payments are alimony. But be-
+cause the $20,000 annual payments will not end upon yourAlso, cash payments made to a third party at the written
+former spouse’s death, they are not alimony.request of your spouse qualify as alimony if all the follow-
+ing requirements are met. Substitute payments.If you must make any payments
+in cash or property after your spouse’s death as a substi-1. The payments are in lieu of payments of alimonytute for continuing otherwise qualifying payments, the oth-directly to your spouse. erwise qualifying payments are not alimony. To the extent
+2. The written request states that both spouses intendthat your payments begin, accelerate, or increase because
+the payments to be treated as alimony. of the death of your spouse, otherwise qualifying payments
+Page 14
+
+Page 15 of 30 of Publication 504 9:09 - 14-OCT-2004
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+you made may be treated as payments that were not • Leaving school,
+alimony. Whether or not such payments will be treated as• Marrying, ornot alimony depends on all the facts and circumstances.
+• Reaching a specified age or income level.
+Example 1. Under your divorce decree, you must pay
+Clearly associated with a contingency.Paymentsyour former spouse $30,000 annually. The payments will
+stop at the end of 6 years or upon your former spouse’sare presumed to be reduced at a time clearly associated
+death, if earlier. with the happening of a contingency relating to your child
+only in the following situations.Your former spouse has custody of your minor children.
+The decree provides that if any child is still a minor at your
+1. The payments are to be reduced not more than 6spouse’s death, you must pay $10,000 annually to a trust
+months before or after the date the child will reachuntil the youngest child reaches the age of majority. The
+18, 21, or local age of majority.trust income and corpus (principal) are to be used for your
+children’s benefit. 2. The payments are to be reduced on two or more
+These facts indicate that the payments to be made afteroccasions that occur not more than 1 year before or
+your former spouse’s death are a substitute for $10,000 ofafter a different one of your children reaches a cer-
+the $30,000 annual payments. $10,000 of each of the tain age from 18 to 24. This certain age must be the
+$30,000 annual payments is not alimony. same for each child, but need not be a whole number
+of years.
+Example 2. Under your divorce decree, you must payIn all other situations, reductions in payments are notyour former spouse $30,000 annually. The payments willtreated as clearly associated with the happening of astop at the end of 15 years or upon your former spouse’scontingency relating to your child.death, if earlier. The decree provides that if your former
+Either you or the IRS can overcome the presumption inspouse dies before the end of the 15-year period, you must
+the two situations above. This is done by showing that thepay the estate the difference between $450,000 ($30,000
+time at which the payments are to be reduced was deter-× 15) and the total amount paid up to that time. For
+mined independently of any contingencies relating to yourexample, if your spouse dies at the end of the tenth year,
+children. For example, if you can show that the period ofyou must pay the estate $150,000 ($450,000 − $300,000).
+alimony payments is customary in the local jurisdiction,These facts indicate that the lump-sum payment to be
+such as a period equal to one-half of the duration of themade after your former spouse’s death is a substitute for
+marriage, you can treat the amount as alimony.the full amount of the $30,000 annual payments. None of
+the annual payments are alimony. The result would be the
+same if the payment required at death were to be dis-
+Recapture of Alimonycounted by an appropriate interest factor to account for the
+prepayment. If your alimony payments decrease or terminate during the
+first 3 calendar years, you may be subject to the recaptureChild support.A payment that is specifically designatedrule. If you are subject to this rule, you have to include inas child support or treated as specifically designated asincome in the third year part of the alimony payments youchild support under your divorce or separation instrumentpreviously deducted. Your spouse can deduct in the thirdis not alimony. The designated amount or part may varyyear part of the alimony payments he or she previouslyfrom time to time. Child support payments are neitherincluded in income.deductible by the payer nor taxable to the payee. The 3-year period starts with the first calendar year you
+Specifically designated as child support.A payment make a payment qualifying as alimony under a decree of
+will be treated as specifically designated as child support todivorce or separate maintenance or a written separation
+the extent that the payment is reduced either: agreement. Do not include any time in which payments
+were being made under temporary support orders. The
+1. On the happening of a contingency relating to yoursecond and third years are the next 2 calendar years,child, or whether or not payments are made during those years.
+The reasons for a reduction or termination of alimony2. At a time that can be clearly associated with the
+payments that can require a recapture include:contingency.
+A payment may be treated as specifically designated as
+• A change in your divorce or separation instrument,
+child support even if other separate payments are specifi-• A failure to make timely payments,cally designated as child support.
+• A reduction in your ability to provide support, orContingency relating to your child.A contingency
+relates to your child if it depends on any event relating to• A reduction in your spouse’s support needs.
+that child. It does not matter whether the event is certain or
+likely to occur. Events relating to your child include theWhen to apply the recapture rule.You are subject to thechild’s: recapture rule in the third year if the alimony you pay in the
+third year decreases by more than $15,000 from the sec-• Becoming employed,
+ond year or the alimony you pay in the second and third• Dying, years decreases significantly from the alimony you pay in
+• Leaving the household, the first year.
+Page 15
+
+Page 16 of 30 of Publication 504 9:09 - 14-OCT-2004
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+When you figure a decrease in alimony, do not includeInstruments Executed Before 1985the following amounts.
+This is the last year the information on pre-19851. Payments made under a temporary support order.
+instruments will be included in this publication. If2. Payments required over a period of at least 3 calen- you will need this information in future years,
+TIP
+dar years of a fixed part of your income from aplease keep this copy of the publication.business or property, or from compensation for em-The following rules for alimony apply to payments underployment or self-employment. divorce or separation instruments executed before 1985.
+3. Payments that decrease because of the death of
+Exception.There are two situations where the rules foreither spouse or the remarriage of the spouse receiv-
+instruments executed after 1984 apply to instruments exe-ing the payments.
+cuted before 1985.
+How to figure and report the recapture.Both you and 1. A divorce or separation instrument executed before
+your spouse can use Worksheet A to figure recaptured 1985 and modified after 1984 to specify that the
+alimony. after-1984 rules will apply.
+Including the recapture in income.If you must in- 2. A temporary divorce or separation instrument exe-
+clude a recapture amount in income, show it on Form cuted before 1985 and incorporated into, or adopted
+1040, line 11 (“Alimony received”). Cross out “received”by, a final decree executed after 1984 that:
+and enter “recapture.” On the dotted line next to the
+a. Changes the amount or period of payment, oramount, enter your spouse’s last name and social security
+number. b. Adds or deletes any contingency or condition.
+Deducting the recapture.If you can deduct a recap-
+If an exception applies, see Instruments Executed Afterture amount, show it on Form 1040, line 34a (“Alimony
+1984, earlier.paid”). Cross out “paid” and enter “recapture.” In the space
+provided, enter your spouse’s social security number.
+Alimony RequirementsExample. You pay your former spouse $50,000 ali-
+mony the first year, $39,000 the second year, and $28,000A payment to or for a spouse under a divorce or separationthe third year. You complete Worksheet A as illustrated. Ininstrument is alimony if the spouses do not file a joint returnthe third year, you report $1,500 as income on Form 1040,and the payment meets both of the following requirements.line 11, and your former spouse reports $1,500 as a de-
+duction on Form 1040, line 34a. 1. It is based on the marital or family relationship.
+Worksheet A. Recapture of Alimony
+Note: Do not enter less than -0- on any line.
+1. Alimony paid in 2nd year.................................... 1.
+2. Alimony paid in 3rd year..................... 2.
+3. Floor.................................... 3. $15,000
+4. Add lines 2 and 3.......................................... 4.
+5. Subtract line 4 from line 1................................................. 5.
+6. Alimony paid in 1st year.................................... 6.
+7. Adjusted alimony paid in 2nd year
+(line 1 less line 5)........................... 7.
+8. Alimony paid in 3rd year..................... 8.
+9. Add lines 7 and 8........................... 9.
+10. Divide line 9 by 2........................... 10.
+11. Floor.................................... 11. $15,000
+12. Add lines 10 and 11........................................ 12.
+13. Subtract line 12 from line 6................................................ 13.
+14. Recaptured alimony. Add lines 5 and 13..................................... *14.
+* If you deducted alimony paid, report this amount as income on Form 1040, line 11.
+ If you reported alimony received, deduct this amount on Form 1040, line 34a.
+Page 16
+
+Page 17 of 30 of Publication 504 9:09 - 14-OCT-2004
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+2. It is not child support. port obligation, such as the repayment of a loan, is not
+alimony.In addition, the spouses must be separated and living apart
+Property settlement.Payments are not based on yourfor a payment under a separation agreement or court order
+obligation to continue support if they are a settlement ofto qualify as alimony.
+property rights. However, even if a state court describes
+payments made under a divorce decree as payments forPayments of a fixed sum.If you must pay a fixed sum in
+property rights, they are alimony if they are made to fulfill ainstallments, your payments during the year that you treat
+legal support obligation and they otherwise qualify.as alimony cannot be more than 10% of the fixed sum. This
+limit applies to payments for the current year and pay-Child support.A payment that is specifically designatedments in advance, but not to late payments for an earlieras child support under your divorce or separation instru-year. ment is not alimony. If the instrument calls for paymentsHowever, do not treat any part of a late installmentthat otherwise qualify as alimony and does not separatelypayment as alimony if the fixed sum was payable over adesignate an amount as child support, all the payments areperiod ending 10 years or less from the date of the divorcealimony. This is true even if the payments are subject to aor separation instrument. contingency relating to your child.
+Payments subject to contingencies.Payments are
+Example. Your divorce decree states that you must paynot considered installment payments of a fixed sum if they
+your former spouse $400 a month for life for the support ofare to end or change in amount on the happening of one or
+your former spouse and your child. The payment is to bemore of the following contingencies. 
+reduced to $300 upon the first of the following to happen:
+1. The death of you or your spouse. the child’s death, the child’s 22nd birthday, or the child’s
+marriage. Despite these contingencies, no amount of child2. The remarriage of your spouse. support is fixed by the decree. The entire payment is
+3. A change in the economic status of you or youralimony.
+spouse.
+The contingency may be either specified in your instrumentAlimony Trusts, Annuities,
+or imposed by local law. and Endowment Contracts
+Marital or family relationship.To be alimony, your pay-If you transferred property to a trust or bought or trans-
+ments must be based on your obligation, because of theferred an annuity or endowment contract to pay the ali-
+marital or family relationship, to continue supporting yourmony you owe, the trust income or other proceeds that
+spouse. Any payment that does not arise out of that sup-would ordinarily be includible in your income must be
+Worksheet A. Recapture of Alimony — Illustrated
+Note: Do not enter less than -0- on any line.
+1. Alimony paid in 2nd year.................................... 1. $39,000
+2. Alimony paid in 3rd year..................... 2. 28,000
+3. Floor.................................... 3. $15,000
+4. Add lines 2 and 3.......................................... 4. 43,000
+5. Subtract line 4 from line 1.................................................. 5. -0-
+6. Alimony paid in 1st year.................................... 6. 50,000
+7. Adjusted alimony paid in 2nd year
+(line 1 less line 5)........................... 7. 39,000
+8. Alimony paid in 3rd year..................... 8. 28,000
+9. Add lines 7 and 8........................... 9. 67,000
+10. Divide line 9 by 2........................... 10. 33,500
+11. Floor.................................... 11. $15,000
+12. Add lines 10 and 11........................................ 12. 48,500
+13. Subtract line 12 from line 6................................................. 13. 1,500
+14. Recaptured alimony. Add lines 5 and 13..................................... *14. 1,500
+* If you deducted alimony paid, report this amount as income on Form 1040, line 11.
+ If you reported alimony received, deduct this amount on Form 1040, line 34a.
+Page 17
+
+Page 18 of 30 of Publication 504 9:09 - 14-OCT-2004
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+included in your former spouse’s income as alimony re- former spouse generally must be included in the spouse’s
+ceived. You do not include the payments in your income, or former spouse’s income. If the participant contributed to
+nor can you deduct them as alimony paid. This rule applies the retirement plan, a prorated share of the participant’s
+whether the proceeds are from the earnings or the princi- cost (investment in the contract) is used to figure the
+pal of the transferred property. It does not apply to any trust taxable amount.
+income that is fixed for child support. The spouse or former spouse can use the special rules
+for lump-sum distributions if the benefits would have been
+Example. You must make monthly alimony payments treated as a lump-sum distribution had the participant
+of $500. You bought your former spouse a commercialreceived them. For this purpose, consider only the balance
+annuity contract paying $500 a month. Your former spouseto the spouse’s or former spouse’s credit in determining
+must include the full amount received under the contract inwhether the distribution is a total distribution. See
+income, as alimony. It does not matter whether the amountLump-Sum Distributions in Publication 575 for information
+is paid out of principal or interest. You do not include anyabout the special rules.
+part of the payment in your income, nor can you deduct anyRollovers.If you receive an eligible rollover distributionpart. under a QDRO as the plan participant’s spouse or former
+spouse, you may be able to roll it over tax free into aAnnuity and endowment contracts.Proceeds from an-
+traditional individual retirement arrangement (IRA) or an-nuity and endowment contracts bought for or transferred to
+other qualified retirement plan.a spouse after July 18, 1984, cannot be treated as alimony.
+For more information on the tax treatment of eligibleHowever, this does not apply to contracts bought or trans-
+rollover distributions, see Publication 575.ferred to pay alimony under a divorce or separation instru-
+ment executed before July 19, 1984, unless both spouses
+choose to have it apply.
+Individual RetirementProceeds not alimony.If the proceeds from an annuity or
+endowment contract cannot be treated as alimony, theArrangementsamount received is reduced by the cost of the contract.
+See Publication 575, Pension and Annuity Income, forThe following discussions explain some of the effects ofinformation on reporting annuities, and Publication 525,divorce or separation on traditional individual retirementTaxable and Nontaxable Income, for information on report-arrangements (IRAs). Traditional IRAs are IRAs other thaning endowment proceeds. Roth or SIMPLE IRAs.If the proceeds from a trust cannot be treated as ali-
+mony, see the rules for reporting trust income in Publica-Spousal IRA.If you get a final decree of divorce or sepa-
+tion 525. rate maintenance by the end of your tax year, you cannot
+deduct contributions you make to your former spouse’s
+traditional IRA. You can deduct only contributions to your
+own traditional IRA.
+Qualified Domestic
+IRA transferred as a result of divorce.The transfer of allRelations Order
+or part of your interest in a traditional IRA to your spouse or
+former spouse, under a decree of divorce or separateA qualified domestic relations order (QDRO) is a judgment,
+maintenance or a written instrument incident to the decree,decree, or court order (including an approved property
+is not considered a taxable transfer. Starting from the datesettlement agreement) issued under a domestic relations
+of the transfer, the traditional IRA interest transferred islaw that:
+treated as your spouse’s or former spouse’s traditional
+1. Relates to the rights of someone other than a partici-IRA.
+pant to receive benefits from a qualified retirement
+IRA contribution and deduction limits.All taxable ali-plan (such as most pension and profit-sharing plans)
+mony you receive under a decree of divorce or separateor a tax-sheltered annuity,
+maintenance is treated as compensation for the contribu-2. Relates to payment of child support, alimony, or mar-tion and deduction limits for traditional IRAs.ital property rights to a spouse, former spouse, child,
+or other dependent of the participant, and More information.For more information about IRAs, in-
+cluding Roth IRAs, see Publication 590.3. Specifies the amount or portion of the participant’s
+benefits to be paid to the participant’s spouse, former
+spouse, child, or dependent.
+Property Settlements
+Benefits paid to a child or dependent.Benefits paid
+There is no recognized gain or loss on the transfer ofunder a QDRO to the plan participant’s child or dependent
+property between spouses, or between former spouses ifare treated as paid to the participant. For information about
+the transfer is because of a divorce. You may, however,the tax treatment of benefits from retirement plans, see
+have to report the transaction on a gift tax return. See GiftPublication 575.
+Tax on Property Settlements, later. If you sell property that
+Benefits paid to a spouse or former spouse.Benefits you own jointly to split the proceeds as part of your prop-
+paid under a QDRO to the plan participant’s spouse or erty settlement, see Sale of Jointly-Owned Property, later.
+Page 18
+
+Page 19 of 30 of Publication 504 9:09 - 14-OCT-2004
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+than 6 years after the end of your marriage because ofTransfer Between Spouses business or legal factors which prevented earlier transfer
+of the property and the transfer was made promptly afterNo gain or loss is recognized on a transfer of property from
+those factors were taken care of.you to (or in trust for the benefit of):
+• Your spouse, or Transfers to third parties.If you transfer property to a
+third party on behalf of your spouse (or former spouse, if• Your former spouse, but only if the transfer is inci-incident to your divorce), the transfer is treated as twodent to your divorce. transfers.
+This rule applies even if the transfer was in exchange for
+1. A transfer of the property from you to your spouse orcash, the release of marital rights, the assumption of liabili-
+former spouse.ties, or other considerations.
+2. An immediate transfer of the property from yourHowever, this rule does not apply in the following situa-
+spouse or former spouse to the third party.tions.
+You do not recognize gain or loss on the first transfer.• Your spouse or former spouse is a nonresident
+Instead, your spouse or former spouse may have to recog-alien.
+nize gain or loss on the second transfer.• Certain transfers in trust, discussed later. For this treatment to apply, the transfer from you to the
+third party must be one of the following.• Certain stock redemptions, which are taxable to a
+spouse under the tax law, a divorce or separation1. Required by your divorce or separation instrument.instrument, or a valid written agreement, discussed
+in section 1.1041-2 of the regulations. 2. Requested in writing by your spouse or former
+spouse.
+The term “property” includes all property whether real or3. Consented to in writing by your spouse or formerpersonal, tangible or intangible, or separate or community.spouse. The consent must state that both you andIt includes property acquired after the end of your marriageyour spouse or former spouse intend the transfer toand transferred to your former spouse. It does not includebe treated as a transfer from you to your spouse orservices. former spouse subject to the rules of section 1041 of
+Health savings account (HSA).If you transfer your inter-the Internal Revenue Code. You must receive the
+est in an HSA to your spouse or former spouse under aconsent before filing your tax return for the year you
+divorce or separation instrument, it is not considered atransfer the property.
+taxable transfer. After the transfer, the interest is treated as
+your spouse’s HSA. This treatment does not apply to transfers to
+which section 1.1041-2 of the regulations (certainMedical savings account (MSA).If you transfer your stock redemptions) applies.
+CAUTION
+!
+interest in an Archer MSA to your spouse or former spouse
+under a divorce or separation instrument, it is not consid-
+Transfers in trust.If you make a transfer of property inered a taxable transfer. After the transfer, the interest is
+trust for the benefit of your spouse (or former spouse, iftreated as your spouse’s Archer MSA.
+incident to your divorce), you generally do not recognizeIncident to divorce.A property transfer is incident to yourany gain or loss.divorce if the transfer: However, you must recognize gain or loss if, incident to
+your divorce, you transfer an installment obligation in trust1. Occurs within one year after the date your marriagefor the benefit of your former spouse. For information onends, or the disposition of an installment obligation, see Publication
+2. Is related to the ending of your marriage. 537, Installment Sales.
+You also must recognize gain on the transfer of propertyA divorce, for this purpose, includes the ending of yourin trust in the amount by which the liabilities assumed bymarriage by annulment or due to violations of state laws.the trust, plus the liabilities to which the property is subject,
+Related to the ending of marriage.A property transferexceed the total of your adjusted basis in the transferred
+is related to the ending of your marriage if both of theproperty.
+following conditions apply.
+Example. You own property with a fair market value of1. The transfer is made under your original or modified$10,000 and an adjusted basis of $1,000. The trust did notdivorce or separation instrument. assume any liabilities. The property is subject to a $5,000
+liability. Your recognized gain on the transfer of the prop-2. The transfer occurs within 6 years after the date your
+erty in trust for the benefit of your spouse is $4,000 ($5,000marriage ends.
+− $1,000).Unless these conditions are met, the transfer is pre-
+sumed not to be related to the ending of your marriage.Reporting income from property.You should report in-
+However, this presumption will not apply if you can show come from property transferred to your spouse or former
+that the transfer was made to carry out the division of spouse as shown in Table 3.
+property owned by you and your spouse at the time your For information on the treatment of interest on U.S.
+marriage ended. For example, the presumption will not savings bonds, see chapter 1 of Publication 550, Invest-
+apply if you can show that the transfer was made more ment Income and Expenses.
+Page 19
+
+Page 20 of 30 of Publication 504 9:09 - 14-OCT-2004
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Table 3. Property Transferred Pursuant to Divorce
+The tax treatment of items of property transferred from you to your spouse or former spouse pursuant to
+your divorce is shown below.
+AND your spouse or FOR more information,
+IF you transfer ... THEN you  ... former spouse ... see ...
+income-producing property include on your tax return reports any income or loss
+(such as an interest in a any profit or loss, rental generated or derived after
+business, rental property, income or loss, dividends, the property is transferred.
+stocks, or bonds) or interest generated or
+derived from the property
+during the year until the
+property is transferred
+interest in a passive activity cannot deduct your increases the adjusted Publication 925, Passive
+with unused passive activity accumulated unused basis of the transferred Activity and At-Risk Rules.
+losses passive activity losses interest by the amount of
+allocable to the interest the unused losses.
+investment credit property do not have to recapture may have to recapture part Form 4255, Recapture of
+with recapture potential any part of the credit of the credit if he or she Investment Credit.
+disposes of the property or
+changes its use before the
+end of the recapture period.
+nonstatutory stock options do not include any amount includes an amount in gross
+and nonqualified deferred in gross income upon the income when he or she
+compensation transfer exercises the stock options
+or when the deferred
+compensation is paid or
+made available to him or
+her.
+When you transfer property to your spouse (orExample. Karen and Don owned their home jointly.
+former spouse, if incident to your divorce), youKaren transferred her interest in the home to Don as part of
+must give your spouse sufficient records to deter-their property settlement when they divorced last year.
+RECORDS
+mine the adjusted basis and holding period of the propertyDon’s basis in the interest received from Karen is heron the date of the transfer. If you transfer investment creditadjusted basis in the home. His total basis in the home isproperty with recapture potential, you also must providetheir joint adjusted basis.sufficient records to determine the amount and period of
+Property received before July 19, 1984.Your basis inthe recapture.
+property received in settlement of marital support rights
+before July 19, 1984, or under an instrument in effectTax treatment of property received.Property you re- before that date (other than property for which you made aceive from your spouse (or former spouse, if the transfer is
+section 1041 election) is its fair market value when youincident to your divorce) is treated as acquired by gift for
+received it.income tax purposes. Its value is not taxable to you.
+Example. Larry and Gina owned their home jointlyBasis of property received.Your basis in property re-before their divorce in 1978. That year, Gina receivedceived from your spouse (or former spouse, if incident toLarry’s interest in the home in settlement of her maritalyour divorce) is the same as your spouse’s adjusted basis.
+support rights. Gina’s basis in the interest received fromThis applies for determining either gain or loss when you
+Larry is the part of the home’s fair market value proportion-later dispose of the property. It applies whether the
+ate to that interest. Her total basis in the home is that part ofproperty’s adjusted basis is less than, equal to, or greater
+than either its value at the time of the transfer or anythe fair market value plus her adjusted basis in her own
+consideration you paid. It also applies even if theinterest.
+property’s liabilities are more than its adjusted basis.Property transferred in trust.If the transferor recog-This rule generally applies to all property received afternizes gain on property transferred in trust, as describedJuly 18, 1984, under a divorce or separation instrument in
+earlier under Transfers in trust, the trust’s basis in theeffect after that date. It also applies to all other property
+property is increased by the recognized gain.received after 1983 for which you and your spouse (or
+former spouse) made a “section 1041 election” to apply
+Example. Your spouse transfers property in trust, rec-this rule. For information about that election, see section
+1.1041-1T(g) of the regulations. ognizing a $4,000 gain. Your spouse’s adjusted basis in
+Page 20
+
+Page 21 of 30 of Publication 504 9:09 - 14-OCT-2004
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+the property was $1,000. The trust’s basis in the property isAnnual exclusion.The first $11,000 of gifts of present
+$5,000 ($1,000 + $4,000). interests to each person during 2004 is not subject to gift
+tax. The annual exclusion is $114,000 for transfers to a
+spouse who is not a U.S. citizen provided the gift would
+Gift Tax on Property Settlements otherwise qualify for the gift tax marital deduction if the
+donee were a U.S. citizen.The federal gift tax does not apply to most transfers of
+property between spouses, or between former spousesPresent interest.A gift is considered a present interestbecause of divorce. The transfers usually qualify for one orif the donee has unrestricted rights to the immediate use,more of the exceptions explained in this discussion. How-possession, and enjoyment of the property and incomeever, if your transfer of property does not qualify for anfrom the property.exception, or qualifies only in part, you must report it on a
+gift tax return. See Gift Tax Return, later.
+Gift Tax ReturnFor more information about the federal gift tax, see
+Publication 950, Introduction to Estate and Gift Taxes, andReport a transfer of property subject to gift tax on FormForm 709, United States Gift (and Generation-Skipping709. Generally, Form 709 is due April 15 following the yearTransfer) Tax Return, and its instructions. of the transfer.
+Exceptions Transfer under written agreement.If a property transfer
+would be subject to gift tax except that it is made under aYour transfer of property to your spouse or former spousewritten agreement, and you do not receive a final decree ofis not subject to gift tax if it meets any of the followingdivorce by the due date for filing the gift tax return, youexceptions. must report the transfer on Form 709 and attach a copy of
+your written agreement. The transfer will be treated as not1. It is made in settlement of marital support rights.subject to the gift tax until the final decree of divorce is
+2. It qualifies for the marital deduction. granted, but no longer than 2 years after the effective date
+of the written agreement.3. It is made under a divorce decree.
+Within 60 days after you receive a final decree of di-4. It is made under a written agreement, and you arevorce, send a certified copy of the decree to the IRS officedivorced within a specified period. where you filed Form 709.
+5. It qualifies for the annual exclusion.
+Sale of Jointly-Owned Property
+Settlement of marital support rights.A transfer in set-If you sell property that you and your spouse own jointly,tlement of marital support rights is not subject to gift tax toyou must report your share of the recognized gain or lossthe extent the value of the property transferred is not moreon your income tax return for the year of the sale. Yourthan the value of those rights. This exception does notshare of the gain or loss is determined by your state lawapply to a transfer in settlement of dower, curtesy, or othergoverning ownership of property. For information on re-marital property rights. porting gain or loss, see Publication 544.
+Marital deduction.A transfer of property to your spouseSale of home.If you sold your main home, you may bebefore receiving a final decree of divorce or separateable to exclude up to $250,000 (up to $500,000 if you andmaintenance is not subject to gift tax. However, this excep-your spouse file a joint return) of gain on the sale. For moretion does not apply to: information, see Publication 523, Selling Your Home.
+• Transfers of certain terminable interests, or
+• Transfers to your spouse if your spouse is not a U.S.
+Costs of Getting a Divorcecitizen.
+You cannot deduct legal fees and court costs for getting aTransfer under divorce decree.A transfer of propertydivorce. But you may be able to deduct legal fees paid forunder the decree of a divorce court having the power totax advice in connection with a divorce and legal fees to getprescribe a property settlement is not subject to gift tax.alimony. In addition, you may be able to deduct fees youThis exception also applies to a property settlementpay to appraisers, actuaries, and accountants for servicesagreed on before the divorce if it was made part of orin determining your correct tax or in helping to get alimony.approved by the decree.
+Fees you pay may include charges that are de-
+ductible and charges that are not deductible. YouTransfer under written agreement.A transfer of prop-
+should request a breakdown showing the amounterty under a written agreement in settlement of marital
+TIP
+charged for each service performed.rights or to provide a reasonable child support allowance is
+not subject to gift tax if you are divorced within the 3-year You can claim deductible fees only if you itemize deduc-
+period beginning 1 year before and ending 2 years after tions on Schedule A (Form 1040). Claim them as miscella-
+the date of the agreement. This exception applies whetherneous itemized deductions subject to the
+or not the agreement is part of or approved by the divorce 2%-of-adjusted-gross-income limit. For more information,
+decree. see Publication 529, Miscellaneous Deductions.
+Page 21
+
+Page 22 of 30 of Publication 504 9:09 - 14-OCT-2004
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Fees for tax advice.You can deduct fees for advice on proper withholding allowances. If you receive alimony, you
+federal, state, and local taxes of all types, including in- may have to make estimated tax payments.
+come, estate, gift, inheritance, and property taxes. If you do not pay enough tax either through with-
+If a fee is also for other services, you must determineholding or by making estimated tax payments,
+and prove the expense for tax advice. The following exam-you will have an underpayment of estimated tax
+CAUTION
+!
+ples show how you can meet this requirement. and you may have to pay a penalty. If you do not pay
+enough tax by the due date of each payment, you may
+Example 1. The lawyer handling your divorce consultshave to pay a penalty even if you are due a refund when
+another law firm, which handles only tax matters, to getyou file your tax return.
+information on how the divorce will affect your taxes. YouFor more information, see Publication 505, Tax With-can deduct the part of the fee paid over to the second firmholding and Estimated Tax.and separately stated on your bill, subject to the 2% limit.
+Joint estimated tax payments.If you and your spouseExample 2. The lawyer handling your divorce uses themade joint estimated tax payments for 2004 but file sepa-firm’s tax department for tax matters related to your di-rate returns, either of you can claim all of your payments, orvorce. Your statement from the firm shows the part of theyou can divide them in any way on which you both agree. Iftotal fee for tax matters. This is based on the time used, theyou cannot agree, you must divide the payments in propor-difficulty of the tax questions, and the amount of tax in-tion to your individual tax amounts as shown on yourvolved. You can deduct this part of your bill, subject to theseparate returns for 2004.2% limit. If you claim any of the payments on your tax return,
+enter your spouse’s or former spouse’s social securityExample 3. The lawyer handling your divorce alsonumber in the space provided on the front of Form 1040 orworks on the tax matters. The fee for tax advice and the feeForm 1040A. If you were divorced and remarried in 2004,for other services are shown on the lawyer’s statement.enter your present spouse’s social security number in thatThey are based on the time spent on each service and thespace and enter your former spouse’s social security num-fees charged locally for similar services. You can deductber, followed by “DIV” to the left of Form 1040, line 64, orthe fee charged for tax advice, subject to the 2% limit.Form 1040A, line 40.
+Fees for getting alimony.Because you must include
+alimony you receive in your gross income, you can deduct
+fees you pay to get or collect alimony. Community Property
+Example. You pay your attorney a fee for handling yourIf you are married and your domicile (permanent legal
+divorce and an additional fee that is for services in gettinghome) is in a community property state, special rules
+and collecting alimony. You can deduct the fee for gettingdetermine your income. Some of these rules are explained
+and collecting alimony, subject to the 2% limit, if it isin the following discussions. For more information, see
+separately stated on your attorney’s bill. Publication 555.
+Nondeductible expenses.You cannot deduct the costsCommunity property states.The community property
+of personal advice, counseling, or legal action in a divorce.states are:
+These costs are not deductible, even if they are paid, in
+• Arizona,part, to arrive at a financial settlement or to protect
+income-producing property. • California,
+However, you can add certain legal fees you pay specif-• Idaho,ically for a property settlement to the basis of the property
+• Louisiana,you receive. For example, you can add the cost of prepar-
+ing and filing a deed to put title to your house in your name• Nevada,alone to the basis of the house.
+• New Mexico,You cannot deduct fees you pay for your spouse or
+former spouse, unless your payments qualify as alimony.• Texas,
+(See Payments to a third party in the earlier discussion of• Washington, andthe general rules for alimony.) If you have no legal respon-
+sibility arising from the divorce settlement or decree to pay• Wisconsin.
+your spouse’s legal fees, your payments are gifts and may
+be subject to the gift tax.
+Community Income
+If your domicile is in a community property state during anyTax Withholding
+part of your tax year, you may have community income.
+Your state law determines whether your income is sepa-
+and Estimated Tax
+rate or community income. If you and your spouse file
+When you become divorced or separated, you will usually separate returns, you must report half of any income de-
+have to file a new Form W-4, Employee’s Withholding scribed by state law as community income, and your
+Allowance Certificate, with your employer to claim your spouse must report the other half. Each of you can claim
+Page 22
+
+Page 23 of 30 of Publication 504 9:09 - 14-OCT-2004
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+credit for half the income tax withheld from community 3. You or your spouse has earned income for the calen-
+income. dar year that is community income.
+4. You and your spouse have not transferred, directly orCommunity property laws disregarded. Community indirectly, any of the earned income in (3) betweenproperty laws do not apply to an item of community in-yourselves before the end of the year. Do not takecome, and you will be responsible for reporting all of it if:into account transfers satisfying child support obliga-
+tions or transfers of very small amounts or value.1. You treat the item as if only you are entitled to the
+income, and If all these conditions exist, you and your spouse must
+report your community income as explained in the follow-2. You do not notify your spouse of the nature and
+ing discussions.amount of the income by the due date for filing the
+return (including extensions). Earned income. Treat earned income that is not trade or
+business or partnership income as the income of the
+Relief from separate return liability for communityspouse who performed the services to earn the income.
+income. You are not responsible for the tax on an item ofEarned income is wages, salaries, professional fees, and
+community income if all of the following conditions exist.other pay for personal services.
+Earned income does not include amounts paid by a1. You do not file a joint return for the tax year.corporation that are a distribution of earnings and profits
+rather than a reasonable allowance for personal services2. You do not include an item of community income in
+rendered.gross income on your separate return.
+Trade or business income.Treat income and related3. The item of community income you did not include is
+deductions from a trade or business that is not a partner-one of the following:
+ship as those of the spouse carrying on the trade or
+a. Wages, salaries, and other compensation yourbusiness.
+spouse (or former spouse) received for servicesIf capital investment and personal services both pro-
+he or she performed as an employee. duce business income, treat all of the income as trade or
+business income.b. Income your spouse (or former spouse) derived
+from a trade or business he or she operated as aPartnership income or loss.Treat income or loss from asole proprietor. trade or business carried on by a partnership as the in-
+come or loss of the spouse who is the partner.c. Your spouse’s (or former spouse’s) distributive
+share of partnership income. Separate property income.Treat income from the sepa-
+rate property of one spouse as the income of that spouse.d. Income from your spouse’s (or former spouse’s)
+separate property (other than income described inSocial security benefits.Treat social security and(a), (b), or (c)). Use the appropriate communityequivalent railroad retirement benefits as the income of theproperty law to determine what is separate prop-spouse who receives the benefits.erty.
+Other income.Treat all other community income, such ase. Any other income that belongs to your spouse (ordividends, interest, rents, royalties, or gains, as providedformer spouse) under community property law.under your state’s community property law.
+4. You establish that you did not know of, and had noExample. George and Sharon were married throughoutreason to know of, that community income. the year but did not live together at any time during the
+5. Under all facts and circumstances, it would not beyear. Both domiciles were in a community property state.
+fair to include the item of community income in yourThey did not file a joint return or transfer any of their earned
+gross income. income between themselves. During the year their in-
+comes were as follows:
+Requesting relief.For information on how to request George Sharonrelief from separate return liability, see Community Prop-
+Wages ...................... $20,000 $22,000erty Laws in Publication 971.
+Consulting business............ 5,000
+Partnership................... 10,000Spousal agreements.In some states a husband and wifeDividends from separate property . . . 1,000 2,000may enter into an agreement that affects the status ofInterest from community property . . . 500 500property or income as community or separate property.
+Totals $26,500 $34,500Check your state law to determine how it affects you.
+Spouses Living Apart All Year Under the community property law of their state, all the
+income is considered community income. (Some statesSpecial rules apply if all the following conditions exist.treat income from separate property as separate income—
+check your state law.) Sharon did not take part in George’s1. You and your spouse live apart all year. consulting business.
+2. You and your spouse do not file a joint return for a Ordinarily, they would each report $30,500, half the total
+tax year beginning or ending in the calendar year. community income, on their separate returns. But because
+Page 23
+
+Page 24 of 30 of Publication 504 9:09 - 14-OCT-2004
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+they meet the four conditions listed earlier under Spouses Contacting your Taxpayer Advocate.If you have at-
+Living Apart All Year, they must disregard community prop-tempted to deal with an IRS problem unsuccessfully, you
+erty law in reporting all their income except the interestshould contact your Taxpayer Advocate.
+income from community property. They each report on The Taxpayer Advocate independently represents yourtheir returns only their own earnings and other income, andinterests and concerns within the IRS by protecting yourtheir share of the interest income from community prop-rights and resolving problems that have not been fixederty. George reports $26,500 and Sharon reports $34,500.through normal channels. While Taxpayer Advocates can-
+not change the tax law or make a technical tax decision,
+Ending the Community they can clear up problems that resulted from previous
+contacts and ensure that your case is given a completeWhen the marital community ends, the community assetsand impartial review.(money and property) are divided between the spouses.
+To contact your Taxpayer Advocate:Income received before the community ended is treated
+according to the rules explained earlier. Income received
+• Call the Taxpayer Advocate toll free atafter the community ended is separate income, taxable1-877-777-4778.only to the spouse to whom it belongs.
+ An absolute decree of divorce or annulment ends the• Call, write, or fax the Taxpayer Advocate office in
+community in all community property states. A decree ofyour area.
+annulment, even though it holds that no valid marriage• Call 1-800-829-4059 if you are a TTY/TDD user.ever existed, usually does not nullify community property
+rights arising during the “marriage.” However, you should• Visit www.irs.gov/advocate.
+check your state law for exceptions.
+A decree of legal separation or of separate maintenanceFor more information, see Publication 1546, The Tax-
+may or may not end the community. The court issuing thepayer Advocate Service of the IRS—How To Get Helpdecree may terminate the community and divide the prop-With Unresolved Tax Problems.erty between the spouses.
+A separation agreement may divide the community
+Free tax services.To find out what services are avail-property between you and your spouse. It may provide that
+able, get Publication 910, IRS Guide to Free Tax Services.this property, along with future earnings and property ac-
+It contains a list of free tax publications and an index of taxquired, will be separate property. This agreement may end
+topics. It also describes other free tax information services,the community.
+In some states, the community ends when the spousesincluding tax education and assistance programs and a list
+permanently separate, even if there is no formal agree-of TeleTax topics.
+ment. Check your state law. Internet. You can access the IRS website 24
+hours a day, 7 days a week, at www.irs.gov to:Alimony (Community Income)
+Payments that may otherwise qualify as alimony are not
+• E-file your return. Find out about commercial taxdeductible by the payer if they are the recipient spouse’s
+part of community income. They are deductible as alimonypreparation and e-file services available free to eligi-
+only to the extent they are more than that spouse’s part ofble taxpayers.
+community income. • Check the status of your 2004 refund. Click on
+Where’s My Refund. Be sure to wait at least 6 weeksExample. You live in a community property state. You
+from the date you filed your return (3 weeks if youare separated but the special rules explained earlier under
+filed electronically). Have your 2004 tax return avail-Spouses Living Apart All Year do not apply. Under a
+able because you will need to know your filing statuswritten agreement, you pay your spouse $12,000 of your
+$20,000 total yearly community income. Your spouse re-and the exact whole dollar amount of your refund.
+ceives no other community income. Under your state law,• Download forms, instructions, and publications.earnings of a spouse living separately and apart from the
+other spouse continue as community property. • Order IRS products online.
+On your separate returns, each of you must report• Research your tax questions online.$10,000 of the total community income. In addition, your
+spouse must report $2,000 as alimony received. You can• Search publications online by topic or keyword.
+deduct $2,000 as alimony paid. • View Internal Revenue Bulletins (IRBs) published in
+the last few years.
+• Figure your withholding allowances using our FormHow To Get Tax Help
+W-4 calculator.
+You can get help with unresolved tax issues, order free• Sign up to receive local and national tax news bypublications and forms, ask tax questions, and get moreemail.information from the IRS in several ways. By selecting the
+• Get information on starting and operating a smallmethod that is best for you, you will have quick and easy
+business.access to tax help.
+Page 24
+
+Page 25 of 30 of Publication 504 9:09 - 14-OCT-2004
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Fax. You can get over 100 of the most requested instructions, and publications. Some IRS offices, li-
+forms and instructions 24 hours a day, 7 days abraries, grocery stores, copy centers, city and county
+week, by fax. Just call 703-368-9694 from the government offices, credit unions, and office supply
+telephone connected to your fax machine. When you call,stores have a collection of products available to print
+you will hear instructions on how to use the service. Thefrom a CD-ROM or photocopy from reproducible
+items you request will be faxed to you. proofs. Also, some IRS offices and libraries have the
+For help with transmission problems, call Internal Revenue Code, regulations, Internal Reve-
+703-487-4608. nue Bulletins, and Cumulative Bulletins available for
+Long-distance charges may apply. research purposes.
+• Services. You can walk in to your local TaxpayerPhone. Many services are available by phone.
+Assistance Center every business day to ask tax
+questions or get help with a tax problem. An em-
+ployee can explain IRS letters, request adjustments
+to your account, or help you set up a payment plan.
+• Ordering forms, instructions, and publications. Call You can set up an appointment by calling your local1-800-829-3676 to order current-year forms, instruc-Center and, at the prompt, leaving a message re-tions, and publications and prior-year forms and in-questing Everyday Tax Solutions help. A representa-structions. You should receive your order within 10tive will call you back within 2 business days todays. schedule an in-person appointment at your conve-
+• Asking tax questions. Call the IRS with your tax nience. To find the number, go to
+questions at 1-800-829-1040. www.irs.gov/localcontacts or look in the phone book
+under United States Government, Internal Revenue• Solving problems. You can get face-to-face help Service.solving tax problems every business day in IRS Tax-
+payer Assistance Centers. An employee can explain
+Mail. You can send your order for forms, instruc-IRS letters, request adjustments to your account, or
+tions, and publications to the Distribution Centerhelp you set up a payment plan. Call your local
+nearest to you and receive a response within 10Taxpayer Assistance Center for an appointment. To
+business days after your request is received. Use thefind the number, go to www.irs.gov/localcontacts or
+address that applies to your part of the country.look in the phone book under United States Govern-
+ment, Internal Revenue Service. • Western part of U.S.:
+Western Area Distribution Center• TTY/TDD equipment. If you have access to TTY/
+Rancho Cordova, CA 95743-0001TDD equipment, call 1-800-829-4059 to ask tax
+questions or to order forms and publications. • Central part of U.S.:
+Central Area Distribution Center• TeleTax topics. Call 1-800-829-4477 and press 2 to
+P.O. Box 8903listen to pre-recorded messages covering various
+Bloomington, IL 61702-8903tax topics.
+• Eastern part of U.S. and foreign addresses:• Refund information. If you would like to check the
+Eastern Area Distribution Centerstatus of your 2004 refund, call 1-800-829-4477 and
+P.O. Box 85074press 1 for automated refund information or call
+Richmond, VA 23261-50741-800-829-1954. Be sure to wait at least 6 weeks
+from the date you filed your return (3 weeks if you
+filed electronically). Have your 2004 tax return avail-CD-ROM for tax products. You can order Publi-
+able because you will need to know your filing statuscation 1796, IRS Federal Tax Products CD-ROM,
+and the exact whole dollar amount of your refund. and obtain:
+Evaluating the quality of our telephone services. To • Current-year forms, instructions, and publications.
+ensure that IRS representatives give accurate, courteous,• Prior-year forms and instructions.and professional answers, we use several methods to
+evaluate the quality of our telephone services. One method• Frequently requested tax forms that may be filled in
+is for a second IRS representative to sometimes listen inelectronically, printed out for submission, or saved
+on or record telephone calls. Another is to ask some callersfor recordkeeping.
+to complete a short survey at the end of the call. • Internal Revenue Bulletins.
+Walk-in. Many products and services are avail-Buy the CD-ROM from National Technical Informationable on a walk-in basis. Service (NTIS) at www.irs.gov/cdorders for $22 (no han-
+dling fee) or call 1-877-233-6767 toll free to buy the
+CD-ROM for $22 (plus a $5 handling fee). The first release
+is available in early January and the final release is avail-
+• Products. You can walk in to many post offices,
+libraries, and IRS offices to pick up certain forms, able in late February.
+Page 25
+
+Page 26 of 30 of Publication 504 9:09 - 14-OCT-2004
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+CD-ROM for small businesses. Publication finding financing for your business, and much more. The
+3207, The Small Business Resource Guide, design of the CD makes finding information easy and quick
+CD-ROM 2004, is a must for every small busi-and incorporates file formats and browsers that can be run
+ness owner or any taxpayer about to start a business. Thison virtually any desktop or laptop computer.
+handy, interactive CD contains all the business tax forms,It is available in early April. You can get a free copy byinstructions, and publications needed to successfully man-calling 1-800-829-3676 or by visiting www.irs.gov/age a business. In addition, the CD provides other helpful
+smallbiz.information, such as how to prepare a business plan,
+Page 26
+
+Page 27 of 30 of Publication 504 9:09 - 14-OCT-2004
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+To help us develop a more useful index, please let us know if you have ideas for index entries.
+Index
+ See “Comments and Suggestions” in the “Introduction” for the ways you can reach us.
+Requirements for post-1984 Photographs of missingA
+instruments................... 1 3children........................ 2Address, change of............... 2
+Requirements for pre-1985 Citizen or resident test:Adopted children: instruments................... 1 6For adopted child................ 7Authorized placement Separation agreement For dependents.................. 7agency ........................ 7defined....................... 1 2Comments on publication........ 2Citizen or resident test........... 7 Social security number of recipientCommunity income .............. 2 2Head of household required for deduction........ 1 2 Alimony, difference from........ 2 4requirements.................. 5Spouse, defined for purposes Ending the maritalMember of household or o f............................. 1 2community ................... 2 4relationship test............... 7Spouses cannot be members of the Relief from separate returnAliens (See Nonresident aliens) same household.............. 1 4 liability........................ 2 3Alimony .......................12-18 Substitute payments............ 1 4Spousal agreements............ 2 3Annuity proceeds as............ 1 7Trust proceeds as.............. 1 7Spouses living apart all year.... 2 3Child support, difference Underpayment of............... 1 3 Earned income............... 2 3from..................13, 15, 17 Withholding, nonresident Other income................. 2 3Community Income............. 2 4 aliens......................... 1 2Partnership income orDeductions: Annual exclusion, gift tax....... 2 1 loss........................ 2 3Alimony paid................. 1 2Annuity proceeds as Separate property income.... 2 3Fees paid for getting......... 2 2 alimony ........................ 1 7Social security benefits....... 2 3Recapture amount........... 1 6 Trade or business income.... 2 3Annulment decrees:Definition of..................... 1 2Absolute decree................ 2 4Community property (See alsoDivorce decree defined......... 1 2 Community income).........22-24Amended return required........ 3Endowment contract proceeds Ending the maritalConsidered unmarried........... 3a s ............................ 1 7 community ................... 2 4Archer MSA ...................... 1 9Fees paid for getting............ 2 2 Injured spouse................... 3Assistance (See Tax help)Former spouse, defined for Laws disregarded............... 2 3Authorized placementpurposes of................... 1 2 States.......................... 2 2agencies ........................ 7Instruments executed after Considered married.............. 31984.......................... 1 3 Considered unmarried.........2 ,  6Instruments executed before B Costs of getting divorce......... 2 11985......................13, 16 Basis: Fees for tax advice............. 2 2Jointly-owned home: Property received in Nondeductible expenses....... 2 2Expenses for, as alimony (Table settlement.................... 2 0Custodial parent:2 ) .......................... 1 3Benefits paid under QDROs: Support test..................... 8Payments for................. 1 3To child......................... 1 8Custody, determination of....... 8Separate residences in....... 1 4 To dependent................... 1 8Life insurance premiums........ 1 3 To former spouse............... 1 8Marital or family relationship.... 1 7 DTo spouse...................... 1 8
+Mortgage payments as......... 1 3 Death of recipient spouse....... 1 4
+No exemption for spouse........ 6 Debts of spouse:CPayments after death of recipient Refund applied to................ 3Change of address............... 2spouse ....................... 1 4 Deductions:Change of name .................. 2Payments designated as not Alimony paid.................... 1 2alimony....................... 1 4Change of withholding........... 2 Alimony recapture.............. 1 6Payments for jointly-owned Child support.................... 1 0Limits on IRAs.................. 1 8home ......................... 1 3Alimony, difference from....13, 17 Marital.......................... 2 1
+Payments must be in cash...... 1 4 Back child support.............. 1 0Dependency tests .............6-11Payments not included as...... 1 2 Clearly associated with Citizen or resident test........... 7
+Payments of fixed sum......... 1 7 contingency.................. 1 5Gross income test............... 7
+Payments subject to Contingency relating to child.... 1 5 Joint return test.................. 7
+contingencies................ 1 7Payment specifically designated Member of household or
+Payments to third party.....13, 14 a s ............................ 1 5relationship test............... 7
+Property settlement............. 1 7Children: Student, gross income test...... 7
+Recapture rule.................. 1 5Adopted (See Adopted children) Support test..................... 7
+Determination of (Worksheet Benefits paid to, under Capital items.................. 8
+A ) .......................... 1 6QDRO ........................ 1 8Child of divorced or separated
+How to figure and report...... 1 6 Dependency tests (See parents...................8-10
+When to apply................ 1 5 Dependency tests) Child support................. 1 0
+Reporting alimony received..... 1 2 Foster children................... 5 Custodial parent............... 8
+Page 27
+
+Page 28 of 30 of Publication 504 9:09 - 14-OCT-2004
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Form W-4: Itemized deductions on separateDependency tests
+Withholding..................... 2 2returns.......................... 4Support test (Cont.)
+Form W-7: ITINs (Individual taxpayerItems not included............. 8
+Individual taxpayer identificationidentification numbers)........ 1Joint ownership of home...... 8
+number (ITIN)................. 1Medical expenses............ 1 0
+Former spouse:Noncustodial parent.......... 1 0 JDefined for purposes ofSupport provided by others.... 8 Joint liability:alimony....................... 1 2Written declaration of Relief from.....................1 ,  3custody.................... 1 0Foster children: Joint return test forHead of householdDependents: dependents ..................... 7requirements.................. 5Benefits paid to, under Joint returns...................... 3Member of household orQDRO ........................ 1 8 Change from separate return.... 5relationship test............... 7Custodial parent................. 8 Change to separate return....... 5Free tax services................ 2 4Exemption for.................6-10 Divorced taxpayers.............. 3Full-time student defined......... 7Noncustodial parent............ 1 0 Exemption for spouse........... 6Social security numbers......... 1 Joint and individual liability....... 3Divorce decrees: G Relief from joint liability.......... 3Absolute decree................ 2 4Gift tax: Signing.......................... 3Amended ....................... 1 2Annual exclusion............... 2 1Jointly-owned home:Considered unmarried........... 2 Property settlements............ 2 1Alimony payments for........... 1 3Costs of getting................. 2 1Return.......................... 2 1Expenses for, as alimony (TableDefined for purposes of Gross income test................ 7 2 )............................. 1 3alimony....................... 1 2 Sale of.......................... 2 1Invalid.......................... 1 2H Support test for dependency..... 8Support test: Head of household............... 5Post-1984.................... 1 0Considered unmarried........... 6Pre-1985..................... 1 0 LFather or mother................. 6Domestic relations orders (See Liability for taxes (See Relief fromKeeping up a home.............. 6Qualified domestic relations orders joint liability)Married children................. 5(QDROs)) Life insurance premiums asNonresident alien spouse........ 6Domicile.......................... 2 2 alimony ........................ 1 3Other relatives................... 5
+Requirements.................... 5
+Unmarried children.............. 5E MHealth savings accountsEarned income................... 2 3 Marital community, ending...... 2 4(HSAs) ......................... 1 9Endowment contract proceeds as Marital status..................... 2Help (See Tax help)alimony ........................ 1 7 Medical and dental expenses:Home owned jointly:Equitable relief (See Relief from joint Child of divorced or separatedAlimony payments for........... 1 3liability) parents....................... 1 0Expenses for, as alimony (TableEstimated tax.................... 2 2 Medical savings accounts2 )............................. 1 3Joint payments................. 2 2 (MSAs) ......................... 1 9Sale of.......................... 2 1Exemptions ....................6-12 Member of household orSupport test for dependency..... 8Dependents ..................6-10 relationship test forHSAs (Health savingsPersonal......................... 6 dependents ..................... 7accounts)...................... 1 9Phaseout of..................... 1 1 Children......................... 7
+Spouse .......................... 6 Member of householdI defined........................ 7Identification number............. 1Missing children, photographsF Income: (See also Community of................................ 2Fees for tax advice.............. 2 2income)......................... 2 2More information (See Tax help)Figures (See Tables and figures) Alimony received............... 1 2Mortgage payments asFiling status..................... 2 - 6Individual retirement arrangementsalimony ........................ 1 3(IRAs).......................... 1 8Form 1040: MSAs (Medical savingsDeducting alimony paid......... 1 2Individual taxpayer identificationaccounts)...................... 1 9Reporting alimony received..... 1 2 numbers (ITINs)................ 1Multiple supportForm 1040X: Injured spouse.................... 3agreements .................... 1 1Claim for refund................. 3Annulment, decree of............ 3 Exemption, who can claim (FigureStatute of limitations........... 4Form 8332: 2 )............................. 1 1Community property............. 3Written declaration of
+Innocent spouse relief............ 3custody....................... 1 0
+NInsurance premiums............. 1 3Form 8379:
+Name, change of.................. 2Injured spouse................... 3Invalid decree.................... 1 2
+Noncustodial parent............. 1 0Form 8857: IRAs (Individual retirement
+Innocent spouse relief........... 3 Nondeductible expenses........ 2 2arrangements)................. 1 8
+Page 28
+
+Page 29 of 30 of Publication 504 9:09 - 14-OCT-2004
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Nonresident aliens: Joint liability, relief from.......... 1Support test for
+Head of household.............. 6 Social security numbers for dependents ..................7-10
+Joint returns..................... 3 dependents.................... 1Capital items..................... 8
+Withholding..................... 1 2 Child of divorced or separatedReporting requirements:
+parents.....................8-10Alimony recapture.............. 1 6
+Child support................... 1 0Alimony received............... 1 2P Custodial parent................. 8Resident test for dependents.... 7Personal exemptions............. 6 Items not included............... 8Returns:Phaseout of exemptions........ 1 1 Joint ownership of home......... 8Amended return required........ 3Property settlements.........18-21 Medical expenses.............. 1 0Joint (See Joint returns)Annual exclusion............... 2 1 Noncustodial parent............ 1 0Separate (See Separate returns)Basis of property received...... 2 0 Support provided by others...... 8Rollovers......................... 1 8Gift tax.......................... 2 1 Written declaration ofReturn........................ 2 1 custody....................... 1 0Incident to divorce, defined..... 1 9S
+Marital deduction............... 2 1Sales of jointly-owned TProperty received: property........................ 2 1Tables and figures:Section 1041 election........ 2 0School defined.................... 7Itemized deductions on separateProperty received before July 19,Section 1041 election............ 2 0 returns (Table 1).............. 41984.......................... 2 0Separate maintenance Jointly-owned home, expenses for,Property transferred pursuant to decrees ..................2 ,  12, 24 as alimony (Table 2).......... 1 3divorce (Table 3)............. 2 0Separate returns.................. 4Multiple support agreement, whoRelated to end of marriage, Change to or from joint return.... 5 can claim exemption underdefined....................... 1 9Community or separate (Figure 2)..................... 1 1Reporting income from......... 1 9 income ........................ 4Property transferred pursuant toSection 1041 election........... 2 0Exemption for spouse........... 6 divorce (Table 3)............. 2 0Tax treatment of property Itemized deductions............. 4 Support test for child of divorced orreceived...................... 2 0Relief from liability.............. 2 3 separated parents (FigurePublications (See Tax help) Separate liability................. 4 1 ).............................. 9Tax consequences.............. 4Tax advice fees.................. 2 2Q Separation agreements.......... 2 4Tax help.......................... 2 4Qualified domestic relations ordersDefined for purposes of Tax withholding (See Withholding)(QDROs) ....................... 1 8alimony....................... 1 2Taxpayer Advocate.............. 2 4Benefits paid to child or Support test: Taxpayer identificationdependent.................... 1 8Post-1984.................... 1 0numbers ........................ 1Benefits paid to spouse or former Pre-1985..................... 1 0
+Third parties:spouse ....................... 1 8Separation of liability (See Relief Alimony payments to.......13, 14Rollovers....................... 1 8from joint liability) Property settlements, transfersSettlement of property (See t o............................. 1 9R Property settlements) Trust proceeds as alimony...... 1 7Recapture of alimony............ 1 5Social security benefits......... 2 3TTY/TDD information............ 2 4Deducting....................... 1 6Social security numbers (SSNs):
+Determination of (Worksheet Alimony recipient’s number
+UA ) ............................ 1 6required...................... 1 2
+How to figure and report........ 1 6 Underpayment of alimony....... 1 3Dependents ..................... 1
+When to apply.................. 1 5Spousal IRA...................... 1 8
+Refunds: Spouse: W
+Injured spouse, community Defined for purposes of Withholding:property....................... 3alimony....................... 1 2Change of................... 2 ,  2 2Spouse’s debts, applied to....... 3 Refund applied to debts......... 3 Nonresident aliens.............. 1 2
+Related persons.................. 7Statute of limitations: Worksheets:
+Relief from joint liability........1 ,  3Amended return................. 3Recapture of alimony (Worksheet
+Relief from separate return Injured spouse claim............. 4 A ) ............................ 1 6
+liability: Students:
+■Community income............. 2 3Full-time student defined........ 7
+Reminders: Gross income test............... 7
+Individual taxpayer identificationSchool defined................... 7
+number (ITIN)................. 1Suggestions for publication..... 2
+Page 29
+
+Page 30 of 30 of Publication 504 9:09 - 14-OCT-2004
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Tax Publications for Individual Taxpayers
+General Guides
+Your Rights as a Taxpayer
+Your Federal Income Tax (For
+Individuals)
+Farmer’s Tax Guide
+Tax Guide for Small Business (For
+Individuals Who Use Schedule C or
+C-EZ)
+Tax Calendars for 2005
+Highlights of 2004 Tax Changes
+IRS Guide to Free Tax Services
+Specialized Publications
+Armed Forces’ Tax Guide
+Fuel Tax Credits and Refunds
+Travel, Entertainment, Gift, and Car
+Expenses
+Exemptions, Standard Deduction, and
+Filing Information
+Medical and Dental Expenses (Including
+the Health Coverage Tax Credit)
+Child and Dependent Care Expenses
+Divorced or Separated Individuals
+Tax Withholding and Estimated Tax
+Foreign Tax Credit for Individuals
+U.S. Government Civilian Employees
+Stationed Abroad
+Social Security and Other Information
+for Members of the Clergy and
+Religious Workers
+U.S. Tax Guide for Aliens
+Moving Expenses
+Selling Your Home
+Credit for the Elderly or the Disabled
+Taxable and Nontaxable Income
+Charitable Contributions
+Residential Rental Property
+Commonly Used Tax Forms
+Miscellaneous Deductions
+Tax Information for First-Time
+Homeowners
+Reporting Tip Income
+Self-Employment Tax
+Installment Sales
+Partnerships
+Sales and Other Dispositions of Assets
+Casualties, Disasters, and Thefts
+Investment Income and Expenses
+Basis of Assets
+Recordkeeping for Individuals
+Older Americans’ Tax Guide
+Community Property
+Examination of Returns, Appeal Rights,
+and Claims for Refund
+Survivors, Executors, and
+Administrators
+Determining the Value of Donated
+Property
+Mutual Fund Distributions
+Tax Guide for Individuals With Income
+From U.S. Possessions
+Pension and Annuity Income
+Casualty, Disaster, and Theft Loss
+Workbook (Personal-Use Property)
+Business Use of Your Home (Including
+Use by Daycare Providers)
+Individual Retirement Arrangements
+(IRAs)
+Tax Highlights for U.S. Citizens and
+Residents Going Abroad
+What You Should Know About the IRS
+Collection Process
+Earned Income Credit (EIC)
+Tax Guide to U.S. Civil Service
+Retirement Benefits
+Tax Highlights for Persons with
+Disabilities
+Bankruptcy Tax Guide
+Direct Sellers
+Social Security and Equivalent
+Railroad Retirement Benefits
+How Do I Adjust My Tax Withholding?
+Passive Activity and At-Risk Rules
+Household Employer’s Tax Guide
+Tax Rules for Children and
+Dependents
+Home Mortgage Interest Deduction
+How To Depreciate Property
+Practice Before the IRS and
+Power of Attorney
+Introduction to Estate and Gift Taxes
+The IRS Will Figure Your Tax
+Per Diem Rates
+Reporting Cash Payments of Over
+$10,000 (Received in a Trade or
+Business)
+The Taxpayer Advocate Service—How
+to Get Help With Unresolved Problems
+Derechos del Contribuyente
+Cómo Preparar la Declaración de
+Impuesto Federal
+Crédito por Ingreso del Trabajo
+English-Spanish Glossary of Words
+and Phrases Used in Publications
+Issued by the Internal Revenue
+Service
+U.S. Tax Treaties
+Spanish Language Publications
+Tax Highlights for Commercial
+Fishermen
+910
+595
+553
+509
+334
+225
+17
+1
+3
+378
+463
+501
+502
+503
+504
+505
+514
+516
+517
+519
+521
+523
+524
+525
+526
+527
+529
+530
+531
+533
+537
+544
+547
+550
+551
+552
+554
+541
+555
+556
+559
+561
+564
+570
+575
+584
+587
+590
+593
+594
+596
+721
+901
+907
+908
+915
+919
+925
+926
+929
+946
+911
+936
+950
+1542
+967
+1544
+1546
+596SP
+1SP
+850
+579SP
+Comprendiendo el Proceso de Cobro594SP
+947
+Tax Benefits for Adoption968
+Informe de Pagos en Efectivo en
+Exceso de $10,000 (Recibidos en
+una Ocupación o Negocio)
+1544SP
+See How To Get Tax Help for a variety of ways to get forms, including by computer, fax, phone,
+and mail. For fax orders only, use the catalog number when ordering.
+U.S. Individual Income Tax Return
+Itemized Deductions & Interest and
+Ordinary Dividends
+Profit or Loss From Business
+Net Profit From Business
+Capital Gains and Losses
+Supplemental Income and Loss
+Earned Income Credit
+Profit or Loss From Farming
+Credit for the Elderly or the Disabled
+Income Tax Return for Single and 
+Joint Filers With No Dependents
+Self-Employment Tax
+U.S. Individual Income Tax Return
+Interest and Ordinary Dividends for
+Form 1040A Filers
+Child and Dependent Care
+Expenses for Form 1040A Filers
+Credit for the Elderly or the 
+Disabled for Form 1040A Filers
+Estimated Tax for Individuals
+Amended U.S. Individual Income Tax Return
+Unreimbursed Employee Business
+Expenses
+Underpayment of Estimated Tax by
+Individuals, Estates, and Trusts
+Power of Attorney and Declaration of
+Representative
+Child and Dependent Care Expenses
+Moving Expenses
+Depreciation and Amortization
+Application for Automatic Extension of Time
+To File U.S. Individual Income Tax Return
+Investment Interest Expense Deduction
+Additional Taxes on Qualified Plans (Including
+IRAs) and Other Tax-Favored Accounts
+Alternative Minimum Tax—Individuals
+Noncash Charitable Contributions
+Change of Address
+Expenses for Business Use of Your Home
+Nondeductible IRAs
+Passive Activity Loss Limitations
+1040
+Sch A&B
+Sch C
+Sch C-EZ
+Sch D
+Sch E
+Sch EIC
+Sch F
+Sch H Household Employment Taxes 
+Sch R
+Sch SE
+1040EZ
+1040A
+Sch 1
+Sch 2
+Sch 3
+1040-ES
+1040X
+2106 Employee Business Expenses
+2106-EZ
+2210
+2441
+2848
+3903
+4562
+4868
+4952
+5329
+6251
+8283
+8582
+8606
+8822
+8829
+Form Number and Title
+Catalog
+Number
+Sch J Farm Income Averaging
+Additional Child Tax Credit8812
+Education Credits8863
+Catalog
+Number
+11700
+20604
+11744
+11862
+11980
+12490
+12906
+13141
+13177
+13329
+13600
+62299
+63704
+63966
+10644
+12081
+13232
+25379
+11320
+Form Number and Title
+11330
+11334
+14374
+11338
+11344
+13339
+11346
+12187
+25513
+11359
+11358
+11327
+12075
+10749
+12064
+11329
+11340
+11360
+See How To Get Tax Help for a variety of ways to get publications, including
+by computer, phone, and mail.
+970 Tax Benefits for Education
+971 Innocent Spouse Relief
+Sch D-1 Continuation Sheet for Schedule D 10424
+972 Child Tax Credit
+Tax Guide for U.S. Citizens and
+Residents Aliens Abroad
+54
+Net Operating Losses (NOLs) for
+Individuals, Estates, and Trusts
+536
+Tax-Sheltered Annuity Plans (403(b)
+Plans)
+571
+Health Savings Accounts and Other
+Tax-Favored Health Plans
+969
+Installment Agreement Request9465 14842
+Page 30

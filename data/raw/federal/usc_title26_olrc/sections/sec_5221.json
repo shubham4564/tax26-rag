@@ -1,0 +1,77 @@
+{
+  "section_number": 5221,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle E",
+      "chapter": "CHAPTER 51",
+      "subchapter": "Subchapter C",
+      "part": "PART II",
+      "section": "§5221"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1364 ; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834 ; Pub. L. 96–39, title VIII, §806(b), July 26, 1979, 93 Stat. 279 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§5221",
+    "heading": "§5221. Commencement, suspension, and resumption of operations",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Commencement, suspension, and resumption",
+        "text": "The proprietor of a distilled spirits plant authorized to produce distilled spirits shall not commence production operations until written notice has been given to the Secretary stating when operations will begin. Any proprietor of a distilled spirits plant desiring to suspend production of distilled spirits shall give notice in writing to the Secretary, stating when he will suspend such operations. Pursuant to such notice, an internal revenue officer shall take such action as the Secretary shall prescribe to prevent the production of distilled spirits. No proprietor, after having given such notice, shall, after the time stated therein, produce distilled spirits on such premises until he again gives notice in writing to the Secretary stating the time when he will resume operations. At the time stated in the notice of resuming such operations an internal revenue officer shall take such action as is necessary to permit operations to be resumed. The notices submitted under this section shall be in such form and submitted in such manner as the Secretary may by regulations require. Nothing in this section shall apply to suspensions caused by unavoidable accidents; and the Secretary shall prescribe regulations to govern such cases of involuntary suspension."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Penalty",
+        "text": "For penalty and forfeiture for carrying on the business of distiller after having given notice of suspension, see sections 5601(a)(14) and 5615(3)."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "1979",
+        "entries": [
+          "Subsec. (a). Pub. L. 96–39 substituted \"until written notice has been given to the Secretary stating when operations will begin\" for \"until an internal revenue officer has been assigned to the premises\"."
+        ]
+      },
+      {
+        "year": "1976",
+        "entries": [
+          "Subsec. (a). Pub. L. 94–455 struck out \"or his delegate\" after \"Secretary\"."
+        ]
+      }
+    ],
+    "other_notes": [
+      {
+        "heading": "Prior Provisions",
+        "text": "Provisions similar to those comprising subsec. (a) of this section were contained in prior section 5191(a), act Aug. 16, 1954, ch. 736, 68A Stat. 632 , prior to the general revision of this chapter by Pub. L. 85–859."
+      }
+    ]
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 1979 Amendment",
+        "pub_law": "Pub. L. 96–39",
+        "effective_date": "effective Jan.",
+        "text": "Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as a note under section 5001 of this title."
+      },
+      {
+        "heading": "Effective Date",
+        "pub_law": "Pub. L. 85–859",
+        "effective_date": "effective July 1, 1959, see section 210(a)(1) of Pub.",
+        "text": "Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set out as a note under section 5001 of this title."
+      }
+    ]
+  }
+}

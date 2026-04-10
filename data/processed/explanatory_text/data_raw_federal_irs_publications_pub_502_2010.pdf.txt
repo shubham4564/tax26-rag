@@ -1,0 +1,1879 @@
+Userid: SD_796CB DTD tipx Leadpct: -2% Pt. size: 10 ❏ Draft ❏ Ok to Print
+PAGER/SGML Fileid: ...top\Files for Forms, Inst. & Pubs\T All 2011\Pub 502\2010 P 502 - 2.xml (Init. & date)
+Page 1 of 34 of Publication 502 9:02 -  3-MAR-2011
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+ContentsDepartment of the Treasury
+Internal Revenue Service
+ What's New .............................. . 1
+Reminder ................................ . 2
+Publication 502 Introduction ............................. . 2Cat. No. 15002Q
+What Are Medical Expenses? ............... . 2
+What Expenses Can You Include ThisMedical and Year? ................................ . 3
+How Much of the Expenses Can You
+Dental Deduct? ............................. . 3
+Whose Medical Expenses Can You
+Include? ............................. . 3Expenses
+What Medical Expenses Are Includible? ....... . 5
+(Including the Health What Expenses Are Not Includible? .......... . 15
+Coverage Tax Credit) How Do You Treat Reimbursements? ......... . 17
+How Do You Figure and Report the
+For use in preparing Deduction on Your Tax Return? .......... . 19
+Sale of Medical Equipment or Property ........ . 202010 Returns
+Damages for Personal Injuries ............... . 22
+Impairment-Related Work Expenses .......... . 23
+Health Insurance Costs for Self-Employed
+Persons .............................. . 23
+COBRA Premium Assistance ................ . 24
+Health Coverage Tax Credit ................. . 25
+How To Get Tax Help ...................... . 28
+Index ................................... . 31
+What's New
+Standard mileage rate. The standard mileage rate al-
+lowed for operating expenses for a car when you use it for
+medical reasons is 16.5 cents per mile for 2010. See
+Transportation under What Medical Expenses Are Includi-
+ble.
+COBRA continuation coverage. If you involuntarily lost
+your job between September 1, 2008, and May 31, 2010,
+you may qualify for a 65% reduction in premiums for
+COBRA continuation coverage for up to 15 months. The
+premium reduction is not included in your gross income.
+You cannot claim the health coverage tax credit for any
+month that you receive this premium. There are also spe-
+cial rules for individuals who lost their health coverage
+Get forms and other information because of a reduction in working hours. Also, certain
+TAA-eligible and PBGC recipients qualify for an extensionfaster and easier by:
+of COBRA benefits.Internet IRS.gov For more information, see COBRA Premium Assis-
+tance, later.
+Mar 03, 2011
+
+Page 2 of 34 of Publication 502 9:02 -  3-MAR-2011
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Lactation expenses. Expenses paid for breast pumps Commentº on the subject line. You can also send us
+and supplies that assist lactation qualify as deductible comments from www.irs.gov/formspubs/, select ªCom-
+medical expenses. ment on Tax Forms and Publicationsº under ªInformation
+about.º
+Although we cannot respond individually to each com-
+Reminder ment received, we do appreciate your feedback and will
+consider your comments as we revise our tax products.
+Photographs of missing children. The Internal Reve- Ordering forms and publications. Visit www.irs.gov/nue Service is a proud partner with the National Center for formspubs/ to download forms and publications, callMissing and Exploited Children. Photographs of missing 1-800-829-3676, or write to the address below and receivechildren selected by the Center may appear in this publica- a response within 10 days after your request is received.tion on pages that would otherwise be blank. You can help
+bring these children home by looking at the photographs Internal Revenue Service
+and calling 1-800-THE-LOST (1-800-843-5678) if you rec- 1201 N. Mitsubishi Motorway
+ognize a child. Bloomington, IL 61705-6613
+Tax questions. If you have a tax question, check the
+Introduction information available on IRS.gov or call 1-800-829-1040.
+We cannot answer tax questions sent to either of theThis publication explains the itemized deduction for medi-
+cal and dental expenses that you claim on Schedule A above addresses.
+(Form 1040). It discusses what expenses, and whose
+expenses, you can and cannot include in figuring the Useful Items
+deduction. It explains how to treat reimbursements and You may want to see:how to figure the deduction. It also tells you how to report
+the deduction on your tax return and what to do if you sell Publicationmedical property or receive damages for a personal injury.
+❏ 969 Health Savings Accounts and OtherMedical expenses include dental expenses, and in this
+publication the term ªmedical expensesº is often used to Tax-Favored Health Plans
+refer to medical and dental expenses.
+Forms (and Instructions)You can deduct on Schedule A (Form 1040) only the
+part of your medical and dental expenses that is more than ❏ 1040 U.S. Individual Income Tax Return7.5% of your adjusted gross income (AGI). If your medical
+❏ Schedule A (Form 1040) Itemized Deductionsand dental expenses are not more than 7.5% of your AGI,
+you cannot claim a deduction. ❏ 8853 Archer MSAs and Long-Term Care Insurance
+This publication also explains how to treat impair- Contractsment-related work expenses, health insurance premiums if
+❏ 8885 Health Coverage Tax Credityou are self-employed, and the health coverage tax credit
+that is available to certain individuals.
+Pub. 502 covers many common medical expenses but
+not every possible medical expense. If you cannot find the What Are Medical Expenses?expense you are looking for, refer to the definition of
+medical expenses under What Are Medical Expenses. Medical expenses are the costs of diagnosis, cure, mitiga-
+See How To Get Tax Help near the end of this publica- tion, treatment, or prevention of disease, and the costs for
+tion for information about getting publications and forms. treatments affecting any part or function of the body. These
+expenses include payments for legal medical servicesComments and suggestions. We welcome your com- rendered by physicians, surgeons, dentists, and otherments about this publication and your suggestions for medical practitioners. They include the costs of equipment,future editions.
+supplies, and diagnostic devices needed for these pur-You can write to us at the following address:
+poses.
+Internal Revenue Service Medical care expenses must be primarily to alleviate orIndividual Forms and Publications Branch prevent a physical or mental defect or illness. They do notSE:W:CAR:MP:T:I include expenses that are merely beneficial to general1111 Constitution Ave. NW, IR-6526
+health, such as vitamins or a vacation.Washington, DC 20224
+Medical expenses include the premiums you pay for
+insurance that covers the expenses of medical care, andWe respond to many letters by telephone. Therefore, it
+the amounts you pay for transportation to get medical care.would be helpful if you would include your daytime phone
+Medical expenses also include amounts paid for qualifiednumber, including the area code, in your correspondence.
+long-term care services and limited amounts paid for anyYou can email us at *taxforms@irs.gov. (The asterisk
+must be included in the address.) Please put ªPublications qualified long-term care insurance contract.
+Page 2 Publication 502 (2010)
+
+Page 3 of 34 of Publication 502 9:02 -  3-MAR-2011
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Example. Your AGI is $40,000, 7.5% of which is
+$3,000. You paid medical expenses of $2,500. You cannotWhat Expenses Can You deduct any of your medical expenses because they are not
+more than 7.5% of your AGI.Include This Year?
+You can include only the medical and dental expenses you
+paid this year, regardless of when the services were pro- Whose Medical Expenses vided. (But see Decedent under Whose Medical Expenses
+Can You Include , for an exception.) If you pay medical Can You Include?expenses by check, the day you mail or deliver the check
+generally is the date of payment. If you use a You can generally include medical expenses you pay forªpay-by-phoneº or ªonlineº account to pay your medical yourself, as well as those you pay for someone who wasexpenses, the date reported on the statement of the finan- your spouse or your dependent either when the servicescial institution showing when payment was made is the were provided or when you paid for them. There aredate of payment. If you use a credit card, include medical different rules for decedents and for individuals who areexpenses you charge to your credit card in the year the the subject of multiple support agreements. See Supportcharge is made, not when you actually pay the amount claimed under a multiple support agreement , later undercharged. Qualifying Relative.
+If you did not claim a medical or dental expense that
+would have been deductible in an earlier year, you can file YourselfForm 1040X, Amended U.S. Individual Income Tax Re-
+turn, for the year in which you overlooked the expense. Do You can include medical expenses that you paid for your-not claim the expense on this year's return. Generally, an self.amended return must be filed within 3 years from the date
+the original return was filed or within 2 years from the time Spousethe tax was paid, whichever is later.
+You cannot include medical expenses that were paid by You can include medical expenses you paid for your
+insurance companies or other sources. This is true spouse. To include these expenses, you must have been
+whether the payments were made directly to you, to the married either at the time your spouse received the medi-
+patient, or to the provider of the medical services. cal services or at the time you paid the medical expenses.
+Example 1. Mary received medical treatment beforeSeparate returns. If you and your spouse live in a non-
+she married Bill. Bill paid for the treatment after theycommunity property state and file separate returns, each of
+married. Bill can include these expenses in figuring hisyou can include only the medical expenses each actually
+medical expense deduction even if Bill and Mary file sepa-paid. Any medical expenses paid out of a joint checking
+rate returns.account in which you and your spouse have the same
+interest are considered to have been paid equally by each If Mary had paid the expenses, Bill could not include
+of you, unless you can show otherwise. Mary's expenses in his separate return. Mary would in-
+clude the amounts she paid during the year in her separateCommunity property states. If you and your spouse
+return. If they filed a joint return, the medical expenseslive in a community property state and file separate re-
+both paid during the year would be used to figure theirturns, any medical expenses paid out of community funds
+medical expense deduction.are divided equally. Each of you should include half the
+expenses. If medical expenses are paid out of the separate
+Example 2. This year, John paid medical expenses forfunds of one spouse, only the spouse who paid the medical
+his wife Louise, who died last year. John married Belle thisexpenses can include them. If you live in a community
+year and they file a joint return. Because John was marriedproperty state, are married, and file a separate return, see
+to Louise when she received the medical services, he canPublication 555, Community Property. 
+include those expenses in figuring his medical expense
+deduction for this year.
+How Much of the Expenses Dependent
+Can You Deduct? You can include medical expenses you paid for your de-
+pendent. For you to include these expenses, the personYou can deduct on Schedule A (Form 1040) only the must have been your dependent either at the time theamount of your medical and dental expenses that is more medical services were provided or at the time you paid thethan 7.5% of your AGI(Form 1040, line 38). expenses. A person generally qualifies as your dependent
+In this publication, the term ª7.5% limitº is used to refer for purposes of the medical expense deduction if both of
+to 7.5% of your AGI. The phrase ªsubject to the 7.5% limitº the following requirements are met.
+is also used. This phrase means that you must subtract
+7.5% (.075) of your AGI from your medical expenses to 1. The person was a qualifying child (defined later) or a
+figure your medical expense deduction. qualifying relative (defined later), and
+Publication 502 (2010) Page 3
+
+Page 4 of 34 of Publication 502 9:02 -  3-MAR-2011
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+2. The person was a U.S. citizen or national or a resi- You may be able to take a credit for other ex-
+dent of the United States, Canada, or Mexico. If your penses related to an adoption. See the Instruc-
+qualifying child was adopted, see Exception for tions for Form 8839, Qualified Adoption
+TIP
+adopted child, below. Expenses, for more information.
+You can include medical expenses you paid for an individ-
+Child of divorced or separated parents. For purposesual that would have been your dependent except that:
+of the medical and dental expenses deduction, a child of
+1. He or she received gross income of $3,650 or more divorced or separated parents can be treated as a depen-
+in 2010, dent of both parents. Each parent can include the medical
+expenses he or she pays for the child, even if the other2. He or she filed a joint return for 2010, or
+parent claims the child's dependency exemption, if:
+3. You, or your spouse if filing jointly, could be claimed
+1. The child is in the custody of one or both parents foras a dependent on someone else's 2010 return.
+more than half the year,
+2. The child receives over half of his or her supportException for adopted child. If you are a U.S. citizen or during the year from his or her parents, andnational and your adopted child lived with you as a mem-
+ber of your household for 2010, that child does not have to 3. The child's parents:
+be a U.S. citizen or national, or a resident of the United
+a. Are divorced or legally separated under a decreeStates, Canada, or Mexico.
+of divorce or separate maintenance,
+b. Are separated under a written separation agree-Qualifying Child ment, or
+A qualifying child is a child who: c. Live apart at all times during the last 6 months of
+the year.1. Is your son, daughter, stepchild, foster child, brother,
+sister, stepbrother, stepsister, half brother, half sister, This does not apply if the child's exemption is beingor a descendant of any of them (for example, your claimed under a multiple support agreement (discussedgrandchild, niece, or nephew), later).
+2. Was:
+a. Under age 19 at the end of 2010 and younger Qualifying Relative
+than you (or your spouse, if filing jointly),
+A qualifying relative is a person:b. Under age 24 at the end of 2010, a full-time stu-
+dent, and younger than you (or your spouse, if 1. Who is your:
+filing jointly), or
+a. Son, daughter, stepchild, or foster child, or a de-c. Any age and permanently and totally disabled, scendant of any of them (for example, your
+grandchild),3. Lived with you for more than half of 2010,
+b. Brother or sister, half brother, half sister, or a son4. Did not provide over half of his or her own support for or daughter of any of them,2010, and
+c. Father or mother, or an ancestor or sibling of5. Did not file a joint return, other than to claim a refund. either of them (for example, your grandmother,
+grandfather, aunt, or uncle),
+d. Stepbrother, stepsister, stepfather, stepmother,Adopted child. A legally adopted child is treated as your
+son-in-law, daughter-in-law, father-in-law,own child. This child includes a child lawfully placed with
+mother-in-law, brother-in-law, or sister-in-law, oryou for legal adoption.
+You can include medical expenses that you paid for a e. Any other person (other than your spouse) who
+child before adoption if the child qualified as your depen- lived with you all year as a member of your
+dent when the medical services were provided or when the household if your relationship did not violate local
+expenses were paid. law,
+If you pay back an adoption agency or other persons for
+2. Who was not a qualifying child (see Qualifying Childmedical expenses they paid under an agreement with you,
+earlier) of any taxpayer for 2010, andyou are treated as having paid those expenses provided
+you clearly substantiate that the payment is directly attribu- 3. For whom you provided over half of the support intable to the medical care of the child. 2010. But see Child of divorced or separated par-
+But if you pay the agency or other person for medical ents, earlier, Support claimed under a multiple sup-
+care that was provided and paid for before adoption negoti- port agreement, next, and Kidnapped child under
+ations began, you cannot include them as medical ex- Qualifying Relative in Publication 501, Exemptions,
+penses. Standard Deduction, and Filing Information.
+Page 4 Publication 502 (2010)
+
+Page 5 of 34 of Publication 502 9:02 -  3-MAR-2011
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Support claimed under a multiple support agreement. paid within the 1-year period, his survivor or personal
+If you are considered to have provided more than half of a representative can file an amended return for 2009 claim-
+qualifying relative's support under a multiple support ing a deduction based on the $1,500 medical expenses.
+agreement, you can include medical expenses you pay for The $1,800 of medical expenses from 2010 can be in-
+that person. A multiple support agreement is used when cluded on the decedent's final return for 2010.
+two or more people provide more than half of a person's
+support, but no one alone provides more than half. What if you pay medical expenses of a deceased
+Any medical expenses paid by others who joined you in spouse or dependent? If you paid medical expenses for
+the agreement cannot be included as medical expenses by your deceased spouse or dependent, include them as
+anyone. However, you can include the entire un- medical expenses on your Form 1040 in the year paid,
+reimbursed amount you paid for medical expenses. whether they are paid before or after the decedent's death.
+The expenses can be included if the person was your
+Example. You and your three brothers each provide spouse or dependent either at the time the medical serv-
+one-fourth of your mother's total support. Under a multiple ices were provided or at the time you paid the expenses.
+support agreement, you treat your mother as your depen-
+dent. You paid all of her medical expenses. Your brothers
+repaid you for three-fourths of these expenses. In figuring What Medical Expenses Areyour medical expense deduction, you can include only
+one-fourth of your mother's medical expenses. Your broth- Includible?ers cannot include any part of the expenses. However, if
+you and your brothers share the nonmedical support items Following is a list of items that you can include in figuringand you separately pay all of your mother's medical ex- your medical expense deduction. The items are listed inpenses, you can include the unreimbursed amount you alphabetical order.paid for her medical expenses in your medical expenses. This list does not include all possible medical expenses.
+To determine if an expense not listed can be included in
+Decedent figuring your medical expense deduction, see What Are
+Medical Expenses, earlier.
+Medical expenses paid before death by the decedent are
+included in figuring any deduction for medical and dental Abortionexpenses on the decedent's final income tax return. This
+includes expenses for the decedent's spouse and depen- You can include in medical expenses the amount you paydents as well as for the decedent. for a legal abortion.The survivor or personal representative of a decedent
+can choose to treat certain expenses paid by the dece-
+Acupuncturedent's estate for the decedent's medical care as paid by
+the decedent at the time the medical services were pro- You can include in medical expenses the amount you payvided. The expenses must be paid within the 1-year period for acupuncture.beginning with the day after the date of death. If you are the
+survivor or personal representative making this choice,
+Alcoholismyou must attach a statement to the decedent's Form 1040
+(or the decedent's amended return, Form 1040X) saying
+You can include in medical expenses amounts you pay forthat the expenses have not been and will not be claimed on
+an inpatient's treatment at a therapeutic center for alcoholthe estate tax return.
+addiction. This includes meals and lodging provided by the
+ Qualified medical expenses paid before death by center during treatment.
+the decedent are not deductible if paid with a You can also include in medical expenses amounts youtax-free distribution from any Archer MSA, Medi-
+CAUTION
+! pay for transportation to and from Alcoholics Anonymouscare Advantage MSA, or health savings account. meetings in your community if the attendance is pursuant
+to medical advice that membership in Alcoholics Anony-What if the decedent's return had been filed and the mous is necessary for the treatment of a disease involvingmedical expenses were not included? Form 1040X can the excessive use of alcoholic liquors.be filed for the year or years the expenses are treated as
+paid, unless the period for filing an amended return for that
+Ambulanceyear has passed. Generally, an amended return must be
+filed within 3 years of the date the original return was filed,
+You can include in medical expenses amounts you pay foror within 2 years from the time the tax was paid, whichever
+ambulance service.date is later.
+Example. John properly filed his 2009 income tax re- Annual Physical Examination
+turn. He died in 2010 with unpaid medical expenses of
+See Physical Examination, later.$1,500 from 2009 and $1,800 in 2010. If the expenses are
+Publication 502 (2010) Page 5
+
+Page 6 of 34 of Publication 502 9:02 -  3-MAR-2011
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+spouse, or your dependent. The cost of permanent im-Artificial Limb provements that increase the value of your property may
+be partly included as a medical expense. The cost of theYou can include in medical expenses the amount you pay
+improvement is reduced by the increase in the value offor an artificial limb.
+your property. The difference is a medical expense. If the
+value of your property is not increased by the improve-Artificial Teeth ment, the entire cost is included as a medical expense.
+Certain improvements made to accommodate a homeYou can include in medical expenses the amount you pay to your disabled condition, or that of your spouse or yourfor artificial teeth. dependents who live with you, do not usually increase the
+value of the home and the cost can be included in full asAutoette medical expenses. These improvements include, but are
+not limited to, the following items.See Wheelchair, later.
+• Constructing entrance or exit ramps for your home.
+Bandages • Widening doorways at entrances or exits to your
+home.You can include in medical expenses the cost of medical
+• Widening or otherwise modifying hallways and inte-supplies such as bandages.
+rior doorways.
+• Installing railings, support bars, or other modifica-Birth Control Pills
+tions to bathrooms.
+You can include in medical expenses the amount you pay • Lowering or modifying kitchen cabinets and equip-for birth control pills prescribed by a doctor. ment.
+• Moving or modifying electrical outlets and fixtures.Body Scan
+• Installing porch lifts and other forms of lifts (but ele-You can include in medical expenses the cost of an elec- vators generally add value to the house).tronic body scan.
+• Modifying fire alarms, smoke detectors, and other
+warning systems.Braille Books and Magazines
+• Modifying stairways.
+You can include in medical expenses the part of the cost of
+• Adding handrails or grab bars anywhere (whether orBraille books and magazines for use by a visually impaired
+not in bathrooms).person that is more than the cost of regular printed edi-
+tions. • Modifying hardware on doors.
+• Modifying areas in front of entrance and exit door-Breast Pumps and Supplies ways.
+You can include in medical expenses the cost of breast • Grading the ground to provide access to the resi-
+pumps and supplies that assist lactation. dence.
+Only reasonable costs to accommodate a home to aBreast Reconstruction Surgery disabled condition are considered medical care. Additional
+costs for personal motives, such as for architectural orYou can include in medical expenses the amounts you pay
+aesthetic reasons, are not medical expenses.for breast reconstruction surgery following a mastectomy
+for cancer. Capital expense worksheet. Use Worksheet A to figure
+the amount of your capital expense to include in your
+Capital Expenses medical expenses.
+You can include in medical expenses amounts you pay for
+special equipment installed in a home, or for improve-
+ments, if their main purpose is medical care for you, your
+Page 6 Publication 502 (2010)
+
+Page 7 of 34 of Publication 502 9:02 -  3-MAR-2011
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Worksheet A. Capital Expense
+Operation and upkeep. Amounts you pay for operationWorksheet
+and upkeep of a capital asset qualify as medical expenses,Keep for Your Records
+as long as the main reason for them is medical care. This
+Instructions: Use this worksheet to figure the amount, if any, of rule applies even if none or only part of the original cost of
+your medical expenses due to a home improvement. the capital asset qualified as a medical care expense.
+1. Enter the amount you paid for the home Example. If, in the previous example, the elevator in-improvement ..................... . 1. creased the value of your home by $8,000, you would have
+2. Enter the value of your home no medical expense for the cost of the elevator. However,
+immediately after the the cost of electricity to operate the elevator and any costs
+improvement ........... . 2. to maintain it are medical expenses as long as the medical
+reason for the elevator exists.3. Enter the value of your home
+immediately before the
+improvement ........... . 3. Improvements to property rented by a person with a
+disability. Amounts paid to buy and install special plumb-4. Subtract line 3 from line 2. This is the ing fixtures for a person with a disability, mainly for medicalincrease in the value of your home due to
+reasons, in a rented house are medical expenses.the improvement. .................. . 4.
+• If line 4 is more than or equal to line 1, you Example. John has arthritis and a heart condition. Hehave no medical expenses due to the home cannot climb stairs or get into a bathtub. On his doctor'simprovement; stop here. advice, he installs a bathroom with a shower stall on the
+• If line 4 is less than line 1, go to line 5. first floor of his two-story rented house. The landlord did
+not pay any of the cost of buying and installing the special5. Subtract line 4 from line 1. These are your
+plumbing and did not lower the rent. John can include inmedical expenses due to the home
+medical expenses the entire amount he paid.improvement ..................... . 5.
+Car
+You can include in medical expenses the cost of specialExample. You have a heart ailment. On your doctor's
+hand controls and other special equipment installed in aadvice, you install an elevator in your home so that you will
+car for the use of a person with a disability.not have to climb stairs. The elevator costs $8,000. An
+appraisal shows that the elevator increases the value of
+Special design. You can include in medical expenses theyour home by $4,400. You figure your medical expense as
+difference between the cost of a regular car and a carshown in the filled-in example of Worksheet A.
+specially designed to hold a wheelchair.
+Worksheet A.  Capital Expense
+Cost of operation. The includible costs of using a car forWorksheetÐIllustrated
+medical reasons are explained under Transportation, later.Keep for Your Records
+Instructions: Use this worksheet to figure the amount, if any, of Chiropractoryour medical expenses due to a home improvement.
+You can include in medical expenses fees you pay to a1. Enter the amount you paid for the home chiropractor for medical care.improvement ..................... . 1. 8,000
+2. Enter the value of your home Christian Science Practitionerimmediately after the
+improvement ........... . 2. 124,400 You can include in medical expenses fees you pay to
+3. Enter the value of your home Christian Science practitioners for medical care.
+immediately before the
+improvement ........... . 3. 120,000
+Contact Lenses
+4. Subtract line 3 from line 2. This is the
+increase in the value of your home due to You can include in medical expenses amounts you pay for
+the improvement. .................. . 4. 4,400 contact lenses needed for medical reasons. You can also
+include the cost of equipment and materials required for• If line 4 is more than or equal to line 1, you
+using contact lenses, such as saline solution and enzymehave no medical expenses due to the home
+improvement; stop here. cleaner. See Eyeglasses and Eye Surgery, later.
+• If line 4 is less than line 1, go to line 5.
+Crutches5. Subtract line 4 from line 1. These are your
+medical expenses due to the home You can include in medical expenses the amount you payimprovement ..................... . 5. 3,600 to buy or rent crutches.
+Publication 502 (2010) Page 7
+
+Page 8 of 34 of Publication 502 9:02 -  3-MAR-2011
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Dental Treatment Fertility Enhancement
+You can include in medical expenses the amounts you pay You can include in medical expenses the cost of the
+following procedures to overcome an inability to have chil-for the prevention and alleviation of dental disease. Pre-
+dren.ventive treatment includes the services of a dental hygien-
+ist or dentist for such procedures as teeth cleaning, the • Procedures such as in vitro fertilization (including
+application of sealants, and fluoride treatments to prevent temporary storage of eggs or sperm).
+tooth decay. Treatment to alleviate dental disease include • Surgery, including an operation to reverse prior sur-services of a dentist for procedures such as X-rays, fillings, gery that prevented the person operated on frombraces, extractions, dentures, and other dental ailments. having children.But see Teeth Whitening under What Expenses Are Not
+Includible, later.
+Founder's FeeDiagnostic Devices
+See Lifetime CareÐAdvance Payments, later.You can include in medical expenses the cost of devices
+used in diagnosing and treating illness and disease. Guide Dog or Other Service Animal
+Example. You have diabetes and use a blood sugar You can include in medical expenses the costs of buying,test kit to monitor your blood sugar level. You can include training, and maintaining a guide dog or other servicethe cost of the blood sugar test kit in your medical ex- animal to assist a visually-impaired or hearing-impaired
+penses. person, or a person with other physical disabilities.
+Disabled Dependent Care Expenses Health Institute
+Some disabled dependent care expenses may qualify as You can include in medical expenses fees you pay for
+either: treatment at a health institute only if the treatment is pre-
+scribed by a physician and the physician issues a state-• Medical expenses, or ment that the treatment is necessary to alleviate a physical
+• Work-related expenses for purposes of taking a or mental defect or illness of the individual receiving the
+credit for dependent care. treatment.
+You can choose to apply them either way as long as you do
+Health Maintenancenot use the same expenses to claim both a credit and a
+medical expense deduction. Organization (HMO)
+You can include in medical expenses amounts you pay to
+Drug Addiction entitle you, your spouse, or a dependent to receive medical
+care from a health maintenance organization. TheseYou can include in medical expenses amounts you pay for amounts are treated as medical insurance premiums. See
+an inpatient's treatment at a therapeutic center for drug Insurance Premiums, later.
+addiction. This includes meals and lodging at the center
+during treatment. Hearing Aids
+You can include in medical expenses the cost of a hearingDrugs
+aid and the batteries you buy to operate it.
+See Medicines, later.
+Home CareEyeglasses
+See Nursing Services, later.
+You can include in medical expenses amounts you pay for
+eyeglasses and contact lenses needed for medical rea- Home Improvementssons. See Contact Lenses , earlier for more information.
+You can also include fees paid for eye examinations. See Capital Expenses, earlier.
+Eye Surgery Hospital Services
+You can include in medical expenses the amount you pay You can include in medical expenses amounts you pay for
+for eye surgery to treat defective vision, such as laser eye the cost of inpatient care at a hospital or similar institution if
+surgery or radial keratotomy. a principal reason for being there is to receive medical
+Page 8 Publication 502 (2010)
+
+Page 9 of 34 of Publication 502 9:02 -  3-MAR-2011
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+care. This includes amounts paid for meals and lodging. Health reimbursement arrangement (HRA). If you have
+Also see Lodging, later. medical expenses that are reimbursed by a health reim-
+bursement arrangement, you cannot include those ex-
+penses in your medical expenses. This is because an HRAInsurance Premiums is funded solely by the employer.
+You can include in medical expenses insurance premiums
+you pay for policies that cover medical care. Medical care Medicare Apolicies can provide payment for treatment that includes:
+If you are covered under social security (or if you are a• Hospitalization, surgical services, X-rays,
+government employee who paid Medicare tax), you are• Prescription drugs and insulin, enrolled in Medicare A. The payroll tax paid for Medicare A
+is not a medical expense.• Dental care,
+If you are not covered under social security (or were not• Replacement of lost or damaged contact lenses, and
+a government employee who paid Medicare tax), you can• Long-term care (subject to additional limitations). voluntarily enroll in Medicare A. In this situation you canSee Qualified Long-Term Care Insurance Contracts include the premiums you paid for Medicare A as a medicalunder Long-Term Care, later. expense.
+If you have a policy that provides payments for other
+than medical care, you can include the premiums for the Medicare B
+medical care part of the policy if the charge for the medical
+Medicare B is a supplemental medical insurance. Premi-part is reasonable. The cost of the medical part must be
+ums you pay for Medicare B are a medical expense. Checkseparately stated in the insurance contract or given to you
+the information you received from the Social Security Ad-in a separate statement.
+ministration to find out your premium.
+Note. When figuring the amount of insurance premiums
+you can include in medical expenses on Schedule A, do Medicare Dnot include any health coverage tax credit advance pay-
+ments shown in box 1 of Form 1099-H, Health Coverage Medicare D is a voluntary prescription drug insuranceTax Credit (HCTC) Advance Payments. program for persons with Medicare A or B. You can include
+as a medical expense premiums you pay for Medicare D.
+Employer-Sponsored Health Insurance Plan
+Prepaid Insurance PremiumsDo not include in your medical and dental expenses any
+insurance premiums paid by an employer-sponsored Premiums you pay before you are age 65 for insurance forhealth insurance plan unless the premiums are included in medical care for yourself, your spouse, or your dependentsbox 1 of your Form W-2, Wage and Tax Statement. Also, after you reach age 65 are medical care expenses in thedo not include any other medical and dental expenses paid year paid if they are:by the plan unless the amount paid is included in box 1 of
+your Form W-2. 1. Payable in equal yearly installments or more often,
+and
+Example. You are a federal employee participating in 2. Payable for at least 10 years, or until you reach agethe premium conversion plan of the Federal Employee 65 (but not for less than 5 years).Health Benefits (FEHB) program. Your share of the FEHB
+premium is paid by making a pre-tax reduction in your
+salary. Because you are an employee whose insurance
+Unused Sick Leave Used To Pay Premiumspremiums are paid with money that is never included in
+your gross income, you cannot deduct the premiums paid You must include in gross income cash payments youwith that money. receive at the time of retirement for unused sick leave. You
+also must include in gross income the value of unused sickLong-term care services. Contributions made by your leave that, at your option, your employer applies to the costemployer to provide coverage for qualified long-term care of your continuing participation in your employer's healthservices under a flexible spending or similar arrangement plan after you retire. You can include this cost of continuingmust be included in your income. This amount will be participation in the health plan as a medical expense.reported as wages in box 1 of your Form W-2.
+If you participate in a health plan where your employer
+Retired public safety officers. If you are a retired public automatically applies the value of unused sick leave to the
+safety officer, do not include as medical expenses any cost of your continuing participation in the health plan (and
+health or long-term care insurance premiums that you you do not have the option to receive cash), do not include
+elected to have paid with tax-free distributions from a the value of the unused sick leave in gross income. You
+retirement plan. This applies only to distributions that cannot include this cost of continuing participation in that
+would otherwise be included in income. health plan as a medical expense.
+Publication 502 (2010) Page 9
+
+Page 10 of 34 of Publication 502 9:02 -  3-MAR-2011
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Insurance Premiums You Cannot Include Legal Fees
+You cannot include premiums you pay for: You can include in medical expenses legal fees you paid
+that are necessary to authorize treatment for mental ill-• Life insurance policies,
+ness. However, you cannot include in medical expenses
+• Policies providing payment for loss of earnings, fees for the management of a guardianship estate, fees for
+conducting the affairs of the person being treated, or other• Policies for loss of life, limb, sight, etc.,
+fees that are not necessary for medical care.
+• Policies that pay you a guaranteed amount each
+week for a stated number of weeks if you are hospi- Lifetime CareÐAdvance Paymentstalized for sickness or injury,
+You can include in medical expenses a part of a life-care• The part of your car insurance that provides medical
+fee or ªfounder's feeº you pay either monthly or as a lumpinsurance coverage for all persons injured in or by
+sum under an agreement with a retirement home. The partyour car because the part of the premium providing
+of the payment you include is the amount properly alloca-insurance for you, your spouse, and your depen-
+ble to medical care. The agreement must require that youdents is not stated separately from the part of the
+pay a specific fee as a condition for the home's promise topremium providing insurance for medical care for
+provide lifetime care that includes medical care. You canothers, or
+use a statement from the retirement home to prove the• Health or long-term care insurance if you elected to amount properly allocable to medical care. The statementpay these premiums with tax-free distributions from must be based either on the home's prior experience or ona retirement plan made directly to the insurance pro- information from a comparable home.vider and these distributions would otherwise have
+Dependents with disabilities. You can include in medi-been included in income.
+cal expenses advance payments to a private institution forTaxes imposed by any governmental unit, such as Medi- lifetime care, treatment, and training of your physically orcare taxes, are not insurance premiums. mentally impaired child upon your death or when you
+become unable to provide care. The payments must be a
+condition for the institution's future acceptance of yourIntellectually and Developmentally child and must not be refundable.
+Disabled, Special Home for
+Payments for future medical care. Generally, you can-
+not include in medical expenses current payments forYou can include in medical expenses the cost of keeping a
+medical care (including medical insurance) to be providedperson who is intellectually and developmentally disabled
+substantially beyond the end of the year. This rule does notin a special home, not the home of a relative, on the
+apply in situations where the future care is purchased inrecommendation of a psychiatrist to help the person adjust
+connection with obtaining lifetime care of the type de-from life in a mental hospital to community living.
+scribed earlier.
+Laboratory Fees Lodging
+You can include in medical expenses the amounts you pay
+You can include in medical expenses the cost of meals andfor laboratory fees that are part of medical care.
+lodging at a hospital or similar institution if a principal
+reason for being there is to receive medical care. SeeLactation Expenses Nursing Home, later.
+You may be able to include in medical expenses theSee Breast Pumps and Supplies, earlier.
+cost of lodging not provided in a hospital or similar institu-
+tion. You can include the cost of such lodging while awayLead-Based Paint Removal from home if all of the following requirements are met.
+You can include in medical expenses the cost of removing 1. The lodging is primarily for and essential to medicallead-based paints from surfaces in your home to prevent a care.child who has or had lead poisoning from eating the paint.
+2. The medical care is provided by a doctor in a li-These surfaces must be in poor repair (peeling or cracking)
+censed hospital or in a medical care facility relatedor within the child's reach. The cost of repainting the
+to, or the equivalent of, a licensed hospital.scraped area is not a medical expense.
+If, instead of removing the paint, you cover the area with 3. The lodging is not lavish or extravagant under the
+wallboard or paneling, treat these items as capital ex- circumstances.
+penses. See Capital Expenses, earlier. Do not include the 4. There is no significant element of personal pleasure,cost of painting the wallboard as a medical expense. recreation, or vacation in the travel away from home.
+The amount you include in medical expenses for lodg-Learning Disability
+ing cannot be more than $50 for each night for each
+See Special Education, later. person. You can include lodging for a person traveling with
+Page 10 Publication 502 (2010)
+
+Page 11 of 34 of Publication 502 9:02 -  3-MAR-2011
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+the person receiving the medical care. For example, if a 3. Provide that refunds, other than refunds on the death
+parent is traveling with a sick child, up to $100 per night of the insured or complete surrender or cancellation
+can be included as a medical expense for lodging. Meals of the contract, and dividends under the contract
+are not included. must be used only to reduce future premiums or
+Do not include the cost of lodging while away from home increase future benefits, and
+for medical treatment if that treatment is not received from 4. Generally not pay or reimburse expenses incurreda doctor in a licensed hospital or in a medical care facility for services or items that would be reimbursed underrelated to, or the equivalent of, a licensed hospital or if that Medicare, except where Medicare is a secondarylodging is not primarily for or essential to the medical care payer, or the contract makes per diem or other peri-received. odic payments without regard to expenses.
+The amount of qualified long-term care premiums youLong-Term Care can include is limited. You can include the following as
+medical expenses on Schedule A (Form 1040).You can include in medical expenses amounts paid for
+qualified long-term care services and premiums paid for 1. Qualified long-term care premiums up to thequalified long-term care insurance contracts. amounts shown below.
+a. Age 40 or under ± $330.Qualified Long-Term Care Services
+b. Age 41 to 50 ± $620.Qualified long-term care services are necessary diagnos-
+c. Age 51 to 60 ± $1,230.tic, preventive, therapeutic, curing, treating, mitigating, re-
+habilitative services, and maintenance and personal care d. Age 61 to 70 ± $3,290.services (defined later) that are:
+e. Age 71 or over ± $4,110.
+1. Required by a chronically ill individual, and
+2. Unreimbursed expenses for qualified long-term care2. Provided pursuant to a plan of care prescribed by a services.licensed health care practitioner.
+Note. The limit on premiums is for each person.
+Also, if you are an eligible retired public safety officer,Chronically ill individual. An individual is chronically ill if,
+you cannot include premiums for long-term care insurancewithin the previous 12 months, a licensed health care
+if you elected to pay these premiums with tax-free distribu-practitioner has certified that the individual meets either of
+tions from a qualified retirement plan made directly to thethe following descriptions.
+insurance provider and these distributions would otherwise
+1. He or she is unable to perform at least two activities have been included in your income.
+of daily living without substantial assistance from an-
+other individual for at least 90 days, due to a loss of Mealsfunctional capacity. Activities of daily living are eat-
+ing, toileting, transferring, bathing, dressing, and con- You can include in medical expenses the cost of meals at atinence. hospital or similar institution if a principal reason for being
+there is to get medical care.2. He or she requires substantial supervision to be pro-
+You cannot include in medical expenses the cost oftected from threats to health and safety due to se-
+meals that are not part of inpatient care.vere cognitive impairment.
+Medical ConferencesMaintenance and personal care services.  Mainte-
+nance or personal care services is care which has as its
+You can include in medical expenses amounts paid forprimary purpose the providing of a chronically ill individual
+admission and transportation to a medical conference ifwith needed assistance with his or her disabilities (includ-
+the medical conference concerns the chronic illness ofing protection from threats to health and safety due to
+yourself, your spouse, or your dependent. The costs of thesevere cognitive impairment).
+medical conference must be primarily for and necessary to
+the medical care of you, your spouse, or your dependent.
+Qualified Long-Term Care Insurance The majority of the time spent at the conference must be
+spent attending sessions on medical information.Contracts
+The cost of meals and lodging while attending theA qualified long-term care insurance contract is an insur- conference is not deductible as a medical ex-ance contract that provides only coverage of qualified pense.
+CAUTION
+!long-term care services. The contract must:
+1. Be guaranteed renewable,
+2. Not provide for a cash surrender value or other
+money that can be paid, assigned, pledged, or bor-
+rowed,
+Publication 502 (2010) Page 11
+
+Page 12 of 34 of Publication 502 9:02 -  3-MAR-2011
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+manner as in the preceding paragraph. If you had to payMedical Information Plan additional amounts for household upkeep because of the
+attendant, you can include the extra amounts with yourYou can include in medical expenses amounts paid to a
+medical expenses. This includes extra rent or utilities youplan that keeps medical information in a computer data
+pay because you moved to a larger apartment to providebank and retrieves and furnishes the information upon
+space for the attendant.request to an attending physician.
+Employment taxes. You can include as a medical ex-Medicines pense social security tax, FUTA, Medicare tax, and state
+employment taxes you pay for an attendant who providesYou can include in medical expenses amounts you pay for medical care. If the attendant also provides personal andprescribed medicines and drugs. A prescribed drug is one household services, you can include as a medical expensethat requires a prescription by a doctor for its use by an only the amount of employment taxes paid for medicalindividual. You can also include amounts you pay for services as explained earlier. For information on employ-insulin. Except for insulin, you cannot include in medical ment tax responsibilities of household employers, seeexpenses amounts you pay for a drug that is not pre- Publication 926, Household Employer's Tax Guide.scribed.
+Imported medicines and drugs. If you imported Operationsmedicines or drugs from other countries, see Medicines
+and Drugs From Other Countries , under What Expenses You can include in medical expenses amounts you pay forAre Not Includible, later. legal operations that are not for unnecessary cosmetic
+surgery. See Cosmetic Surgery under What Expenses Are
+Not Includible, later.Nursing Home
+You can include in medical expenses the cost of medical Optometristcare in a nursing home, home for the aged, or similar
+institution, for yourself, your spouse, or your dependents. See Eyeglasses, earlier.This includes the cost of meals and lodging in the home if a
+principal reason for being there is to get medical care. Organ DonorsDo not include the cost of meals and lodging if the
+reason for being in the home is personal. You can, how- See Transplants, later.ever, include in medical expenses the part of the cost that
+is for medical or nursing care.
+Osteopath
+Nursing Services You can include in medical expenses amounts you pay to
+an osteopath for medical care.You can include in medical expenses wages and other
+amounts you pay for nursing services. The services need
+Oxygennot be performed by a nurse as long as the services are of
+a kind generally performed by a nurse. This includes serv- You can include in medical expenses amounts you pay forices connected with caring for the patient's condition, such oxygen and oxygen equipment to relieve breathingas giving medication or changing dressings, as well as problems caused by a medical condition.bathing and grooming the patient. These services can be
+provided in your home or another care facility.
+Generally, only the amount spent for nursing services is Physical Examination
+a medical expense. If the attendant also provides personal
+You can include in medical expenses the amount you payand household services, amounts paid to the attendant
+for an annual physical examination and diagnostic tests bymust be divided between the time spent performing house-
+a physician. You do not have to be ill at the time of thehold and personal services and the time spent for nursing
+examination.services. However, certain maintenance or personal care
+services provided for qualified long-term care can be in-
+Example. Beth goes to see Dr. Hayes for her annualcluded in medical expenses. See Maintenance and per-
+check-up. Dr. Hayes does a physical examination and hassonal care services  under Long-Term Care , earlier.
+some lab tests done. Beth can include the cost of the examAdditionally, certain expenses for household services or
+and lab tests in her medical expenses, if her insurancefor the care of a qualifying individual incurred to allow you
+does not cover the cost.to work may qualify for the child and dependent care credit.
+See Publication 503, Child and Dependent Care Ex-
+penses. Pregnancy Test Kit
+You can also include in medical expenses part of the
+You can include in medical expenses the amount you payamount you pay for that attendant's meals. Divide the food
+to purchase a pregnancy test kit to determine if you areexpense among the household members to find the cost of
+pregnant.the attendant's food. Then divide that cost in the same
+Page 12 Publication 502 (2010)
+
+Page 13 of 34 of Publication 502 9:02 -  3-MAR-2011
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Prosthesis Stop-Smoking Programs
+You can include in medical expenses amounts you pay forSee Artificial Limb, earlier.
+a program to stop smoking. However, you cannot include
+in medical expenses amounts you pay for drugs that do notPsychiatric Care require a prescription, such as nicotine gum or patches,
+that are designed to help stop smoking.You can include in medical expenses amounts you pay for
+psychiatric care. This includes the cost of supporting a
+mentally ill dependent at a specially equipped medical Surgery
+center where the dependent receives medical care. See
+See Operations, earlier.Psychoanalysis, next, and Transportation, later.
+TelephonePsychoanalysis
+You can include in medical expenses the cost of specialYou can include in medical expenses payments for psy-
+telephone equipment that lets a hearing-impaired personchoanalysis. However, you cannot include payments for
+communicate over a regular telephone. This includes tele-psychoanalysis that is part of required training to be a
+typewriter (TTY) and telecommunications device for thepsychoanalyst.
+deaf (TDD) equipment. You can also include the cost of
+repairing the equipment.Psychologist
+You can include in medical expenses amounts you pay to Television
+a psychologist for medical care.
+You can include in medical expenses the cost of equip-
+ment that displays the audio part of television programs asSpecial Education subtitles for hearing-impaired persons. This may be the
+cost of an adapter that attaches to a regular set. It also mayYou can include in medical expenses fees you pay on a be the part of the cost of a specially equipped televisiondoctor's recommendation for a child's tutoring by a teacher that exceeds the cost of the same model regular televisionwho is specially trained and qualified to work with children set.who have learning disabilities caused by mental or physi-
+cal impairments, including nervous system disorders.
+TherapyYou can include in medical expenses the cost (tuition,
+meals, and lodging) of attending a school that furnishes You can include in medical expenses amounts you pay forspecial education to help a child to overcome learning therapy received as medical treatment.disabilities. A doctor must recommend that the child attend
+the school. Overcoming the learning disabilities must be a
+Transplantsprincipal reason for attending the school, and any ordinary
+education received must be incidental to the special edu- You can include any expenses you pay for medical carecation provided. Special education includes: you receive because you are a donor or a possible donor of
+• Teaching Braille to a visually impaired person, a kidney or other organ. This includes transportation.
+You can include any expenses you pay for the medical• Teaching lip reading to a hearing-impaired person, care of a donor in connection with the donating of an organ.or This includes transportation.
+• Giving remedial language training to correct a condi-
+tion caused by a birth defect. Transportation
+You cannot include in medical expenses the cost of You can include in medical expenses amounts paid forsending a problem child to a school where the course of transportation primarily for, and essential to, medical care.study and the disciplinary methods have a beneficial effect
+You can include:on the child's attitude if the availability of medical care in
+the school is not a principal reason for sending the student • Bus, taxi, train, or plane fares or ambulance service,
+there. • Transportation expenses of a parent who must go
+with a child who needs medical care,Sterilization • Transportation expenses of a nurse or other person
+You can include in medical expenses the cost of a legal who can give injections, medications, or other treat-
+sterilization (a legally performed operation to make a per- ment required by a patient who is traveling to get
+son unable to have children). medical care and is unable to travel alone, and
+Publication 502 (2010) Page 13
+
+Page 14 of 34 of Publication 502 9:02 -  3-MAR-2011
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+• Transportation expenses for regular visits to see a Tuitionmentally ill dependent, if these visits are recom-
+mended as a part of treatment. Under special circumstances, you can include charges for
+tuition in medical expenses. See Special Education, ear-
+lier.Car expenses. You can include out-of-pocket expenses, You can include charges for a health plan included in asuch as the cost of gas and oil, when you use a car for lump-sum tuition fee if the charges are separately stated ormedical reasons. You cannot include depreciation, insur- can easily be obtained from the school.ance, general repair, or maintenance expenses.
+If you do not want to use your actual expenses for 2010 Vasectomyyou can use the standard medical mileage rate of 16.5
+cents a mile. You can include in medical expenses the amount you pay You can also include parking fees and tolls. You can for a vasectomy.add these fees and tolls to your medical expenses whether
+you use actual expenses or use the standard mileage rate. Vision Correction Surgery
+Example. Bill Jones drove 2,800 miles for medical rea- See Eye Surgery, earlier.sons during the year. He spent $400 for gas, $30 for oil,
+and $100 for tolls and parking. He wants to figure the
+Weight-Loss Programamount he can include in medical expenses both ways to
+see which gives him the greater deduction. You can include in medical expenses amounts you pay toHe figures the actual expenses first. He adds the $400 lose weight if it is a treatment for a specific disease diag-for gas, the $30 for oil, and the $100 for tolls and parking for nosed by a physician (such as obesity, hypertension, ora total of $530. heart disease). This includes fees you pay for membership
+He then figures the standard mileage amount. He multi- in a weight reduction group as well as fees for attendance
+plies the 2,800 miles by 16.5 cents a mile for a total of at periodic meetings. You cannot include membership
+$462. He then adds the $100 tolls and parking for a total of dues in a gym, health club, or spa as medical expenses,
+$562. but you can include separate fees charged there for weight
+Bill includes the $562 of car expenses with his other loss activities.
+medical expenses for the year because the $562 is more You cannot include the cost of diet food or beverages in
+than the $530 he figured using actual expenses. medical expenses because the diet food and beverages
+substitute for what is normally consumed to satisfy nutri-
+Transportation expenses you cannot include. You tional needs. You can include the cost of special food in
+medical expenses only if:cannot include in medical expenses the cost of transporta-
+tion in the following situations. 1. The food does not satisfy normal nutritional needs,
+• Going to and from work, even if your condition re- 2. The food alleviates or treats an illness, andquires an unusual means of transportation.
+3. The need for the food is substantiated by a physi-• Travel for purely personal reasons to another city for cian.an operation or other medical care.
+The amount you can include in medical expenses is limited• Travel that is merely for the general improvement of to the amount by which the cost of the special food ex-one's health. ceeds the cost of a normal diet. See also Weight-Loss
+• The costs of operating a specially equipped car for Program under What Expenses Are Not Includible, later.
+other than medical reasons.
+Wheelchair
+You can include in medical expenses amounts you pay forTrips
+an autoette or a wheelchair used mainly for the relief of
+You can include in medical expenses amounts you pay for sickness or disability, and not just to provide transportation
+transportation to another city if the trip is primarily for, and to and from work. The cost of operating and maintaining
+essential to, receiving medical services. You may be able the autoette or wheelchair is also a medical expense.
+to include up to $50 per night for lodging. See Lodging,
+earlier. Wig
+You cannot include in medical expenses a trip or vaca-
+tion taken merely for a change in environment, improve- You can include in medical expenses the cost of a wig
+ment of morale, or general improvement of health, even if purchased upon the advice of a physician for the mental
+the trip is made on the advice of a doctor. However, see health of a patient who has lost all of his or her hair from
+Medical Conferences, earlier. disease.
+Page 14 Publication 502 (2010)
+
+Page 15 of 34 of Publication 502 9:02 -  3-MAR-2011
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+X-ray Diaper Service
+You can include in medical expenses amounts you pay for You cannot include in medical expenses the amount you
+pay for diapers or diaper services, unless they are neededX-rays for medical reasons.
+to relieve the effects of a particular disease.
+Electrolysis or Hair RemovalWhat Expenses Are Not
+See Cosmetic Surgery, earlier.Includible?
+Following is a list of some items that you cannot include in Flexible Spending Accountfiguring your medical expense deduction. The items are
+listed in alphabetical order. You cannot include in medical expenses amounts for
+which you are fully reimbursed by your flexible spending
+account if you contribute a part of your income on a pre-taxBaby Sitting, Childcare, and Nursing
+basis to pay for the qualified benefit.Services for a Normal, Healthy Baby
+Funeral ExpensesYou cannot include in medical expenses amounts you pay
+for the care of children, even if the expenses enable you,
+You cannot include in medical expenses amounts you payyour spouse, or your dependent to get medical or dental
+for funerals.treatment. Also, any expense allowed as a childcare credit
+cannot be treated as an expense paid for medical care.
+Future Medical Care
+Controlled Substances Generally, you cannot include in medical expenses current
+payments for medical care (including medical insurance)You cannot include in medical expenses amounts you pay
+to be provided substantially beyond the end of the year.for controlled substances (such as marijuana, laetrile,
+This rule does not apply in situations where the future careetc.). Such substances may be legalized by state law
+is purchased in connection with obtaining lifetime care orhowever, they are in violation of federal law and cannot be
+long-term care of the type described at Lifetime Care Ðincluded in medical expenses.
+Advance Payments or Long-Term Care earlier under What
+Medical Expenses Are Includible.Cosmetic Surgery
+Hair TransplantGenerally, you cannot include in medical expenses the
+amount you pay for unnecessary cosmetic surgery. This
+See Cosmetic Surgery, earlier.includes any procedure that is directed at improving the
+patient's appearance and does not meaningfully promote
+the proper function of the body or prevent or treat illness or Health Club Dues
+disease. You generally cannot include in medical ex-
+You cannot include in medical expenses health club duespenses the amount you pay for procedures such as face
+or amounts paid to improve one's general health or tolifts, hair transplants, hair removal (electrolysis), and li-
+relieve physical or mental discomfort not related to a partic-posuction.
+ular medical condition.You can include in medical expenses the amount you
+You cannot include in medical expenses the cost ofpay for cosmetic surgery if it is necessary to improve a
+membership in any club organized for business, pleasure,deformity arising from, or directly related to, a congenital
+recreation, or other social purpose.abnormality, a personal injury resulting from an accident or
+trauma, or a disfiguring disease.
+Health Coverage Tax Credit
+Example. An individual undergoes surgery that
+removes a breast as part of treatment for cancer. She pays You cannot include in medical expenses amounts you pay
+a surgeon to reconstruct the breast. The surgery to recon- for health insurance that you use in figuring your health
+struct the breast corrects a deformity directly related to the coverage tax credit. For more information, see Health
+disease. The cost of the surgery is includible in her medical Coverage Tax Credit, later.
+expenses.
+Health Savings AccountsDancing Lessons
+You cannot include in medical expenses any payment or
+You cannot include the cost of dancing lessons, swimming distribution for medical expenses out of a health savings
+lessons, etc., even if they are recommended by a doctor, if account. Contributions to health savings accounts are de-
+they are only for the improvement of general health. ducted separately. See Publication 969.
+Publication 502 (2010) Page 15
+
+Page 16 of 34 of Publication 502 9:02 -  3-MAR-2011
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+physician's prescription, you cannot include its cost in yourHousehold Help medical expenses.
+You cannot include in medical expenses the cost of house-
+hold help, even if such help is recommended by a doctor. Nutritional Supplements
+This is a personal expense that is not deductible. However,
+You cannot include in medical expenses the cost of nutri-you may be able to include certain expenses paid to a
+tional supplements, vitamins, herbal supplements, ªnaturalperson providing nursing-type services. For more informa-
+medicines,º etc. unless they are recommended by a medi-tion, see Nursing Services , earlier under What Medical
+cal practitioner as treatment for a specific medical condi-Expenses Are Includible . Also, certain maintenance or
+tion diagnosed by a physician. Otherwise, these items arepersonal care services provided for qualified long-term
+taken to maintain your ordinary good health, and are notcare can be included in medical expenses. For more infor-
+for medical care.mation, see Long-Term Care, earlier under What Medical
+Expenses Are Includible.
+Personal Use Items
+Illegal Operations and Treatments You cannot include in medical expenses the cost of an
+item ordinarily used for personal, living, or family purposesYou cannot include in medical expenses amounts you pay
+unless it is used primarily to prevent or alleviate a physicalfor illegal operations, treatments, or controlled substances
+or mental defect or illness. For example, the cost of awhether rendered or prescribed by licensed or unlicensed
+toothbrush and toothpaste is a nondeductible personalpractitioners. expense.
+In order to accommodate an individual with a physicalInsurance Premiums defect, you may have to purchase an item ordinarily used
+as a personal, living, or family item in a special form. YouSee Insurance Premiums under What Medical Expenses can include the excess of the cost of the item in a specialAre Includible, earlier. form over the cost of the item in normal form as a medical
+expense. See Braille Books and Magazines  under What
+Maternity Clothes Medical Expenses Are Includible, earlier).
+You cannot include in medical expenses amounts you pay
+Swimming Lessonsfor maternity clothes.
+See Dancing Lessons, earlier.
+Medical Savings Account (MSA)
+Teeth WhiteningYou cannot include in medical expenses amounts you
+contribute to an Archer MSA. You cannot include ex- You cannot include in medical expenses amounts paid topenses you pay for with a tax-free distribution from your whiten teeth. See Cosmetic Surgery, earlier.Archer MSA. You also cannot use other funds equal to the
+amount of the distribution and include the expenses. For
+Veterinary Feesmore information on Archer MSAs, see Publication 969.
+You generally cannot include veterinary fees in your medi-Medicines and Drugs From Other cal expenses, but see Guide Dog or Other Service Animal
+under What Medical Expenses Are Includible, earlier.Countries
+In general, you cannot include in your medical expenses Weight-Loss Programthe cost of a prescribed drug brought in (or ordered
+shipped) from another country. You can only include the You cannot include in medical expenses the cost of acost of a drug that was imported legally. For example, you weight-loss program if the purpose of the weight loss is the
+can include the cost of a prescribed drug the Food and improvement of appearance, general health, or sense of
+Drug Administration announces can be legally imported by well-being. You cannot include amounts you pay to lose
+individuals. weight unless the weight loss is a treatment for a specific
+You can include the cost of a prescribed drug you disease diagnosed by a physician (such as obesity, hyper-
+purchase and consume in another country if the drug is tension, or heart disease). If the weight-loss treatment is
+legal in both the other country and the United States. not for a specific disease diagnosed by a physician, you
+cannot include either the fees you pay for membership in a
+weight reduction group or fees for attendance at periodicNonprescription Drugs and Medicines meetings. Also, you cannot include membership dues in a
+gym, health club, or spa.Except for insulin, you cannot include in medical expenses
+amounts you pay for a drug that is not prescribed. You cannot include the cost of diet food or beverages in
+medical expenses because the diet food and beverages
+Example. Your doctor recommends that you take aspi- substitute for what is normally consumed to satisfy nutri-
+rin. Because aspirin is a drug that does not require a tional needs.
+Page 16 Publication 502 (2010)
+
+Page 17 of 34 of Publication 502 9:02 -  3-MAR-2011
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+See Weight-Loss Program  under What Medical Ex- want to use Figure 1 to help you decide if any of your
+penses Are Includable, earlier reimbursement is taxable.
+How Do You Treat
+Reimbursements?
+You can include in medical expenses only those amounts
+paid during the tax year for which you received no insur-
+ance or other reimbursement.
+Insurance Reimbursement
+You must reduce your total medical expenses for the year
+by all reimbursements for medical expenses that you re-
+ceive from insurance or other sources during the year. This
+includes payments from Medicare.
+Even if a policy provides reimbursement only for certain
+specific medical expenses, you must use amounts you
+receive from that policy to reduce your total medical ex-
+penses, including those it does not provide reimbursement
+for.
+Example. You have insurance policies that cover your
+hospital and doctors' bills but not your nursing bills. The
+insurance you receive for the hospital and doctors' bills is
+more than their charges. In figuring your medical deduc-
+tion, you must reduce the total amount you spent for
+medical care by the total amount of insurance you re-
+ceived, even if the policies do not cover some of your
+medical expenses.
+Health reimbursement arrangement (HRA). A health
+reimbursement arrangement is an employer-funded plan
+that reimburses employees for medical care expenses and
+allows unused amounts to be carried forward. An HRA is
+funded solely by the employer and the reimbursements for
+medical expenses, up to a maximum dollar amount for a
+Figure 1.
+*See Premiums paid by you and your employer.
+Was any part of
+your premiums
+paid by your
+employer?
+Were your
+employer’s
+contributions to
+your premiums
+included in your
+income?
+Did you pay any
+part of the
+premiums?
+NONE of the
+excess
+reimbursement is
+taxable.
+ALL of the excess
+reimbursement is
+taxable.
+PART of the
+excess
+reimbursement is
+taxable.*
+No
+/H17076
+/H17075
+/H17074
+Yes
+Yes
+No
+No
+Yes
+/H17074
+/H17074
+/H17075
+Is Your Excess Medical
+Reimbursement Taxable?
+coverage period, are not included in your income.
+Other reimbursements. Generally, you do not reduce Premiums paid by you. If you pay either the entire pre-medical expenses by payments you receive for: mium for your medical insurance or all the costs of a plan
+similar to medical insurance and your insurance payments• Permanent loss or loss of use of a member or func-
+tion of the body (loss of limb, sight, hearing, etc.) or or other reimbursements are more than your total medical
+disfigurement to the extent the payment is based on expenses for the year, you have excess reimbursement.
+the nature of the injury without regard to the amount Generally, you do not include the excess reimbursement in
+of time lost from work, or your gross income. However, gross income does include
+total payments in excess of $290 a day ($105,850 for• Loss of earnings. 2010) for qualified long-term care services.
+You must, however, reduce your medical expenses by
+any part of these payments that is designated for medical Premiums paid by you and your employer. If both you
+costs. See How Do You Figure and Report the Deduction and your employer contribute to your medical insurance
+on Your Tax Return, later. plan and your employer's contributions are not included in
+For how to treat damages received for personal injury or your gross income, you must include in your gross income
+sickness, see Damages for Personal Injuries, later. the part of your excess reimbursement that is from your
+employer's contribution.
+If you are not covered by more than one policy, you canWhat If Your Insurance Reimbursement Is
+figure the amount of the excess reimbursement you mustMore Than Your Medical Expenses? include in gross income using Worksheet B. If you are
+covered under more than one policy, see More than oneIf you are reimbursed more than your medical expenses,
+policy, later.you may have to include the excess in income. You may
+Publication 502 (2010) Page 17
+
+Page 18 of 34 of Publication 502 9:02 -  3-MAR-2011
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+included in your income, you must report all of your excessWorksheet B. Excess Reimbursement
+reimbursement as other income.Includible in Income
+When You Have Only One More than one policy. If you are covered under morePolicy than one policy, the cost of at least one of which is paid by
+Keep for Your Records
+ both you and your employer, you must first divide the
+medical expenses among the policies to figure the excessInstructions: Use this worksheet to figure the amount of excess
+reimbursement from each policy. Then divide the policyreimbursement you must include in income when both you and your
+employer contributed to your medical insurance and your employer's costs to figure the part of any excess reimbursement that is
+contributions are not included in your gross income. from your employer's contribution. Any excess reimburse-
+ment that is due to your employer's contributions is includi-1. Enter the amount contributed to your ble in your income.medical insurance for the year by your You can figure the part of the excess reimbursementemployer ...................... . 1.
+that is from your employer's contribution by using Work-2. Enter the total annual cost of the policy 2. sheet C. Use Worksheet C only if both you and your
+employer paid part of the cost of at least one policy. If you3. Divide line 1 by line 2 ............. . 3.
+had more than one policy, but you did not share in the cost4. Enter the amount of excess of at least one policy, do not use Worksheet C.reimbursement ................. . 4.
+5. Multiply line 3 by line 4. This is the Worksheet C. Excess Reimbursementamount of the excess reimburse- Includible in Incomement you must include as other income
+on Form 1040, line 21 ............ . 5. When You Have More
+Than One Policy
+Keep for Your Records
+Example. You are covered by your employer's medical
+insurance policy. The annual premium is $2,000. Your Instructions: Use this worksheet to figure the amount of excess
+employer pays $600 of that amount, which is not included reimbursement you must include as income on your tax return when
+a) you are reimbursed under two or more health insurance policies, b)in your gross income, and the balance of $1,400 is taken
+at least one of which is paid for by both you and your employer, andout of your wages. You receive $500 excess reimburse- c) your employer's contributions are not included in your grossment for your medical expenses. The part of the excess income. If you and your employer did not share in the cost of at least
+reimbursement you receive under the policy that is from one policy, do not use this worksheet.
+your employer's contributions is figured as follows.
+1. Enter the reimbursement from your
+employer's policy ................. . 1.Worksheet B. Excess Reimbursement
+2. Enter the reimbursement from your ownIncludible in Income
+policy .......................... . 2.When You Have Only One
+3. Add lines 1 and 2 ................. . 3.PolicyÐIllustrated
+Keep for Your Records
+ 4. Divide line 1 by line 3. .............. . 4.
+Instructions: Use this worksheet to figure the amount of excess 5. Enter the total medical expenses you paid
+reimbursement you must include in income when both you and your during the year. If this amount is at least as
+employer contributed to your medical insurance and your employer's much as the amount on line 3, stop herecontributions are not included in your gross income. because there is no excess reimbursement. 5.
+6. Multiply line 4 by line 5 ............. . 6.1. Enter the amount contributed to your
+medical insurance for the year by your 7. Subtract line 6 from line 1 ........... . 7.employer ...................... . 1. 600
+8. Enter employer's contribution to the annual2. Enter the total annual cost of the policy 2. 2,000 cost of the employer's policy ......... . 8.
+3. Divide line 1 by line 2 ............. . 3. .30
+4. Enter the amount of excess 9. Enter total annual cost of the employer'sreimbursement .................. . 4. 500 policy .......................... . 9.
+5. Multiply line 3 by line 4. This is the 10. Divide line 8 by line 9. This is theamount of the excess reimbursement percentage of your total excessyou must include as other income on reimbursement you must report as otherForm 1040, line 21 ............... . 5. 150 income ........................ . 10.
+11. Multiply line 7 by line 10. This is the amountYou must include in your gross income 30% (.30) of of your total excess $500, or $150, of the excess reimbursement you received reimbursement you must report as otherfor medical expenses under the policy. income on Form 1040, line 21 ........ . 11.
+Premiums paid by your employer. If your employer or
+your former employer pays the total cost of your medical Example. You are covered by your employer's health
+insurance plan and your employer's contributions are not insurance policy. The annual premium is $1,200. Your
+Page 18 Publication 502 (2010)
+
+Page 19 of 34 of Publication 502 9:02 -  3-MAR-2011
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+employer pays $300 and the balance of $900 is deducted year, see Recoveries in Publication 525, Taxable and
+Nontaxable Income.from your wages. You also paid the entire premium ($250)
+for a personal health insurance policy.
+During the year, you paid medical expenses of $3,600. What If You Are Reimbursed for MedicalIn the same year, you were reimbursed $2,400 under your Expenses You Did Not Deduct?employer's policy and $1,600 under your own personal
+policy. The amount you must report as other income is If you did not deduct a medical expense in the year youfigured as follows. paid it because your medical expenses were not more than
+7.5% of your AGI, or because you did not itemize deduc-Worksheet C. Excess Reimbursement tions, do not include the reimbursement, up to the amount
+Includible in Income When You of the expense, in income. However, if the reimbursement
+Have More Than One PolicyÐ is more than the expense, see What If Your Insurance
+Reimbursement Is More Than Your Medical Expenses ,Illustrated
+earlier.
+Instructions: Use this worksheet to figure the amount of excess
+reimbursement you must include as income on your tax return when Example. Last year, you had $500 of medical ex-a) you are reimbursed under two or more health insurance policies, b)
+penses. You cannot deduct the $500 because it is lessat least one of which is paid for by both you and your employer, and
+c) your employer's contributions are not included in your gross than 7.5% of your AGI. If, in a later year, you are reim-
+income. If you and your employer did not share in the cost of at least bursed for any of the $500 of medical expenses, you do notone policy, do not use this worksheet. include that amount in your gross income. 
+1. Enter the reimbursement from your
+employer's policy .................. . 1. 2,400
+How Do You Figure and Report2. Enter the reimbursement from your own
+policy ........................... . 2. 1,600
+the Deduction on Your Tax3. Add lines 1 and 2 .................. . 3. 4,000
+Return?4. Divide line 1 by line 3 ............... . 4. .60
+5. Enter the total medical expenses you paid Once you have determined which medical expenses youduring the year. If this amount is at least as can include, figure and report the deduction on your taxmuch as the amount on line 3, stop here return.because there is no excess reimbursement. 5. 3,600
+6. Multiply line 4 by line 5 .............. . 6. 2,160
+What Tax Form Do You Use?
+7. Subtract line 6 from line 1 ............ . 7. 240
+You report your medical expense deduction on Schedule8. Enter employer's contribution to the annual
+A, Form 1040. You cannot claim medical expenses oncost of the employer's policy .......... . 8. 300
+Form 1040A, U.S. Individual Income Tax Return, or Form9. Enter total annual cost of the employer's 1040EZ, Income Tax Return for Single and Joint Filerspolicy ........................... . 9. 1,200 With No Dependents. An example of a filled-in medical and
+10. Divide line 8 by line 9. This is the dental expense part of Schedule A is shown.percentage of your total excess
+reimbursement you must report as other
+How Do You Figure Your Deduction?income ......................... . 10. .25
+11. Multiply line 7 by line 10. This is the amount To figure your medical and dental expense deduction,of your total excess reimbursement you complete lines 1 through 4 of Schedule A, Form 1040, asmust report as other income on Form 1040, follows:line 21 .......................... . 11. 60
+Line 1. Enter the amount you paid for medical expenses
+after reducing the amount by payments you received from
+insurance and other sources.What If You Receive Insurance
+Reimbursement in a Later Year? Line 2. Enter your AGI from Form 1040, line 38.
+Line 3. Multiply the amount on line 2 (AGI) by 7.5% (.075)If you are reimbursed in a later year for medical expenses
+and enter the result.you deducted in an earlier year, you generally must report
+the reimbursement as income up to the amount you previ- Line 4. If line 3 is more than line 1, enter -0-. Otherwise,ously deducted as medical expenses. subtract the amount on line 3 from the amount on line 1.
+However, you do not report as income the amount of This is your deduction for medical and dental expenses.
+reimbursement you received up to the amount of your
+medical deductions that did not reduce your tax for the Example. Bill and Helen Jones belong to a group medi-
+earlier year. cal plan and part of their insurance is paid by Bill's em-
+For more information about the recovery of an amount ployer. They file a joint return, and their AGI is $33,004.
+that you claimed as an itemized deduction in an earlier The following list shows the net amounts, after insurance
+Publication 502 (2010) Page 19
+
+Page 20 of 34 of Publication 502 9:02 -  3-MAR-2011
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+SCHEDULE A  
+(Form 1040) 
+Department of the Treasury  
+Internal Revenue Service (99) 
+Itemized Deductions
+a Attach to Form 1040.            a See Instructions for Schedule A (Form 1040). 
+OMB No. 1545-0074
+2010
+Attachment   
+Sequence No. 07 
+Name(s) shown on Form 1040 Your social security number
+Medical 
+and 
+Dental  
+Expenses 
+Caution.  Do not include expenses reimbursed or paid by others. 
+1 Medical and dental expenses (see page A-1) ......  1 
+2 Enter amount from Form 1040, line 38 2 
+3 Multiply line 2 by 7.5% (.075) ........... 3 
+4 Subtract line 3 from line 1. If line 3 is more than line 1, enter -0- ........ 4 
+Bill and Helen Jones 000-00-0000
+3,434
+33,004
+2,475
+959
+reimbursements, that Bill and Helen paid this year for Bill and Helen add all their medical and dental expenses
+together ($1,859 + $775 + $800 = $3,434). They figuremedical expenses.
+their deduction on the medical and dental expenses part of
+1. For themselves, Bill and Helen paid $375 for pre- Schedule A, Form 1040, as shown.
+scription medicines and drugs, $337 for hospital bills,
+ Recordkeeping. For each medical expense, you$439 for doctor bills, $295 for hospitalization insur-
+should keep a record of:ance, $380 for medical and surgical insurance, and
+RECORDS
+$33 for transportation for medical treatment, which
+totals $1,859. • The name and address of each person you paid,
+2. For Grace Taylor (Helen's dependent mother), they and
+paid $300 for doctors, $300 for insulin, and $175 for • The amount and date of each payment.eyeglasses, which totals $775.
+3. For Betty Jones (Bill's dependent sister), they paid
+$450 for doctors and $350 for prescription medicines
+and drugs, which totals $800. You can keep a record like the following.
+Record of medical expenses
+Name of Address of Transportation
+person paid person paid Amount paid Date paid (mileage, taxi, etc.)
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+You should also keep a statement or itemized invoice
+showing the following. Sale of Medical Equipment or
+• What medical care was received. Property
+• Who received the care.
+If you deduct the cost of medical equipment or property in• The nature and purpose of any other medical ex- one year and sell it in a later year, you may have a taxablepenses. gain. The taxable gain is the amount of the selling price
+that is more than the adjusted basis of the equipment or• Who the other medical expenses were for.
+property.• The amount of the other medical expenses and the The adjusted basis is the portion of the cost of thedate of payment. equipment or property that you could not deduct because
+Do not send these records with your return. of the 7.5% limit used to compute the medical deduction.
+Page 20 Publication 502 (2010)
+
+Page 21 of 34 of Publication 502 9:02 -  3-MAR-2011
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Use Worksheet D, later, to figure the adjusted basis of the Worksheet E. Gain or Loss On the Sale
+equipment or property. of Medical Equipment or
+PropertyWorksheet D. Adjusted Basis of Medical Keep for Your Records
+Equipment or Property
+Instructions: Use the following worksheet to figure total gain orSold
+loss on the sale of medical equipment or property that youKeep for Your Records
+ deducted in an earlier year.
+Instructions: Use this worksheet if you deducted the cost of medical
+1. Enter the amount that the medicalequipment or property in one year and sold the equipment or property
+in a later year. This worksheet will give you the adjusted basis of the equipment or property sold for ..... . 1.
+equipment or property you sold.
+2. Enter your selling expenses ....... . 2.
+1. Enter the cost of the equipment or 3. Subtract line 2 from line 1 ........ . 3.property. ................... . 1.
+4. Enter the adjusted basis of the2. Enter your total includible medical equipment or property from Worksheetexpenses for the year you included D, line 5, or line 12, if applicable .... . 4.the cost in your medical expenses . . 2.
+5. Subtract line 4 from line 3. This is the3. Divide line 1 by line 2 .......... . 3. total gain or loss from the sale of the
+4. Enter 7.5% of your AGI for the year medical equipment or property. .... . 5.
+the cost was included in your medical
+expenses ................... . 4. If you have a loss, it is not deductible. If you have a gain,
+it is includible in your income. The part of the gain that is a5. Multiply line 3 by line 4. If your
+allowable itemized deductions for the recovery of an amount you previously deducted is taxable
+year you purchased the equipment or as ordinary income. Enter it on Form 1040, line 21. Any
+property were not more than your part of the gain that is more than the recovery of an amountAGI for that year, stop here. This is you previously deducted is taxable as a capital gain. Enterthe adjusted basis of the equipment it on Schedule D (Form 1040), Capital Gains and Losses.or property. If your allowable itemized For more information about the recovery of an amountdeductions for the year you
+that you claimed as an itemized deduction in an earlierpurchased the equipment or property
+were more than your AGI for that year, see Recoveries in Publication 525.
+year, complete lines 6 through 11 .. . 5.
+Example. You have a heart condition and difficulty6. Subtract line 5 from line 1 ....... . 6.
+breathing. Your doctor prescribed oxygen equipment to
+7. Enter your total allowable itemized help you breathe. Last year, you bought the oxygen equip-deductions for the year the cost was ment for $3,000. You itemized deductions and included itincluded in your medical expenses . . 7. in your medical expense deduction.
+8. Divide line 6 by line 7 .......... . 8. Last year you also paid $10,750 for deductible medical
+services and $6,400 for other itemized deductions. Your9. Enter your AGI for the year the cost
+AGI was $15,000.was included in your medical
+expenses ................... . 9. Taking into account the 7.5% limit on medical expenses,
+your allowable itemized deductions totaled $19,025, fig-10. Subtract line 9 from line 7 ....... . 10.
+ured as follows:
+11. Multiply line 8 by line 10. ........ . 11.
+Oxygen equipment .................... . 3,00012. Add line 5 to line 11. If your allowable
+Medical services ...................... . 10,750itemized deductions for the year you
+purchased the equipment or property Total medical expenses ................ . 13,750
+were more than your AGI for that 7.5% of AGI (.075 ×  $15,000) ............ . −1,125
+year, this is the adjusted basis of the Allowable medical expense deduction ...... . 12,625
+equipment or property .......... . 12. Other itemized deductions .............. . 6,400
+Next, use Worksheet E to figure the total gain or loss on Allowable itemized deductions ........... . 19,025
+the sale of the medical equipment or property.
+You figure your adjusted basis as shown on the filled-in
+Worksheet D.
+Publication 502 (2010) Page 21
+
+Page 22 of 34 of Publication 502 9:02 -  3-MAR-2011
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Worksheet D. Adjusted Basis of Medical
+Worksheet E. Gain or Loss On theEquipment or Property
+Sale of MedicalSoldÐIllustrated
+Equipment orKeep for Your Records
+PropertyÐIllustrated
+Instructions: Use this worksheet if you deducted the cost of Keep for Your Records
+medical equipment or property in one year and sold the
+equipment or property in a later year. This worksheet will give Instructions: Use the following worksheet to figure gain or lossyou the adjusted basis of the equipment or property you sold. on the sale of medical equipment or property that you deducted
+in an earlier year.
+1. Enter the cost of the equipment or
+property. .................. . 1. 3,000 1. Enter the amount that the medical
+equipment or property sold for ..... . 1. 2,0252. Enter your total includible medical
+expenses for the year you included 2. Enter your selling expenses ....... . 2. 25the cost in your medical expenses 2. 13,750
+3. Subtract line 2 from line 1 ........ . 3. 2,0003. Divide line 1 by line 2 ......... . 3. .218
+4. Enter the adjusted basis of the4. Enter 7.5% of your AGI for the year equipment or property from Worksheetthe cost was included in your D, line 5, or line 12, if applicable .... . 4. 829medical expenses ............ . 4. 1,125
+5. Subtract line 4 from line 3. This is the5. Multiply line 3 by line 4. If your total gain or loss from the sale of theallowable itemized deductions for medical equipment or property. .... . 5. 1,171the year you purchased the
+equipment or property were not
+more than your AGI for that year,
+stop here. This is the adjusted
+basis of the equipment or property. Damages for Personal Injuries
+If your allowable itemized
+deductions for the year you If you receive an amount in settlement of a personal injury
+purchased the equipment or suit, part of that award may be for medical expenses thatproperty were more than your AGI you deducted in an earlier year. If it is, you must includefor that year, complete lines 6 that part in your income in the year you receive it to thethrough 11 ................. . 5. 245 extent it reduced your taxable income in the earlier year.
+6. Subtract line 5 from line 1 ...... . 6. 2,755 See What If You Receive Insurance Reimbursement in a
+Later Year , discussed earlier under How Do You Treat7. Enter your total allowable itemized
+Reimbursements.deductions for the year the cost
+was included in your medical
+Example. You sued this year for injuries you suffered inexpenses .................. . 7. 19,025
+an accident last year. You sought $10,000 for your injuries8. Divide line 6 by line 7 ......... . 8. .145 and did not itemize your damages. Last year, you paid
+9. Enter your AGI for the year the $500 for medical expenses for your injuries. You deducted
+cost was included in your medical those expenses on last year's tax return. This year you
+expenses .................. . 9. 15,000 settled your lawsuit for $2,000. Your settlement did not
+itemize or allocate the damages. The $2,000 is first pre-10. Subtract line 9 from line 7 ...... . 10. 4,025
+sumed to be for the medical expenses that you deducted.11. Multiply line 8 by line 10. ....... . 11. 584 The $500 is includible in your income this year because
+you deducted the entire $500 as a medical expense de-12. Add line 5 to line 11. If your
+allowable itemized deductions for duction last year.
+the year you purchased the Future medical expenses. If you receive an amount inequipment or property were more
+settlement of a damage suit for personal injuries, part ofthan your AGI for that year, this is
+that award may be for future medical expenses. If it is, youthe adjusted basis of the
+equipment or property. ........ . 12. 829 must reduce any future medical expenses for these injuries
+until the amount you received has been completely used.
+This year you sold the oxygen equipment for $2,025 and
+you had selling expenses of $25. You must report on this Example. You were injured in an accident. You sued
+year's tax return part of the $2,000 as ordinary income. To and sought a judgment of $50,000 for your injuries. You
+compute the part of the sales price that is taxable, you settled the suit for $45,000. The settlement provided that
+must determine the gain by subtracting the total adjusted $10,000 of the $45,000 was for future medical expenses
+basis from the selling price. for your injuries. You cannot include the first $10,000 that
+you pay for medical expenses for those injuries.
+Workers' compensation. If you received workers' com-
+pensation and you deducted medical expenses related to
+that injury, you must include the workers' compensation in
+Page 22 Publication 502 (2010)
+
+Page 23 of 34 of Publication 502 9:02 -  3-MAR-2011
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+income up to the amount you deducted. If you received reader's services are only for your work. You can deduct
+workers' compensation, but did not deduct medical ex- your expenses for the reader as business expenses.
+penses related to that injury, do not include the workers'
+compensation in your income.
+Health Insurance Costs for
+Impairment-Related Work Self-Employed Persons
+Expenses If you were self-employed and had a net profit for the year,
+you may be able to deduct, as an adjustment to income,
+If you are a person with disabilities, you can take a busi- amounts paid for medical and qualified long-term care
+ness deduction for expenses that are necessary for you to insurance on behalf of yourself, your spouse, your depen-
+be able to work. If you take a business deduction for these dents, and effective March 30, 2010, your children who
+impairment-related work expenses, they are not subject to were under age 27 at the end of 2010. For this purpose,
+the 7.5% limit that applies to medical expenses. you were self-employed if you were a general partner (or a
+You have a disability if you have: limited partner receiving guaranteed payments) or you
+received wages from an S corporation in which you were• A physical or mental disability (for example, blind- more than a 2% shareholder. The insurance plan must beness or deafness) that functionally limits your being established under your trade or business and the deduc-employed, or tion cannot be more than your earned income from that
+• A physical or mental impairment (for example, a trade or business.
+sight or hearing impairment) that substantially limits You cannot deduct payments for medical insurance forone or more of your major life activities, such as any month in which you were eligible to participate in aperforming manual tasks, walking, speaking, breath- health plan subsidized by your employer, your spouse'sing, learning, or working. employer or, effective March 30, 2010, an employer of your
+dependent or your child under age 27 at the end of 2010.
+You cannot deduct payments for a qualified long-term careImpairment-related expenses defined. Impair-
+insurance contract for any month in which you were eligiblement-related expenses are those ordinary and necessary
+to participate in a long-term care insurance plan subsidizedbusiness expenses that are:
+by your employer or your spouse's employer.• Necessary for you to do your work satisfactorily, If you qualify to take the deduction, use the
+• For goods and services not required or used, other Self-Employed Health Insurance Deduction Worksheet in
+than incidentally, in your personal activities, and the Form 1040 instructions to figure the amount you can
+deduct. But if any of the following applies, do not use that• Not specifically covered under other income tax worksheet.laws.
+• You had more than one source of income subject to
+self-employment tax.Where to report. If you are self-employed, deduct the
+business expenses on the appropriate form (Schedule C, • You file Form 2555, Foreign Earned Income, or
+C-EZ, E, or F) used to report your business income and Form 2555-EZ, Foreign Earned Income Exclusion.
+expenses. • You are using amounts paid for qualified long-termIf you are an employee, complete Form 2106, Employee care insurance to figure the deduction.Business Expenses, or Form 2106-EZ, Unreimbursed Em-
+ployee Business Expenses. Enter on Schedule A (Form If you cannot use the worksheet in the Form 1040 instruc-
+1040), line 28, that part of the amount on Form 2106, line tions, use the worksheet in Publication 535, Business
+10, or Form 2106-EZ, line 6, that is related to your impair- Expenses, to figure your deduction.
+ment. Enter the amount that is unrelated to your impair-
+ment on Schedule A (Form 1040), line 21. Your Note. When figuring the amount you can deduct forimpairment-related work expenses are not subject to the insurance premiums, do not include any advance pay-2%-of-adjusted-gross-income limit that applies to other ments shown in box 1 of Form 1099-H. Also, if you areemployee business expenses. claiming the health coverage tax credit, subtract the
+amount shown on Form 8885, line 4 from the total insur-Example. You are blind. You must use a reader to do ance premiums you paid.your work. You use the reader both during your regular
+Also, do not include amounts paid for health insuranceworking hours at your place of work and outside your
+coverage with retirement plan distributions that wereregular working hours away from your place of work. The
+tax-free because you are a retired public safety officer.
+Where to report. You take this deduction on Form 1040,
+line 29. For 2010, you can deduct your self-employed
+health insurance deduction in determining your net earn-
+ings from self-employment only for purposes of figuring
+your self-employment tax. If you itemize your deductions
+Publication 502 (2010) Page 23
+
+Page 24 of 34 of Publication 502 9:02 -  3-MAR-2011
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+and do not claim 100% of your self-employed health insur- ($290,000 if married filing jointly), your income tax for the
+ance on line 29, include any remaining premiums with all tax year is increased by the total premium assistance.
+other medical care expenses on Schedule A (Form 1040), Include the increase in your income tax on Form 1040, line
+subject to the 7.5% limit. 60 or Form 1040NR, line 59. On the dotted line next to that
+line, enter the amount of the tax and identify it as ªCOBRA.º
+Worksheet F. Recapture of COBRACOBRA Premium Assistance Premium Assistance for
+The Consolidated Omnibus Budget Reconciliation Act of Higher Income
+1985 (COBRA) provides that if you were covered under a Taxpayers
+group health plan and you would lose coverage because of Keep for Your Records
+a qualifying event, you should be allowed an opportunity to
+Instructions: Use the following worksheet to figure the taxableelect COBRA continuation health coverage under the plan.
+portion of your COBRA premium if your modified AGI (line 3If there was no available election, your employer or the below) is more than $125,000 ($250,000 if married filing jointly)plan was subject to an excise tax. You can be required to but less than $145,000 ($290,000 if married filing jointly).pay the full premium for the COBRA continuation cover-
+age. 1. Enter your AGI (Form 1040, line 38 or
+Form 1040NR, line 36) .......... . 1. If you are an assistance eligible individual, you pay 35%
+of the premium otherwise payable for this coverage and 2. Enter the total of any amounts from
+are treated as having paid the full premium. You are an Form 2555, lines 45 and 50; Form
+assistance eligible individual if: 2555-EZ, line 18; and Form 4563, line
+15, and any exclusion of income from• You are a qualified beneficiary as a result of an American Samoa and Puerto Rico .. . 2.involuntarily termination that occurred during the pe-
+3. Modified AGI. Add lines 1 and 2 .... . 3.riod beginning on September 1, 2008, and ending on
+May 31, 2010, or had a reduction of hours during 4. Enter $125,000 ($250,000 if married
+that period, which was followed by a termination of filing jointly) ................... . 4.
+your employment that occurred after March 1, 2010, 5. Subtract line 4 from line 3 ........ . 5.and before June 1, 2010.
+6. Enter $20,000 ($40,000 if married filing• You are eligible for COBRA continuation coverage jointly) ....................... . 6.related to the qualifying event occurring during the
+7. Divide line 5 by line 6. Enter the resultperiod beginning on September 1, 2008, and
+as a decimal (rounded to at least 3
+• You elect the coverage. places) ...................... . 7. .
+8. Enter the amount of the COBRAA qualified beneficiary is generally any individual who is premium assistance* you received incovered under a group health plan on the day before the 2010 ........................ . 8.involuntary termination. This includes the covered em-
+9. Multiply line 8 by line 7. Enter resultployee, the employee's spouse, and the employee's de-
+here and include it on Form 1040, linependent. 60 or Form 1040NR, line 59. On the
+The premium assistance (the 65% reduction of the dotted line next to that line, enter the
+premium) applies to the first period of coverage beginning amount shown on line 9 and identify it
+as ªCOBRA.º .................. . 9.after February 16, 2009. The reduction applies until the
+earliest of: *Contact your former employer or health insurance plan to
+obtain the total premium assistance, if unknown.
+1. The first date the assistance eligible individual be-
+comes eligible for other group health plan coverage
+or Medicare coverage, You may elect to permanently waive the right to the
+premium assistance. You will not receive the premium2. The date that is 15 months after the first day of the assistance and you will not have to include the assistancefirst month for which the reduced premium applies to in your income tax if your modified AGI is more thanthe individual, or $125,000 ($250,000 if married filing jointly). To make this
+3. The date the individual ceases to be eligible for CO- election, give a signed and dated notification (include a
+BRA continuation coverage. reference to ªpermanent waiverº) to the person to whom
+premiums are payable.The premium assistance is not included in your gross
+income. However, if your modified adjusted gross income You will not qualify for the health coverage tax credit
+(AGI) is more than $125,000 ($250,000 if married filing (discussed next) for any month for which you receive
+jointly) but not more than $145,000 ($290,000 if married premium assistance.
+filing jointly), your income tax for the year is increased by a For more information see Notice 2009-27, available atpercentage of the premium assistance. Use Worksheet F www.irs.gov/irb/2009-16_irb/ar09.to figure the amount you must include as tax on your
+return. If your modified AGI is more than $145,000
+Page 24 Publication 502 (2010)
+
+Page 25 of 34 of Publication 502 9:02 -  3-MAR-2011
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Qualifying Family MemberHealth Coverage Tax Credit
+You can include the premiums you pay for qualified health
+If you paid the premiums for qualified health insurance insurance for qualifying family members in figuring your
+coverage, you may be able to claim the health coverage credit. A qualifying family member is:
+tax credit (HCTC). If you are eligible, you can get monthly • Your spouse (but see Both spouses eligible below),HCTC (advance payments), a yearly HCTC, or a combina- ortion of these methods (see How To Take the Credit, later).
+For 2010, the HCTC is 80% of the monthly cost of the • Anyone whom you can claim as a dependent on
+health insurance premium. your tax return. (For children whose parents are di-
+vorced, see Children of divorced or separated par-
+More information.  For a complete discussion of the ents, later.)
+HCTC, visit our website IRS.gov and enter ªhctcº in the However, anyone who has other specified coverage (de-search box. Also, see Form 8885. fined later), is not a qualifying family member.
+Who Can Take This Credit? Both spouses eligible.  Your spouse is not treated as a
+qualifying family member if:You can take this credit for any month in which all of the
+• You are married at the end of the year,following were true on the first day of the month.
+• You and your spouse are both eligible recipients1. You were an eligible: during the year, and
+a. Trade adjustment assistance (TAA) recipient, • You file separate tax returns.
+b. Alternative TAA recipient, Reemployment TAA re-
+Married and living apart. For purposes of this credit,cipient, or
+you are not considered married on the last day of the year ifc. Pension Benefit Guaranty Corporation (PBGC) all of the following apply.pension payee.
+• You file a separate return.
+2. You paid the premium for qualified health insurance • Your home is the home for more than half the yearcoverage for yourself or a qualifying family member. of a dependent under age 13 or a dependent who isSee Qualified Health Insurance, later. physically or mentally not able to care for himself or
+herself.3. You were not imprisoned under federal, state, or
+local authority. • You pay more than half the cost of keeping up your
+home for the year.4. You did not have other specified coverage. See
+Other Specified Coverage, later. • Your spouse does not live in your home for the last 6
+months of the year.5. You were the qualifying family member of an eligible
+individual described in (1) and in 2010 certain events
+Legally separated. You are not considered married ifoccurred. See Family members in certain life events,
+you are legally separated from your spouse under a decreelater.
+of divorce or separate maintenance.If you were an eligible individual described in (1), your
+state's workforce agency (unemployment office) or the Children of divorced or separated parents. Under thePBGC will notify the HCTC Program that you may be rules for medical expenses, a child of divorced or sepa-eligible for the credit. When notified, the HCTC Program rated parents can be treated as a dependent of bothwill mail you an HCTC Program Kit. If you have not parents if certain requirements are met. See Qualifyingreceived the Program Kit, you may not be an eligible Child under Whose Medical Expenses Can You Include ,individual and not qualify for the credit. If you believe you earlier. However, for purposes of the HCTC, only theare eligible for the HCTC and have not received a pro- custodial parent can treat the child as a qualifying familygram kit, go to IRS.gov and enter HCTC in the search member, even if the other parent can claim the child as abox for information on how to contact the HCTC Pro- dependent. The custodial parent is the parent having cus-gram. tody for the greater portion of the tax year.
+It can take the state or PBGC time to notify the
+Family members in certain life events. Qualifying familyHCTC Program about the event. You should
+members (spouses and dependents) are eligible to receivemake the full premium payments to your health
+CAUTION
+!
+the HCTC for any month in 2010 after any of the followingplan until you are enrolled in the HCTC Program. You may
+events occur.be able to claim the yearly HCTC for these premiums when
+Eligibility for Medicare. If you, the eligible individual,you file your tax return.
+enrolled in Medicare in 2010, your qualifying family mem-
+ber is eligible for the HCTC through December 2010.No credit if exemption claimed by another taxpayer.
+You cannot take this credit if you can be claimed as an Divorce. If you, the eligible individual, and your spouse
+exemption on someone else's tax return. finalized a divorce in 2010, your ex-spouse will be an
+Publication 502 (2010) Page 25
+
+Page 26 of 34 of Publication 502 9:02 -  3-MAR-2011
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+eligible individual for the HCTC for any month from the b. Hospital indemnity or other fixed indemnity insur-
+date the divorce was finalized through December 2010. ance,
+Death. In the case of the death of the eligible individual c. Accident or disability income insurance (or a com-in 2010, the spouse and other qualifying family members bination of the two),who qualified immediately before the death of the qualify-
+d. Liability insurance,ing individual will be treated as eligible individuals from the
+date of death through December 2010. e. A supplement to liability insurance,
+f. Workers' compensation or similar insurance,Qualified Health Insurance
+g. Automobile medical payment insurance,The following health insurance qualifies for the credit.
+h. Credit-only insurance,• COBRA continuation coverage. (This is coverage
+i. Limited scope dental or vision benefits,that employers with 20 or more employees must
+offer to employees or former employees and their j. Benefits for long-term care, nursing home care,
+beneficiaries who have lost coverage because of home health care, community-based care (or any
+certain events.) See the caution below. combination), or
+• Coverage under a group health plan that is available k. Coverage for only a specified disease or illness.
+through the employment of your spouse. (But see
+Other Specified Coverage, later.) 3. Coverage under a flexible spending or similar ar-
+rangement.• Coverage under an individual health insurance pol-
+icy if you were covered during the entire 30-day
+period that ends on the date you separated from the Insurance that covers other individuals. If you have
+employment which qualified you for the allowance or qualified health insurance that covers anyone besides
+benefit as an eligible individual (defined earlier). For yourself and your qualifying family member(s), (defined
+this purpose, coverage under an individual health earlier), you may not be able to take into account all of your
+insurance policy includes medical insurance offered payments. You cannot treat an amount as paid for insur-
+to individuals and their families, but does not include ance for yourself and qualifying family members unless all
+coverage under a federal, state, or other group of the following requirements are met.
+health insurance policy. • The charge for insurance for yourself and qualifying
+family members is either separately stated in the
+COBRA continuation coverage allows individuals contract or furnished to you by the insurance com-
+who had lost their jobs to receive a reduction in pany in a separate statement.
+health insurance premiums. You do  not qualify
+CAUTION
+! • The amount you paid for insurance for yourself andfor the HCTC for any month that you received a reduction qualifying family members is not more than thein premium. charge that is stated in the contract or furnished by
+the insurance company.State-qualified health insurance. Certain state qualified
+health insurance can qualify for a credit. To find out which • The amount stated in the contract or furnished by
+plans are qualified for your state, you can: the insurance company is not unreasonably large in
+relation to the total charges under the contract.• Visit the website, IRS.gov, type ªhctcº in the search
+box, and then, click on HCTC: List of State-Qualified
+Health Plans, or
+Eligible Coverage Month• You can call 1-866-628-4282 (tollfree) (or TDD/TTY
+1-866-626-4282). Eligibility for the credit is determined on a monthly basis.
+An eligible coverage month is any month in which, as of the
+first day of the month, you:
+Nonqualified Health Insurance
+1. Are an eligible recipient,
+The following health insurance does not qualify for the 2. Are covered by qualified health insurance (definedcredit. earlier) that you pay for,
+1. Medicare supplemental (Medigap) insurance, Tricare 3. Do not have other specified coverage (defined later),
+supplemental insurance, or similar supplemental in- and
+surance to an employer-sponsored group health
+4. Are not imprisoned under federal, state, or local au-plan.
+thority.
+2. Any insurance if substantially all of the coverage is:
+If you file a joint return, only one spouse has to satisfy
+a. Coverage for on-site medical clinics, the requirements.
+Page 26 Publication 502 (2010)
+
+Page 27 of 34 of Publication 502 9:02 -  3-MAR-2011
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+An individual who receives COBRA premium assis- Income Tax Return for Certain Nonresident Aliens With No
+Dependents.tance (discussed earlier) for a month is disqualified from
+You may claim the yearly HCTC if you were an eligiblereceiving the HCTC for that month.
+recipient and:
+• Did not receive monthly HCTC (advanced pay-Other Specified Coverage
+ments), or
+Even if you or your qualifying family member are otherwise • Received advanced payments and also made eligi-eligible, you or your qualifying family member are not ble payments directly to your health plan.eligible for the credit for a month if, as of the first day of the
+month, you or your qualifying family member have other For 2010, the yearly credit is 80%. You cannot claim thespecified coverage. Other specified coverage is coverage credit for amounts you paid to the HCTC Program.under the following.
+Example. You became eligible for the HCTC on June 1,1. Any insurance which constitutes medical care (un- 2010. You enrolled in a state-qualified health plan andless substantially all of that insurance is for benefits registered for advance payments in June. You paid thelisted earlier under (1) or (2) under Nonqualified premiums for the first 2 months to the health plan. YouHealth Insurance) if at least 50% of the cost of the receive your first HCTC invoice for the amount due at thecoverage is paid by an employer (or former em- end of July (for August coverage). You begin paying theployer) of you or your spouse. HCTC Program at that time. You may claim the yearly
+HCTC for the payments you made directly to the health2. Any of the following government health programs:
+plan during enrollment in the HCTC or request a reim-
+a. Medicare Part A or Part B, bursement for the monthly HCTC (or advanced payment).
+The reimbursement for the monthly HCTC will appear as ab. Medicaid, or the State Children's Health Insur-
+credit on your monthly HCTC invoice.ance Program (SCHIP),
+c. The Federal Employees Health Benefit Plan Required documents. You must attach to your tax return
+(FEHBP), or the documents listed in the Form 8885 instructions.
+ If you e-file, you must attach a copy of Form 8885 andd. Tricare, the medical and dental care program for the required documents to Form 8453, U.S. Individualmembers and certain former members of the uni- Income Tax Transmittal for an IRS e-file Return. Mail Formformed services and their dependents. 8453 and the attachments to the address shown in the
+Form 8453 instructions.
+Benefits from the Veterans Administration. Entitle- Refundable credit. The HCTC is refundable. You canment to or receipt of benefits from the Veterans Adminis- claim the full credit even if you do not owe any taxes ortration is not other specified coverage. earn any income. To get the credit, you must:
+1. Qualify for the credit, andHow To Take the Credit
+2. File a tax return, even if you:If you claim this credit, you cannot take the same expenses
+that you use to figure your HCTC into account in determin- a. Do not owe any tax,
+ing your: b. Did not earn enough money to file a return, or
+• Medical and dental expenses on Schedule A (Form c. Did not have income taxes withheld from your1040), or pay.
+• Self-employed health insurance deduction.
+You cannot use payments you made with funds from the
+Monthly HCTCfollowing accounts to figure the credit:
+• Health Savings Accounts (HSAs), or Under monthly HCTC (advance payments), you only pay
+part of the premium for health insurance and the HCTC• Archer Medical Savings Accounts (MSAs). Program pays the rest of the premium. The part paid by the
+HCTC Program is your monthly HCTC. For 2010, you will
+have to pay 20% and the HCTC Program will pay 80% ofYearly HCTC
+the premium.
+To claim the yearly HCTC, complete Form 8885, and You pay your part of the premium to the HCTC Program.
+attach it to your Form 1040, Form 1040NR, U.S. Nonresi- The program adds the advance payment and pays the total
+dent Alien Income Tax Return; Form 1040-SS, U.S. premium to your health plan.
+Self-Employment Tax Return; or Form 1040-PR, Planilla If you want to receive the monthly HCTC, you must fill
+para la Declaraci Âon de la Contribuci Âon Federal sobre al out the registration form in the HCTC Program Kit and
+Trabajo por Cuenta Propia. You cannot claim the credit on send it and any supporting documents to the HCTC Pro-
+Form 1040A, Form 1040EZ, or Form 1040NR-EZ, U.S. gram. Once you are enrolled in the HCTC Program, you
+Publication 502 (2010) Page 27
+
+Page 28 of 34 of Publication 502 9:02 -  3-MAR-2011
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+will receive a monthly invoice stating the amount you must Advocate ServiceÐYour Voice at the IRS, and on
+pay to the program and the due date. our website at www.irs.gov/advocate. You can also
+call our toll-free line at 1-877-777-4778 or TTY/TDDFor 2010, the HCTC Program may reimburse HCTC
+1-800-829-4059.participants for eligible coverage months for which they
+made payments directly to their health plans during the • You can learn about your rights and responsibilitiesenrollment process. This payment must be reduced by any as a taxpayer by visiting our online tax toolkit atpayment you received for the purchase of health insurance www.taxtoolkit.irs.gov. You can get updates on hotunder a national emergency grant for the tax year including tax topics by visiting our YouTube channel at www.these eligible coverage months and for any premium youtube.com/tasnta and our Facebook page at www.amount paid for non eligible benefits, such as dental and facebook.com/YourVoiceAtIRS, or by following ourvision expenses. Please visit IRS.gov, type ªhctc reim- tweets at www.twitter.com/YourVoiceAtIRS.bursement creditº in the search box for more information.
+If you receive a monthly HCTC, you will get Form Low Income Taxpayer Clinics (LITCs). The Low In-1099-H, Health Coverage Tax Credit (HCTC) Advance come Taxpayer Clinic program serves individuals whoPayments. The form shows you the total of your advance have a problem with the IRS and whose income is below apayments and for which months payments were made certain level. LITCs are independent from the IRS. Most(including months for which retroactive payments were LITCs can provide representation before the IRS or inmade). You cannot claim the yearly HCTC for any month court on audits, tax collection disputes, and other issuesfor which you received a monthly HCTC. for free or a small fee. If an individual's native language is
+not English, some clinics can provide multilingual informa-
+tion about taxpayer rights and responsibilities. For more
+information, see Publication 4134, Low Income TaxpayerHow To Get Tax Help
+Clinic List. This publication is available at IRS.gov, by
+calling 1-800-TAX-FORM (1-800-829-3676), or at your lo-You can get help with unresolved tax issues, order free
+cal IRS office.publications and forms, ask tax questions, and get informa-
+tion from the IRS in several ways. By selecting the method Free tax services. Publication 910, IRS Guide to Freethat is best for you, you will have quick and easy access to Tax Services, is your guide to IRS services and resources.tax help. Learn about free tax information from the IRS, including
+publications, services, and education and assistance pro-Contacting your Taxpayer Advocate. The Taxpayer
+grams. The publication also has an index of over 100Advocate Service (TAS) is an independent organization
+TeleTax topics (recorded tax information) you can listen towithin the IRS. We help taxpayers who are experiencing
+on the telephone. The majority of the information andeconomic harm, such as not being able to provide necessi-
+services listed in this publication are available to you freeties like housing, transportation, or food; taxpayers who
+of charge. If there is a fee associated with a resource orare seeking help in resolving tax problems with the IRS;
+service, it is listed in the publication.and those who believe that an IRS system or procedure is
+Accessible versions of IRS published products arenot working as it should. Here are seven things every
+available on request in a variety of alternative formats fortaxpayer should know about TAS:
+people with disabilities.• The Taxpayer Advocate Service is your voice at the
+Free help with your return. Free help in preparing yourIRS.
+return is available nationwide from IRS-trained volunteers.• Our service is free, confidential, and tailored to meet The Volunteer Income Tax Assistance (VITA) program isyour needs. designed to help low-income taxpayers and the Tax Coun-
+seling for the Elderly (TCE) program is designed to assist• You may be eligible for our help if you have tried to
+taxpayers age 60 and older with their tax returns. Manyresolve your tax problem through normal IRS chan-
+VITA sites offer free electronic filing and all volunteers willnels and have gotten nowhere, or you believe an
+let you know about credits and deductions you may beIRS procedure just isn't working as it should.
+entitled to claim. To find the nearest VITA or TCE site, call• We help taxpayers whose problems are causing fi- 1-800-829-1040.nancial difficulty or significant cost, including the cost As part of the TCE program, AARP offers the Tax-Aideof professional representation. This includes busi- counseling program. To find the nearest AARP Tax-Aidenesses as well as individuals. site, call 1-888-227-7669 or visit AARP's website at
+• Our employees know the IRS and how to navigate it. www.aarp.org/money/taxaide.
+If you qualify for our help, we'll assign your case to For more information on these programs, go to IRS.gov
+an advocate who will listen to your problem, help you and enter keyword ªVITAº in the upper right-hand corner.
+understand what needs to be done to resolve it, and Internet. You can access the IRS website atstay with you every step of the way until your prob- IRS.gov 24 hours a day, 7 days a week to:lem is resolved.
+• We have at least one local taxpayer advocate in
+every state, the District of Columbia, and Puerto • E-file your return. Find out about commercial tax
+Rico. You can call your local advocate, whose num- preparation and e-file services available free to eligi-
+ber is in your phone book, in Pub. 1546, Taxpayer ble taxpayers.
+Page 28 Publication 502 (2010)
+
+Page 29 of 34 of Publication 502 9:02 -  3-MAR-2011
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+• Check the status of your 2010 refund. Go to IRS.gov (automated refund information 24 hours a day, 7
+days a week). Wait at least 72 hours after the IRSand click on Where's My Refund. Wait at least 72
+acknowledges receipt of your e-filed return, or 3 to 4hours after the IRS acknowledges receipt of your
+weeks after mailing a paper return. If you filed Forme-filed return, or 3 to 4 weeks after mailing a paper
+8379 with your return, wait 14 weeks (11 weeks ifreturn. If you filed Form 8379 with your return, wait
+you filed electronically). Have your 2010 tax return14 weeks (11 weeks if you filed electronically). Have
+available so you can provide your social securityyour 2010 tax return available so you can provide
+number, your filing status, and the exact whole dollaryour social security number, your filing status, and
+amount of your refund. If you check the status ofthe exact whole dollar amount of your refund.
+your refund and are not given the date it will be• Download forms, including talking tax forms, instruc- issued, please wait until the next week before check-tions, and publications. ing back.
+• Order IRS products online. • Other refund information. To check the status of a
+prior-year refund or amended return refund, call• Research your tax questions online.
+1-800-829-1040.• Search publications online by topic or keyword.
+Evaluating the quality of our telephone services. To• Use the online Internal Revenue Code, regulations,
+ensure IRS representatives give accurate, courteous, andor other official guidance.
+professional answers, we use several methods to evaluate• View Internal Revenue Bulletins (IRBs) published in the quality of our telephone services. One method is for athe last few years. second IRS representative to listen in on or record random
+telephone calls. Another is to ask some callers to complete• Figure your withholding allowances using the with-
+a short survey at the end of the call.holding calculator online at www.irs.gov/individuals.
+• Determine if Form 6251 must be filed by using our Walk-in. Many products and services are avail-
+Alternative Minimum Tax (AMT) Assistant. able on a walk-in basis.
+• Sign up to receive local and national tax news by
+email. • Products. You can walk in to many post offices,
+libraries, and IRS offices to pick up certain forms,• Get information on starting and operating a small instructions, and publications. Some IRS offices, li-business. braries, grocery stores, copy centers, city and county
+government offices, credit unions, and office supply
+stores have a collection of products available to print
+Phone. Many services are available by phone. from a CD or photocopy from reproducible proofs.
+Also, some IRS offices and libraries have the Inter-
+nal Revenue Code, regulations, Internal Revenue
+Bulletins, and Cumulative Bulletins available for re-
+• Ordering forms, instructions, and publications. Call search purposes.
+1-800-TAX -FORM (1-800-829-3676) to order cur- • Services. You can walk in to your local Taxpayerrent-year forms, instructions, and publications, and Assistance Center every business day for personal,prior-year forms and instructions. You should receive face-to-face tax help. An employee can explain IRSyour order within 10 days. letters, request adjustments to your tax account, or
+• Asking tax questions. Call the IRS with your tax help you set up a payment plan. If you need to
+questions at 1-800-829-1040. resolve a tax problem, have questions about how the
+tax law applies to your individual tax return, or you• Solving problems. You can get face-to-face help are more comfortable talking with someone in per-solving tax problems every business day in IRS Tax- son, visit your local Taxpayer Assistance Centerpayer Assistance Centers. An employee can explain where you can spread out your records and talk withIRS letters, request adjustments to your account, or an IRS representative face-to-face. No appointmenthelp you set up a payment plan. Call your local is necessaryÐjust walk in. If you prefer, you can callTaxpayer Assistance Center for an appointment. To your local Center and leave a message requestingfind the number, go to www.irs.gov/localcontacts or an appointment to resolve a tax account issue. Alook in the phone book under United States Govern- representative will call you back within 2 businessment, Internal Revenue Service. days to schedule an in-person appointment at your
+• TTY/TDD equipment. If you have access to TTY/ convenience. If you have an ongoing, complex tax
+TDD equipment, call 1-800-829-4059 to ask tax account problem or a special need, such as a disa-
+questions or to order forms and publications. bility, an appointment can be requested. All other
+issues will be handled without an appointment. To• TeleTax topics. Call 1-800-829-4477 to listen to find the number of your local office, go to pre-recorded messages covering various tax topics. www.irs.gov/localcontacts or look in the phone book
+• Refund information. To check the status of your under United States Government, Internal Revenue
+2010 refund, call 1-800-829-1954 or 1-800-829-4477 Service.
+Publication 502 (2010) Page 29
+
+Page 30 of 34 of Publication 502 9:02 -  3-MAR-2011
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Mail. You can send your order for forms, instruc- • Tax Topics from the IRS telephone response sys-
+tions, and publications to the address below. You tem.
+should receive a response within 10 days after
+ • Internal Revenue CodeÐTitle 26 of the U.S. Code.your request is received.
+• Fill-in, print, and save features for most tax forms.
+Internal Revenue Service • Internal Revenue Bulletins.
+1201 N. Mitsubishi Motorway • Toll-free and email technical support.Bloomington, IL 61705-6613
+• Two releases during the year.
+DVD for tax products. You can order Publication ± The first release will ship the beginning of January
+1796, IRS Tax Products DVD, and obtain: 2011.
+± The final release will ship the beginning of March
+2011.
+• Current-year forms, instructions, and publications.
+Purchase the DVD from National Technical Information• Prior-year forms, instructions, and publications.
+Service (NTIS) at www.irs.gov/cdorders for $30 (no han-
+• Tax Map: an electronic research tool and finding aid. dling fee) or call 1-877-233-6767 toll free to buy the DVD
+for $30 (plus a $6 handling fee).• Tax law frequently asked questions.
+Page 30 Publication 502 (2010)
+
+Page 31 of 34 of Publication 502 9:02 -  3-MAR-2011
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+To help us develop a more useful index, please let us know if you have ideas for index entries.
+Index
+ See ªComments and Suggestionsº in the ªIntroductionº for the ways you can reach us.
+Chronically ill persons ......... . 11 Employer-sponsored healthA
+insurance plans ............... . 9COBRA assistance:Abortion .......................... . 5
+Premium assistance ........... . 24 Employment taxes .............. . 12Acupuncture ..................... . 5
+COBRA Premium Equipment  (See Medical equipmentAdopted child's medical
+assistance .................... . 24 or property)expenses ...................... . 4
+Community property states ..... . 3 Excluded expenses:AGI limitation .................. . 2, 3
+Insurance premiums ........... . 10Computer banks to track medicalAlcoholism ....................... . 5
+information ................... . 12 Eye surgery ...................... . 8Ambulances ..................... . 5
+Contact lenses ................... . 7 Eyeglasses ....................... . 8Archer MSAs:
+Controlled substances ......... . 15Health coverage tax credit ..... . 27
+Cosmetic surgery ............... . 15Medical expenses paid for F
+Credit  (See Health coverage taxdecedent from ................ . 5 Fertility enhancement:
+credit)Artificial limbs ................... . 6 Eggs, temporary storage of ..... . 8
+Crutches ......................... . 7 Fertility.......................... . 8Artificial teeth .................... . 6
+In vitro fertilization .............. . 8Aspirin .......................... . 16
+Figuring the deduction ...... . 19-20Assistance  (See Tax help) D
+Final return for decedent:Assisted living homes .......... . 12 Dancing lessons ................ . 15
+Medical expenses paid ......... . 5Athletic club dues .............. . 15 Decedent's medical
+Flexible spending account ..... . 15expenses ...................... . 5Autoette ......................... . 14
+Food  (See Weight-loss programs)Deductible amount .............. . 3Automobiles  (See Cars)
+Form 1040:Deductible expenses ......... . 3-15
+Health coverage tax credit ..... . 27Definition of medical expenses:B Self-employed persons, healthDoctor .......................... . 2Baby sitting ..................... . 15 insurance costs ............. . 23Physician ....................... . 2Bandages ........................ . 6 Form 1040, Schedule A:Dental treatment ................. . 8Basis: Impairment-related workArtificial teeth ................... . 6Medical equipment or property expenses .................... . 23Teeth whitening ................ . 16(Worksheet D) ............... . 21 Medical and dentalDentures ......................... . 6 expenses ................. . 2, 19Birth control pills ................ . 6 Dependent's medical expenses: Self-employed persons, healthBody scan ........................ . 6 Adopted child ................... . 4 insurance costs ............. . 23Braille books and magazines ... . 6 Multiple support agreement ..... . 5 Form 1040, Schedule C:Breast pumps and supplies ..... . 6 Qualifying child ................. . 3 Impairment-related workBreast reconstruction Qualifying relative .............. . 3 expenses .................... . 23surgery ........................ . 6 Dependents: Form 1040, Schedule C-EZ:Disabled dependent care ... . 8, 10 Impairment-related workDiagnostic devices .............. . 8C expenses .................... . 23Diaper services ................. . 15Calculation of deduction ....... . 19 Form 1040, Schedule E:Disabilities, persons with:Capital expenses ................ . 6 Impairment-related workDependent care expenses ...... . 8,Improvements to rented expenses .................... . 2310property ...................... . 7 Form 1040, Schedule F:Improvements to rentedOperation and upkeep .......... . 7 Impairment-related workproperty ...................... . 7Worksheet A .................... . 7 expenses .................... . 23Special education .............. . 13Cars .............................. . 7 Form 1040NR:Divorced taxpayers:Out-of-pocket expenses ....... . 14 Health coverage tax credit ..... . 27Medical expenses of child ...... . 4Standard medical mileage Form 1040X:Drug addiction ................... . 8rates......................... . 14 Amended return ................ . 3Drugs  (See Medicines)Child care ....................... . 15 Deceased taxpayer ............. . 5Dues:Children's medical expenses: Form 1099-H:Health club .................... . 15Adopted child ................... . 4 Self-employed persons, health
+Dependents .................... . 3 insurance costs ............. . 23
+EChiropractor ..................... . 7 Form 2106:
+Education, special .............. . 13Christian Scientist Impairment-related work
+practitioner .................... . 7 Electrolysis ..................... . 15 expenses .................... . 23
+Publication 502 (2010) Page 31
+
+Page 32 of 34 of Publication 502 9:02 -  3-MAR-2011
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Form 2106-EZ: TAA recipient .................. . 25 Laser eye surgery ............... . 8
+Impairment-related work Yearly HCTC .................. . 27 Lead-based paint removal ...... . 10
+expenses .................... . 23 Health institutes ................. . 8 Learning disabilities ............ . 13
+Form 2555: Health insurance: Legal fees ....................... . 10
+Self-employed persons, health Credit (See Health coverage tax Lessons, dancing and
+insurance costs ............. . 23 credit) swimming ..................... . 15
+Form 2555-EZ: Employer-sponsored plan ...... . 9 Lifetime care:
+Self-employed persons, health Premiums: Advance payments for ......... . 10
+insurance costs ............. . 23 Deductible .................... . 9 Lodging  (See also Trips) ... . 10, 14
+Form 8453: Nondeductible ............... . 10 Long-term care ................. . 11
+Health coverage tax credit ..... . 27 Paid by employer ............ . 18 Chronically ill individuals ....... . 11
+Form 8885: Paid by employer and you ... . 17 Maintenance and personal care
+Health coverage tax credit ..... . 27 Paid by you ................. . 17 services ..................... . 11
+Self-employed persons, health Prepaid ....................... . 9 Qualified insuranceinsurance costs ............. . 23 Unused sick leave used to contracts .................... . 11
+Founder's fee  (See Lifetime care, pay ......................... . 9 Qualified services .............. . 11
+advance payments) Reimbursements (See
+Free tax services ............... . 28 Reimbursements) MFuneral expenses ............... . 15 Self-employed persons ........ . 23
+Maintenance and personal careFuture medical care ........ . 10, 15 Health maintenance organizations services ....................... . 11(HMOs) ......................... . 8
+Maternity clothes ............... . 16Health reimbursementG Meals  (See also Weight-lossarrangements (HRAs) ........ . 17Glasses .......................... . 8 programs) ................. . 11, 14Health Savings Accounts (HSAs):Guide dog or other animal ...... . 8 Medical conferences ........... . 11Payments from ................ . 15
+Medical equipment or property:Hearing aids ..................... . 8
+Adjusted basis (WorksheetH Hearing-impaired persons: D) ........................... . 21Guide dog or other animal for ... . 8Hair: Gain or loss (Worksheet E) .... . 22Removal ....................... . 15 Help  (See Tax help) Sale of ......................... . 20Transplants .................... . 15 HMOs (Health maintenance Medical expense records ....... . 20Wigs ........................... . 14 organizations) ................. . 8
+Medical information plans ...... . 12Health club dues ................ . 15 Home care  (See Nursing services)
+Medical savings accountsHealth coverage tax credit ..... . 15 Home improvements  (See Capital (MSAs) ........................ . 16Advanced payments ........... . 27 expenses:)
+Medicare:Alternative TAA recipient ...... . 25 Hospital services ................ . 8 Medicare A, deductibleArcher MSAs .................. . 27 Hotels ........................... . 10 expense ...................... . 9Both spouses eligible .......... . 25 Household help ................. . 16 Medicare B, deductibleChildren of divorced parents ... . 25 HRAs (Health reimbursement expense ...................... . 9Eligible coverage month ....... . 26 arrangements) ................ . 17 Medicare D, deductibleInsurance that covers other
+expense ...................... . 9individuals ................... . 26
+Medicines ....................... . 12ILegally separated .............. . 25
+Imported ................... . 12, 16Illegal operations andMarried persons filing separate
+Nonprescription drugs andtreatments .................... . 16returns ...................... . 25
+medicines ................... . 16Illegal substances .............. . 15Monthly HCTC ................. . 27
+Missing children, photographs ofNonqualified health Impairment-related work
+in IRS publications ............ . 2insurance .................... . 26 expenses ..................... . 23
+More information  (See Tax help)Other specified coverage: Reporting of ................... . 23
+Benefits from the Veterans Multiple support agreement ..... . 5Insulin ........................... . 16
+Administration ............. . 27 Insurance  (See Health insurance)
+PBGC pension payee .......... . 25 Intellectually and developmentally NPension Benefit Guaranty disabled persons: Nondeductible expenses .... . 15-16Corporation (PBGC) Mentally retarded .............. . 10 Nonprescription drugs andrecipient ..................... . 25 Special homes for ............. . 10 medicines ..................... . 16Qualified health insurance ..... . 26
+Nursing homes ................. . 12Qualifying family member ...... . 25
+Nursing services ............ . 12, 15LReimbursement credit ......... . 27
+Chronically ill individuals ....... . 11Laboratory fees ................. . 10Reporting ...................... . 27
+Nutritional supplements:State-qualified health Lactation expenses  (See Breast
+Natural medicines ............. . 16insurance .................... . 26 pumps and supplies)
+Page 32 Publication 502 (2010)
+
+Page 33 of 34 of Publication 502 9:02 -  3-MAR-2011
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Medical and dental Whitening ...................... . 16O
+expenses .................... . 19 Telephone ....................... . 13Operations ...................... . 12
+Medical deduction (See Form Television ....................... . 13Cosmetic surgery .............. . 15
+1040, Schedule A)Eye surgery ..................... . 8 Therapy ......................... . 13
+Self-employed persons, healthIllegal operations and Transplants ..................... . 13insurance costs ............. . 23treatments ................... . 16 Travel and transportation
+Optometrist ..................... . 12 expenses ..................... . 13
+SOptometrist services ............ . 8 Car expenses .................. . 14
+Sale of medical equipment or Includible expenses........ . 13, 14Organ donors ................... . 13
+property ....................... . 20 Parking fees and tolls .......... . 14Osteopath ....................... . 12
+Adjusted basis (Worksheet Trips ............................. . 14Oxygen .......................... . 12 D) ........................... . 21 TTY/TDD information ........... . 28
+Gain or loss (Worksheet E) .... . 22 Tuition ........................... . 14P Schedules  (See Form 1040)Paint removal, for Seeing-eye dogs ................. . 8 Vlead-based .................... . 10 Self-employed persons: Vasectomy ...................... . 14Parking fees and tolls .......... . 14 Health coverage tax credit ..... . 27 Veterinary fees .................. . 16Personal injury damages ....... . 22 Health insurance costs ........ . 23 Vision correction surgery ....... . 8Personal use items ............. . 16 Senior housing ................. . 12 Visually-impaired persons:Photographs of missing children in Separate returns: Guide dog or other animal for ... . 8IRS publications ............... . 2 Community property states ..... . 3 Vitamins or minerals ........... . 16Physical examination ........... . 12 Medical and dental expenses ... . 3
+Physical therapy ................ . 13 Separated taxpayers:
+Plastic surgery .................. . 15 WHealth coverage tax credit ..... . 25
+Pregnancy test kit .............. . 12 Weight-loss programs ...... . 14, 16Medical expenses of child ...... . 4
+Premiums  (See Health insurance) What's new:Service animals .................. . 8
+COBRA continuous coverage ... . 1Prepaid insurance premiums ... . 9 Sick leave:
+Health coverage tax credit ...... . 1Prosthesis ....................... . 6 Used to pay health insurance
+Standard medical mileagepremiums .................... . 9Psychiatric care ................ . 13
+rate ........................... . 1Special education............... . 13Psychoanalysis ................. . 13
+Wheelchairs ..................... . 14Spouse's medical expenses .... . 3Psychologists ................... . 13
+Wigs ............................. . 14Deceased spouse .............. . 5Publications  (See Tax help)
+Work expenses:Sterilization ..................... . 13
+Disabled dependent care ....... . 8Stop-smoking programs ....... . 13R Impairment-related ............ . 23Surgery  (See Operations)Radial keratotomy ............... . 8 Workers' compensation ........ . 22Swimming lessons ............. . 15Recordkeeping.................. . 20 Worksheets:Rehabilitation facilities ......... . 12 Capital expenses (WorksheetTReimbursements ............ . 17-19 A) ............................ . 7Tables and figures:Excess includible in income: Medical equipment or property:Medical equipment or property:More than one policy (Worksheet Adjusted basis (WorksheetAdjusted basis (WorksheetC) ......................... . 18 D) ......................... . 21D) ......................... . 21One policy (Worksheet B) ... . 18 Gain or loss (WorksheetGain or loss (WorksheetExcess may be taxable (Figure E) ......................... . 22E) ......................... . 221) ............................ . 17 Reimbursements, excess includibleReimbursements, excess includibleHealth Reimbursement in income:in income:Arrangement (HRA) ......... . 17 More than one policy (WorksheetMore than one policy (WorksheetInsurance ...................... . 17 C) ......................... . 18C) ......................... . 18Medical expenses not One policy (Worksheet B) ... . 18One policy (Worksheet B) ... . 18deducted .................... . 19
+Reimbursements, excess may beMore than one policy .......... . 18 Xtaxable (Figure 1) ........... . 17Received in later year ......... . 19 X-rays ........................... . 15Tax help ......................... . 28Rental property:
+Improvements to ................ . 7 Taxpayer Advocate ............. . 28 ■
+Reporting: Teeth:
+Health coverage tax credit ..... . 27 Artificial ......................... . 6
+Impairment-related work Dental treatment ................ . 8
+expenses .................... . 23
+Publication 502 (2010) Page 33
+
+Page 34 of 34 of Publication 502 9:02 -  3-MAR-2011
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+EPS File Name: NEWIND01 Size: Width = 44.0 picas, Depth = 58.0 picas
+Tax Publications for Individual Taxpayers
+General Guides
+Your Rights as a Taxpayer
+Your Federal Income Tax For
+Individuals
+Farmer’s Tax Guide
+Tax Guide for Small Business (For
+Individuals Who Use Schedule C or
+C-EZ)
+Tax Calendars for 2011
+IRS Guide to Free Tax Services
+Specialized Publications
+Armed Forces’ Tax Guide
+Travel, Entertainment, Gift, and Car
+Expenses
+Exemptions, Standard Deduction, and
+Filing Information
+Medical and Dental Expenses (Including
+the Health Coverage Tax Credit)
+Child and Dependent Care Expenses
+Divorced or Separated Individuals
+Tax Withholding and Estimated Tax
+Foreign Tax Credit for Individuals
+U.S. Government Civilian Employees
+Stationed Abroad
+Social Security and Other Information
+for Members of the Clergy and
+Religious Workers
+U.S. Tax Guide for Aliens
+Moving Expenses
+Selling Your Home
+Credit for the Elderly or the Disabled
+Taxable and Nontaxable Income
+Charitable Contributions
+Residential Rental Property (Including
+Rental of Vacation Homes)
+Commonly Used Tax Forms
+Miscellaneous Deductions
+Tax Information for Homeowners
+Reporting Tip Income
+Installment Sales
+Partnerships
+Sales and Other Dispositions of Assets
+Casualties, Disasters, and Thefts
+Investment Income and Expenses
+(Including Capital Gains and Losses)
+Basis of Assets
+Recordkeeping for Individuals
+Tax Guide for Seniors
+Community Property
+Examination of Returns, Appeal Rights,
+and Claims for Refund
+Survivors, Executors, and
+Administrators
+Determining the Value of Donated
+Property
+Tax Guide for Individuals With Income
+From U.S. Possessions
+Pension and Annuity Income
+Casualty, Disaster, and Theft Loss
+Workbook (Personal-Use Property)
+Business Use of Your Home (Including
+Use by Daycare Providers)
+Individual Retirement Arrangements
+(IRAs)
+Tax Highlights for U.S. Citizens and
+Residents Going Abroad
+The IRS Collection Process
+Earned Income Credit (EIC)
+Tax Guide to U.S. Civil Service
+Retirement Benefits
+Tax Highlights for Persons with
+Disabilities
+Bankruptcy Tax Guide
+Social Security and Equivalent
+Railroad Retirement Benefits
+How Do I Adjust My Tax Withholding?
+Passive Activity and At-Risk Rules
+Household Employer’s Tax Guide For
+Wages Paid in 2011
+Tax Rules for Children and
+Dependents
+Home Mortgage Interest Deduction
+How To Depreciate Property
+Practice Before the IRS and
+Power of Attorney
+Introduction to Estate and Gift Taxes
+The IRS Will Figure Your Tax
+Per Diem Rates (For Travel Within the
+Continental United States)
+Reporting Cash Payments of Over
+$10,000 (Received in a Trade or
+Business)
+Taxpayer Advocate Service – Your
+Voice at the IRS
+Derechos del Contribuyente
+El Impuesto Federal sobre los
+Ingresos Para Personas Fisicas
+Crédito por Ingreso del Trabajo
+English-Spanish Glossary of Words
+and Phrases Used in Publications
+Issued by the Internal Revenue
+Service
+U.S. Tax Treaties
+Spanish Language Publications
+910
+509
+334
+225
+17
+1
+3
+463
+501
+502
+503
+504
+505
+514
+516
+517
+519
+521
+523
+524
+525
+526
+527
+529
+530
+531
+537
+544
+547
+550
+551
+552
+554
+541
+555
+556
+559
+561
+570
+575
+584
+587
+590
+593
+594
+596
+721
+901
+907
+908
+915
+919
+925
+926
+929
+946
+936
+950
+1542
+967
+1544
+1546
+596SP
+1SP
+850(EN/SP)
+17(SP)
+El Proceso de Cobro del IRS594SP
+947
+Informe de Pagos en Efectivo en
+Exceso de $10,000 (Recibidos en
+una Ocupación o Negocio)
+1544(SP)
+See How To Get Tax Help for a variety of ways to get forms, including by computer, phone, and mail.
+U.S. Individual Income Tax Return
+Itemized Deductions
+Profit or Loss From Business
+Net Profit From Business
+Capital Gains and Losses
+Supplemental Income and Loss
+Earned Income Credit
+Profit or Loss From Farming
+Credit for the Elderly or the Disabled
+Income Tax Return for Single and 
+Joint Filers With No Dependents
+Self-Employment Tax
+U.S. Individual Income Tax Return
+Estimated Tax for Individuals
+Amended U.S. Individual Income Tax Return
+Unreimbursed Employee Business Expenses
+Underpayment of Estimated Tax by
+Individuals, Estates, and Trusts
+Power of Attorney and Declaration of Representative
+Child and Dependent Care Expenses
+Moving Expenses
+Depreciation and Amortization
+Application for Automatic Extension of Time
+To File U.S. Individual Income Tax Return
+Investment Interest Expense Deduction
+Additional Taxes on Qualified Plans (Including
+IRAs) and Other Tax-Favored Accounts
+Alternative Minimum Tax—Individuals
+Noncash Charitable Contributions
+Change of Address
+Expenses for Business Use of Your Home
+Nondeductible IRAs
+Passive Activity Loss Limitations
+1040
+Sch A
+Sch C
+Sch C-EZ
+Sch D
+Sch E
+Sch EIC
+Sch F
+Sch H Household Employment Taxes 
+Sch R
+Sch SE
+1040EZ
+1040A
+1040-ES
+1040X
+2106 Employee Business Expenses
+2106-EZ
+2210
+2441
+2848
+3903
+4562
+4868
+4952
+5329
+6251
+8283
+8582
+8606
+8822
+8829
+Form Number and Title
+Sch J Income Averaging for Farmers and Fishermen
+Additional Child Tax Credit8812
+Education Credits (American Opportunity, and
+Lifetime Learning Credits)
+8863
+Form Number and Title
+See How To Get Tax Help for a variety of ways to get publications, including
+by computer, phone, and mail.
+970 Tax Benefits for Education
+971 Innocent Spouse Relief
+Sch D-1 Continuation Sheet for Schedule D
+972 Child Tax Credit
+Tax Guide for U.S. Citizens and
+Resident Aliens Abroad
+54
+Net Operating Losses (NOLs) for
+Individuals, Estates, and Trusts
+536
+Tax-Sheltered Annuity Plans (403(b)
+Plans) For Employees of Public
+Schools and Certain Tax-Exempt
+Organizations
+571
+Health Savings Accounts and Other
+Tax-Favored Health Plans
+969
+Installment Agreement Request9465
+Business Expenses535
+Sch B Interest and Ordinary Dividends
+Sch L Standard Deduction for Certain Filers
+Sch M Making Work Pay
+Hechos Fortuitos Desastres y Robos547(SP)
+Registro de Pérdidas por Hechos
+Fortuitos (Imprevistos), Desastres
+y Robos (Propiedad de Uso
+Personal)
+584(SP)
+Poder Legal y Declaración del Representante
+2848(SP)
+Solicitud de Prórroga Automática para
+Presentar la Declaración del Impuesto
+sobre el Ingreso Personal de los Estados
+Unidos
+4868(SP)
+Solicitud para un Plan de Pagos a Plazos9465(SP)
+Page 34 Publication 502 (2010)

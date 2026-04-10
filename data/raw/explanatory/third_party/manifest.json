@@ -1,0 +1,16 @@
+{
+  "count": 2,
+  "records": [
+    {
+      "name": "Tax Foundation - Individual Income Taxes",
+      "url": "https://taxfoundation.org/taxedu/glossary/individual-income-tax/",
+      "path": "data\\raw\\explanatory\\third_party\\tax_foundation___individual_income_taxes.json"
+    },
+    {
+      "name": "Tax Foundation - Corporate Income Taxes",
+      "url": "https://taxfoundation.org/taxedu/glossary/corporate-income-tax/",
+      "path": "data\\raw\\explanatory\\third_party\\tax_foundation___corporate_income_taxes.json"
+    }
+  ],
+  "generated_at": "2026-04-09T15:34:50.777336"
+}

@@ -1,0 +1,52 @@
+{
+  "section_number": 7323,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle F",
+      "chapter": "CHAPTER 75",
+      "subchapter": "Subchapter C",
+      "part": "PART II",
+      "section": "§7323"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Aug. 16, 1954, ch. 736, 68A Stat. 869 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§7323",
+    "heading": "§7323. Judicial action to enforce forfeiture",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Nature and venue",
+        "text": "The proceedings to enforce such forfeitures shall be in the nature of a proceeding in rem in the United States District Court for the district where such seizure is made."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Service of process when property has been returned under bond",
+        "text": "In case bond as provided in section 7324(3) shall have been executed and the property returned before seizure thereof by virtue of process in the proceedings in rem authorized in subsection (a) of this section, the marshal shall give notice of pendency of proceedings in court to the parties executing said bond, by personal service or publication, and in such manner and form as the court may direct, and the court shall thereupon have jurisdiction of said matter and parties in the same manner as if such property had been seized by virtue of the process aforesaid."
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Cost of seizure taxable",
+        "text": "The cost of seizure made before process issues shall be taxable by the court."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": []
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "section_number": 7405,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle F",
+      "chapter": "CHAPTER 76",
+      "subchapter": "Subchapter A",
+      "section": "§7405"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Aug. 16, 1954, ch. 736, 68A Stat. 874 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§7405",
+    "heading": "§7405. Action for recovery of erroneous refunds",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Refunds after limitation period",
+        "text": "Any portion of a tax imposed by this title, refund of which is erroneously made, within the meaning of section 6514, may be recovered by civil action brought in the name of the United States."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Refunds otherwise erroneous",
+        "text": "Any portion of a tax imposed by this title which has been erroneously refunded (if such refund would not be considered as erroneous under section 6514) may be recovered by civil action brought in the name of the United States."
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Interest",
+        "text": "For provision relating to interest on erroneous refunds, see section 6602."
+      },
+      {
+        "level": "subsection",
+        "label": "(d)",
+        "heading": "Periods of limitation",
+        "text": "For periods of limitations on actions under this section, see section 6532(b)."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": []
+  }
+}

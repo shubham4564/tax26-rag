@@ -1,0 +1,198 @@
+{
+  "section_number": 986,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle A",
+      "chapter": "CHAPTER 1",
+      "subchapter": "Subchapter N",
+      "part": "PART III",
+      "section": "§986"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 99–514, title XII, §1261(a), Oct. 22, 1986, 100 Stat. 2586 ; amended Pub. L. 100–647, title I, §1012(v)(1)(A), Nov. 10, 1988, 102 Stat. 3528 ; Pub. L. 105–34, title XI, §1102(a)(1), (b)(1), Aug. 5, 1997, 111 Stat. 963 , 965; Pub. L. 108–357, title IV, §408(a), (b), Oct. 22, 2004, 118 Stat. 1499 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§986",
+    "heading": "§986. Determination of foreign taxes and foreign corporation's earnings and profits",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Foreign income taxes",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Translation of accrued taxes",
+            "text": "",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "In general",
+                "text": "For purposes of determining the amount of the foreign tax credit, in the case of a taxpayer who takes foreign income taxes into account when accrued, the amount of any foreign income taxes (and any adjustment thereto) shall be translated into dollars by using the average exchange rate for the taxable year to which such taxes relate."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Exception for certain taxes",
+                "text": "Subparagraph (A) shall not apply to any foreign income taxes- (i) paid after the date 2 years after the close of the taxable year to which such taxes relate, or (ii) paid before the beginning of the taxable year to which such taxes relate."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(C)",
+                "heading": "Exception for inflationary currencies",
+                "text": "Subparagraph (A) shall not apply to any foreign income taxes the liability for which is denominated in any inflationary currency (as determined under regulations)."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(D)",
+                "heading": "Elective exception for taxes paid other than in functional currency",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(i)",
+        "heading": "In general",
+        "text": "At the election of the taxpayer, subparagraph (A) shall not apply to any foreign income taxes the liability for which is denominated in any currency other than in the taxpayer's functional currency.",
+        "children": [
+          {
+            "level": "clause",
+            "label": "(ii)",
+            "heading": "Application to qualified business units",
+            "text": "An election under this subparagraph may apply to foreign income taxes attributable to a qualified business unit in accordance with regulations prescribed by the Secretary."
+          },
+          {
+            "level": "clause",
+            "label": "(iii)",
+            "heading": "Election",
+            "text": "Any such election shall apply to the taxable year for which made and all subsequent taxable years unless revoked with the consent of the Secretary."
+          },
+          {
+            "level": "subparagraph",
+            "label": "(E)",
+            "heading": "Special rule for regulated investment companies",
+            "text": "In the case of a regulated investment company which takes into account income on an accrual basis, subparagraphs (A) through (D) shall not apply and foreign income taxes paid or accrued with respect to such income shall be translated into dollars using the exchange rate as of the date the income accrues."
+          },
+          {
+            "level": "subparagraph",
+            "label": "(F)",
+            "heading": "Cross reference",
+            "text": "For adjustments where tax is not paid within 2 years, see section 905(c)."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Translation of taxes to which paragraph (1) does not apply",
+            "text": "For purposes of determining the amount of the foreign tax credit, in the case of any foreign income taxes to which subparagraph (A) or (E) of paragraph (1) does not apply- (A) such taxes shall be translated into dollars using the exchange rates as of the time such taxes were paid to the foreign country or possession of the United States, and (B) any adjustment to the amount of such taxes shall be translated into dollars using- (i) except as provided in clause (ii), the exchange rate as of the time when such adjustment is paid to the foreign country or possession, or (ii) in the case of any refund or credit of foreign income taxes, using the exchange rate as of the time of the original payment of such foreign income taxes."
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Authority to permit use of average rates",
+            "text": "To the extent prescribed in regulations, the average exchange rate for the period (specified in such regulations) during which the taxes or adjustment is paid may be used instead of the exchange rate as of the time of such payment."
+          },
+          {
+            "level": "paragraph",
+            "label": "(4)",
+            "heading": "Foreign income taxes",
+            "text": "For purposes of this subsection, the term \"foreign income taxes\" means any income, war profits, or excess profits taxes paid or accrued to any foreign country or to any possession of the United States."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Earnings and profits and distributions",
+        "text": "For purposes of determining the tax under this subtitle- (1) of any shareholder of any foreign corporation, the earnings and profits of such corporation shall be determined in the corporation's functional currency, and (2) in the case of any United States person, the earnings and profits determined under paragraph (1) (when distributed, deemed distributed, or otherwise taken into account under this subtitle) shall (if necessary) be translated into dollars using the appropriate exchange rate."
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Previously taxed earnings and profits",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "In general",
+            "text": "Foreign currency gain or loss with respect to distributions of previously taxed earnings and profits (as described in section 959 or 1293(c)) attributable to movements in exchange rates between the times of deemed and actual distribution shall be recognized and treated as ordinary income or loss from the same source as the associated income inclusion."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Distributions through tiers",
+            "text": "The Secretary shall prescribe regulations with respect to the treatment of distributions of previously taxed earnings and profits through tiers of foreign corporations."
+          }
+        ]
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "2004",
+        "entries": [
+          "Subsec. (a)(1)(D). Pub. L. 108–357, §408(a), added subpar. (D). Former subpar. (D) redesignated (E).",
+          "Subsec. (a)(1)(E). Pub. L. 108–357, §408(b)(1), added subpar. (E). Former subpar. (E) redesignated (F). Pub. L. 108–357, §408(a), redesignated subpar. (D) as (E).",
+          "Subsec. (a)(1)(F). Pub. L. 108–357, §408(b)(1), redesignated subpar. (E) as (F).",
+          "Subsec. (a)(2). Pub. L. 108–357, §408(b)(2), inserted \"or (E)\" after \"subparagraph (A)\" in introductory provisions."
+        ]
+      },
+      {
+        "year": "1997",
+        "entries": [
+          "Subsec. (a). Pub. L. 105–34, §1102(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: \"(a) Foreign Taxes.- \"(1) In general.-For purposes of determining the amount of the foreign tax credit- \"(A) any foreign income taxes shall be translated into dollars using the exchange rates as of the time such taxes were paid to the foreign country or possession of the United States, and \"(B) any adjustment to the amount of foreign income taxes shall be translated into dollars using- \"(i) except as provided in clause (ii), the exchange rate as of the time when such adjustment is paid to the foreign country or possession, or \"(ii) in the case of any refund or credit of foreign income taxes, using the exchange rate as of the time of original payment of such foreign income taxes. \"(2) Foreign income taxes.-For purposes of paragraph (1), 'foreign income taxes' means any income, war profits, or excess profits taxes paid to any foreign country or to any possession of the United States.\"",
+          "Subsec. (a)(3), (4). Pub. L. 105–34, §1102(b)(1), added par. (3) and redesignated former par. (3) as (4)."
+        ]
+      },
+      {
+        "year": "1988",
+        "entries": [
+          "Pub. L. 100–647 substituted \"foreign taxes and foreign corporation's earnings and profits\" for \"foreign corporation's earnings and profits and foreign taxes\" in heading, and revised and restructured the provisions of subsecs. (a) and (b)."
+        ]
+      }
+    ],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 2004 Amendment",
+        "pub_law": "Pub. L. 108–357, title IV, §408(c), Oct. 22, 2004, 118 Stat. 1500",
+        "effective_date": "apply to taxable years beginning after December 31, 2004.",
+        "text": "Pub. L. 108–357, title IV, §408(c), Oct. 22, 2004, 118 Stat. 1500 , provided that: \"The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2004.\""
+      },
+      {
+        "heading": "Effective Date of 1997 Amendment",
+        "pub_law": "Pub. L. 105–34, title XI, §1102(c)(1), Aug. 5, 1997, 111 Stat. 966",
+        "effective_date": "apply to taxes paid or accrued in taxable years beginning after December 31, 1997.",
+        "text": "Pub. L. 105–34, title XI, §1102(c)(1), Aug. 5, 1997, 111 Stat. 966 , provided that: \"The amendments made by subsections (a)(1) and (b) [amending this section and section 989 of this title] shall apply to taxes paid or accrued in taxable years beginning after December 31, 1997.\""
+      },
+      {
+        "heading": "Effective Date of 1988 Amendment",
+        "pub_law": "Pub. L. 100–647",
+        "effective_date": "effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub.",
+        "text": "Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title."
+      },
+      {
+        "heading": "Effective Date",
+        "pub_law": "Pub. L. 99–514",
+        "effective_date": "taxable years beginning after Dec.",
+        "text": "Section applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1261(e) of Pub. L. 99–514, set out as a note under section 985 of this title."
+      }
+    ]
+  }
+}

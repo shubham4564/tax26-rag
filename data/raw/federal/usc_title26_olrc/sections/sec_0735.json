@@ -1,0 +1,132 @@
+{
+  "section_number": 735,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle A",
+      "chapter": "CHAPTER 1",
+      "subchapter": "Subchapter K",
+      "part": "PART II",
+      "section": "§735"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Aug. 16, 1954, ch. 763, 68A Stat. 247 ; Pub. L. 94–455, title XIX, §1901(b)(3)(D), Oct. 4, 1976, 90 Stat. 1792 ; Pub. L. 98–369, div. A, title I, §74(b), July 18, 1984, 98 Stat. 593 ; Pub. L. 105–34, title X, §1062(b)(3), Aug. 5, 1997, 111 Stat. 947 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§735",
+    "heading": "§735. Character of gain or loss on disposition of distributed property",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Sale or exchange of certain distributed property",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Unrealized receivables",
+            "text": "Gain or loss on the disposition by a distributee partner of unrealized receivables (as defined in section 751(c)) distributed by a partnership, shall be considered as ordinary income or as ordinary loss, as the case may be."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Inventory items",
+            "text": "Gain or loss on the sale or exchange by a distributee partner of inventory items (as defined in section 751(d)) distributed by a partnership shall, if sold or exchanged within 5 years from the date of the distribution, be considered as ordinary income or as ordinary loss, as the case may be."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Holding period for distributed property",
+        "text": "In determining the period for which a partner has held property received in a distribution from a partnership (other than for purposes of subsection (a)(2)), there shall be included the holding period of the partnership, as determined under section 1223, with respect to such property."
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Special rules",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Waiver of holding periods contained in section 1231",
+            "text": "For purposes of this section, section 751(d) (defining inventory item) shall be applied without regard to any holding period in section 1231(b)."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Substituted basis property",
+            "text": "",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "In general",
+                "text": "If any property described in subsection (a) is disposed of in a nonrecognition transaction, the tax treatment which applies to such property under such subsection shall also apply to any substituted basis property resulting from such transaction. A similar rule shall also apply in the case of a series of nonrecognition transactions."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Exception for stock in C corporation",
+                "text": "Subparagraph (A) shall not apply to any stock in a C corporation received in an exchange described in section 351."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "1997",
+        "entries": [
+          "Subsecs. (a)(2), (c)(1). Pub. L. 105–34 substituted \"section 751(d)\" for \"section 751(d)(2)\"."
+        ]
+      },
+      {
+        "year": "1984",
+        "entries": [
+          "Subsec. (c). Pub. L. 98–369 added subsec. (c)."
+        ]
+      },
+      {
+        "year": "1976",
+        "entries": [
+          "Subsec. (a)(1), (2). Pub. L. 94–455 substituted \"as ordinary income or as ordinary loss, as the case may be\" for \"gain or loss from the sale or exchange of property other than a capital asset\"."
+        ]
+      }
+    ],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 1997 Amendment",
+        "pub_law": "Pub. L. 105–34",
+        "effective_date": "",
+        "text": "Amendment by Pub. L. 105–34 applicable to sales, exchanges, and distributions after Aug. 5, 1997, but not applicable to any sale or exchange pursuant to a written binding contract in effect on June 8, 1997, and at all times thereafter before such sale or exchange, see section 1062(c) of Pub. L. 105–34, set out as a note under section 724 of this title."
+      },
+      {
+        "heading": "Effective Date of 1984 Amendment",
+        "pub_law": "Pub. L. 98–369, div. A, title I, §74(d)(2)",
+        "effective_date": "apply to property distributed after March 31, 1984, in taxable years ending after such date.",
+        "text": "Pub. L. 98–369, div. A, title I, §74(d)(2), July 18, 1984, 98 Stat. 594 , provided that: \"The amendment made by subsection (b) [amending this section] shall apply to property distributed after March 31, 1984, in taxable years ending after such date.\""
+      },
+      {
+        "heading": "Effective Date of 1976 Amendment",
+        "pub_law": "Pub. L. 94–455",
+        "effective_date": "effective for taxable years beginning after Dec.",
+        "text": "Amendment by Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title."
+      }
+    ]
+  }
+}

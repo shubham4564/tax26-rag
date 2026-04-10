@@ -1,0 +1,59 @@
+{
+  "section_number": 6706,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle F",
+      "chapter": "CHAPTER 68",
+      "subchapter": "Subchapter B",
+      "part": "PART I",
+      "section": "§6706"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 98–369, div. A, title I, §41(c)(1), July 18, 1984, 98 Stat. 555 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§6706",
+    "heading": "§6706. Original issue discount information requirements",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Failure to show information on debt instrument",
+        "text": "In the case of a failure to set forth on a debt instrument the information required to be set forth on such instrument under section 1275(c)(1), unless it is shown that such failure is due to reasonable cause and not to willful neglect, the issuer shall pay a penalty of $50 for each instrument with respect to which such a failure exists."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Failure to furnish information to Secretary",
+        "text": "Any issuer who fails to furnish information required under section 1275(c)(2) with respect to any issue of debt instruments on the date prescribed therefor (determined with regard to any extension of time for filing) shall pay a penalty equal to 1 percent of the aggregate issue price of such issue, unless it is shown that such failure is due to reasonable cause and not willful neglect. The amount of the penalty imposed under the preceding sentence with respect to any issue of debt instruments shall not exceed $50,000 for such issue."
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Deficiency procedures not to apply",
+        "text": "Subchapter B of chapter 63 (relating to deficiency procedures for income, estate, gift, and certain excise taxes) shall not apply in respect of the assessment or collection of any penalty imposed by this section."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date",
+        "pub_law": "Pub. L. 98–369",
+        "effective_date": "effective on day 30 days after July 18, 1984, see section 44(h) of Pub.",
+        "text": "Section effective on day 30 days after July 18, 1984, see section 44(h) of Pub. L. 98–369, set out as a note under section 1271 of this title."
+      }
+    ]
+  }
+}

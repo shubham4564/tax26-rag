@@ -1,0 +1,59 @@
+{
+  "section_number": 2622,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle B",
+      "chapter": "CHAPTER 13",
+      "subchapter": "Subchapter C",
+      "section": "§2622"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 94–455, title XX, §2006(a), Oct. 4, 1976, 90 Stat. 1888 ; amended Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2720 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§2622",
+    "heading": "§2622. Taxable amount in case of taxable termination",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "In general",
+        "text": "For purposes of this chapter, the taxable amount in the case of a taxable termination shall be- (1) the value of all property with respect to which the taxable termination has occurred, reduced by (2) any deduction allowed under subsection (b)."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Deduction for certain expenses",
+        "text": "For purposes of subsection (a), there shall be allowed a deduction similar to the deduction allowed by section 2053 (relating to expenses, indebtedness, and taxes) for amounts attributable to the property with respect to which the taxable termination has occurred."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "1986",
+        "entries": [
+          "Pub. L. 99–514 amended section generally, substituting provisions relating to taxable amount in case of a taxable termination for former provisions which authorized the Secretary to promulgate regulations. See section 2663 of this title."
+        ]
+      }
+    ],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 1986 Amendment",
+        "pub_law": "Pub. L. 99–514",
+        "effective_date": "",
+        "text": "Section applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as a note under section 2601 of this title."
+      }
+    ]
+  }
+}

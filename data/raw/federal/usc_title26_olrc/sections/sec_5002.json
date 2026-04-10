@@ -1,0 +1,242 @@
+{
+  "section_number": 5002,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle E",
+      "chapter": "CHAPTER 51",
+      "subchapter": "Subchapter A",
+      "part": "PART I",
+      "section": "§5002"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1315 ; amended Pub. L. 89–44, title VIII, §807(a), June 21, 1965, 79 Stat. 164 ; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834 ; Pub. L. 96–39, title VIII, §805(e), July 26, 1979, 93 Stat. 278 ; Pub. L. 103–465, title I, §136(c)(1), Dec. 8, 1994, 108 Stat. 4841 ; Pub. L. 109–59, title XI, §11125(b)(13), Aug. 10, 2005, 119 Stat. 1956 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§5002",
+    "heading": "§5002. Definitions",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "In general",
+        "text": "For purposes of this chapter-",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Distilled spirits plant",
+            "text": "The term \"distilled spirits plant\" means an establishment which is qualified under subchapter B to perform any distilled spirits operation."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Distilled spirits operation",
+            "text": "The term \"distilled spirits operation\" means any operation for which qualification is required under subchapter B."
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Bonded premises",
+            "text": "The term \"bonded premises\", when used with respect to distilled spirits, means the premises of a distilled spirits plant, or part thereof, on which distilled spirits operations are authorized to be conducted."
+          },
+          {
+            "level": "paragraph",
+            "label": "(4)",
+            "heading": "Distiller",
+            "text": "The term \"distiller\" includes any person who- (A) produces distilled spirits from any source or substance, (B) brews or makes mash, wort, or wash fit for distillation or for the production of distilled spirits (other than the making or using of mash, wort, or wash in the authorized production of wine or beer, or the production of vinegar by fermentation), (C) by any process separates alcoholic spirits from any fermented substance, or (D) making or keeping mash, wort, or wash, has a still in his possession or use."
+          },
+          {
+            "level": "paragraph",
+            "label": "(5)",
+            "heading": "Processor",
+            "text": "",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "In general",
+                "text": "The term \"processor\", when used with respect to distilled spirits, means any person who- (i) manufactures, mixes, or otherwise processes distilled spirits, or (ii) manufactures any article."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Rectifier, bottler, etc., included",
+                "text": "The term \"processor\" includes (but is not limited to) a rectifier, bottler, and denaturer."
+              }
+            ]
+          },
+          {
+            "level": "paragraph",
+            "label": "(6)",
+            "heading": "Certain operations not treated as processing",
+            "text": "In applying paragraph (5), there shall not be taken into account-",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "Operations as distiller",
+                "text": "Any process which is the operation of a distiller."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Mixing of taxpaid spirits for immediate consumption",
+                "text": "Any mixing (after determination of tax) of distilled spirits for immediate consumption."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(C)",
+                "heading": "Use by apothecaries",
+                "text": "Any process performed by an apothecary with respect to distilled spirits which such apothecary uses exclusively in the preparation or making up of medicines unfit for use for beverage purposes."
+              }
+            ]
+          },
+          {
+            "level": "paragraph",
+            "label": "(7)",
+            "heading": "Warehouseman",
+            "text": "The term \"warehouseman\", when used with respect to distilled spirits, means any person who stores bulk distilled spirits."
+          },
+          {
+            "level": "paragraph",
+            "label": "(8)",
+            "heading": "Distilled spirits",
+            "text": "The terms \"distilled spirits\", \"alcoholic spirits\", and \"spirits\" mean that substance known as ethyl alcohol, ethanol, or spirits of wine in any form (including all dilutions and mixtures thereof from whatever source or by whatever process produced)."
+          },
+          {
+            "level": "paragraph",
+            "label": "(9)",
+            "heading": "Bulk distilled spirits",
+            "text": "The term \"bulk distilled spirits\" means distilled spirits in a container having a capacity in excess of 1 wine gallon."
+          },
+          {
+            "level": "paragraph",
+            "label": "(10)",
+            "heading": "Proof spirits",
+            "text": "The term \"proof spirits\" means that liquid which contains one-half its volume of ethyl alcohol of a specific gravity of 0.7939 at 60 degrees Fahrenheit (referring to water at 60 degrees Fahrenheit as unity)."
+          },
+          {
+            "level": "paragraph",
+            "label": "(11)",
+            "heading": "Proof gallon",
+            "text": "The term \"proof gallon\" means a United States gallon of proof spirits, or the alcoholic equivalent thereof."
+          },
+          {
+            "level": "paragraph",
+            "label": "(12)",
+            "heading": "Container",
+            "text": "The term \"container\", when used with respect to distilled spirits, means any receptacle, vessel, or form of package, bottle, tank, or pipeline used, or capable of use, for holding, storing, transferring, or conveying distilled spirits."
+          },
+          {
+            "level": "paragraph",
+            "label": "(13)",
+            "heading": "Approved container",
+            "text": "The term \"approved container\", when used with respect to distilled spirits, means a container the use of which is authorized by regulations prescribed by the Secretary."
+          },
+          {
+            "level": "paragraph",
+            "label": "(14)",
+            "heading": "Article",
+            "text": "Unless another meaning is distinctly expressed or manifestly intended, the term \"article\" means any substance in the manufacture of which denatured distilled spirits are used."
+          },
+          {
+            "level": "paragraph",
+            "label": "(15)",
+            "heading": "Export",
+            "text": "The terms \"export\", \"exported\", and \"exportation\" include shipments to a possession of the United States."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Cross references",
+        "text": "(1) For definition of manufacturer of stills, see section 5102. (2) For definition of dealer, see section 5121(c)(3). (3) For definitions of wholesale dealers, see section 5121(c). (4) For definitions of retail dealers, see section 5122(c). (5) For definitions of general application to this title, see chapter 79."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "2005",
+        "entries": [
+          "Subsec. (b)(2). Pub. L. 109–59, §11125(b)(13)(A), substituted \"section 5121(c)(3)\" for \"section 5112(a)\".",
+          "Subsec. (b)(3). Pub. L. 109–59, §11125(b)(13)(B), substituted \"section 5121(c)\" for \"section 5112\".",
+          "Subsec. (b)(4). Pub. L. 109–59, §11125(b)(13)(C), substituted \"section 5122(c)\" for \"section 5122\"."
+        ]
+      },
+      {
+        "year": "1994",
+        "entries": [
+          "Subsec. (b)(1) to (6). Pub. L. 103–465 redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out former par. (1) which provided a cross reference to section 5041(c) of this title for definition of \"wine gallon\"."
+        ]
+      },
+      {
+        "year": "1979",
+        "entries": [
+          "Subsec. (a)(1). Pub. L. 96–39 substituted \"distilled spirits operation\" for \"operation, or any combination of operations, for which qualification is required under such subchapter\".",
+          "Subsec. (a)(2), (3). Pub. L. 96–39 added par. (2) and redesignated former par. (2) as (3). Former par. (3), defining \"bottling premises\", was struck out.",
+          "Subsec. (a)(4). Pub. L. 96–39 redesignated par. (5) as (4). Former par. (4), defining \"bonded warehouseman\", was struck out.",
+          "Subsec. (a)(5) to (7). Pub. L. 96–39 added pars. (5) to (7) and redesignated former pars. (5) to (7) as (4), (8), and (10), respectively.",
+          "Subsec. (a)(8). Pub. L. 96–39 redesignated former par. (6) as (8). Former par. (8) redesignated (11).",
+          "Subsec. (a)(9). Pub. L. 96–39 added par. (9) and redesignated par. (9) as (12).",
+          "Subsec. (a)(10) to (15). Pub. L. 96–39 redesignated former pars. (7) to (12) as (10) to (15), respectively.",
+          "Subsec. (b). Pub. L. 95–39 struck out par. (2) which provided for a cross reference to section 5082 for a definition of rectifier and redesignated pars. (3) to (7) as (2) to (6), respectively."
+        ]
+      },
+      {
+        "year": "1976",
+        "entries": [
+          "Subsec. (a)(10). Pub. L. 94–455 struck out \"or his delegate\" after \"Secretary\"."
+        ]
+      },
+      {
+        "year": "1965",
+        "entries": [
+          "Subsec. (a). Pub. L. 89–44 added par. (12)."
+        ]
+      }
+    ],
+    "other_notes": [
+      {
+        "heading": "Prior Provisions",
+        "text": "A prior section 5002, act Aug. 16, 1954, ch. 736, 68A Stat. 597 , consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859. Provisions similar to those comprising subsec. (a)(6), (9), and (11) of this section were contained in prior sections 5213(a)(1) and 5319(1), (2), and (7), act Aug. 16, 1954, ch. 736, 68A Stat. 639 , 661, prior to the general revision of this chapter by Pub. L. 85–859."
+      }
+    ]
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 2005 Amendment",
+        "pub_law": "Pub. L. 109–59, title XI, §11125(c), Aug. 10, 2005, 119 Stat. 1957",
+        "effective_date": "apply to taxes imposed for periods before such date.",
+        "text": "Pub. L. 109–59, title XI, §11125(c), Aug. 10, 2005, 119 Stat. 1957 , provided that: \"The amendments made by this section [see Tables for classification] shall take effect on July 1, 2008, but shall not apply to taxes imposed for periods before such date.\""
+      },
+      {
+        "heading": "Effective Date of 1994 Amendment",
+        "pub_law": "Pub. L. 103–465",
+        "effective_date": "effective Jan.",
+        "text": "Amendment by Pub. L. 103–465 effective Jan. 1, 1995, see section 136(d) of Pub. L. 103–465, set out as a note under section 5001 of this title."
+      },
+      {
+        "heading": "Effective Date of 1979 Amendment",
+        "pub_law": "Pub. L. 96–39",
+        "effective_date": "effective Jan.",
+        "text": "Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as a note under section 5001 of this title."
+      },
+      {
+        "heading": "Effective Date of 1965 Amendment",
+        "pub_law": "Pub. L. 89–44, title VIII, §807(c)",
+        "effective_date": "",
+        "text": "Pub. L. 89–44, title VIII, §807(c), June 21, 1965, 79 Stat. 164 , provided that: \"The amendments made by subsections (a) and (b) [amending this section and section 5053 of this title] shall take effect on July 1, 1965.\""
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "section_number": 6622,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle F",
+      "chapter": "CHAPTER 67",
+      "subchapter": "Subchapter C",
+      "section": "§6622"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 97–248, title III, §344(a), Sept. 3, 1982, 96 Stat. 635 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§6622",
+    "heading": "§6622. Interest compounded daily",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "General rule",
+        "text": "In computing the amount of any interest required to be paid under this title or sections 1961(c)(1) or 2411 of title 28, United States Code, by the Secretary or by the taxpayer, or any other amount determined by reference to such amount of interest, such interest and such amount shall be compounded daily."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Exception for penalty for failure to file estimated tax",
+        "text": "Subsection (a) shall not apply for purposes of computing the amount of any addition to tax under section 6654 or 6655."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date",
+        "pub_law": "Pub. L. 97–248, title III, §344(c), Sept. 3, 1982, 96 Stat. 636",
+        "effective_date": "apply to interest accruing after December 31, 1982.",
+        "text": "Pub. L. 97–248, title III, §344(c), Sept. 3, 1982, 96 Stat. 636 , provided that: \"The amendments made by this section [enacting this section and amending section 6601 of this title] shall apply to interest accruing after December 31, 1982.\""
+      }
+    ]
+  }
+}

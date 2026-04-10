@@ -1,0 +1,83 @@
+{
+  "section_number": 684,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle A",
+      "chapter": "CHAPTER 1",
+      "subchapter": "Subchapter J",
+      "part": "PART I",
+      "section": "§684"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 105–34, title XI, §1131(b), Aug. 5, 1997, 111 Stat. 978 ; amended Pub. L. 107–16, title V, §542(e)(1)(A)–(C), June 7, 2001, 115 Stat. 84 , 85; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§684",
+    "heading": "§684. Recognition of gain on certain transfers to certain foreign trusts and estates",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "In general",
+        "text": "Except as provided in regulations, in the case of any transfer of property by a United States person to a foreign estate or trust, for purposes of this subtitle, such transfer shall be treated as a sale or exchange for an amount equal to the fair market value of the property transferred, and the transferor shall recognize as gain the excess of- (1) the fair market value of the property so transferred, over (2) the adjusted basis (for purposes of determining gain) of such property in the hands of the transferor."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Exception",
+        "text": "Subsection (a) shall not apply to a transfer to a trust by a United States person to the extent that any person is treated as the owner of such trust under section 671."
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Treatment of trusts which become foreign trusts",
+        "text": "If a trust which is not a foreign trust becomes a foreign trust, such trust shall be treated for purposes of this section as having transferred, immediately before becoming a foreign trust, all of its assets to a foreign trust."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "2010",
+        "entries": [
+          "Pub. L. 111–312 amended catchline, introductory provisions of subsec. (a), and subsec. (b) to read as if amendment by Pub. L. 107–16, §542(e)(1)(A)–(C), had never been enacted. See 2001 Amendment note below. Prior to amendment, subsec. (b) read as follows: \"Exceptions.- \"(1) Transfers to certain trusts.-Subsection (a) shall not apply to a transfer to a trust by a United States person to the extent that any United States person is treated as the owner of such trust under section 671. \"(2) Lifetime transfers to nonresident aliens.-Subsection (a) shall not apply to a lifetime transfer to a nonresident alien.\""
+        ]
+      },
+      {
+        "year": "2001",
+        "entries": [
+          "Pub. L. 107–16, §542(e)(1)(A)–(C), amended section by inserting \"and nonresident aliens\" after \"estates\" in section catchline and \"or to a nonresident alien\" after \"or trust\" in introductory provisions of subsec. (a) and amending subsec. (b) generally. Prior to amendment, text of subsec. (b) read as follows: \"Subsection (a) shall not apply to a transfer to a trust by a United States person to the extent that any person is treated as the owner of such trust under section 671.\""
+        ]
+      }
+    ],
+    "other_notes": [
+      {
+        "heading": "Codification",
+        "text": "Another section 1131(b) of Pub. L. 105–34 amended sections 367, 721, and 1035 of this title."
+      }
+    ]
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 2010 Amendment",
+        "pub_law": "Pub. L. 111–312",
+        "effective_date": "Effective and Termination Dates of 2010 Amendment note under section 121 of this title.",
+        "text": "Amendment by Pub. L. 111–312 applicable to estates of decedents dying, and transfers made after Dec. 31, 2009, except as otherwise provided, see section 301(e) of Pub. L. 111–312, set out as an Effective and Termination Dates of 2010 Amendment note under section 121 of this title."
+      },
+      {
+        "heading": "Effective Date of 2001 Amendment",
+        "pub_law": "Pub. L. 107–16",
+        "effective_date": "",
+        "text": "Amendment by Pub. L. 107–16 applicable to transfers after Dec. 31, 2009, see section 542(f)(2) of Pub. L. 107–16, set out as a note under section 121 of this title."
+      }
+    ]
+  }
+}

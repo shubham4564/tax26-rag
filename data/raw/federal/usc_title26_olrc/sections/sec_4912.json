@@ -1,0 +1,97 @@
+{
+  "section_number": 4912,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle D",
+      "chapter": "CHAPTER 41",
+      "section": "§4912"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 100–203, title X, §10714(a), Dec. 22, 1987, 101 Stat. 1330–470 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§4912",
+    "heading": "§4912. Tax on disqualifying lobbying expenditures of certain organizations",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Tax on organization",
+        "text": "If an organization to which this section applies is not described in section 501(c)(3) for any taxable year by reason of making lobbying expenditures, there is hereby imposed a tax on the lobbying expenditures of such organization for such taxable year equal to 5 percent of the amount of such expenditures. The tax imposed by this subsection shall be paid by the organization."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "On management",
+        "text": "If tax is imposed under subsection (a) on the lobbying expenditures of any organization, there is hereby imposed on the agreement of any organization manager to the making of any such expenditures, knowing that such expenditures are likely to result in the organization not being described in section 501(c)(3), a tax equal to 5 percent of the amount of such expenditures, unless such agreement is not willful and is due to reasonable cause. The tax imposed by this subsection shall be paid by any manager who agreed to the making of the expenditures."
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Organizations to which section applies",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "In general",
+            "text": "Except as provided in paragraph (2), this section shall apply to any organization which was exempt (or was determined by the Secretary to be exempt) from taxation under section 501(a) by reason of being an organization described in section 501(c)(3)."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Exceptions",
+            "text": "This section shall not apply to any organization- (A) to which an election under section 501(h) applies, (B) which is a disqualified organization (within the meaning of section 501(h)(5)), or (C) which is a private foundation."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(d)",
+        "heading": "Definitions",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Lobbying expenditures",
+            "text": "The term \"lobbying expenditure\" means any amount paid or incurred by the organization in carrying on propaganda, or otherwise attempting to influence legislation."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Organization manager",
+            "text": "The term \"organization manager\" has the meaning given to such term by section 4955(f)(2)."
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Joint and several liability",
+            "text": "If more than 1 person is liable under subsection (b), all such persons shall be jointly and severally liable under such subsection."
+          }
+        ]
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date",
+        "pub_law": "Pub. L. 100–203, title X, §10714(e), Dec. 22, 1987, 101 Stat. 1330",
+        "effective_date": "apply to taxable years beginning after the date of the enactment of this Act [Dec.",
+        "text": "Pub. L. 100–203, title X, §10714(e), Dec. 22, 1987, 101 Stat. 1330–472 , provided that: \"The amendments made by this section [enacting this section and amending sections 6501 and 7454 of this title] shall apply to taxable years beginning after the date of the enactment of this Act [Dec. 22, 1987].\""
+      }
+    ]
+  }
+}

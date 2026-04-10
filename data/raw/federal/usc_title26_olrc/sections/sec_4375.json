@@ -1,0 +1,104 @@
+{
+  "section_number": 4375,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle D",
+      "chapter": "CHAPTER 34",
+      "subchapter": "Subchapter B",
+      "section": "§4375"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 111–148, title VI, §6301(e)(2)(A), Mar. 23, 2010, 124 Stat. 743 ; amended Pub. L. 116–94, div. N, title I, §104(b), Dec. 20, 2019, 133 Stat. 3098 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§4375",
+    "heading": "§4375. Health insurance",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Imposition of fee",
+        "text": "There is hereby imposed on each specified health insurance policy for each policy year ending after September 30, 2012, a fee equal to the product of $2 ($1 in the case of policy years ending during fiscal year 2013) multiplied by the average number of lives covered under the policy."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Liability for fee",
+        "text": "The fee imposed by subsection (a) shall be paid by the issuer of the policy."
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Specified health insurance policy",
+        "text": "For purposes of this section:",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "In general",
+            "text": "Except as otherwise provided in this section, the term \"specified health insurance policy\" means any accident or health insurance policy (including a policy under a group health plan) issued with respect to individuals residing in the United States."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Exemption for certain policies",
+            "text": "The term \"specified health insurance policy\" does not include any insurance if substantially all of its coverage is of excepted benefits described in section 9832(c)."
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Treatment of prepaid health coverage arrangements",
+            "text": "",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "In general",
+                "text": "In the case of any arrangement described in subparagraph (B), such arrangement shall be treated as a specified health insurance policy, and the person referred to in such subparagraph shall be treated as the issuer."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Description of arrangements",
+                "text": "An arrangement is described in this subparagraph if under such arrangement fixed payments or premiums are received as consideration for any person's agreement to provide or arrange for the provision of accident or health coverage to residents of the United States, regardless of how such coverage is provided or arranged to be provided."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(d)",
+        "heading": "Adjustments for increases in health care spending",
+        "text": "In the case of any policy year ending in any fiscal year beginning after September 30, 2014, the dollar amount in effect under subsection (a) for such policy year shall be equal to the sum of such dollar amount for policy years ending in the previous fiscal year (determined after the application of this subsection), plus an amount equal to the product of- (1) such dollar amount for policy years ending in the previous fiscal year, multiplied by (2) the percentage increase in the projected per capita amount of National Health Expenditures, as most recently published by the Secretary before the beginning of the fiscal year."
+      },
+      {
+        "level": "subsection",
+        "label": "(e)",
+        "heading": "Termination",
+        "text": "This section shall not apply to policy years ending after September 30, 2029."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "2019",
+        "entries": [
+          "Subsec. (e). Pub. L. 116–94 substituted \"2029\" for \"2019\"."
+        ]
+      }
+    ],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": []
+  }
+}

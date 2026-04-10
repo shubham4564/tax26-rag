@@ -1,0 +1,234 @@
+{
+  "section_number": 2010,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle B",
+      "chapter": "CHAPTER 11",
+      "subchapter": "Subchapter A",
+      "part": "PART II",
+      "section": "§2010"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 94–455, title XX, §2001(a)(2), Oct. 4, 1976, 90 Stat. 1848 ; amended Pub. L. 97–34, title IV, §401(a)(1), (2)(A), Aug. 13, 1981, 95 Stat. 299 ; Pub. L. 101–508, title XI, §11801(a)(39), (c)(19)(A), Nov. 5, 1990, 104 Stat. 1388–521 , 1388-528; Pub. L. 105–34, title V, §501(a)(1)(A), (B), Aug. 5, 1997, 111 Stat. 845 ; Pub. L. 107–16, title V, §521(a), June 7, 2001, 115 Stat. 71 ; Pub. L. 111–312, title III, §§302(a)(1), 303(a), Dec. 17, 2010, 124 Stat. 3301 , 3302; Pub. L. 112–240, title I, §101(c)(2), Jan. 2, 2013, 126 Stat. 2318 ; Pub. L. 115–97, title I, §§11002(d)(1)(CC), 11061(a), Dec. 22, 2017, 131 Stat. 2060 , 2091; Pub. L. 119–21, title VII, §70106(a), July 4, 2025, 139 Stat. 162 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§2010",
+    "heading": "§2010. Unified credit against estate tax",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "General rule",
+        "text": "A credit of the applicable credit amount shall be allowed to the estate of every decedent against the tax imposed by section 2001."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Adjustment to credit for certain gifts made before 1977",
+        "text": "The amount of the credit allowable under subsection (a) shall be reduced by an amount equal to 20 percent of the aggregate amount allowed as a specific exemption under section 2521 (as in effect before its repeal by the Tax Reform Act of 1976) with respect to gifts made by the decedent after September 8, 1976."
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Applicable credit amount",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "In general",
+            "text": "For purposes of this section, the applicable credit amount is the amount of the tentative tax which would be determined under section 2001(c) if the amount with respect to which such tentative tax is to be computed were equal to the applicable exclusion amount."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Applicable exclusion amount",
+            "text": "For purposes of this subsection, the applicable exclusion amount is the sum of- (A) the basic exclusion amount, and (B) in the case of a surviving spouse, the deceased spousal unused exclusion amount."
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Basic exclusion amount",
+            "text": "",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "In general",
+                "text": "For purposes of this subsection, the basic exclusion amount is $15,000,000."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Inflation adjustment",
+                "text": "In the case of any decedent dying in a calendar year after 2026, the dollar amount in subparagraph (A) shall be increased by an amount equal to- (i) such dollar amount, multiplied by (ii) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting \"calendar year 2025\" for \"calendar year 2016\" in subparagraph (A)(ii) thereof. If any amount as adjusted under the preceding sentence is not a multiple of $10,000, such amount shall be rounded to the nearest multiple of $10,000."
+              }
+            ]
+          },
+          {
+            "level": "paragraph",
+            "label": "(4)",
+            "heading": "Deceased spousal unused exclusion amount",
+            "text": "For purposes of this subsection, with respect to a surviving spouse of a deceased spouse dying after December 31, 2010, the term \"deceased spousal unused exclusion amount\" means the lesser of- (A) the basic exclusion amount, or (B) the excess of- (i) the applicable exclusion amount of the last such deceased spouse of such surviving spouse, over (ii) the amount with respect to which the tentative tax is determined under section 2001(b)(1) on the estate of such deceased spouse."
+          },
+          {
+            "level": "paragraph",
+            "label": "(5)",
+            "heading": "Special rules",
+            "text": "",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "Election required",
+                "text": "A deceased spousal unused exclusion amount may not be taken into account by a surviving spouse under paragraph (2) unless the executor of the estate of the deceased spouse files an estate tax return on which such amount is computed and makes an election on such return that such amount may be so taken into account. Such election, once made, shall be irrevocable. No election may be made under this subparagraph if such return is filed after the time prescribed by law (including extensions) for filing such return."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Examination of prior returns after expiration of period of limitations with respect to deceased spousal unused exclusion amount",
+                "text": "Notwithstanding any period of limitation in section 6501, after the time has expired under section 6501 within which a tax may be assessed under chapter 11 or 12 with respect to a deceased spousal unused exclusion amount, the Secretary may examine a return of the deceased spouse to make determinations with respect to such amount for purposes of carrying out this subsection."
+              }
+            ]
+          },
+          {
+            "level": "paragraph",
+            "label": "(6)",
+            "heading": "Regulations",
+            "text": "The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out this subsection."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(d)",
+        "heading": "Limitation based on amount of tax",
+        "text": "The amount of the credit allowed by subsection (a) shall not exceed the amount of the tax imposed by section 2001."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [
+      "The Tax Reform Act of 1976, referred to in subsec. (b), is Pub.",
+      "L. 94–455, Oct. 4, 1976, 90 Stat. 1520 .",
+      "For complete classification of this Act to the Code, see Tables.",
+      "Section 2521 of this title, referred to in subsec. (b), was repealed by section 2001(b)(3) of Pub.",
+      "L. 94–455, applicable to gifts made after Dec. 31, 1976."
+    ],
+    "amendments": [
+      {
+        "year": "2025",
+        "entries": [
+          "Subsec. (c)(3)(A). Pub. L. 119–21, §70106(a)(1), substituted \"$15,000,000\" for \"$5,000,000\".",
+          "Subsec. (c)(3)(B). Pub. L. 119–21, §70106(a)(2)(A), substituted \"2026\" for \"2011\" in introductory provisions.",
+          "Subsec. (c)(3)(B)(ii). Pub. L. 119–21, §70106(a)(2)(B), substituted \"calendar year 2025\" for \"calendar year 2010\".",
+          "Subsec. (c)(3)(C). Pub. L. 119–21, §70106(a)(3), struck out subpar. (C). Text read as follows: \"In the case of estates of decedents dying or gifts made after December 31, 2017, and before January 1, 2026, subparagraph (A) shall be applied by substituting '$10,000,000' for '$5,000,000'.\""
+        ]
+      },
+      {
+        "year": "2017",
+        "entries": [
+          "Subsec. (c)(3)(B)(ii). Pub. L. 115–97, §11002(d)(1)(CC), substituted \"for 'calendar year 2016' in subparagraph (A)(ii)\" for \"for 'calendar year 1992' in subparagraph (B)\".",
+          "Subsec. (c)(3)(C). Pub. L. 115–97, §11061(a), added subpar. (C)."
+        ]
+      },
+      {
+        "year": "2013",
+        "entries": [
+          "Subsec. (c)(4)(B)(i). Pub. L. 112–240 substituted \"applicable exclusion amount\" for \"basic exclusion amount\"."
+        ]
+      },
+      {
+        "year": "2010",
+        "entries": [
+          "Subsec. (c). Pub. L. 111–312, §302(a)(1), amended subsec. (c) generally, substituting pars. (1) and (2) for text which provided that the applicable credit amount for purposes of this section was the amount of the tentative tax which would be determined under the rate schedule set forth in section 2001(c) if the amount with respect to which such tentative tax was to be computed were the applicable exclusion amount determined in accordance with the table, covering years 2002 to 2009, included in that text.",
+          "Subsec. (c)(2) to (6). Pub. L. 111–312, §303(a), added pars. (2) to (6) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: \"(A) In general.-For purposes of this subsection, the applicable exclusion amount is $5,000,000. \"(B) Inflation adjustment.-In the case of any decedent dying in a calendar year after 2011, the dollar amount in subparagraph (A) shall be increased by an amount equal to- \"(i) such dollar amount, multiplied by \"(ii) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting 'calendar year 2010' for 'calendar year 1992' in subparagraph (B) thereof. If any amount as adjusted under the preceding sentence is not a multiple of $10,000, such amount shall be rounded to the nearest multiple of $10,000.\""
+        ]
+      },
+      {
+        "year": "2001",
+        "entries": [
+          "Subsec. (c). Pub. L. 107–16, in table, substituted provision that in the case of estates of decedents dying during the years 2002 and 2003, the years 2004 and 2005, the years 2006, 2007, and 2008, and the year 2009, the applicable exclusion amount is $1,000,000, $1,500,000, $2,000,000, and $3,500,000, respectively, for provision that in the case of decedents dying, and gifts made, during the year 1998, the year 1999, the years 2000 and 2001, the years 2002 and 2003, the year 2004, the year 2005, and the year 2006 or thereafter, the applicable exclusion amount is $625,000, $650,000, $675,000, $700,000, $850,000, $950,000, and $1,000,000, respectively."
+        ]
+      },
+      {
+        "year": "1997",
+        "entries": [
+          "Subsec. (a). Pub. L. 105–34, §501(a)(1)(A), substituted \"the applicable credit amount\" for \"$192,800\". Subsecs. (c), (d). Pub. L. 105–34, §501(a)(1)(B), added subsec. (c) and redesignated former subsec. (c) as (d)."
+        ]
+      },
+      {
+        "year": "1990",
+        "entries": [
+          "Subsecs. (b) to (d). Pub. L. 101–508 redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which provided for a phase-in of the unified credit against estate tax."
+        ]
+      },
+      {
+        "year": "1981",
+        "entries": [
+          "Subsec. (a). Pub. L. 97–34, §401(a)(1), substituted \"$192,800\" for \"$47,000\".",
+          "Subsec. (b). Pub. L. 97–34, §401(a)(2)(A), struck out \"$47,000\" before \"credit\" from heading and in text substituted in subsec. (a) substitutions for \"$192,800\" amounts of \"$62,800\", \"$79,300\", \"$96,300\", \"$121,800\", and \"$155,800\" in the case of decedents dying in 1982, 1983, 1984, 1985, and 1986, respectively, for subsec. (a) substitutions for \"$47,000\" amounts of \"$30,000\", \"$34,000\", \"$38,000\", and \"$42,500\" in the case of decedents dying in 1977, 1978, 1979, and 1980, respectively."
+        ]
+      }
+    ],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 2025 Amendment",
+        "pub_law": "Pub. L. 119–21, title VII, §70106(b)",
+        "effective_date": "apply to estates of decedents dying and gifts made after December 31, 2025.",
+        "text": "Pub. L. 119–21, title VII, §70106(b), July 4, 2025, 139 Stat. 162 , provided that: \"The amendments made by this section [amending this section] shall apply to estates of decedents dying and gifts made after December 31, 2025.\""
+      },
+      {
+        "heading": "Effective Date of 2017 Amendment",
+        "pub_law": "Pub. L. 115–97",
+        "effective_date": "taxable years beginning after Dec.",
+        "text": "Amendment by section 11002(d)(1)(CC) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title. Amendment by section 11061(a) of Pub. L. 115–97 applicable to estates of decedents dying and gifts made after Dec. 31, 2017, see section 11061(c) of Pub. L. 115–97, set out as a note under section 2001 of this title."
+      },
+      {
+        "heading": "Effective Date of 2013 Amendment",
+        "pub_law": "Pub. L. 112–240",
+        "effective_date": "effective as if included in the amendments made by section 303 of the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010, Pub.",
+        "text": "Amendment by Pub. L. 112–240 effective as if included in the amendments made by section 303 of the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010, Pub. L. 111–312, see section 101(c)(3)(B) of Pub. L. 112–240, set out as a note under section 2001 of this title."
+      },
+      {
+        "heading": "Effective Date of 2010 Amendment",
+        "pub_law": "Pub. L. 111–312",
+        "effective_date": "apply to estates of decedents dying and gifts made after December 31, 2010.",
+        "text": "Amendment by section 302(a)(1) of Pub. L. 111–312 applicable to estates of decedents dying, generation-skipping transfers, and gifts made, after Dec. 31, 2009, see section 302(f) of Pub. L. 111–312, set out as a note under section 2001 of this title. Pub. L. 111–312, title III, §303(c), Dec. 17, 2010, 124 Stat. 3303 , provided that: \"(1) In general.-Except as provided in paragraph (2), the amendments made by this section [amending this section and sections 2505, 2631, and 6018 of this title] shall apply to estates of decedents dying and gifts made after December 31, 2010. \"(2) Conforming amendment relating to generation-skipping transfers.-The amendment made by subsection (b)(2) [amending section 2631 of this title] shall apply to generation-skipping transfers after December 31, 2010.\""
+      },
+      {
+        "heading": "Effective Date of 2001 Amendment",
+        "pub_law": "Pub. L. 107–16, title V, §521(e)",
+        "effective_date": "apply to estates of decedents dying, and gifts made, after December 31, 2001.",
+        "text": "Pub. L. 107–16, title V, §521(e), June 7, 2001, 115 Stat. 72 , provided that: \"(1) In general.-Except as provided in paragraphs (2) and (3), the amendments made by this section [amending this section and sections 2057, 2505, and 2631 of this title] shall apply to estates of decedents dying, and gifts made, after December 31, 2001. \"(2) Subsection (b)(2).-The amendments made by subsection (b)(2) [amending section 2505 of this title] shall apply to gifts made after December 31, 2009. \"(3) Subsections (c) and (d).-The amendments made by subsections (c) and (d) [amending sections 2057 and 2631 of this title] shall apply to estates of decedents dying, and generation-skipping transfers, after December 31, 2003.\""
+      },
+      {
+        "heading": "Effective Date of 1997 Amendment",
+        "pub_law": "Pub. L. 105–34",
+        "effective_date": "",
+        "text": "Amendment by Pub. L. 105–34 applicable to estates of decedents dying, and gifts made, after Dec. 31, 1997, see section 501(f) of Pub. L. 105–34, set out as a note under section 2001 of this title."
+      },
+      {
+        "heading": "Effective Date of 1981 Amendment",
+        "pub_law": "Pub. L. 97–34, title IV, §401(c)(1), Aug. 13, 1981, 95 Stat. 300",
+        "effective_date": "apply to the estates of decedents dying after December 31, 1981\".",
+        "text": "Pub. L. 97–34, title IV, §401(c)(1), Aug. 13, 1981, 95 Stat. 300 , provided that: \"The amendments made by subsection (a) [amending this section and section 6018 of this title] shall apply to the estates of decedents dying after December 31, 1981\"."
+      },
+      {
+        "heading": "Savings Provision",
+        "pub_law": "Pub. L. 101–508",
+        "effective_date": "",
+        "text": "For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title."
+      }
+    ]
+  }
+}

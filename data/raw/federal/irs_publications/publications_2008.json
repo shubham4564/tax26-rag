@@ -1,0 +1,72 @@
+{
+  "year": 2008,
+  "total_attempted": 12,
+  "downloaded": 10,
+  "failed": 2,
+  "failed_publications": [
+    "590-A",
+    "590-B"
+  ],
+  "publications": [
+    {
+      "number": "17",
+      "title": "Your Federal Income Tax",
+      "year": 2008,
+      "filepath": "data/raw/federal/irs_publications/pub_17_2008.pdf"
+    },
+    {
+      "number": "334",
+      "title": "Tax Guide for Small Business",
+      "year": 2008,
+      "filepath": "data/raw/federal/irs_publications/pub_334_2008.pdf"
+    },
+    {
+      "number": "463",
+      "title": "Travel, Gift, and Car Expenses",
+      "year": 2008,
+      "filepath": "data/raw/federal/irs_publications/pub_463_2008.pdf"
+    },
+    {
+      "number": "501",
+      "title": "Dependents, Standard Deduction, and Filing Information",
+      "year": 2008,
+      "filepath": "data/raw/federal/irs_publications/pub_501_2008.pdf"
+    },
+    {
+      "number": "502",
+      "title": "Medical and Dental Expenses",
+      "year": 2008,
+      "filepath": "data/raw/federal/irs_publications/pub_502_2008.pdf"
+    },
+    {
+      "number": "504",
+      "title": "Divorced or Separated Individuals",
+      "year": 2008,
+      "filepath": "data/raw/federal/irs_publications/pub_504_2008.pdf"
+    },
+    {
+      "number": "525",
+      "title": "Taxable and Nontaxable Income",
+      "year": 2008,
+      "filepath": "data/raw/federal/irs_publications/pub_525_2008.pdf"
+    },
+    {
+      "number": "527",
+      "title": "Residential Rental Property",
+      "year": 2008,
+      "filepath": "data/raw/federal/irs_publications/pub_527_2008.pdf"
+    },
+    {
+      "number": "535",
+      "title": "Business Expenses",
+      "year": 2008,
+      "filepath": "data/raw/federal/irs_publications/pub_535_2008.pdf"
+    },
+    {
+      "number": "550",
+      "title": "Investment Income and Expenses",
+      "year": 2008,
+      "filepath": "data/raw/federal/irs_publications/pub_550_2008.pdf"
+    }
+  ]
+}

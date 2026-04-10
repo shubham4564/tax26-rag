@@ -1,0 +1,66 @@
+{
+  "section_number": 1036,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle A",
+      "chapter": "CHAPTER 1",
+      "subchapter": "Subchapter O",
+      "part": "PART III",
+      "section": "§1036"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Aug. 16, 1954, ch. 736, 68A Stat. 309 ; Pub. L. 105–34, title X, §1014(e)(3), Aug. 5, 1997, 111 Stat. 921 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§1036",
+    "heading": "§1036. Stock for stock of same corporation",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "General rule",
+        "text": "No gain or loss shall be recognized if common stock in a corporation is exchanged solely for common stock in the same corporation, or if preferred stock in a corporation is exchanged solely for preferred stock in the same corporation."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Nonqualified preferred stock not treated as stock",
+        "text": "For purposes of this section, nonqualified preferred stock (as defined in section 351(g)(2)) shall be treated as property other than stock."
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Cross references",
+        "text": "(1) For rules relating to recognition of gain or loss where an exchange is not solely in kind, see subsections (b) and (c) of section 1031. (2) For rules relating to the basis of property acquired in an exchange described in subsection (a), see subsection (d) of section 1031."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "1997",
+        "entries": [
+          "Subsecs. (b), (c). Pub. L. 105–34 added subsec. (b) and redesignated former subsec. (b) as (c)."
+        ]
+      }
+    ],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 1997 Amendment",
+        "pub_law": "Pub. L. 105–34",
+        "effective_date": "",
+        "text": "Amendment by Pub. L. 105–34 applicable, with certain exceptions, to transactions after June 8, 1997, see section 1014(f) of Pub. L. 105–34, set out as a note under section 351 of this title."
+      }
+    ]
+  }
+}

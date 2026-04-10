@@ -1,0 +1,51 @@
+{
+  "section_number": 7341,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle F",
+      "chapter": "CHAPTER 75",
+      "subchapter": "Subchapter D",
+      "section": "§7341"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Aug. 16, 1954, ch. 736, 68A Stat. 872 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§7341",
+    "heading": "§7341. Penalty for sales to evade tax",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Nonenforceability of contract",
+        "text": "Whenever any person who is liable to pay any tax imposed by this title upon, for, or in respect of, any property sells or causes or allows the same to be sold before such tax is paid, with intent to avoid such tax, or in fraud of the internal revenue laws, any debt contracted in such sale, and any security given therefor, unless the same shall have been bona fide transferred to an innocent holder, shall be void, and the collection thereof shall not be enforced in any court."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Forfeiture of sum paid on contract",
+        "text": "If such property has been paid for, in whole or in part, the sum so paid shall be deemed forfeited."
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Moiety",
+        "text": "Any person who shall sue for the sum so paid (in an action of debt) shall recover from the seller the amount so paid, one-half to his own use and the other half to the use of the United States."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": []
+  }
+}

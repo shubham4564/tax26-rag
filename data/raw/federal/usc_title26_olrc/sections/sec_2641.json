@@ -1,0 +1,58 @@
+{
+  "section_number": 2641,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle B",
+      "chapter": "CHAPTER 13",
+      "subchapter": "Subchapter E",
+      "section": "§2641"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2722 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§2641",
+    "heading": "§2641. Applicable rate",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "General rule",
+        "text": "For purposes of this chapter, the term \"applicable rate\" means, with respect to any generation-skipping transfer, the product of- (1) the maximum Federal estate tax rate, and (2) the inclusion ratio with respect to the transfer."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Maximum Federal estate tax rate",
+        "text": "For purposes of subsection (a), the term \"maximum Federal estate tax rate\" means the maximum rate imposed by section 2001 on the estates of decedents dying at the time of the taxable distribution, taxable termination, or direct skip, as the case may be."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date",
+        "pub_law": "Pub. L. 99–514",
+        "effective_date": "",
+        "text": "Section applicable to generation-skipping transfers (within the meaning of section 2611 of this title) made after Oct. 22, 1986, except as otherwise provided, see section 1433 of Pub. L. 99–514, set out as a note under section 2601 of this title."
+      },
+      {
+        "heading": "Modification of Generation-Skipping Transfer Tax",
+        "pub_law": "Pub. L. 111–312, title III, §302(c), Dec. 17, 2010, 124 Stat. 3302",
+        "effective_date": "",
+        "text": "Pub. L. 111–312, title III, §302(c), Dec. 17, 2010, 124 Stat. 3302 , provided that: \"In the case of any generation-skipping transfer made after December 31, 2009, and before January 1, 2011, the applicable rate determined under section 2641(a) of the Internal Revenue Code of 1986 shall be zero.\""
+      }
+    ]
+  }
+}

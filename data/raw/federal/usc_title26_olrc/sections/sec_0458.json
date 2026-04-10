@@ -1,0 +1,207 @@
+{
+  "section_number": 458,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle A",
+      "chapter": "CHAPTER 1",
+      "subchapter": "Subchapter E",
+      "part": "PART II",
+      "section": "§458"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 95–600, title III, §372(a), Nov. 6, 1978, 92 Stat. 2860 ; amended Pub. L. 115–141, div. U, title IV, §401(a)(114), (115), Mar. 23, 2018, 132 Stat. 1189 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§458",
+    "heading": "§458. Magazines, paperbacks, and records returned after the close of the taxable year",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Exclusion from gross income",
+        "text": "A taxpayer who is on an accrual method of accounting may elect not to include in the gross income for the taxable year the income attributable to the qualified sale of any magazine, paperback, or record which is returned to the taxpayer before the close of the merchandise return period."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Definitions and special rules",
+        "text": "For purposes of this section-",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Magazine",
+            "text": "The term \"magazine\" includes any other periodical."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Paperback",
+            "text": "The term \"paperback\" means any book which has a flexible outer cover and the pages of which are affixed directly to such outer cover. Such term does not include a magazine."
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Record",
+            "text": "The term \"record\" means a disc, tape, or similar object on which musical, spoken, or other sounds are recorded."
+          },
+          {
+            "level": "paragraph",
+            "label": "(4)",
+            "heading": "Separate application with respect to magazines, paperbacks, and records",
+            "text": "If a taxpayer makes qualified sales of more than one category of merchandise in connection with the same trade or business, this section shall be applied as if the qualified sales of each such category were made in connection with a separate trade or business. For purposes of the preceding sentence, magazines, paperbacks, and records shall each be treated as a separate category of merchandise."
+          },
+          {
+            "level": "paragraph",
+            "label": "(5)",
+            "heading": "Qualified sale",
+            "text": "A sale of a magazine, paperback, or record is a qualified sale if- (A) at the time of sale, the taxpayer has a legal obligation to adjust the sales price of such magazine, paperback, or record if it is not resold, and (B) the sales price of such magazine, paperback, or record is adjusted by the taxpayer because of a failure to resell it."
+          },
+          {
+            "level": "paragraph",
+            "label": "(6)",
+            "heading": "Amount excluded",
+            "text": "The amount excluded under this section with respect to any qualified sale shall be the lesser of- (A) the amount covered by the legal obligation described in paragraph (5)(A), or (B) the amount of the adjustment agreed to by the taxpayer before the close of the merchandise return period."
+          },
+          {
+            "level": "paragraph",
+            "label": "(7)",
+            "heading": "Merchandise return period",
+            "text": "(A) Except as provided in subparagraph (B), the term \"merchandise return period\" means, with respect to any taxable year- (i) in the case of magazines, the period of 2 months and 15 days first occurring after the close of taxable year, or (ii) in the case of paperbacks and records, the period of 4 months and 15 days first occurring after the close of the taxable year. (B) The taxpayer may select a shorter period than the applicable period set forth in subparagraph (A). (C) Any change in the merchandise return period shall be treated as a change in the method of accounting."
+          },
+          {
+            "level": "paragraph",
+            "label": "(8)",
+            "heading": "Certain evidence may be substituted for physical return of merchandise",
+            "text": "Under regulations prescribed by the Secretary, the taxpayer may substitute, for the physical return of magazines, paperbacks, or records required by subsection (a), certification or other evidence that the magazine, paperback, or record has not been resold and will not be resold if such evidence- (A) is in the possession of the taxpayer at the close of the merchandise return period, and (B) is satisfactory to the Secretary."
+          },
+          {
+            "level": "paragraph",
+            "label": "(9)",
+            "heading": "Repurchase by the taxpayer not treated as resale",
+            "text": "A repurchase by the taxpayer shall be treated as an adjustment of the sales price rather than as a resale."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Qualified sales to which section applies",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Election of benefits",
+            "text": "This section shall apply to qualified sales of magazines, paperbacks, or records, as the case may be, if and only if the taxpayer makes an election under this section with respect to the trade or business in connection with which such sales are made. An election under this section may be made without the consent of the Secretary. The election shall be made in such manner as the Secretary may by regulations prescribe and shall be made for any taxable year not later than the time prescribed by law for filing the return for such taxable year (including extensions thereof)."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Scope of election",
+            "text": "An election made under this section shall apply to all qualified sales of magazines, paperbacks, or records, as the case may be, made in connection with the trade or business with respect to which the taxpayer has made the election."
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Period to which election applies",
+            "text": "An election under this section shall be effective for the taxable year for which it is made and for all subsequent taxable years, unless the taxpayer secures the consent of the Secretary to the revocation of such election."
+          },
+          {
+            "level": "paragraph",
+            "label": "(4)",
+            "heading": "Treatment as method of accounting",
+            "text": "Except to the extent inconsistent with the provisions of this section, for purposes of this subtitle, the computation of taxable income under an election made under this section shall be treated as a method of accounting."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(d)",
+        "heading": "5-year spread of transitional adjustments for magazines",
+        "text": "In applying section 481(c) with respect to any election under this section which applies to magazines, the period for taking into account any decrease in taxable income resulting from the application of section 481(a)(2) shall be the taxable year for which the election is made and the 4 succeeding taxable years."
+      },
+      {
+        "level": "subsection",
+        "label": "(e)",
+        "heading": "Suspense account for paperbacks and records",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "In general",
+            "text": "In the case of any election under this section which applies to paperbacks or records, in lieu of applying section 481, the taxpayer shall establish a suspense account for the trade or business for the taxable year for which the election is made."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Initial opening balance",
+            "text": "The opening balance of the account described in paragraph (1) for the first taxable year to which the election applies shall be the largest dollar amount of returned merchandise which would have been taken into account under this section for any of the 3 immediately preceding taxable years if this section had applied to such preceding 3 taxable years. This paragraph and paragraph (3) shall be applied by taking into account only amounts attributable to the trade or business for which such account is established."
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Adjustments in suspense account",
+            "text": "At the close of each taxable year the suspense account shall be- (A) reduced the excess (if any) of- (i) the opening balance of the suspense account for the taxable year, over (ii) the amount excluded from gross income for the taxable year under subsection (a), or (B) increased (but not in excess of the initial opening balance) by the excess (if any) of- (i) the amount excluded from gross income for the taxable year under subsection (a), over (ii) the opening balance of the account for the taxable year."
+          },
+          {
+            "level": "paragraph",
+            "label": "(4)",
+            "heading": "Gross income adjustments",
+            "text": "",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "Reductions excluded from gross income",
+                "text": "In the case of any reduction under paragraph (3)(A) in the account for the taxable year, an amount equal to such reduction shall be excluded from gross income for such taxable year."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Increases added to gross income",
+                "text": "In the case of any increase under paragraph (3)(B) in the account for the taxable year, an amount equal to such increase shall be included in gross income for such taxable year. If the initial opening balance exceeds the dollar amount of returned merchandise which would have been taken into account under subsection (a) for the taxable year preceding the first taxable year for which the election is effective if this section had applied to such preceding taxable year, then an amount equal to the amount of such excess shall be included in gross income for such first taxable year."
+              }
+            ]
+          },
+          {
+            "level": "paragraph",
+            "label": "(5)",
+            "heading": "Subchapter C transactions",
+            "text": "The application of this subsection with respect to a taxpayer which is a party to any transaction with respect to which there is nonrecognition of gain or loss to any party to the transaction by reason of subchapter C shall be determined under regulations prescribed by the Secretary."
+          }
+        ]
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "2018",
+        "entries": [
+          "Subsec. (b)(9). Pub. L. 115–141, §401(a)(114), substituted \"Repurchase\" for \"Repurchased\" in heading.",
+          "Subsec. (c)(1). Pub. L. 115–141, §401(a)(115), substituted \"regulations prescribe\" for \"regulations prescribed\"."
+        ]
+      }
+    ],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date",
+        "pub_law": "Pub. L. 95–600, title III, §372(c), Nov. 6, 1978, 92 Stat. 2862",
+        "effective_date": "apply to taxable years beginning after September 30, 1979.",
+        "text": "Pub. L. 95–600, title III, §372(c), Nov. 6, 1978, 92 Stat. 2862 , provided that: \"The amendments made by this section [enacting this section] shall apply to taxable years beginning after September 30, 1979.\""
+      }
+    ]
+  }
+}

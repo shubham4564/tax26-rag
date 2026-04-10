@@ -1,0 +1,51 @@
+{
+  "section_number": 7121,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle F",
+      "chapter": "CHAPTER 74",
+      "section": "§7121"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Aug. 16, 1954, ch. 736, 68A Stat. 849 ; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§7121",
+    "heading": "§7121. Closing agreements",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Authorization",
+        "text": "The Secretary is authorized to enter into an agreement in writing with any person relating to the liability of such person (or of the person or estate for whom he acts) in respect of any internal revenue tax for any taxable period."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Finality",
+        "text": "If such agreement is approved by the Secretary (within such time as may be stated in such agreement, or later agreed to) such agreement shall be final and conclusive, and, except upon a showing of fraud or malfeasance, or misrepresentation of a material fact- (1) the case shall not be reopened as to the matters agreed upon or the agreement modified by any officer, employee, or agent of the United States, and (2) in any suit, action, or proceeding, such agreement, or any determination, assessment, collection, payment, abatement, refund, or credit made in accordance therewith, shall not be annulled, modified, set aside, or disregarded."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "1976",
+        "entries": [
+          "Subsecs. (a), (b). Pub. L. 94–455 struck out \"or his delegate\" after \"Secretary\"."
+        ]
+      }
+    ],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": []
+  }
+}

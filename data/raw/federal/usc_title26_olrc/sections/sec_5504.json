@@ -1,0 +1,64 @@
+{
+  "section_number": 5504,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle E",
+      "chapter": "CHAPTER 51",
+      "subchapter": "Subchapter H",
+      "part": "PART I",
+      "section": "§5504"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1391 ; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§5504",
+    "heading": "§5504. Operation",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "General",
+        "text": "Any manufacturer of vinegar qualified under this part may, under such regulations as the Secretary shall prescribe, separate by a vaporizing process the distilled spirits from the mash produced by him, and condense the vapor by introducing it into the water or other liquid used in making vinegar in his plant."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Removals",
+        "text": "No person shall remove, or cause to be removed, from any plant established under this part any vinegar or other fluid or material containing a greater proportion than 2 percent of proof spirits."
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Records",
+        "text": "Every person manufacturing vinegar by the vaporizing process shall keep such records and file such reports as the Secretary shall by regulations prescribe of the kind and quantity of materials received on his premises and fermented or mashed, the quantity of low wines produced, the quantity of such low wines used in the manufacture of vinegar, the quantity of vinegar produced, the quantity of vinegar removed from the premises, and such other information as may by regulations be required. Such records, and a copy of such reports, shall be preserved as regulations shall prescribe, and shall be kept available for inspection by any internal revenue officer during business hours."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "1976",
+        "entries": [
+          "Subsecs. (a), (c). Pub. L. 94–455 struck out \"or his delegate\" after \"Secretary\" wherever appearing."
+        ]
+      }
+    ],
+    "other_notes": [
+      {
+        "heading": "Prior Provisions",
+        "text": "Provisions similar to those comprising subsecs. (a) and (b) of this section were contained in prior section 5216(a)(1)(2), act Aug. 16, 1954, ch. 736, 68A Stat. 640 , prior to the general revision of this chapter by Pub. L. 85–859."
+      }
+    ]
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": []
+  }
+}

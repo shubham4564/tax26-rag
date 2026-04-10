@@ -1,0 +1,90 @@
+{
+  "section_number": 110,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle A",
+      "chapter": "CHAPTER 1",
+      "subchapter": "Subchapter B",
+      "part": "PART III",
+      "section": "§110"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 105–34, title XII, §1213(a), Aug. 5, 1997, 111 Stat. 1000 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§110",
+    "heading": "§110. Qualified lessee construction allowances for short-term leases",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "In general",
+        "text": "Gross income of a lessee does not include any amount received in cash (or treated as a rent reduction) by a lessee from a lessor- (1) under a short-term lease of retail space, and (2) for the purpose of such lessee's constructing or improving qualified long-term real property for use in such lessee's trade or business at such retail space, but only to the extent that such amount does not exceed the amount expended by the lessee for such construction or improvement."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Consistent treatment by lessor",
+        "text": "Qualified long-term real property constructed or improved in connection with any amount excluded from a lessee's income by reason of subsection (a) shall be treated as nonresidential real property of the lessor (including for purposes of section 168(i)(8)(B))."
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Definitions",
+        "text": "For purposes of this section-",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Qualified long-term real property",
+            "text": "The term \"qualified long-term real property\" means nonresidential real property which is part of, or otherwise present at, the retail space referred to in subsection (a) and which reverts to the lessor at the termination of the lease."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Short-term lease",
+            "text": "The term \"short-term lease\" means a lease (or other agreement for occupancy or use) of retail space for 15 years or less (as determined under the rules of section 168(i)(3))."
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Retail space",
+            "text": "The term \"retail space\" means real property leased, occupied, or otherwise used by a lessee in its trade or business of selling tangible personal property or services to the general public."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(d)",
+        "heading": "Information required to be furnished to Secretary",
+        "text": "Under regulations, the lessee and lessor described in subsection (a) shall, at such times and in such manner as may be provided in such regulations, furnish to the Secretary- (1) information concerning the amounts received (or treated as a rent reduction) and expended as described in subsection (a), and (2) any other information which the Secretary deems necessary to carry out the provisions of this section."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [],
+    "other_notes": [
+      {
+        "heading": "Prior Provisions",
+        "text": "A prior section 110, act Aug. 16, 1954, ch. 736, 68A Stat. 33 , related to income taxes paid by lessee corporations, prior to repeal by Pub. L. 101–508, title XI, §11801(a)(6), Nov. 5, 1990, 104 Stat. 1388–520 ."
+      }
+    ]
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date",
+        "pub_law": "Pub. L. 105–34, title XII, §1213(e), Aug. 5, 1997, 111 Stat. 1001",
+        "effective_date": "apply to leases entered into after the date of the enactment of this Act [Aug.",
+        "text": "Pub. L. 105–34, title XII, §1213(e), Aug. 5, 1997, 111 Stat. 1001 , provided that: \"The amendments made by this section [enacting this section and amending sections 168 and 6724 of this title] shall apply to leases entered into after the date of the enactment of this Act [Aug. 5, 1997].\""
+      }
+    ]
+  }
+}

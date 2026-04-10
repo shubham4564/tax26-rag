@@ -1,0 +1,65 @@
+{
+  "section_number": 5368,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle E",
+      "chapter": "CHAPTER 51",
+      "subchapter": "Subchapter F",
+      "part": "PART II",
+      "section": "§5368"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1381 ; amended Pub. L. 94–455, title XIX, §§1905(a)(20), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1820 , 1834.)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§5368",
+    "heading": "§5368. Gauging and marking",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Gauging and marking",
+        "text": "All wine or wine spirits shall be locked, sealed, and gauged, and shall be marked, branded, labeled, or otherwise identified, in such manner as the Secretary may by regulations prescribe."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Marking",
+        "text": "Wines shall be removed in such containers (including vessels, vehicles, and pipelines) bearing such marks and labels evidencing compliance with this chapter, as the Secretary may by regulations prescribe."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "1976",
+        "entries": [
+          "Pub. L. 94–455 substituted \"Gauging and marking\" for \"Gauging, marking, and stamping\" in section catchline, substituted \"Marking\" for \"Stamping\" in heading for subsec. (b), and, in text of subsec. (b), substituted \"marks and labels\" for \"marks, labels, and stamps\" and struck out \"or his delegate\" after \"Secretary\" wherever appearing."
+        ]
+      }
+    ],
+    "other_notes": [
+      {
+        "heading": "Prior Provisions",
+        "text": "A prior section 5368, act Aug. 16, 1954, ch. 736, 68A Stat. 666 , consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859."
+      }
+    ]
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 1976 Amendment",
+        "pub_law": "Pub. L. 94–455",
+        "effective_date": "effective on first day of first month which begins more than 90 days after Oct.",
+        "text": "Amendment by section 1905(a)(20) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title."
+      }
+    ]
+  }
+}

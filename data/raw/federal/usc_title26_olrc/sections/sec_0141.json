@@ -1,0 +1,372 @@
+{
+  "section_number": 141,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle A",
+      "chapter": "CHAPTER 1",
+      "subchapter": "Subchapter B",
+      "part": "PART IV",
+      "section": "§141"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2603 ; amended Pub. L. 100–203, title X, §10631(a), Dec. 22, 1987, 101 Stat. 1330–453 ; Pub. L. 100–647, title I, §1013(a)(38), Nov. 10, 1988, 102 Stat. 3544 ; Pub. L. 109–58, title XIII, §1327(b), (c), Aug. 8, 2005, 119 Stat. 1019 ; Pub. L. 117–58, div. H, title IV, §80402(d), Nov. 15, 2021, 135 Stat. 1334 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§141",
+    "heading": "§141. Private activity bond; qualified bond",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Private activity bond",
+        "text": "For purposes of this title, the term \"private activity bond\" means any bond issued as part of an issue- (1) which meets- (A) the private business use test of paragraph (1) of subsection (b), and (B) the private security or payment test of paragraph (2) of subsection (b), or (2) which meets the private loan financing test of subsection (c)."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Private business tests",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Private business use test",
+            "text": "Except as otherwise provided in this subsection, an issue meets the test of this paragraph if more than 10 percent of the proceeds of the issue are to be used for any private business use."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Private security or payment test",
+            "text": "Except as otherwise provided in this subsection, an issue meets the test of this paragraph if the payment of the principal of, or the interest on, more than 10 percent of the proceeds of such issue is (under the terms of such issue or any underlying arrangement) directly or indirectly- (A) secured by any interest in- (i) property used or to be used for a private business use, or (ii) payments in respect of such property, or (B) to be derived from payments (whether or not to the issuer) in respect of property, or borrowed money, used or to be used for a private business use."
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "5 percent test for private business use not related or disproportionate to government use financed by the issue",
+            "text": "",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "In general",
+                "text": "An issue shall be treated as meeting the tests of paragraphs (1) and (2) if such tests would be met if such paragraphs were applied- (i) by substituting \"5 percent\" for \"10 percent\" each place it appears, and (ii) by taking into account only- (I) the proceeds of the issue which are to be used for any private business use which is not related to any government use of such proceeds, (II) the disproportionate related business use proceeds of the issue, and (III) payments, property, and borrowed money with respect to any use of proceeds described in subclause (I) or (II)."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Disproportionate related business use proceeds",
+                "text": "For purposes of subparagraph (A), the disproportionate related business use proceeds of an issue is an amount equal to the aggregate of the excesses (determined under the following sentence) for each private business use of the proceeds of an issue which is related to a government use of such proceeds. The excess determined under this sentence is the excess of- (i) the proceeds of the issue which are to be used for the private business use, over (ii) the proceeds of the issue which are to be used for the government use to which such private business use relates."
+              }
+            ]
+          },
+          {
+            "level": "paragraph",
+            "label": "(4)",
+            "heading": "Lower limitation for certain output facilities",
+            "text": "An issue 5 percent or more of the proceeds of which are to be used with respect to any output facility (other than a facility for the furnishing of water) shall be treated as meeting the tests of paragraphs (1) and (2) if the nonqualified amount with respect to such issue exceeds the excess of- (A) $15,000,000, over (B) the aggregate nonqualified amounts with respect to all prior tax-exempt issues 5 percent or more of the proceeds of which are or will be used with respect to such facility (or any other facility which is part of the same project). There shall not be taken into account under subparagraph (B) any bond which is not outstanding at the time of the later issue or which is to be redeemed (other than in an advance refunding) from the net proceeds of the later issue."
+          },
+          {
+            "level": "paragraph",
+            "label": "(5)",
+            "heading": "Coordination with volume cap where nonqualified amount exceeds $15,000,000",
+            "text": "If the nonqualified amount with respect to an issue- (A) exceeds $15,000,000, but (B) does not exceed the amount which would cause a bond which is part of such issue to be treated as a private activity bond without regard to this paragraph, such bond shall nonetheless be treated as a private activity bond unless the issuer allocates a portion of its volume cap under section 146 to such issue in an amount equal to the excess of such nonqualified amount over $15,000,000."
+          },
+          {
+            "level": "paragraph",
+            "label": "(6)",
+            "heading": "Private business use defined",
+            "text": "",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "In general",
+                "text": "For purposes of this subsection, the term \"private business use\" means use (directly or indirectly) in a trade or business carried on by any person other than a governmental unit. For purposes of the preceding sentence, use as a member of the general public shall not be taken into account."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Clarification of trade or business",
+                "text": "For purposes of the 1st sentence of subparagraph (A), any activity carried on by a person other than a natural person shall be treated as a trade or business."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(C)",
+                "heading": "Clarification relating to qualified carbon dioxide capture facilities",
+                "text": "For purposes of this subsection, the sale of carbon dioxide produced by a qualified carbon dioxide capture facility (as defined in section 142(o)) which is owned by a governmental unit shall not constitute private business use."
+              }
+            ]
+          },
+          {
+            "level": "paragraph",
+            "label": "(7)",
+            "heading": "Government use",
+            "text": "The term \"government use\" means any use other than a private business use."
+          },
+          {
+            "level": "paragraph",
+            "label": "(8)",
+            "heading": "Nonqualified amount",
+            "text": "For purposes of this subsection, the term \"nonqualified amount\" means, with respect to an issue, the lesser of- (A) the proceeds of such issue which are to be used for any private business use, or (B) the proceeds of such issue with respect to which there are payments (or property or borrowed money) described in paragraph (2)."
+          },
+          {
+            "level": "paragraph",
+            "label": "(9)",
+            "heading": "Exception for qualified 501(c)(3) bonds",
+            "text": "There shall not be taken into account under this subsection or subsection (c) the portion of the proceeds of an issue which (if issued as a separate issue) would be treated as a qualified 501(c)(3) bond if the issuer elects to treat such portion as a qualified 501(c)(3) bond."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Private loan financing test",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "In general",
+            "text": "An issue meets the test of this subsection if the amount of the proceeds of the issue which are to be used (directly or indirectly) to make or finance loans (other than loans described in paragraph (2)) to persons other than governmental units exceeds the lesser of- (A) 5 percent of such proceeds, or (B) $5,000,000."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Exception for tax assessment, etc., loans",
+            "text": "For purposes of paragraph (1), a loan is described in this paragraph if such loan- (A) enables the borrower to finance any governmental tax or assessment of general application for a specific essential governmental function, (B) is a nonpurpose investment (within the meaning of section 148(f)(6)(A)), or (C) is a qualified natural gas supply contract (as defined in section 148(b)(4))."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(d)",
+        "heading": "Certain issues used to acquire nongovernmental output property treated as private activity bonds",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "In general",
+            "text": "For purposes of this title, the term \"private activity bond\" includes any bond issued as part of an issue if the amount of the proceeds of the issue which are to be used (directly or indirectly) for the acquisition by a governmental unit of nongovernmental output property exceeds the lesser of- (A) 5 percent of such proceeds, or (B) $5,000,000."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Nongovernmental output property",
+            "text": "Except as otherwise provided in this subsection, for purposes of paragraph (1), the term \"nongovernmental output property\" means any property (or interest therein) which before such acquisition was used (or held for use) by a person other than a governmental unit in connection with an output facility (within the meaning of subsection (b)(4)) (other than a facility for the furnishing of water). For purposes of the preceding sentence, use (or the holding for use) before October 14, 1987, shall not be taken into account."
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Exception for property acquired to provide output to certain areas",
+            "text": "For purposes of paragraph (1)-",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "In general",
+                "text": "The term \"nongovernmental output property\" shall not include any property which is to be used in connection with an output facility 95 percent or more of the output of which will be consumed in- (i) a qualified service area of the governmental unit acquiring the property, or (ii) a qualified annexed area of such unit."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Definitions",
+                "text": "For purposes of subparagraph (A)-"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(i)",
+        "heading": "Qualified service area",
+        "text": "The term \"qualified service area\" means, with respect to the governmental unit acquiring the property, any area throughout which such unit provided (at all times during the 10-year period ending on the date such property is acquired by such unit) output of the same type as the output to be provided by such property. For purposes of the preceding sentence, the period before October 14, 1987, shall not be taken into account.",
+        "children": [
+          {
+            "level": "clause",
+            "label": "(ii)",
+            "heading": "Qualified annexed area",
+            "text": "The term \"qualified annexed area\" means, with respect to the governmental unit acquiring the property, any area if- (I) such area is contiguous to, and annexed for general governmental purposes into, a qualified service area of such unit, (II) output from such property is made available to all members of the general public in the annexed area, and (III) the annexed area is not greater than 10 percent of such qualified service area."
+          },
+          {
+            "level": "subparagraph",
+            "label": "(C)",
+            "heading": "Limitation on size of annexed area not to apply where output capacity does not increase by more than 10 percent",
+            "text": "Subclause (III) of subparagraph (B)(ii) shall not apply to an annexation of an area by a governmental unit if the output capacity of the property acquired in connection with the annexation, when added to the output capacity of all other property which is not treated as nongovernmental output property by reason of subparagraph (A)(ii) with respect to such annexed area, does not exceed 10 percent of the output capacity of the property providing output of the same type to the qualified service area into which it is annexed."
+          },
+          {
+            "level": "subparagraph",
+            "label": "(D)",
+            "heading": "Rules for determining relative size, etc.",
+            "text": "For purposes of subparagraphs (B)(ii) and (C)- (i) The size of any qualified service area and the output capacity of property serving such area shall be determined as the close of the calendar year preceding the calendar year in which the acquisition of nongovernmental output property or the annexation occurs. (ii) A qualified annexed area shall be treated as part of the qualified service area into which it is annexed for purposes of determining whether any other area annexed in a later year is a qualified annexed area."
+          },
+          {
+            "level": "paragraph",
+            "label": "(4)",
+            "heading": "Exception for property converted to nonoutput use",
+            "text": "For purposes of paragraph (1)-",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "In general",
+                "text": "The term \"nongovernmental output property\" shall not include any property which is to be converted to a use not in connection with an output facility."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Exception",
+                "text": "Subparagraph (A) shall not apply to any property which is part of the output function of a nuclear power facility."
+              }
+            ]
+          },
+          {
+            "level": "paragraph",
+            "label": "(5)",
+            "heading": "Special rules",
+            "text": "In the case of a bond which is a private activity bond solely by reason of this subsection- (A) subsections (c) and (d) of section 147 (relating to limitations on acquisition of land and existing property) shall not apply, and (B) paragraph (8) of section 142(a) shall be applied as if it did not contain \"local\"."
+          },
+          {
+            "level": "paragraph",
+            "label": "(6)",
+            "heading": "Treatment of joint action agencies",
+            "text": "With respect to nongovernmental output property acquired by a joint action agency the members of which are governmental units, this subsection shall be applied at the member level by treating each member as acquiring its proportionate share of such property."
+          },
+          {
+            "level": "paragraph",
+            "label": "(7)",
+            "heading": "Exception for qualified electric and natural gas supply contracts",
+            "text": "The term \"nongovernmental output property\" shall not include any contract for the prepayment of electricity or natural gas which is not investment property under section 148(b)(2)."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(e)",
+        "heading": "Qualified bond",
+        "text": "For purposes of this part, the term \"qualified bond\" means any private activity bond if-",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "In general",
+            "text": "Such bond is- (A) an exempt facility bond, (B) a qualified mortgage bond, (C) a qualified veterans' mortgage bond, (D) a qualified small issue bond, (E) a qualified student loan bond, (F) a qualified redevelopment bond, or (G) a qualified 501(c)(3) bond."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Volume cap",
+            "text": "Such bond is issued as part of an issue which meets the applicable requirements of section 146, and 1"
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Other requirements",
+            "text": "Such bond meets the applicable requirements of each subsection of section 147."
+          }
+        ]
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "2021",
+        "entries": [
+          "Subsec. (b)(6)(C). Pub. L. 117–58 added subpar. (C)."
+        ]
+      },
+      {
+        "year": "2005",
+        "entries": [
+          "Subsec. (c)(2)(C). Pub. L. 109–58, §1327(b), added subpar. (C).",
+          "Subsec. (d)(7). Pub. L. 109–58, §1327(c), added par. (7)."
+        ]
+      },
+      {
+        "year": "1988",
+        "entries": [
+          "Subsec. (b)(5)(B). Pub. L. 100–647 substituted \"cause a bond\" for \"cause bond\"."
+        ]
+      },
+      {
+        "year": "1987",
+        "entries": [
+          "Subsecs. (d), (e). Pub. L. 100–203 added subsec. (d) and redesignated former subsec. (d) as (e)."
+        ]
+      }
+    ],
+    "other_notes": [
+      {
+        "heading": "Prior Provisions",
+        "text": "A prior section 141, acts Aug. 16, 1954, ch. 736, 68A Stat. 40 ; Feb. 26, 1964, Pub. L. 88–272, title I, §112(a), 78 Stat. 23 ; Dec. 30, 1969, Pub. L. 91–172, title VIII, §802(a), (c)(4), (e), 83 Stat. 676 , 678; Dec. 10, 1971, Pub. L. 92–178, title II, §§202, 203(a)–(c), title III, §301(a), 85 Stat. 511 , 520; Mar. 29, 1975, Pub. L. 94–12, title II, §§201(a), 202(a), 89 Stat. 28 , 29; Dec. 23, 1975, Pub. L. 94–164, §2(a)(1), (b)(1), 89 Stat. 970 , 971; Oct. 4, 1976, Pub. L. 94–455, title IV, §401(b)(1), (2), title XIX, §1906(b)(13)(A), 90 Stat. 1556 , 1834, provided for standard deduction, prior to repeal by Pub. L. 95–30, title I, §101(d)(1), May 23, 1977, 91 Stat. 133 , applicable to taxable years beginning after Dec. 31, 1976."
+      }
+    ]
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 2021 Amendment",
+        "pub_law": "Pub. L. 117–58",
+        "effective_date": "",
+        "text": "Amendment by Pub. L. 117–58 applicable to obligations issued after Dec. 31, 2021, see section 80402(f) of Pub. L. 117–58, set out as a note under section 45Q of this title."
+      },
+      {
+        "heading": "Effective Date of 2005 Amendment",
+        "pub_law": "Pub. L. 109–58, title XIII, §1327(d), Aug. 8, 2005, 119 Stat. 1019",
+        "effective_date": "apply to obligations issued after the date of the enactment of this Act [Aug.",
+        "text": "Pub. L. 109–58, title XIII, §1327(d), Aug. 8, 2005, 119 Stat. 1019 , provided that: \"The amendments made by this section [amending this section and section 148 of this title] shall apply to obligations issued after the date of the enactment of this Act [Aug. 8, 2005].\""
+      },
+      {
+        "heading": "Effective Date of 1988 Amendment",
+        "pub_law": "Pub. L. 100–647",
+        "effective_date": "effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub.",
+        "text": "Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title."
+      },
+      {
+        "heading": "Effective Date of 1987 Amendment",
+        "pub_law": "Pub. L. 100–203, title X, §10631(c), Dec. 22, 1987, 101 Stat. 1330",
+        "effective_date": "apply to bonds issued after October 13, 1987 (other than bonds issued to refund bonds issued on or before such date).",
+        "text": "Pub. L. 100–203, title X, §10631(c), Dec. 22, 1987, 101 Stat. 1330–455 , provided that: \"(1) In general.-Except as otherwise provided in this subsection, the amendments made by this section [amending this section and sections 142 and 146 of this title] shall apply to bonds issued after October 13, 1987 (other than bonds issued to refund bonds issued on or before such date). \"(2) Binding agreements.-The amendments made by this section shall not apply to bonds (other than advance refunding bonds) with respect to a facility acquired after October 13, 1987, pursuant to a binding contract entered into on or before such date. \"(3) Transitional rule.-The amendments made by this section shall not apply to bonds issued- \"(A) after October 13, 1987, by an authority created by a statute- \"(i) approved by the State Governor on July 24, 1986, and \"(ii) sections 1 through 10 of which became effective on January 15, 1987, and \"(B) to provide facilities serving the area specified in such statute on the date of its enactment.\""
+      },
+      {
+        "heading": "Effective Date; Transitional Rules",
+        "pub_law": "Pub. L. 99–514, title XIII",
+        "effective_date": "",
+        "text": "Pub. L. 99–514, title XIII, subtitle B, Oct. 22, 1986, 100 Stat. 2659 , as amended by Pub. L. 100–647, title I, §1013(b), (c)(1), (2)(A), (3)–(11)(D), (13), (14)(A), (d), (e)(1), (2)(A), (f)(1)(A), (2)–(7)(A), (8), (9), (11), (g), (h), Nov. 10, 1988, 102 Stat. 3545–3550 , 3558; Pub. L. 101–239, title VII, §7831(e), Dec. 19, 1989, 103 Stat. 2427 , provided that:"
+      },
+      {
+        "heading": "Regulations",
+        "pub_law": "Pub. L. 99–514, title XIII, §1301(i), Oct. 22, 1986, 100 Stat. 2657",
+        "effective_date": "",
+        "text": "Pub. L. 99–514, title XIII, §1301(i), Oct. 22, 1986, 100 Stat. 2657 , provided that: \"The Secretary of the Treasury or his delegate shall amend the provision in the Federal income tax regulations relating to when use pursuant to certain output contracts is considered to satisfy the private business tests of paragraphs (1) and (2) of section 141(b) of the Internal Revenue Code of 1986 to eliminate the requirement of a 3 percent guaranteed minimum payment.\""
+      },
+      {
+        "heading": "Application of Security Interest Test to Bond Financing of Hazardous Waste Clean-Up Activities",
+        "pub_law": "Pub. L. 100–647, title VI, §6179, Nov. 10, 1988, 102 Stat. 3727",
+        "effective_date": "",
+        "text": "Pub. L. 100–647, title VI, §6179, Nov. 10, 1988, 102 Stat. 3727 , provided that: \"Before January 1, 1989, the Secretary of the Treasury or his delegate shall issue guidance concerning the application of the private security or payment test under section 141(b)(2) of the Internal Revenue Code of 1986 to tax-exempt bond financing by State and local governments of hazardous waste clean-up activities conducted by such governments where some of the activities occur on privately owned land.\""
+      },
+      {
+        "heading": "State and Local Government Series Modifications",
+        "pub_law": "Pub. L. 99–514, title XIII, §1301(d), Oct. 22, 1986, 100 Stat. 2654",
+        "effective_date": "",
+        "text": "Pub. L. 99–514, title XIII, §1301(d), Oct. 22, 1986, 100 Stat. 2654 , provided that: \"Notwithstanding any other provision of law or any regulations promulgated thereunder (including the provisions of 31 CFR part 344) the Secretary of the Treasury shall extend by January 1, 1987, the State and Local Government Series program to provide- \"(1) instruments allowing flexible investment of bond proceeds in a manner eliminating the earning of rebatable arbitrage, \"(2) demand deposits under such program by eliminating advance notice and minimum maturity requirements related to the purchase of bonds, \"(3) operation of such program at no net cost to the Federal Government, and \"(4) deposits for a stated maturity under reasonable advance notice requirements.\""
+      },
+      {
+        "heading": "Management Contracts",
+        "pub_law": "Pub. L. 99–514, title XIII, §1301(e), Oct. 22, 1986, 100 Stat. 2655",
+        "effective_date": "",
+        "text": "Pub. L. 99–514, title XIII, §1301(e), Oct. 22, 1986, 100 Stat. 2655 , provided that: \"The Secretary of the Treasury or his delegate shall modify the Secretary's advance ruling guidelines relating to when use of property pursuant to a management contract is not considered a trade or business use by a private person for purposes of section 141(a) of the Internal Revenue Code of 1986 to provide that use pursuant to a management contract generally shall not be treated as trade or business use as long as- \"(1) the term of such contract (including renewal options) does not exceed 5 years, \"(2) the exempt owner has the option to cancel such contract at the end of any 3-year period, \"(3) the manager under the contract is not compensated (in whole or in part) on the basis of a share of net profits, and \"(4) at least 50 percent of the annual compensation of the manager under such contract is based on a periodic fixed fee.\" 1 So in original. Probably should end with a period after \"146\"."
+      }
+    ]
+  }
+}

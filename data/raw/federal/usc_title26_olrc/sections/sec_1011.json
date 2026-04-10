@@ -1,0 +1,60 @@
+{
+  "section_number": 1011,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle A",
+      "chapter": "CHAPTER 1",
+      "subchapter": "Subchapter O",
+      "part": "PART II",
+      "section": "§1011"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Aug. 16, 1954, ch. 736, 68A Stat. 296 ; Pub. L. 91–172, title II, §201(f), Dec. 30, 1969, 83 Stat. 564 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§1011",
+    "heading": "§1011. Adjusted basis for determining gain or loss",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "General rule",
+        "text": "The adjusted basis for determining the gain or loss from the sale or other disposition of property, whenever acquired, shall be the basis (determined under section 1012 or other applicable sections of this subchapter and subchapters C (relating to corporate distributions and adjustments), K (relating to partners and partnerships), and P (relating to capital gains and losses)), adjusted as provided in section 1016."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Bargain sale to a charitable organization",
+        "text": "If a deduction is allowable under section 170 (relating to charitable contributions) by reason of a sale, then the adjusted basis for determining the gain from such sale shall be that portion of the adjusted basis which bears the same ratio to the adjusted basis as the amount realized bears to the fair market value of the property."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "1969",
+        "entries": [
+          "Pub. L. 91–172 redesignated existing provisions as subsec. (a) and added subsec. (b)."
+        ]
+      }
+    ],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 1969 Amendment",
+        "pub_law": "Pub. L. 91–172",
+        "effective_date": "",
+        "text": "Amendment by Pub. L. 91–172 applicable with respect to sales made after Dec. 19, 1969, see section 201(g)(6) of Pub. L. 91–172, set out as a note under section 170 of this title."
+      }
+    ]
+  }
+}

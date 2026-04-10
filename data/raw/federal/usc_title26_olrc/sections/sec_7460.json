@@ -1,0 +1,46 @@
+{
+  "section_number": 7460,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle F",
+      "chapter": "CHAPTER 76",
+      "subchapter": "Subchapter C",
+      "part": "PART II",
+      "section": "§7460"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Aug. 16, 1954, ch. 736, 68A Stat. 887 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§7460",
+    "heading": "§7460. Provisions of special application to divisions",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Hearings, determinations, and reports",
+        "text": "A division shall hear, and make a determination upon, any proceeding instituted before the Tax Court and any motion in connection therewith, assigned to such division by the chief judge, and shall make a report of any such determination which constitutes its final disposition of the proceeding."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Effect of action by a division",
+        "text": "The report of the division shall become the report of the Tax Court within 30 days after such report by the division, unless within such period the chief judge has directed that such report shall be reviewed by the Tax Court. Any preliminary action by a division which does not form the basis for the entry of the final decision shall not be subject to review by the Tax Court except in accordance with such rules as the Tax Court may prescribe. The report of a division shall not be a part of the record in any case in which the chief judge directs that such report shall be reviewed by the Tax Court."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": []
+  }
+}

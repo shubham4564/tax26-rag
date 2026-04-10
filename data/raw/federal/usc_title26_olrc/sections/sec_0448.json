@@ -1,0 +1,266 @@
+{
+  "section_number": 448,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle A",
+      "chapter": "CHAPTER 1",
+      "subchapter": "Subchapter E",
+      "part": "PART II",
+      "section": "§448"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 99–514, title VIII, §801(a), Oct. 22, 1986, 100 Stat. 2345 ; amended Pub. L. 100–647, title I, §1008(a)(1), (2), (7)–(9), title VI, §6032(a), Nov. 10, 1988, 102 Stat. 3436 , 3437, 3695; Pub. L. 107–147, title IV, §403(a), Mar. 9, 2002, 116 Stat. 40 ; Pub. L. 115–97, title I, §13102(a)(1)–(4), Dec. 22, 2017, 131 Stat. 2102 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§448",
+    "heading": "§448. Limitation on use of cash method of accounting",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "General rule",
+        "text": "Except as otherwise provided in this section, in the case of a- (1) C corporation, (2) partnership which has a C corporation as a partner, or (3) tax shelter, taxable income shall not be computed under the cash receipts and disbursements method of accounting."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Exceptions",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Farming business",
+            "text": "Paragraphs (1) and (2) of subsection (a) shall not apply to any farming business."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Qualified personal service corporations",
+            "text": "Paragraphs (1) and (2) of subsection (a) shall not apply to a qualified personal service corporation, and such a corporation shall be treated as an individual for purposes of determining whether paragraph (2) of subsection (a) applies to any partnership."
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Entities which meet gross receipts test",
+            "text": "Paragraphs (1) and (2) of subsection (a) shall not apply to any corporation or partnership for any taxable year if such entity (or any predecessor) meets the gross receipts test of subsection (c) for such taxable year."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Gross receipts test",
+        "text": "For purposes of this section-",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "In general",
+            "text": "A corporation or partnership meets the gross receipts test of this subsection for any taxable year if the average annual gross receipts of such entity for the 3-taxable-year period ending with the taxable year which precedes such taxable year does not exceed $25,000,000."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Aggregation rules",
+            "text": "All persons treated as a single employer under subsection (a) or (b) of section 52 or subsection (m) or (o) of section 414 shall be treated as one person for purposes of paragraph (1)."
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Special rules",
+            "text": "For purposes of this subsection-",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "Not in existence for entire 3-year period",
+                "text": "If the entity was not in existence for the entire 3-year period referred to in paragraph (1), such paragraph shall be applied on the basis of the period during which such entity (or trade or business) was in existence."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Short taxable years",
+                "text": "Gross receipts for any taxable year of less than 12 months shall be annualized by multiplying the gross receipts for the short period by 12 and dividing the result by the number of months in the short period."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(C)",
+                "heading": "Gross receipts",
+                "text": "Gross receipts for any taxable year shall be reduced by returns and allowances made during such year."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(D)",
+                "heading": "Treatment of predecessors",
+                "text": "Any reference in this subsection to an entity shall include a reference to any predecessor of such entity."
+              }
+            ]
+          },
+          {
+            "level": "paragraph",
+            "label": "(4)",
+            "heading": "Adjustment for inflation",
+            "text": "In the case of any taxable year beginning after December 31, 2018, the dollar amount in paragraph (1) shall be increased by an amount equal to- (A) such dollar amount, multiplied by (B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, by substituting \"calendar year 2017\" for \"calendar year 2016\" in subparagraph (A)(ii) thereof. If any amount as increased under the preceding sentence is not a multiple of $1,000,000, such amount shall be rounded to the nearest multiple of $1,000,000."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(d)",
+        "heading": "Definitions and special rules",
+        "text": "For purposes of this section-",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Farming business",
+            "text": "",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "In general",
+                "text": "The term \"farming business\" means the trade or business of farming (within the meaning of section 263A(e)(4))."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Timber and ornamental trees",
+                "text": "The term \"farming business\" includes the raising, harvesting, or growing of trees to which section 263A(c)(5) applies."
+              }
+            ]
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Qualified personal service corporation",
+            "text": "The term \"qualified personal service corporation\" means any corporation- (A) substantially all of the activities of which involve the performance of services in the fields of health, law, engineering, architecture, accounting, actuarial science, performing arts, or consulting, and (B) substantially all of the stock of which (by value) is held directly (or indirectly through 1 or more partnerships, S corporations, or qualified personal service corporations not described in paragraph (2) or (3) of subsection (a)) by- (i) employees performing services for such corporation in connection with the activities involving a field referred to in subparagraph (A), (ii) retired employees who had performed such services for such corporation, (iii) the estate of any individual described in clause (i) or (ii), or (iv) any other person who acquired such stock by reason of the death of an individual described in clause (i) or (ii) (but only for the 2-year period beginning on the date of the death of such individual). To the extent provided in regulations which shall be prescribed by the Secretary, indirect holdings through a trust shall be taken into account under subparagraph (B)."
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Tax shelter defined",
+            "text": "The term \"tax shelter\" has the meaning given such term by section 461(i)(3) (determined after application of paragraph (4) thereof). An S corporation shall not be treated as a tax shelter for purposes of this section merely by reason of being required to file a notice of exemption from registration with a State agency described in section 461(i)(3)(A), but only if there is a requirement applicable to all corporations offering securities for sale in the State that to be exempt from such registration the corporation must file such a notice."
+          },
+          {
+            "level": "paragraph",
+            "label": "(4)",
+            "heading": "Special rules for application of paragraph (2)",
+            "text": "For purposes of paragraph (2)- (A) community property laws shall be disregarded, (B) stock held by a plan described in section 401(a) which is exempt from tax under section 501(a) shall be treated as held by an employee described in paragraph (2)(B)(i), and (C) at the election of the common parent of an affiliated group (within the meaning of section 1504(a)), all members of such group may be treated as 1 taxpayer for purposes of paragraph (2)(B) if 90 percent or more of the activities of such group involve the performance of services in the same field described in paragraph (2)(A)."
+          },
+          {
+            "level": "paragraph",
+            "label": "(5)",
+            "heading": "Special rule for certain services",
+            "text": "",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "In general",
+                "text": "In the case of any person using an accrual method of accounting with respect to amounts to be received for the performance of services by such person, such person shall not be required to accrue any portion of such amounts which (on the basis of such person's experience) will not be collected if- (i) such services are in fields referred to in paragraph (2)(A), or (ii) such person meets the gross receipts test of subsection (c) for all prior taxable years."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Exception",
+                "text": "This paragraph shall not apply to any amount if interest is required to be paid on such amount or there is any penalty for failure to timely pay such amount."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(C)",
+                "heading": "Regulations",
+                "text": "The Secretary shall prescribe regulations to permit taxpayers to determine amounts referred to in subparagraph (A) using computations or formulas which, based on experience, accurately reflect the amount of income that will not be collected by such person. A taxpayer may adopt, or request consent of the Secretary to change to, a computation or formula that clearly reflects the taxpayer's experience. A request under the preceding sentence shall be approved if such computation or formula clearly reflects the taxpayer's experience."
+              }
+            ]
+          },
+          {
+            "level": "paragraph",
+            "label": "(6)",
+            "heading": "Treatment of certain trusts subject to tax on unrelated business income",
+            "text": "For purposes of this section, a trust subject to tax under section 511(b) shall be treated as a C corporation with respect to its activities constituting an unrelated trade or business."
+          },
+          {
+            "level": "paragraph",
+            "label": "(7)",
+            "heading": "Coordination with section 481",
+            "text": "Any change in method of accounting made pursuant to this section shall be treated for purposes of section 481 as initiated by the taxpayer and made with the consent of the Secretary."
+          },
+          {
+            "level": "paragraph",
+            "label": "(8)",
+            "heading": "Use of related parties, etc.",
+            "text": "The Secretary shall prescribe such regulations as may be necessary to prevent the use of related parties, pass-thru entities, or intermediaries to avoid the application of this section."
+          }
+        ]
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "2017",
+        "entries": [
+          "Subsec. (b)(3). Pub. L. 115–97, §13102(a)(2), amended par. (3) generally. Prior to amendment, text read as follows: \"Paragraphs (1) and (2) of subsection (a) shall not apply to any corporation or partnership for any taxable year if, for all prior taxable years beginning after December 31, 1985, such entity (or any predecessor) met the $5,000,000 gross receipts test of subsection (c).\"",
+          "Subsec. (c). Pub. L. 115–97, §13102(a)(1), substituted \"Gross receipts test\" for \"$5,000,000 gross receipts test\" in heading and amended introductory provisions and par. (1) generally. Prior to amendment, text read as follows: \"For purposes of this section- \"(1) In general.-A corporation or partnership meets the $5,000,000 gross receipts test of this subsection for any prior taxable year if the average annual gross receipts of such entity for the 3-taxable-year period ending with such prior taxable year does not exceed $5,000,000.\"",
+          "Subsec. (c)(4). Pub. L. 115–97, §13102(a)(3), added par. (4).",
+          "Subsec. (d)(7). Pub. L. 115–97, §13102(a)(4), amended par. (7) generally. Prior to amendment, par. (7) related to coordination with section 481."
+        ]
+      },
+      {
+        "year": "2002",
+        "entries": [
+          "Subsec. (d)(5). Pub. L. 107–147 amended heading and text of par. (5) generally. Prior to amendment, text read as follows: \"In the case of any person using an accrual method of accounting with respect to amounts to be received for the performance of services by such person, such person shall not be required to accrue any portion of such amounts which (on the basis of experience) will not be collected. This paragraph shall not apply to any amount if interest is required to be paid on such amount or there is any penalty for failure to timely pay such amount.\""
+        ]
+      },
+      {
+        "year": "1988",
+        "entries": [
+          "Subsec. (c)(3)(D). Pub. L. 100–647, §1008(a)(9), added subpar. (D).",
+          "Subsec. (d)(2). Pub. L. 100–647, §6032(a), inserted at end \"To the extent provided in regulations which shall be prescribed by the Secretary, indirect holdings through a trust shall be taken into account under subparagraph (B).\"",
+          "Subsec. (d)(2)(B). Pub. L. 100–647, §1008(a)(1)(A), substituted \"(or indirectly through 1 or more partnerships, S corporations, or qualified personal service corporations not described in paragraph (2) or (3) of subsection (a))\" for \"or indirectly\".",
+          "Subsec. (d)(3). Pub. L. 100–647, §1008(a)(7), inserted sentence at end relating to treatment of S corporation as tax shelter.",
+          "Subsec. (d)(4)(C). Pub. L. 100–647, §1008(a)(8), substituted \"90 percent or more of\" for \"substantially all of\". Pub. L. 100–647, §1008(a)(2), substituted \"such group\" for \"all such members\".",
+          "Subsec. (d)(8). Pub. L. 100–647, §1008(a)(1)(B), added par. (8)."
+        ]
+      }
+    ],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 2017 Amendment",
+        "pub_law": "Pub. L. 115–97",
+        "effective_date": "taxable years beginning after Dec.",
+        "text": "Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13102(e) of Pub. L. 115–97, set out as a note under section 263A of this title."
+      },
+      {
+        "heading": "Effective Date of 2002 Amendment",
+        "pub_law": "Pub. L. 107–147, title IV, §403(b), Mar. 9, 2002, 116 Stat. 41",
+        "effective_date": "apply to taxable years ending after the date of the enactment of this Act [Mar.",
+        "text": "Pub. L. 107–147, title IV, §403(b), Mar. 9, 2002, 116 Stat. 41 , provided that: \"(1) In general.-The amendments made by this section [amending this section] shall apply to taxable years ending after the date of the enactment of this Act [Mar. 9, 2002]. \"(2) Change in method of accounting.-In the case of any taxpayer required by the amendments made by this section to change its method of accounting for its first taxable year ending after the date of the enactment of this Act- \"(A) such change shall be treated as initiated by the taxpayer, \"(B) such change shall be treated as made with the consent of the Secretary of the Treasury, and \"(C) the net amount of the adjustments required to be taken into account by the taxpayer under section 481 of the Internal Revenue Code of 1986 shall be taken into account over a period of 4 years (or if less, the number of taxable years that the taxpayer used the method permitted under section 448(d)(5) of such Code as in effect before the date of the enactment of this Act) beginning with such first taxable year.\""
+      },
+      {
+        "heading": "Effective Date of 1988 Amendment",
+        "pub_law": "Pub. L. 100–647",
+        "effective_date": "effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub.",
+        "text": "Amendment by section 1008(a)(1), (2), (7)–(9) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title. Pub. L. 100–647, title VI, §6032(b), Nov. 10, 1988, 102 Stat. 3695 , provided that: \"The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1986.\""
+      },
+      {
+        "heading": "Effective Date",
+        "pub_law": "Pub. L. 99–514, title VIII, §801(d), Oct. 22, 1986, 100 Stat. 2348",
+        "effective_date": "apply to taxable years beginning after December 31, 1986.",
+        "text": "Pub. L. 99–514, title VIII, §801(d), Oct. 22, 1986, 100 Stat. 2348 , as amended by Pub. L. 100–647, title I, §1008(a)(5), (6), Nov. 10, 1988, 102 Stat. 3437 , provided that: \"(1) In general.-Except as provided in paragraph (2), the amendments made by this section [enacting this section and amending section 461 of this title] shall apply to taxable years beginning after December 31, 1986. \"(2) Election to retain cash method for certain transactions.-A taxpayer may elect not to have the amendments made by this section apply to any loan or lease, or any transaction with a related party (within the meaning of section 267(b) of the Internal Revenue Code of 1954, as in effect before the enactment of this Act), entered into on or before September 25, 1985. Any election under the preceding sentence may be made separately with respect to each transaction. \"(3) Certain contracts.-The amendments made by this section shall not apply to- \"(A) contracts for the acquisition or transfer of real property, and \"(B) contracts for services related to the acquisition or development of real property, but only if such contracts were entered into before September 25, 1985, and the sole element of the contract which has not been performed as of September 25, 1985, is payment for such property or services. \"(4) Treatment of affiliated group providing engineering services.-Each member of an affiliated group of corporations (within the meaning of section 1504(a) of the Internal Revenue Code of 1986) shall be allowed to use the cash receipts and disbursements method of accounting for any trade or business of providing engineering services with respect to taxable years ending after December 31, 1986, if the common parent of such group- \"(A) was incorporated in the State of Delaware in 1970, \"(B) was the successor to a corporation that was incorporated in the State of Illinois in 1949, and \"(C) used a method of accounting for long-term contracts of accounting [sic] for a substantial part of its income from the performance of engineering services. \"(5) Special rule for paragraphs (2) and (3).-If any loan, lease, contract, or evidence of any transaction to which paragraph (2) or (3) applies is transferred after June 10, 1987, to a person other than a related party (within the meaning of paragraph (2)), paragraph (2) or (3) shall cease to apply on and after the date of such transfer.\""
+      }
+    ]
+  }
+}

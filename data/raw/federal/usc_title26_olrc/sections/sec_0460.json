@@ -1,0 +1,692 @@
+{
+  "section_number": 460,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle A",
+      "chapter": "CHAPTER 1",
+      "subchapter": "Subchapter E",
+      "part": "PART II",
+      "section": "§460"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 99–514, title VIII, §804(a), Oct. 22, 1986, 100 Stat. 2358 ; amended Pub. L. 100–203, title X, §10203(a), Dec. 22, 1987, 101 Stat. 1330–394 ; Pub. L. 100–647, title I, §1008(c)(1), (2), (4), title V, §5041(a)–(b)(3), (c), (d), Nov. 10, 1988, 102 Stat. 3438 , 3439, 3673, 3674; Pub. L. 101–239, title VII, §§7621(a)–(c), 7811(e), 7815(e)(1), Dec. 19, 1989, 103 Stat. 2375 , 2376, 2408, 2419; Pub. L. 101–508, title XI, §11812(b)(8), Nov. 5, 1990, 104 Stat. 1388–535 ; Pub. L. 104–188, title I, §§1702(h)(15), 1704(t)(28), Aug. 20, 1996, 110 Stat. 1874 , 1888; Pub. L. 105–34, title XII, §1211(a), (b), Aug. 5, 1997, 111 Stat. 998 , 999; Pub. L. 111–240, title II, §2023(a), Sept. 27, 2010, 124 Stat. 2559 ; Pub. L. 112–240, title III, §331(b), Jan. 2, 2013, 126 Stat. 2336 ; Pub. L. 113–295, div. A, title I, §125(b), Dec. 19, 2014, 128 Stat. 4016 ; Pub. L. 114–113, div. Q, title I, §143(a)(2), (b)(6)(I), Dec. 18, 2015, 129 Stat. 3056 , 3064; Pub. L. 115–97, title I, §§13102(d), 13201(b)(2)(A), Dec. 22, 2017, 131 Stat. 2104 , 2107; Pub. L. 115–141, div. U, title IV, §401(a)(116), Mar. 23, 2018, 132 Stat. 1189 ; Pub. L. 119–21, title VII, §§70301(a)(5)(D), 70430(a), July 4, 2025, 139 Stat. 189 , 239.)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§460",
+    "heading": "§460. Special rules for long-term contracts",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Requirement that percentage of completion method be used",
+        "text": "In the case of any long-term contract, the taxable income from such contract shall be determined under the percentage of completion method (as modified by subsection (b))."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Percentage of completion method",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Requirements of percentage of completion method",
+            "text": "Except as provided in paragraph (3), in the case of any long-term contract with respect to which the percentage of completion method is used- (A) the percentage of completion shall be determined by comparing costs allocated to the contract under subsection (c) and incurred before the close of the taxable year with the estimated total contract costs, and (B) upon completion of the contract (or, with respect to any amount properly taken into account after completion of the contract, when such amount is so properly taken into account), the taxpayer shall pay (or shall be entitled to receive) interest computed under the look-back method of paragraph (2). In the case of any long-term contract with respect to which the percentage of completion method is used, except for purposes of applying the look-back method of paragraph (2), any income under the contract (to the extent not previously includible in gross income) shall be included in gross income for the taxable year following the taxable year in which the contract was completed. For purposes of subtitle F (other than sections 6654 and 6655), any interest required to be paid by the taxpayer under subparagraph (B) shall be treated as an increase in the tax imposed by this chapter for the taxable year in which the contract is completed (or, in the case of interest payable with respect to any amount properly taken into account after completion of the contract, for the taxable year in which the amount is so properly taken into account)."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Look-back method",
+            "text": "The interest computed under the look-back method of this paragraph shall be determined by- (A) first, allocating income under the contract among taxable years before the year in which the contract is completed on the basis of the actual contract price and costs instead of the estimated contract price and costs, (B) second, determining (solely for purposes of computing such interest) the overpayment or underpayment of tax for each taxable year referred to in subparagraph (A) which would result solely from the application of subparagraph (A), and (C) then using the adjusted overpayment rate (as defined in paragraph (7)), compounded daily, on the overpayment or underpayment determined under subparagraph (B). For purposes of the preceding sentence, any amount properly taken into account after completion of the contract shall be taken into account by discounting (using the Federal mid-term rate determined under section 1274(d) as of the time such amount was properly taken into account) such amount to its value as of the completion of the contract. The taxpayer may elect with respect to any contract to have the preceding sentence not apply to such contract."
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Special rules",
+            "text": "",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "Simplified method of cost allocation",
+                "text": "In the case of any long-term contract, the Secretary may prescribe a simplified procedure for allocation of costs to such contract in lieu of the method of allocation under subsection (c)."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Look-back method not to apply to certain contracts",
+                "text": "Paragraph (1)(B) shall not apply to any contract- (i) the gross price of which (as of the completion of the contract) does not exceed the lesser of- (I) $1,000,000, or (II) 1 percent of the average annual gross receipts of the taxpayer for the 3 taxable years preceding the taxable year in which the contract was completed, and (ii) which is completed within 2 years of the contract commencement date. For purposes of this subparagraph, rules similar to the rules of subsections (e)(2) and (f)(3) shall apply."
+              }
+            ]
+          },
+          {
+            "level": "paragraph",
+            "label": "(4)",
+            "heading": "Simplified look-back method for pass-thru entities",
+            "text": "",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "In general",
+                "text": "In the case of a pass-thru entity- (i) the look-back method of paragraph (2) shall be applied at the entity level, (ii) in determining overpayments and underpayments for purposes of applying paragraph (2)(B)- (I) any increase in the income under the contract for any taxable year by reason of the allocation under paragraph (2)(A) shall be treated as giving rise to an underpayment determined by applying the highest rate for such year to such increase, and (II) any decrease in such income for any taxable year by reason of such allocation shall be treated as giving rise to an overpayment determined by applying the highest rate for such year to such decrease, and (iii) any interest required to be paid by the taxpayer under paragraph (2) shall be paid by such entity (and any interest entitled to be received by the taxpayer under paragraph (2) shall be paid to such entity)."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Exceptions",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(i)",
+        "heading": "Closely held pass-thru entities",
+        "text": "This paragraph shall not apply to any closely held pass-thru entity.",
+        "children": [
+          {
+            "level": "clause",
+            "label": "(ii)",
+            "heading": "Foreign contracts",
+            "text": "This paragraph shall not apply to any contract unless substantially all of the income from such contract is from sources in the United States."
+          },
+          {
+            "level": "subparagraph",
+            "label": "(C)",
+            "heading": "Other definitions",
+            "text": "For purposes of this paragraph-"
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(i)",
+        "heading": "Highest rate",
+        "text": "The term \"highest rate\" means- (I) the highest rate of tax specified in section 11, or (II) if at all times during the year involved more than 50 percent of the interests in the entity are held by individuals directly or through 1 or more other pass-thru entities, the highest rate of tax specified in section 1.",
+        "children": [
+          {
+            "level": "clause",
+            "label": "(ii)",
+            "heading": "Pass-thru entity",
+            "text": "The term \"pass-thru entity\" means any- (I) partnership, (II) S corporation, or (III) trust."
+          },
+          {
+            "level": "clause",
+            "label": "(iii)",
+            "heading": "Closely held pass-thru entity",
+            "text": "The term \"closely held pass-thru entity\" means any pass-thru entity if, at any time during any taxable year for which there is income under the contract, 50 percent or more (by value) of the beneficial interests in such entity are held (directly or indirectly) by or for 5 or fewer persons. For purposes of the preceding sentence, rules similar to the constructive ownership rules of section 1563(e) shall apply."
+          },
+          {
+            "level": "paragraph",
+            "label": "(5)",
+            "heading": "Election to use 10-percent method",
+            "text": "",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "General rule",
+                "text": "In the case of any long-term contract with respect to which an election under this paragraph is in effect, the 10-percent method shall apply in determining the taxable income from such contract."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "10-percent method",
+                "text": "For purposes of this paragraph-"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(i)",
+        "heading": "In general",
+        "text": "The 10-percent method is the percentage of completion method, modified so that any item which would otherwise be taken into account in computing taxable income with respect to a contract for any taxable year before the 10-percent year is taken into account in the 10-percent year.",
+        "children": [
+          {
+            "level": "clause",
+            "label": "(ii)",
+            "heading": "10-percent year",
+            "text": "The term \"10-percent year\" means the 1st taxable year as of the close of which at least 10 percent of the estimated total contract costs have been incurred."
+          },
+          {
+            "level": "subparagraph",
+            "label": "(C)",
+            "heading": "Election",
+            "text": "An election under this paragraph shall apply to all long-term contracts of the taxpayer which are entered into during the taxable year in which the election is made or any subsequent taxable year."
+          },
+          {
+            "level": "subparagraph",
+            "label": "(D)",
+            "heading": "Coordination with other provisions",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(i)",
+        "heading": "Simplified method of cost allocation",
+        "text": "This paragraph shall not apply to any taxpayer which uses a simplified procedure for allocation of costs under paragraph (3)(A).",
+        "children": [
+          {
+            "level": "clause",
+            "label": "(ii)",
+            "heading": "Look-back method",
+            "text": "The 10-percent method shall be taken into account for purposes of applying the look-back method of paragraph (2) to any taxpayer making an election under this paragraph."
+          },
+          {
+            "level": "paragraph",
+            "label": "(6)",
+            "heading": "Election to have look-back method not apply in de minimis cases",
+            "text": "",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "Amounts taken into account after completion of contract",
+                "text": "Paragraph (1)(B) shall not apply with respect to any taxable year (beginning after the taxable year in which the contract is completed) if- (i) the cumulative taxable income (or loss) under the contract as of the close of such taxable year, is within (ii) 10 percent of the cumulative look-back taxable income (or loss) under the contract as of the close of the most recent taxable year to which paragraph (1)(B) applied (or would have applied but for subparagraph (B))."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "De minimis discrepancies",
+                "text": "Paragraph (1)(B) shall not apply in any case to which it would otherwise apply if- (i) the cumulative taxable income (or loss) under the contract as of the close of each prior contract year, is within (ii) 10 percent of the cumulative look-back income (or loss) under the contract as of the close of such prior contract year."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(C)",
+                "heading": "Definitions",
+                "text": "For purposes of this paragraph-"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(i)",
+        "heading": "Contract year",
+        "text": "The term \"contract year\" means any taxable year for which income is taken into account under the contract.",
+        "children": [
+          {
+            "level": "clause",
+            "label": "(ii)",
+            "heading": "Look-back income or loss",
+            "text": "The look-back income (or loss) is the amount which would be the taxable income (or loss) under the contract if the allocation method set forth in paragraph (2)(A) were used in determining taxable income."
+          },
+          {
+            "level": "clause",
+            "label": "(iii)",
+            "heading": "Discounting not applicable",
+            "text": "The amounts taken into account after the completion of the contract shall be determined without regard to any discounting under the 2nd sentence of paragraph (2)."
+          },
+          {
+            "level": "subparagraph",
+            "label": "(D)",
+            "heading": "Contracts to which paragraph applies",
+            "text": "This paragraph shall only apply if the taxpayer makes an election under this subparagraph. Unless revoked with the consent of the Secretary, such an election shall apply to all long-term contracts completed during the taxable year for which election is made or during any subsequent taxable year."
+          },
+          {
+            "level": "paragraph",
+            "label": "(7)",
+            "heading": "Adjusted overpayment rate",
+            "text": "",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "In general",
+                "text": "The adjusted overpayment rate for any interest accrual period is the overpayment rate in effect under section 6621 for the calendar quarter in which such interest accrual period begins."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Interest accrual period",
+                "text": "For purposes of subparagraph (A), the term \"interest accrual period\" means the period- (i) beginning on the day after the return due date for any taxable year of the taxpayer, and (ii) ending on the return due date for the following taxable year. For purposes of the preceding sentence, the term \"return due date\" means the date prescribed for filing the return of the tax imposed by this chapter (determined without regard to extensions)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Allocation of costs to contract",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Direct and certain indirect costs",
+            "text": "In the case of a long-term contract, all costs (including research and experimental costs) which directly benefit, or are incurred by reason of, the long-term contract activities of the taxpayer shall be allocated to such contract in the same manner as costs are allocated to extended period long-term contracts under section 451 and the regulations thereunder."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Costs identified under cost-plus and certain Federal contracts",
+            "text": "In the case of a cost-plus long-term contract or a Federal long-term contract, any cost not allocated to such contract under paragraph (1) shall be allocated to such contract if such cost is identified by the taxpayer (or a related person), pursuant to the contract or Federal, State, or local law or regulation, as being attributable to such contract."
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Allocation of production period interest to contract",
+            "text": "",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "In general",
+                "text": "Except as provided in subparagraphs (B) and (C), in the case of a long-term contract, interest costs shall be allocated to the contract in the same manner as interest costs are allocated to property produced by the taxpayer under section 263A(f)."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Production period",
+                "text": "In applying section 263A(f) for purposes of subparagraph (A), the production period shall be the period- (i) beginning on the later of- (I) the contract commencement date, or (II) in the case of a taxpayer who uses an accrual method with respect to long-term contracts, the date by which at least 5 percent of the total estimated costs (including design and planning costs) under the contract have been incurred, and (ii) ending on the contract completion date."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(C)",
+                "heading": "Application of de minimis rule",
+                "text": "In applying section 263A(f) for purposes of subparagraph (A), paragraph (1)(B)(iii) of such section shall be applied on a contract-by-contract basis; except that, in the case of a taxpayer described in subparagraph (B)(i)(II) of this paragraph, paragraph (1)(B)(iii) of section 263A(f) shall be applied on a property-by-property basis."
+              }
+            ]
+          },
+          {
+            "level": "paragraph",
+            "label": "(4)",
+            "heading": "Certain costs not included",
+            "text": "This subsection shall not apply to any- (A) independent research and development expenses, (B) expenses for unsuccessful bids and proposals, and (C) marketing, selling, and advertising expenses."
+          },
+          {
+            "level": "paragraph",
+            "label": "(5)",
+            "heading": "Independent research and development expenses",
+            "text": "For purposes of paragraph (4), the term \"independent research and development expenses\" means any expenses incurred in the performance of research or development, except that such term shall not include- (A) any expenses which are directly attributable to a long-term contract in existence when such expenses are incurred, or (B) any expenses under an agreement to perform research or development."
+          },
+          {
+            "level": "paragraph",
+            "label": "(6)",
+            "heading": "Special rule for allocation of bonus depreciation with respect to certain property",
+            "text": "",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "In general",
+                "text": "Solely for purposes of determining the percentage of completion under subsection (b)(1)(A), the cost of qualified property shall be taken into account as a cost allocated to the contract as if subsection (k) of section 168 had not been enacted."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Qualified property",
+                "text": "For purposes of this paragraph, the term \"qualified property\" means property described in section 168(k)(2) which has a recovery period of 7 years or less."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(d)",
+        "heading": "Federal long-term contract",
+        "text": "For purposes of this section-",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "In general",
+            "text": "The term \"Federal long-term contract\" means any long-term contract- (A) to which the United States (or any agency or instrumentality thereof) is a party, or (B) which is a subcontract under a contract described in subparagraph (A)."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Special rules for certain taxable entities",
+            "text": "For purposes of paragraph (1), the rules of section 168(h)(2)(D) (relating to certain taxable entities not treated as instrumentalities) shall apply."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(e)",
+        "heading": "Exception for certain construction contracts",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "In general",
+            "text": "Subsections (a), (b), and (c)(1) and (2) shall not apply to- (A) any residential construction contract, or (B) any other construction contract entered into by a taxpayer (other than a tax shelter prohibited from using the cash receipts and disbursements method of accounting under section 448(a)(3))- (i) who estimates (at the time such contract is entered into) that such contract will be completed within the 2-year period beginning on the contract commencement date of such contract, and (ii) who meets the gross receipts test of section 448(c) for the taxable year in which such contract is entered into. In the case of a residential construction contract with respect to which the requirements of clauses (i) and (ii) of subparagraph (B) (determined by substituting \"3-year\" for \"2-year\" in subparagraph (B)(i) for any residential construction contract which is not a home construction contract) are not met, section 263A shall apply notwithstanding subsection (c)(4) thereof."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Rules related to gross receipts test",
+            "text": "",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "Application of gross receipts test to individuals, etc.",
+                "text": "For purposes of paragraph (1)(B)(ii), in the case of any taxpayer which is not a corporation or a partnership, the gross receipts test of section 448(c) shall be applied in the same manner as if each trade or business of such taxpayer were a corporation or partnership."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Coordination with section 481",
+                "text": "Any change in method of accounting made pursuant to paragraph (1)(B)(ii) shall be treated as initiated by the taxpayer and made with the consent of the Secretary. Such change shall be effected on a cut-off basis for all similarly classified contracts entered into on or after the year of change."
+              }
+            ]
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Construction contract",
+            "text": "For purposes of this subsection, the term \"construction contract\" means any contract for the building, construction, reconstruction, or rehabilitation of, or the installation of any integral component to, or improvements of, real property."
+          },
+          {
+            "level": "paragraph",
+            "label": "(4)",
+            "heading": "Definitions relating to residential construction contracts",
+            "text": "For purposes of this subsection-",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "Home construction contract",
+                "text": "The term \"home construction contract\" means any construction contract if 80 percent or more of the estimated total contract costs (as of the close of the taxable year in which the contract was entered into) are reasonably expected to be attributable to activities referred to in paragraph (3) with respect to- (i) dwelling units (as defined in section 168(e)(2)(A)(ii)) contained in buildings containing 4 or fewer dwelling units (as so defined), and (ii) improvements to real property directly related to such dwelling units and located on the site of such dwelling units. For purposes of clause (i), each townhouse or rowhouse shall be treated as a separate building."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Residential construction contract",
+                "text": "The term \"residential construction contract\" means any contract which would be described in subparagraph (A) if clause (i) of such subparagraph reads as follows: \"(i) dwelling units (as defined in section 168(e)(2)(A)(ii)), and\"."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(f)",
+        "heading": "Long-term contract",
+        "text": "For purposes of this section-",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "In general",
+            "text": "The term \"long-term contract\" means any contract for the manufacture, building, installation, or construction of property if such contract is not completed within the taxable year in which such contract is entered into."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Special rule for manufacturing contracts",
+            "text": "A contract for the manufacture of property shall not be treated as a long-term contract unless such contract involves the manufacture of- (A) any unique item of a type which is not normally included in the finished goods inventory of the taxpayer, or (B) any item which normally requires more than 12 calendar months to complete (without regard to the period of the contract)."
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Aggregation, etc.",
+            "text": "For purposes of this subsection, under regulations prescribed by the Secretary- (A) 2 or more contracts which are interdependent (by reason of pricing or otherwise) may be treated as 1 contract, and (B) a contract which is properly treated as an aggregation of separate contracts may be so treated."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(g)",
+        "heading": "Contract commencement date",
+        "text": "For purposes of this section, the term \"contract commencement date\" means, with respect to any contract, the first date on which any costs (other than bidding expenses or expenses incurred in connection with negotiating the contract) allocable to such contract are incurred."
+      },
+      {
+        "level": "subsection",
+        "label": "(h)",
+        "heading": "Regulations",
+        "text": "The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations to prevent the use of related parties, pass-thru entities, intermediaries, options, or other similar arrangements to avoid the application of this section."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "2025",
+        "entries": [
+          "Subsec. (c)(6)(B). Pub. L. 119–21, §70301(a)(5)(D), substituted \"which has a recovery period of 7 years or less.\" for \"which- \"(i) has a recovery period of 7 years or less, and \"(ii) is placed in service before January 1, 2027 (January 1, 2028 in the case of property described in section 168(k)(2)(B)).\"",
+          "Subsec. (e)(1). Pub. L. 119–21, §70430(a)(1), in concluding provisions, substituted \"residential construction contract\" for \"home construction contract\" and inserted \"(determined by substituting '3-year' for '2-year' in subparagraph (B)(i) for any residential construction contract which is not a home construction contract)\" after \"the requirements of clauses (i) and (ii) of subparagraph (B)\".",
+          "Subsec. (e)(1)(A). Pub. L. 119–21, §70430(a)(1)(A), substituted \"residential construction contract\" for \"home construction contract\".",
+          "Subsec. (e)(4). Pub. L. 119–21, §70430(a)(2), redesignated par. (5) as (4) and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: \"In the case of any residential construction contract which is not a home construction contract, subsection (a) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1989) shall apply except that such subsection shall be applied- \"(A) by substituting '70 percent' for '90 percent' each place it appears, and \"(B) by substituting '30 percent' for '10 percent'.\"",
+          "Subsec. (e)(4)(A). Pub. L. 119–21, §70430(a)(3), substituted \"paragraph (3)\" for \"paragraph (4)\" in introductory provisions.",
+          "Subsec. (e)(5). Pub. L. 119–21, §70430(a)(2), redesignated par. (5) as (4)."
+        ]
+      },
+      {
+        "year": "2018",
+        "entries": [
+          "Subsec. (b)(2)(A). Pub. L. 115–141 inserted comma after \"first\"."
+        ]
+      },
+      {
+        "year": "2017",
+        "entries": [
+          "Subsec. (c)(6)(B)(ii). Pub. L. 115–97, §13201(b)(2)(A), substituted \"January 1, 2027 (January 1, 2028\" for \"January 1, 2020 (January 1, 2021\".",
+          "Subsec. (e)(1)(B). Pub. L. 115–97, §13102(d)(1)(A), in introductory provisions, inserted \"(other than a tax shelter prohibited from using the cash receipts and disbursements method of accounting under section 448(a)(3))\" after \"taxpayer\".",
+          "Subsec. (e)(1)(B)(ii). Pub. L. 115–97, §13102(d)(1)(B), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: \"whose average annual gross receipts for the 3 taxable years preceding the taxable year in which such contract is entered into do not exceed $10,000,000.\"",
+          "Subsec. (e)(2). Pub. L. 115–97, §13102(d)(2), added par. (2) and struck out former par. (2) which related to determination of taxpayer's gross receipts.",
+          "Subsec. (e)(3) to (6). Pub. L. 115–97, §13102(d)(2), redesignated pars. (4) to (6) as (3) to (5), respectively, and struck out former par. (3) which related to controlled group of corporations."
+        ]
+      },
+      {
+        "year": "2015",
+        "entries": [
+          "Subsec. (c)(6)(B)(ii). Pub. L. 114–113, §143(b)(6)(I), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: \"is placed in service after December 31, 2009, and before January 1, 2011 (January 1, 2012, in the case of property described in section 168(k)(2)(B)), or after December 31, 2012, and before January 1, 2016 (January 1, 2017, in the case of property described in section 168(k)(2)(B)).\"",
+          "Subsec. (c)(6)(B)(ii). Pub. L. 114–113, §143(a)(2), substituted \"January 1, 2016 (January 1, 2017\" for \"January 1, 2015 (January 1, 2016\"."
+        ]
+      },
+      {
+        "year": "2014",
+        "entries": [
+          "Subsec. (c)(6)(B)(ii). Pub. L. 113–295 substituted \"January 1, 2015 (January 1, 2016\" for \"January 1, 2014 (January 1, 2015\"."
+        ]
+      },
+      {
+        "year": "2013",
+        "entries": [
+          "Subsec. (c)(6)(B)(ii). Pub. L. 112–240 inserted \", or after December 31, 2012, and before January 1, 2014 (January 1, 2015, in the case of property described in section 168(k)(2)(B))\" before period at end."
+        ]
+      },
+      {
+        "year": "2010",
+        "entries": [
+          "Subsec. (c)(6). Pub. L. 111–240 added par. (6)."
+        ]
+      },
+      {
+        "year": "1997",
+        "entries": [
+          "Subsec. (b)(2)(C). Pub. L. 105–34, §1211(b)(1), substituted \"the adjusted overpayment rate (as defined in paragraph (7))\" for \"the overpayment rate established by section 6621\".",
+          "Subsec. (b)(6). Pub. L. 105–34, §1211(a), added par. (6).",
+          "Subsec. (b)(7). Pub. L. 105–34, §1211(b)(2), added par. (7)."
+        ]
+      },
+      {
+        "year": "1996",
+        "entries": [
+          "Subsec. (b)(1). Pub. L. 104–188, §1704(t)(28), which directed that par. (1) be amended by substituting \"the look-back method of paragraph (2)\" for \"the look-back method of paragraph (3)\", could not be executed, because that phrase does not appear in text. See 1989 Amendment note below.",
+          "Subsec. (e)(6)(B). Pub. L. 104–188, §1702(h)(15), substituted \"section 168(e)(2)(A)(ii)\" for \"section 167(k)\"."
+        ]
+      },
+      {
+        "year": "1990",
+        "entries": [
+          "Subsec. (e)(6)(A)(i). Pub. L. 101–508 substituted \"section 168(e)(2)(A)(ii)\" for \"section 167(k)\"."
+        ]
+      },
+      {
+        "year": "1989",
+        "entries": [
+          "Subsec. (a). Pub. L. 101–239, §7621(a), substituted \"Requirement that percentage of completion method be used\" for \"Percentage of completion-capitalized cost method\" in heading and amended text generally. Prior to amendment, text read as follows: \"(1) In general.-In the case of any long-term contract- \"(A) 90 percent of the items with respect to such contract shall be taken into account under the percentage of completion method (as modified by subsection (b)), and \"(B) 10 percent of the items with respect to such contract shall be taken into account under the taxpayer's normal method of accounting. \"(2) 90 percent look-back method to apply.-Upon completion of any long-term contract (or, with respect to any amount properly taken into account after completion of the contract, when such amount is so properly taken into account), the taxpayer shall pay (or shall be entitled to receive) interest determined by applying the look-back method of subsection (b)(3) to 90 percent of the items with respect to the contract.\"",
+          "Subsec. (a)(2). Pub. L. 101–239, §7811(e)(1), inserted \"(or, with respect to any amount properly taken into account after completion of the contract, when such amount is so properly taken into account)\" after \"any long-term contract\".",
+          "Subsec. (b)(1). Pub. L. 101–239, §7621(c)(2)(A), substituted \"paragraph (3)\" for \"paragraph (4)\". Pub. L. 101–239, §7621(c)(2)(B), which directed the amendment of par. (1) by substituting \"paragraph (2)\" for \"paragraph (3)\", was executed by making the substitution in subpar. (B) and concluding provisions to reflect the probable intent of Congress. Pub. L. 101–239, §7621(c)(1), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: \"Subsection (a) not to apply where percentage of completion method used.-Subsection (a) shall not apply to any long-term contract with respect to which amounts includible in gross income are determined under the percentage of completion method.\"",
+          "Subsec. (b)(2). Pub. L. 101–239, §7621(c)(1), redesignated par. (3) as (2). Former par. (2) redesignated (1). Pub. L. 101–239, §7811(e)(4), (6), inserted two sentences at end.",
+          "Subsec. (b)(2)(B). Pub. L. 101–239, §7811(e)(2), substituted \"any amount properly taken into account\" for \"any amount received or accrued\" and \"is so properly taken into account\" for \"is so received or accrued\".",
+          "Subsec. (b)(3). Pub. L. 101–239, §7621(c)(1), redesignated par. (4) as (3). Former par. (3) redesignated (2). Pub. L. 101–239, §7811(e)(3), in concluding provisions, substituted \"any amount properly taken into account\" for \"any amount received or accrued\" and \"such amount was properly taken into account\" for \"such amount was received or accrued\".",
+          "Subsec. (b)(3)(B). Pub. L. 101–239, §7621(c)(3), substituted \"Paragraph (1)(B)\" for \"Paragraph (2)(B) and subsection (a)(2)\" in introductory provisions.",
+          "Subsec. (b)(4). Pub. L. 101–239, §7621(c)(1), redesignated par. (5) as (4). Former par. (4) redesignated (3).",
+          "Subsec. (b)(4)(A)(i). Pub. L. 101–239, §7621(c)(4)(A), substituted \"paragraph (2)\" for \"paragraph (3)\".",
+          "Subsec. (b)(4)(A)(ii). Pub. L. 101–239, §7621(c)(4)(B), substituted \"paragraph (2)(B)\" for \"paragraph (3)(B)\" in introductory provisions.",
+          "Subsec. (b)(4)(A)(ii)(I). Pub. L. 101–239, §7621(c)(4)(C), substituted \"paragraph (2)(A)\" for \"paragraph (3)(A)\".",
+          "Subsec. (b)(4)(A)(iii). Pub. L. 101–239, §7621(c)(4)(A), substituted \"paragraph (2)\" for \"paragraph (3)\" in two places.",
+          "Subsec. (b)(5). Pub. L. 101–239, §7621(b), added par. (5). Pub. L. 101–239, §7621(c)(1), redesignated former par. (5) as (4).",
+          "Subsec. (e)(2)(C). Pub. L. 101–239, §7811(e)(5), added subpar. (C).",
+          "Subsec. (e)(5). Pub. L. 101–239, §7621(c)(5), inserted introductory provisions and struck out former introductory provisions which read as follows: \"In the case of any residential construction contract which is not a home construction contract, subsection (a) shall be applied-\".",
+          "Subsec. (e)(6)(A). Pub. L. 101–239, §7815(e)(1)(A), substituted \"activities referred to in paragraph (4) with respect to\" for \"the building, construction, reconstruction, or rehabilitation of\".",
+          "Subsec. (e)(6)(A)(i). Pub. L. 101–239, §7815(e)(1)(B), added cl. (i) and struck out former cl. (i) which read as follows: \"dwelling units contained in buildings containing 4 or fewer dwelling units, and\"."
+        ]
+      },
+      {
+        "year": "1988",
+        "entries": [
+          "Subsec. (a)(1)(A). Pub. L. 100–647, §5041(a)(1), substituted \"90\" for \"70\".",
+          "Subsec. (a)(1)(B). Pub. L. 100–647, §5041(a)(2), substituted \"10\" for \"30\".",
+          "Subsec. (a)(2). Pub. L. 100–647, §5041(a)(1), substituted \"90\" for \"70\" in heading and in text.",
+          "Subsec. (b)(2). Pub. L. 100–647, §1008(c)(2)(B), substituted \"Except as provided in paragraph (4), in\" for \"In\".",
+          "Subsec. (b)(2)(B). Pub. L. 100–647, §1008(c)(4)(B), inserted \"(or, with respect to any amount received or accrued after completion of the contract, when such amount is so received or accrued)\" after \"contract\".",
+          "Subsec. (b)(3). Pub. L. 100–647, §1008(c)(4)(A), inserted at end \"For purposes of the preceding sentence, any amount received or accrued after completion of the contract shall be taken into account by discounting (using the Federal mid-term rate determined under section 1274(d) as of the time such amount was received or accrued) such amount to its value as of the completion of the contract. The taxpayer may elect with respect to any contract to have the preceding sentence not apply to such contract.\" Pub. L. 100–647, §1008(c)(1)(A), substituted \"paragraph\" for \"subparagraph\".",
+          "Subsec. (b)(3)(B). Pub. L. 100–647, §1008(c)(1)(B), substituted \"subparagraph (A)\" for \"paragraph (1)\" in two places.",
+          "Subsec. (b)(3)(C). Pub. L. 100–647, §1008(c)(1)(C), substituted \"subparagraph (B)\" for \"paragraph (1)\".",
+          "Subsec. (b)(4). Pub. L. 100–647, §1008(c)(2)(A), added par. (4).",
+          "Subsec. (b)(5). Pub. L. 100–647, §5041(d), added par. (5).",
+          "Subsec. (e)(1). Pub. L. 100–647, §5041(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: \"Subsections (a), (b), and (c)(1) and (2) shall not apply to any construction contract entered into by a taxpayer- \"(A) who estimates (at the time such contract is entered into) that such contract will be completed within the 2-year period beginning on the contract commencement date of such contract, and \"(B) whose average annual gross receipts for the 3 taxable years preceding the taxable year in which such contract is entered into do not exceed $10,000,000.\"",
+          "Subsec. (e)(5). Pub. L. 100–647, §5041(b)(2), added par. (5).",
+          "Subsec. (e)(6). Pub. L. 100–647, §5041(b)(3), added par. (6).",
+          "Subsec. (h). Pub. L. 100–647, §5041(c), added subsec. (h)."
+        ]
+      },
+      {
+        "year": "1987",
+        "entries": [
+          "Subsec. (a). Pub. L. 100–203 substituted \"70 percent\" for \"40 percent\" in par. (1)(A) and in heading and text of par. (2), and \"30 percent\" for \"60 percent\" in par. (1)(B)."
+        ]
+      }
+    ],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 2025 Amendment",
+        "pub_law": "Pub. L. 119–21",
+        "effective_date": "taxable years beginning after July 4, 2025, see section 70430(c) of Pub.",
+        "text": "Amendment by section 70301(a)(5)(D) of Pub. L. 119–21 applicable to property acquired after Jan. 19, 2025, see section 70301(c) of Pub. L. 119–21, set out as a note under section 168 of this title. Amendment by section 70430(a) of Pub. L. 119–21 applicable to contracts entered into in taxable years beginning after July 4, 2025, see section 70430(c) of Pub. L. 119–21, set out as a note under section 56 of this title."
+      },
+      {
+        "heading": "Effective Date of 2017 Amendment",
+        "pub_law": "Pub. L. 115–97",
+        "effective_date": "taxable years beginning after Dec.",
+        "text": "Amendment by section 13102(d) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, with provision for exemption from percentage completion for long-term contracts, see section 13102(e) of Pub. L. 115–97, set out as a note under section 263A of this title. Amendment by section 13201 of Pub. L. 115–97 applicable to property acquired and placed in service after Sept. 27, 2017, and specified plants planted or grafted after Sept. 27, 2017, see section 13201(h) of Pub. L. 115–97, set out as a note under section 168 of this title."
+      },
+      {
+        "heading": "Effective Date of 2015 Amendment",
+        "pub_law": "Pub. L. 114–113",
+        "effective_date": "taxable years ending after such date, see section 143(a)(5) of Pub.",
+        "text": "Amendment by section 143(a)(2) of Pub. L. 114–113 applicable to property placed in service after Dec. 31, 2014, in taxable years ending after such date, see section 143(a)(5) of Pub. L. 114–113, set out as a note under section 168 of this title. Amendment by section 143(b)(6)(I) of Pub. L. 114–113 applicable to property placed in service after Dec. 31, 2015, in taxable years ending after such date, see section 143(b)(7) of Pub. L. 114–113, set out as a note under section 168 of this title."
+      },
+      {
+        "heading": "Effective Date of 2014 Amendment",
+        "pub_law": "Pub. L. 113–295",
+        "effective_date": "taxable years ending after such date, see section 125(e) of Pub.",
+        "text": "Amendment by Pub. L. 113–295 applicable to property placed in service after Dec. 31, 2013, in taxable years ending after such date, see section 125(e) of Pub. L. 113–295, set out as a note under section 168 of this title."
+      },
+      {
+        "heading": "Effective Date of 2013 Amendment",
+        "pub_law": "Pub. L. 112–240",
+        "effective_date": "taxable years ending after such date, see section 331(f) of Pub.",
+        "text": "Amendment by Pub. L. 112–240 applicable to property placed in service after Dec. 31, 2012, in taxable years ending after such date, see section 331(f) of Pub. L. 112–240, set out as a note under section 168 of this title."
+      },
+      {
+        "heading": "Effective Date of 2010 Amendment",
+        "pub_law": "Pub. L. 111–240, title II, §2023(b), Sept. 27, 2010, 124 Stat. 2559",
+        "effective_date": "apply to property placed in service after December 31, 2009.",
+        "text": "Pub. L. 111–240, title II, §2023(b), Sept. 27, 2010, 124 Stat. 2559 , provided that: \"The amendment made by this section [amending this section] shall apply to property placed in service after December 31, 2009.\""
+      },
+      {
+        "heading": "Effective Date of 1997 Amendment",
+        "pub_law": "Pub. L. 105–34, title XII, §1211(c), Aug. 5, 1997, 111 Stat. 1000",
+        "effective_date": "apply to contracts completed in taxable years ending after the date of the enactment of this Act [Aug.",
+        "text": "Pub. L. 105–34, title XII, §1211(c), Aug. 5, 1997, 111 Stat. 1000 , provided that: \"(1) In general.-Except as provided in paragraph (2), the amendments made by this section [amending this section] shall apply to contracts completed in taxable years ending after the date of the enactment of this Act [Aug. 5, 1997]. \"(2) Subsection (b).-The amendments made by subsection (b) [amending this section] shall apply for purposes of section 167(g) of the Internal Revenue Code of 1986 to property placed in service after September 13, 1995.\""
+      },
+      {
+        "heading": "Effective Date of 1996 Amendment",
+        "pub_law": "Pub. L. 104–188",
+        "effective_date": "effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub.",
+        "text": "Amendment by section 1702(h)(15) of Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title."
+      },
+      {
+        "heading": "Effective Date of 1990 Amendment",
+        "pub_law": "Pub. L. 101–508",
+        "effective_date": "",
+        "text": "Amendment by Pub. L. 101–508 applicable to property placed in service after Nov. 5, 1990, but not applicable to any property to which section 168 of this title does not apply by reason of subsec. (f)(5) of section 168, and not applicable to rehabilitation expenditures described in section 252(f)(5) of Pub. L. 99–514, see section 11812(c) of Pub. L. 101–508, set out as a note under section 42 of this title."
+      },
+      {
+        "heading": "Effective Date of 1989 Amendment",
+        "pub_law": "Pub. L. 101–239, title VII, §7621(d), Dec. 19, 1989, 103 Stat. 2376",
+        "effective_date": "apply to contracts entered into on or after July 11, 1989.",
+        "text": "Pub. L. 101–239, title VII, §7621(d), Dec. 19, 1989, 103 Stat. 2376 , provided that: \"(1) In general.-Except as provided in paragraph (2), the amendments made by this section [amending this section] shall apply to contracts entered into on or after July 11, 1989. \"(2) Binding bids.-The amendments made by this section shall not apply to any contract resulting from the acceptance of a bid made before July 11, 1989. The preceding sentence shall apply only if the bid could not have been revoked or altered at any time on or after July 11, 1989. \"(3) Special rule for certain ship contracts.-The amendments made by this section shall not apply in the case of a qualified ship contract (as defined in section 10203(b)(2)(B) of the Revenue Act of 1987 [Pub. L. 100–203, set out below]).\" Amendment by sections 7811(e) and 7815(e)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title."
+      },
+      {
+        "heading": "Effective Date of 1988 Amendment",
+        "pub_law": "Pub. L. 100–647",
+        "effective_date": "effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub.",
+        "text": "Amendment by section 1008(c)(1), (2), (4) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title. Pub. L. 100–647, title V, §5041(e), Nov. 10, 1988, 102 Stat. 3675 , as amended by Pub. L. 101–239, title VII, §7815(e)(3), Dec. 19, 1989, 103 Stat. 2419 , provided that: \"(1) Subsections (a), (b), and (c).- \"(A) In general.-Except as otherwise provided in this paragraph, the amendments made by subsections (a), (b), and (c) [amending this section and section 56 of this title] shall apply to contracts entered into on or after June 21, 1988. \"(B) Binding bids.-The amendments made by subsections (a), (b), and (c) shall not apply to any contract resulting from the acceptance of a bid made before June 21, 1988. The preceding sentence shall apply only if the bid could not have been revoked or altered at any time on or after June 21, 1988. \"(C) Special rule for certain ship contracts.-The amendments made by subsections (a) and (b) [amending this section and section 56 of this title] shall not apply in the case of a qualified ship contract (as defined in section 10203(b)(2)(B) of the Revenue Act of 1987 [Pub. L. 100–203, set out below]). \"(2) Subsection (d).-The amendment made by subsection (d) [amending this section] shall apply as if included in the amendments made by section 804 of the Reform Act [Pub. L. 99–514]; except that such amendment shall not apply to any contract completed in a taxable year ending before the date of the enactment of this Act [Nov. 10, 1988], if the due date (determined with regard to extensions) for the return for such year is before such date of enactment.\""
+      },
+      {
+        "heading": "Effective Date of 1987 Amendment",
+        "pub_law": "Pub. L. 100–203, title X, §10203(b), Dec. 22, 1987, 101 Stat. 1330",
+        "effective_date": "apply to contracts entered into after October 13, 1987.",
+        "text": "Pub. L. 100–203, title X, §10203(b), Dec. 22, 1987, 101 Stat. 1330–394 , provided that: \"(1) In general.-Except as provided in paragraph (2), the amendments made by this section [amending this section] shall apply to contracts entered into after October 13, 1987. \"(2) Special rule for certain ship contracts.- \"(A) In general.-The amendments made by this section shall not apply in the case of a qualified ship contract. \"(B) Qualified ship contract.-For purposes of subparagraph (A), the term 'qualified ship contract' means any contract for the construction in the United States of not more than 5 ships if- \"(i) such ships will not be constructed (directly or indirectly) for the Federal Government, and \"(ii) the taxpayer reasonably expects to complete such contract within 5 years of the contract commencement date (as defined in section 460(g) of the Internal Revenue Code of 1986).\""
+      },
+      {
+        "heading": "Effective Date of 1986 Amendment",
+        "pub_law": "Pub. L. 99–514, title VIII, §804(d), Oct. 22, 1986, 100 Stat. 2361",
+        "effective_date": "apply to any contract entered into after February 28, 1986.",
+        "text": "Pub. L. 99–514, title VIII, §804(d), Oct. 22, 1986, 100 Stat. 2361 , as amended by Pub. L. 100–647, title I, §1008(c)(3), Nov. 10, 1988, 102 Stat. 3439 , provided that: \"(1) In general.-The amendments made by this section [enacting this section] shall apply to any contract entered into after February 28, 1986. \"(2) Clarification of treatment of independent research and development expenses.- \"(A) In general.-For periods before, on, or after the date of enactment of this Act [Oct. 22, 1986]- \"(i) any independent research and development expenses taken into account in determining the total contract price shall not be severable from the contract, and \"(ii) any independent research and development expenses shall not be treated as amounts chargeable to capital account. \"(B) Independent research and development expenses.-For purposes of subparagraph (A), the term 'independent research and development expenses' has the meaning given to such term by section 460(c)(5) of the Internal Revenue Code of 1986, as added by this section.\""
+      },
+      {
+        "heading": "Regulations",
+        "pub_law": "Pub. L. 99–514, title VIII, §804(b), Oct. 22, 1986, 100 Stat. 2361",
+        "effective_date": "",
+        "text": "Pub. L. 99–514, title VIII, §804(b), Oct. 22, 1986, 100 Stat. 2361 , provided that: \"The Secretary of the Treasury or his delegate shall modify the income tax regulations relating to accounting for long-term contracts to carry out the provisions of section 460 of the Internal Revenue Code of 1986 (as added by subsection (a)).\""
+      },
+      {
+        "heading": "Savings Provision",
+        "pub_law": "Pub. L. 101–508",
+        "effective_date": "",
+        "text": "For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title."
+      },
+      {
+        "heading": "Method of Accounting for Naval Shipbuilders",
+        "pub_law": "Pub. L. 108–357, title VII, §708, Oct. 22, 2004, 118 Stat. 1550",
+        "effective_date": "Effective Date of 1987 Amendment note above]).",
+        "text": "Pub. L. 108–357, title VII, §708, Oct. 22, 2004, 118 Stat. 1550 , as amended by Pub. L. 109–135, title IV, §403(s), Dec. 21, 2005, 119 Stat. 2628 , provided that: \"(a) In General.-In the case of a qualified naval ship contract, the taxable income of such contract during the 5-taxable year period beginning with the taxable year in which the construction commencement date occurs shall be determined under a method identical to the method used in the case of a qualified ship contract (as defined in section 10203(b)(2)(B) of the Revenue Act of 1987 [Pub. L. 100–203, set out as an Effective Date of 1987 Amendment note above]). \"(b) Recapture of Tax Benefit.-In the case of a qualified naval ship contract to which subsection (a) applies, the taxpayer's tax imposed by chapter 1 of the Internal Revenue Code of 1986 for the first taxable year following the 5-taxable year period described in subsection (a) shall be increased by the excess (if any) of- \"(1) the amount of tax which would have been imposed during such period if this section had not been enacted, over \"(2) the amount of tax so imposed during such period. \"(c) Qualified Naval Ship Contract.-For purposes of this section: \"(1) In general.-The term 'qualified naval ship contract' means any contract or portion thereof that is for the construction in the United States of 1 ship or submarine for the Federal Government if the taxpayer reasonably expects the acceptance date will occur no later than 9 years after the construction commencement date. \"(2) Acceptance date.-The term 'acceptance date' means the date 1 year after the date on which the Federal Government issues a letter of acceptance or other similar document for the ship or submarine. \"(3) Construction commencement date.-The term 'construction commencement date' means the date on which the physical fabrication of any section or component of the ship or submarine begins in the taxpayer's shipyard. \"(d) Certain Adjustments Not to Apply.-Section 481 of the Internal Revenue Code of 1986 shall not apply with respect to any change in the method of accounting which is required by this section. \"(e) Effective Date.-This section shall apply to contracts for ships or submarines with respect to which the construction commencement date occurs after the date of the enactment of this Act [Oct. 22, 2004].\""
+      },
+      {
+        "heading": "Amortization of Past Service Pension Costs",
+        "pub_law": "Pub. L. 100–203",
+        "effective_date": "",
+        "text": "Allocable costs (within the meaning of subsec. (c) of this section) with respect to any property to include contributions paid to or under a pension or annuity plan whether or not such contributions represent past service costs, see section 10204 of Pub. L. 100–203, set out as a note under section 263A of this title."
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "section_number": 1062,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle A",
+      "chapter": "CHAPTER 1",
+      "subchapter": "Subchapter O",
+      "part": "PART IV",
+      "section": "§1062"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 119–21, title VII, §70437(a), July 4, 2025, 139 Stat. 248 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§1062",
+    "heading": "§1062. Gain from the sale or exchange of qualified farmland property to qualified farmers",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Election to pay tax in installments",
+        "text": "In the case of gain from the sale or exchange of qualified farmland property to a qualified farmer, at the election of the taxpayer, the portion of the net income tax of such taxpayer for the taxable year of the sale or exchange which is equal to the applicable net tax liability shall be paid in 4 equal installments."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Rules relating to installment payments",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Date for payment of installments",
+            "text": "If an election is made under subsection (a), the first installment shall be paid on the due date (determined without regard to any extension of time for filing the return) for the return of tax for the taxable year in which the sale or exchange occurs and each succeeding installment shall be paid on the due date (as so determined) for the return of tax for the taxable year following the taxable year with respect to which the preceding installment was made."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Acceleration of payment",
+            "text": "",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "In general",
+                "text": "If there is an addition to tax for failure to timely pay any installment required under this section, then the unpaid portion of all remaining installments shall be due on the date of such failure."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Individuals",
+                "text": "In the case of an individual, if the individual dies, then the unpaid portion of all remaining installment shall be paid on the due date for the return of tax for the taxable year in which the taxpayer dies."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(C)",
+                "heading": "C corporations",
+                "text": "In the case of a taxpayer which is a C corporation, trust, or estate, if there is a liquidation or sale of substantially all the assets of the taxpayer (including in a title 11 or similar case), a cessation of business by the taxpayer (in the case of a C corporation), or any similar circumstance, then the unpaid portion of all remaining installments shall be due on the date of such event (or in the case of a title 11 or similar case, the day before the petition is filed). The preceding sentence shall not apply to the sale of substantially all the assets of a taxpayer to a buyer if such buyer enters into an agreement with the Secretary under which such buyer is liable for the remaining installments due under this subsection in the same manner as if such buyer were the taxpayer."
+              }
+            ]
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Proration of deficiency to installments",
+            "text": "If an election is made under subsection (a) to pay the applicable net tax liability in installments and a deficiency has been assessed with respect to such applicable net tax liability, the deficiency shall be prorated to the installments payable under subsection (a). The part of the deficiency so prorated to any installment the date for payment of which has not arrived shall be collected at the same time as, and as a part of, such installment. The part of the deficiency so prorated to any installment the date for payment of which has arrived shall be paid upon notice and demand from the Secretary. This section shall not apply if the deficiency is due to negligence, to intentional disregard of rules and regulations, or to fraud with intent to evade tax."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Election",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "In general",
+            "text": "Any election under subsection (a) shall be made not later than the due date for the return of tax for the taxable year described in subsection (a)."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Partnerships and S corporations",
+            "text": "In the case of a sale or exchange described in subsection (a) by a partnership or S corporation, the election under subsection (a) shall be made at the partner or shareholder level. The Secretary may prescribe such regulations or other guidance as necessary to carry out the purposes of this paragraph."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(d)",
+        "heading": "Definitions",
+        "text": "For purposes of this section-",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Applicable net tax liability",
+            "text": "",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "In general",
+                "text": "The applicable net tax liability with respect to the sale or exchange of any property described in subsection (a) is the excess (if any) of- (i) such taxpayer's net income tax for the taxable year, over (ii) such taxpayer's net income tax for such taxable year determined without regard to any gain recognized from the sale or exchange of such property."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Net income tax",
+                "text": "The term \"net income tax\" means the regular tax liability reduced by the credits allowed under subparts A, B, and D of part IV of subchapter A."
+              }
+            ]
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Qualified farmland property",
+            "text": "",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "In general",
+                "text": "The term \"qualified farmland property\" means real property located in the United States- (i) which- (I) has been used by the taxpayer as a farm for farming purposes, or (II) leased by the taxpayer to a qualified farmer for farming purposes, during substantially all of the 10-year period ending on the date of the qualified sale or exchange, and (ii) which is subject to a covenant or other legally enforceable restriction which prohibits the use of such property other than as a farm for farming purposes for any period before the date that is 10 years after the date of the sale or exchange described in subsection (a). For purposes of clause (i), property which is used or leased by a partnership or S corporation in a manner described in such clause shall be treated as used or leased in such manner by each person who holds a direct or indirect interest in such partnership or S corporation."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Farm; farming purposes",
+                "text": "The terms \"farm\" and \"farming purposes\" have the respective meanings given such terms under section 2032A(e)."
+              }
+            ]
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Qualified farmer",
+            "text": "The term \"qualified farmer\" means any individual who is actively engaged in farming (within the meaning of subsections (b) and (c) of section 1001 of the Food Security Act of 1986 1 (7 U.S.C. 1308–1(b) and (c)))."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(e)",
+        "heading": "Return requirement",
+        "text": "A taxpayer making an election under subsection (a) shall include with the return for the taxable year of the sale or exchange described in subsection (a) a copy of the covenant or other legally enforceable restriction described in subsection (d)(2)(A)(ii)."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [
+      "Subsections (b) and (c) of section 1001 of the Food Security Act of 1986, referred to in subsec. (d)(3), probably should be a reference to subsections (b) and (c) of section 1001A of the Food Security Act of 1985, which is classified to section 1308–1(b), (c) of Title 7, Agriculture."
+    ],
+    "amendments": [],
+    "other_notes": [
+      {
+        "heading": "Prior Provisions",
+        "text": "A prior section 1062 was renumbered section 1063 of this title."
+      }
+    ]
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date",
+        "pub_law": "Pub. L. 119–21, title VII, §70437(c)",
+        "effective_date": "apply to sales or exchanges in taxable years beginning after the date of the enactment of this Act [July 4, 2025].",
+        "text": "Pub. L. 119–21, title VII, §70437(c), July 4, 2025, 139 Stat. 250 , provided that: \"The amendments made by this section [enacting this section and renumbering former section 1062 of this title as section 1063] shall apply to sales or exchanges in taxable years beginning after the date of the enactment of this Act [July 4, 2025].\" 1 See References in Text note below."
+      }
+    ]
+  }
+}

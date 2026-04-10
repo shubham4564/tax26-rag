@@ -1,0 +1,106 @@
+{
+  "section_number": 803,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle A",
+      "chapter": "CHAPTER 1",
+      "subchapter": "Subchapter L",
+      "part": "PART I",
+      "section": "§803"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 721 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§803",
+    "heading": "§803. Life insurance gross income",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "In general",
+        "text": "For purposes of this part, the term \"life insurance gross income\" means the sum of the following amounts:",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Premiums",
+            "text": "(A) The gross amount of premiums and other consideration on insurance and annuity contracts, less (B) return premiums, and premiums and other consideration arising out of indemnity reinsurance."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Decreases in certain reserves",
+            "text": "Each net decrease in reserves which is required by section 807(a) to be taken into account under this paragraph."
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Other amounts",
+            "text": "All amounts not includible under paragraph (1) or (2) which under this subtitle are includible in gross income."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Special rules for premiums",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Certain items included",
+            "text": "For purposes of subsection (a)(1)(A), the term \"gross amount of premiums and other consideration\" includes- (A) advance premiums, (B) deposits, (C) fees, (D) assessments, (E) consideration in respect of assuming liabilities under contracts not issued by the taxpayer, and (F) the amount of policyholder dividends reimbursable to the taxpayer by a reinsurer in respect of reinsured policies, on insurance and annuity contracts."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Policyholder dividends excluded from return premiums",
+            "text": "For purposes of subsection (a)(1)(B)-",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "In general",
+                "text": "Except as provided in subparagraph (B), the term \"return premiums\" does not include any policyholder dividends."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Exception for indemnity reinsurance",
+                "text": "Subparagraph (A) shall not apply to amounts of premiums or other consideration returned to another life insurance company in respect of indemnity reinsurance."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [],
+    "other_notes": [
+      {
+        "heading": "Prior Provisions",
+        "text": "A prior section 803, acts Aug. 16, 1954, ch. 736, 68A Stat. 256 ; Mar. 13, 1956, ch. 83, §2, 70 Stat. 39 , related to income and deductions in the case of life insurance companies, prior to the general revision of this part by Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 112 ."
+      }
+    ]
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date",
+        "pub_law": "Pub. L. 98–369",
+        "effective_date": "taxable years beginning after Dec.",
+        "text": "Section applicable to taxable years beginning after Dec. 31, 1983, see section 215 of Pub. L. 98–369, set out as a note under section 801 of this title."
+      }
+    ]
+  }
+}

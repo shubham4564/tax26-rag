@@ -1,0 +1,71 @@
+{
+  "section_number": 4999,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle D",
+      "chapter": "CHAPTER 46",
+      "section": "§4999"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 98–369, div. A, title I, §67(b)(1), July 18, 1984, 98 Stat. 587 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§4999",
+    "heading": "§4999. Golden parachute payments",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Imposition of tax",
+        "text": "There is hereby imposed on any person who receives an excess parachute payment a tax equal to 20 percent of the amount of such payment."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Excess parachute payment defined",
+        "text": "For purposes of this section, the term \"excess parachute payment\" has the meaning given to such term by section 280G(b)."
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Administrative provisions",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Withholding",
+            "text": "In the case of any excess parachute payment which is wages (within the meaning of section 3401) the amount deducted and withheld under section 3402 shall be increased by the amount of the tax imposed by this section on such payment."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Other administrative provisions",
+            "text": "For purposes of subtitle F, any tax imposed by this section shall be treated as a tax imposed by subtitle A."
+          }
+        ]
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date",
+        "pub_law": "Pub. L. 98–369",
+        "effective_date": "taxable years ending after such date, with contracts entered into before June 15, 1984, which are amended after June 14, 1984, in any significant relevant aspect to be treated as a contract entered into after June 14, 1984, see section 67(e) of Pub.",
+        "text": "Section applicable to payments under agreements entered into or renewed after June 14, 1984, in taxable years ending after such date, with contracts entered into before June 15, 1984, which are amended after June 14, 1984, in any significant relevant aspect to be treated as a contract entered into after June 14, 1984, see section 67(e) of Pub. L. 98–369, set out as a note under section 280G of this title."
+      }
+    ]
+  }
+}

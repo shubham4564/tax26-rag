@@ -1,0 +1,83 @@
+{
+  "section_number": 5811,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle E",
+      "chapter": "CHAPTER 53",
+      "subchapter": "Subchapter A",
+      "part": "PART II",
+      "section": "§5811"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 90–618, title II, §201, Oct. 22, 1968, 82 Stat. 1228 ; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834 ; Pub. L. 119–21, title VII, §70436(a), July 4, 2025, 139 Stat. 247 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§5811",
+    "heading": "§5811. Transfer tax",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Rate",
+        "text": "There shall be levied, collected, and paid on firearms transferred a tax at the rate of- (1) $200 for each firearm transferred in the case of a machinegun or a destructive device, and (2) $0 for any firearm transferred which is not described in paragraph (1)."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "By whom paid",
+        "text": "The tax imposed by subsection (a) of this section shall be paid by the transferor."
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Payment",
+        "text": "The tax imposed by subsection (a) of this section shall be payable by the appropriate stamps prescribed for payment by the Secretary."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "2025",
+        "entries": [
+          "Subsec. (a). Pub. L. 119–21 amended subsec. (a) generally. Prior to amendment, text read as follows: \"There shall be levied, collected, and paid on firearms transferred a tax at the rate of $200 for each firearm transferred, except, the transfer tax on any firearm classified as any other weapon under section 5845(e) shall be at the rate of $5 for each such firearm transferred.\""
+        ]
+      },
+      {
+        "year": "1976",
+        "entries": [
+          "Subsec. (c). Pub. L. 94–455 struck out \"or his delegate\" after \"Secretary\"."
+        ]
+      }
+    ],
+    "other_notes": [
+      {
+        "heading": "Prior Provisions",
+        "text": "A prior section 5811, acts Aug. 16, 1954, ch. 736, 68A Stat. 722 ; Sept. 2, 1958, Pub. L. 85–859, title II, §203(b), 72 Stat. 1427 ; June 1, 1960, Pub. L. 86–478, §2, 74 Stat. 149 , consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 90–618."
+      }
+    ]
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 2025 Amendment",
+        "pub_law": "Pub. L. 119–21",
+        "effective_date": "",
+        "text": "Amendment by Pub. L. 119–21 applicable to calendar quarters beginning more than 90 days after July 4, 2025, see section 70436(d) of Pub. L. 119–21, set out as a note under section 4182 of this title."
+      },
+      {
+        "heading": "Effective Date",
+        "pub_law": "Pub. L. 90–618",
+        "effective_date": "effective on first day of first month following October 1968, see section 207 of Pub.",
+        "text": "Section effective on first day of first month following October 1968, see section 207 of Pub. L. 90–618, set out as a note under section 5801 of this title."
+      }
+    ]
+  }
+}

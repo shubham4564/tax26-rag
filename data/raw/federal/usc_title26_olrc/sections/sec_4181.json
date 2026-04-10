@@ -1,0 +1,46 @@
+{
+  "section_number": 4181,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle D",
+      "chapter": "CHAPTER 32",
+      "subchapter": "Subchapter D",
+      "part": "PART III",
+      "section": "§4181"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Aug. 16, 1954, ch. 736, 68A Stat. 490 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§4181",
+    "heading": "§4181. Imposition of tax",
+    "text": "",
+    "children": [
+      {
+        "level": "paragraph",
+        "label": "",
+        "heading": "Articles taxable at 10 percent-",
+        "text": "Pistols. Revolvers."
+      },
+      {
+        "level": "paragraph",
+        "label": "",
+        "heading": "Articles taxable at 11 percent-",
+        "text": "Firearms (other than pistols and revolvers). Shells, and cartridges."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": []
+  }
+}

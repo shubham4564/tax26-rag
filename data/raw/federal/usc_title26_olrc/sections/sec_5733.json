@@ -1,0 +1,104 @@
+{
+  "section_number": 5733,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle E",
+      "chapter": "CHAPTER 52",
+      "subchapter": "Subchapter D",
+      "section": "§5733"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1347 , §5143; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834 ; renumbered §5733 and amended Pub. L. 109–59, title XI, §11125(b)(20)(A), (C), Aug. 10, 2005, 119 Stat. 1956 , 1957.)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§5733",
+    "heading": "§5733. Provisions relating to liability for occupational taxes",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Partners",
+        "text": "Any number of persons doing business in partnership at any one place shall be required to pay but one special tax."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Different businesses of same ownership and location",
+        "text": "Whenever more than one of the pursuits or occupations described in this subchapter are carried on in the same place by the same person at the same time, except as otherwise provided in this subchapter, the tax shall be paid for each according to the rates severally prescribed."
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Businesses in more than one location",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Liability for tax",
+            "text": "The payment of a special tax imposed by this subchapter shall not exempt from an additional special tax the person carrying on a trade or business in any other place than that stated in the register kept in the office of the official in charge of the internal revenue district."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Storage",
+            "text": "Nothing contained in paragraph (1) shall require a special tax for the storage of tobacco products and cigarette papers and tubes at a location other than the place where tobacco products and cigarette papers and tubes are sold or offered for sale."
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Definition of place",
+            "text": "The term \"place\" as used in this section means the entire office, plant or area of the business in any one location under the same proprietorship; and passageways, streets, highways, rail crossings, waterways, or partitions dividing the premises, shall not be deemed sufficient separation to require additional special tax, if the various divisions are otherwise contiguous."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(d)",
+        "heading": "Death or change of location",
+        "text": "Certain persons, other than the person who has paid the special tax under this subchapter for the carrying on of any business at any place, may secure the right to carry on, without incurring additional special tax, the same business at the same place for the remainder of the taxable period for which the special tax was paid. The persons who may secure such right are: (1) the surviving spouse or child, or executor or administrator or other legal representative, of a deceased taxpayer; (2) a husband or wife succeeding to the business of his or her living spouse; (3) a receiver or trustee in bankruptcy, or an assignee for benefit of creditors; and (4) the partner or partners remaining after death or withdrawal of a member of a partnership. When any person moves to any place other than the place for which special tax was paid for the carrying on of any business, he may secure the right to carry on, without incurring additional special tax, the same business at his new location for the remainder of the taxable period for which the special tax was paid. To secure the right to carry on the business without incurring additional special tax, the successor, or the person relocating his business, must register the succession or relocation with the Secretary in accordance with regulations prescribed by the Secretary."
+      },
+      {
+        "level": "subsection",
+        "label": "(e)",
+        "heading": "Federal agencies or instrumentalities",
+        "text": "Any tax imposed by this subchapter shall apply to any agency or instrumentality of the United States unless such agency or instrumentality is granted by statute a specific exemption from such tax."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "2005",
+        "entries": [
+          "Pub. L. 109–59, §11125(b)(20)(A), renumbered section 5143 of this title as this section, transferred section to this subchapter, and substituted \"this subchapter\" for \"this part\" wherever appearing.",
+          "Subsec. (c)(2). Pub. L. 109–59, §11125(b)(20)(C), substituted \"tobacco products and cigarette papers and tubes\" for \"liquors\" in two places."
+        ]
+      },
+      {
+        "year": "1976",
+        "entries": [
+          "Subsec. (d)(4). Pub. L. 94–455 struck out \"or his delegate\" after \"Secretary\"."
+        ]
+      }
+    ],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 2005 Amendment",
+        "pub_law": "Pub. L. 109–59",
+        "effective_date": "effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, see section 11125(c) of Pub.",
+        "text": "Amendment by Pub. L. 109–59 effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, see section 11125(c) of Pub. L. 109–59, set out as a note under section 5002 of this title."
+      }
+    ]
+  }
+}

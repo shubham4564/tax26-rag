@@ -1,0 +1,136 @@
+{
+  "section_number": 6702,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle F",
+      "chapter": "CHAPTER 68",
+      "subchapter": "Subchapter B",
+      "part": "PART I",
+      "section": "§6702"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 97–248, title III, §326(a), Sept. 3, 1982, 96 Stat. 617 ; amended Pub. L. 109–432, div. A, title IV, §407(a), Dec. 20, 2006, 120 Stat. 2960 ; Pub. L. 115–141, div. U, title II, §206(n)(4), Mar. 23, 2018, 132 Stat. 1182 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§6702",
+    "heading": "§6702. Frivolous tax submissions",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Civil penalty for frivolous tax returns",
+        "text": "A person shall pay a penalty of $5,000 if- (1) such person files what purports to be a return of a tax imposed by this title but which- (A) does not contain information on which the substantial correctness of the self-assessment may be judged, or (B) contains information that on its face indicates that the self-assessment is substantially incorrect, and (2) the conduct referred to in paragraph (1)- (A) is based on a position which the Secretary has identified as frivolous under subsection (c), or (B) reflects a desire to delay or impede the administration of Federal tax laws."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Civil penalty for specified frivolous submissions",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Imposition of penalty",
+            "text": "Except as provided in paragraph (3), any person who submits a specified frivolous submission shall pay a penalty of $5,000."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Specified frivolous submission",
+            "text": "For purposes of this section-",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "Specified frivolous submission",
+                "text": "The term \"specified frivolous submission\" means a specified submission if any portion of such submission- (i) is based on a position which the Secretary has identified as frivolous under subsection (c), or (ii) reflects a desire to delay or impede the administration of Federal tax laws."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Specified submission",
+                "text": "The term \"specified submission\" means- (i) a request for a hearing under- (I) section 6320 (relating to notice and opportunity for hearing upon filing of notice of lien), or (II) section 6330 (relating to notice and opportunity for hearing before levy), and (ii) an application under- (I) section 6159 (relating to agreements for payment of tax liability in installments), (II) section 7122 (relating to compromises), or (III) section 7811 (relating to taxpayer assistance orders)."
+              }
+            ]
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Opportunity to withdraw submission",
+            "text": "If the Secretary provides a person with notice that a submission is a specified frivolous submission and such person withdraws such submission within 30 days after such notice, the penalty imposed under paragraph (1) shall not apply with respect to such submission."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Listing of frivolous positions",
+        "text": "The Secretary shall prescribe (and periodically revise) a list of positions which the Secretary has identified as being frivolous for purposes of this subsection. The Secretary shall not include in such list any position that the Secretary determines meets the requirement of section 6662(d)(2)(B)(ii)(II)."
+      },
+      {
+        "level": "subsection",
+        "label": "(d)",
+        "heading": "Reduction of penalty",
+        "text": "The Secretary may reduce the amount of any penalty imposed under this section if the Secretary determines that such reduction would promote compliance with and administration of the Federal tax laws."
+      },
+      {
+        "level": "subsection",
+        "label": "(e)",
+        "heading": "Penalties in addition to other penalties",
+        "text": "The penalties imposed by this section shall be in addition to any other penalty provided by law."
+      },
+      {
+        "level": "subsection",
+        "label": "(f)",
+        "heading": "Partnership adjustments",
+        "text": "An administrative adjustment request under section 6227 and a partnership adjustment tracking report under section 6226(b)(4)(A) shall be treated as a return for purposes of this section."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "2018",
+        "entries": [
+          "Subsec. (f). Pub. L. 115–141 added subsec. (f)."
+        ]
+      },
+      {
+        "year": "2006",
+        "entries": [
+          "Pub. L. 109–432 amended section catchline and text generally, substituting provisions relating to civil penalties for frivolous tax returns and submissions, listing of frivolous positions, reduction of penalty to promote compliance with tax laws, and application of other penalties, consisting of subsecs. (a) to (e), for provisions relating to civil penalty for frivolous tax returns and application of other penalties, consisting of subsecs. (a) and (b)."
+        ]
+      }
+    ],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 2018 Amendment",
+        "pub_law": "Pub. L. 115–141",
+        "effective_date": "effective as if included in section 1101 of Pub.",
+        "text": "Amendment by Pub. L. 115–141 effective as if included in section 1101 of Pub. L. 114–74, see section 207 of Pub. L. 115–141, set out as a note under section 6031 of this title."
+      },
+      {
+        "heading": "Effective Date of 2006 Amendment",
+        "pub_law": "Pub. L. 109–432",
+        "effective_date": "",
+        "text": "Amendment by Pub. L. 109–432 applicable to submissions made and issues raised after the date on which the Secretary first prescribes a list under subsec. (c) of this section, see section 407(f) of Pub. L. 109–432, set out as a note under section 6320 of this title."
+      },
+      {
+        "heading": "Effective Date",
+        "pub_law": "Pub. L. 97–248, title III, §326(c), Sept. 3, 1982, 96 Stat. 617",
+        "effective_date": "",
+        "text": "Pub. L. 97–248, title III, §326(c), Sept. 3, 1982, 96 Stat. 617 , provided that: \"The amendments made by this section [enacting this section] shall apply with respect to documents filed after the date of the enactment of this Act [Sept. 3, 1982].\""
+      }
+    ]
+  }
+}

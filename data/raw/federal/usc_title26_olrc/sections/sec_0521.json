@@ -1,0 +1,128 @@
+{
+  "section_number": 521,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle A",
+      "chapter": "CHAPTER 1",
+      "subchapter": "Subchapter F",
+      "part": "PART IV",
+      "section": "§521"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Aug. 16, 1954, ch. 736, 68A Stat. 176 ; Pub. L. 87–834, §17(b)(1), Oct. 16, 1962, 76 Stat. 1051 ; Pub. L. 99–272, title XIII, §13210(b), Apr. 7, 1986, 100 Stat. 324 ; Pub. L. 108–357, title III, §316(b), Oct. 22, 2004, 118 Stat. 1469 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§521",
+    "heading": "§521. Exemption of farmers' cooperatives from tax",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Exemption from tax",
+        "text": "A farmers' cooperative organization described in subsection (b)(1) shall be exempt from taxation under this subtitle except as otherwise provided in part I of subchapter T (sec. 1381 and following). Notwithstanding part I of subchapter T (sec. 1381 and following), such an organization shall be considered an organization exempt from income taxes for purposes of any law which refers to organizations exempt from income taxes."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Applicable rules",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Exempt farmers' cooperatives",
+            "text": "The farmers' cooperatives exempt from taxation to the extent provided in subsection (a) are farmers', fruit growers', or like associations organized and operated on a cooperative basis (A) for the purpose of marketing the products of members or other producers, and turning back to them the proceeds of sales, less the necessary marketing expenses, on the basis of either the quantity or the value of the products furnished by them, or (B) for the purpose of purchasing supplies and equipment for the use of members or other persons, and turning over such supplies and equipment to them at actual cost, plus necessary expenses."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Organizations having capital stock",
+            "text": "Exemption shall not be denied any such association because it has capital stock, if the dividend rate of such stock is fixed at not to exceed the legal rate of interest in the State of incorporation or 8 percent per annum, whichever is greater, on the value of the consideration for which the stock was issued, and if substantially all such stock (other than nonvoting preferred stock, the owners of which are not entitled or permitted to participate, directly or indirectly, in the profits of the association, upon dissolution or otherwise, beyond the fixed dividends) is owned by producers who market their products or purchase their supplies and equipment through the association."
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Organizations maintaining reserve",
+            "text": "Exemption shall not be denied any such association because there is accumulated and maintained by it a reserve required by State law or a reasonable reserve for any necessary purpose."
+          },
+          {
+            "level": "paragraph",
+            "label": "(4)",
+            "heading": "Transactions with nonmembers",
+            "text": "Exemption shall not be denied any such association which markets the products of nonmembers in an amount the value of which does not exceed the value of the products marketed for members, or which purchases supplies and equipment for nonmembers in an amount the value of which does not exceed the value of the supplies and equipment purchased for members, provided the value of the purchases made for persons who are neither members nor producers does not exceed 15 percent of the value of all its purchases."
+          },
+          {
+            "level": "paragraph",
+            "label": "(5)",
+            "heading": "Business for the United States",
+            "text": "Business done for the United States or any of its agencies shall be disregarded in determining the right to exemption under this section."
+          },
+          {
+            "level": "paragraph",
+            "label": "(6)",
+            "heading": "Netting of losses",
+            "text": "Exemption shall not be denied any such association because such association computes its net earnings for purposes of determining any amount available for distribution to patrons in the manner described in paragraph (1) of section 1388(j)."
+          },
+          {
+            "level": "paragraph",
+            "label": "(7)",
+            "heading": "Cross reference",
+            "text": "For treatment of value-added processing involving animals, see section 1388(k)."
+          }
+        ]
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "2004",
+        "entries": [
+          "Subsec. (b)(7). Pub. L. 108–357 added par. (7)."
+        ]
+      },
+      {
+        "year": "1986",
+        "entries": [
+          "Subsec. (b)(6). Pub. L. 99–272 added par. (6)."
+        ]
+      },
+      {
+        "year": "1962",
+        "entries": [
+          "Subsec. (a). Pub. L. 87–834 substituted \"part I of subchapter T (sec. 1381 and following)\" for \"section 522\" in two places."
+        ]
+      }
+    ],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 2004 Amendment",
+        "pub_law": "Pub. L. 108–357, title III, §316(c), Oct. 22, 2004, 118 Stat. 1469",
+        "effective_date": "apply to taxable years beginning after the date of the enactment of this Act [Oct.",
+        "text": "Pub. L. 108–357, title III, §316(c), Oct. 22, 2004, 118 Stat. 1469 , provided that: \"The amendments made by this section [amending this section and section 1388 of this title] shall apply to taxable years beginning after the date of the enactment of this Act [Oct. 22, 2004].\""
+      },
+      {
+        "heading": "Effective Date of 1986 Amendment",
+        "pub_law": "Pub. L. 99–272",
+        "effective_date": "taxable years beginning after Dec.",
+        "text": "Amendment by Pub. L. 99–272 applicable to taxable years beginning after Dec. 31, 1962, see section 13210(c) of Pub. L. 99–272, set out as a note under section 1388 of this title."
+      },
+      {
+        "heading": "Effective Date of 1962 Amendment",
+        "pub_law": "Pub. L. 87–834",
+        "effective_date": "taxable years of organizations described in section 1381(a) of this title beginning after Dec.",
+        "text": "Amendment by Pub. L. 87–834 applicable, except as otherwise provided, to taxable years of organizations described in section 1381(a) of this title beginning after Dec. 31, 1962, see section 17(c) of Pub. L. 87–834, set out as an Effective Date note under section 1381 of this title."
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "section_number": 7423,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle F",
+      "chapter": "CHAPTER 76",
+      "subchapter": "Subchapter B",
+      "section": "§7423"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Aug. 16, 1954, ch. 736, 68A Stat. 877 ; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§7423",
+    "heading": "§7423. Repayments to officers or employees",
+    "text": "",
+    "children": [
+      {
+        "level": "paragraph",
+        "label": "(1)",
+        "heading": "Collections recovered",
+        "text": "To any officer or employee of the United States the full amount of such sums of money as may be recovered against him in any court, for any internal revenue taxes collected by him, with the cost and expense of suit; also"
+      },
+      {
+        "level": "paragraph",
+        "label": "(2)",
+        "heading": "Damages and costs",
+        "text": "All damages and costs recovered against any officer or employee of the United States in any suit brought against him by reason of anything done in the due performance of his official duty under this title."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "1976",
+        "entries": [
+          "Pub. L. 94–455 struck out \"or his delegate\" after \"Secretary\" in provisions preceding par. (1)."
+        ]
+      }
+    ],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": []
+  }
+}

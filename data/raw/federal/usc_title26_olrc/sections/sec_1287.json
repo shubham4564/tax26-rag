@@ -1,0 +1,80 @@
+{
+  "section_number": 1287,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle A",
+      "chapter": "CHAPTER 1",
+      "subchapter": "Subchapter P",
+      "part": "PART V",
+      "section": "§1287"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 552 ; amended Pub. L. 111–147, title V, §502(a)(2)(D), Mar. 18, 2010, 124 Stat. 107 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§1287",
+    "heading": "§1287. Denial of capital gain treatment for gains on certain obligations not in registered form",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "In general",
+        "text": "If any registration-required obligation is not in registered form, any gain on the sale or other disposition of such obligation shall be treated as ordinary income (unless the issuance of such obligation was subject to tax under section 4701)."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Definitions",
+        "text": "For purposes of subsection (a)-",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Registration-required obligation",
+            "text": "The term \"registration-required obligation\" has the meaning given to such term by section 163(f)(2)."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Registered form",
+            "text": "The term \"registered form\" has the same meaning as when used in section 163(f)."
+          }
+        ]
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "2010",
+        "entries": [
+          "Subsec. (b)(1). Pub. L. 111–147 struck out \"except that clause (iv) of subparagraph (A), and subparagraph (B), of such section shall not apply\" before period."
+        ]
+      }
+    ],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 2010 Amendment",
+        "pub_law": "Pub. L. 111–147",
+        "effective_date": "",
+        "text": "Amendment by Pub. L. 111–147 applicable to obligations issued after the date which is 2 years after Mar. 18, 2010, see section 502(f) of Pub. L. 111–147, set out as a note under section 149 of this title."
+      },
+      {
+        "heading": "Effective Date",
+        "pub_law": "Pub. L. 98–369",
+        "effective_date": "taxable years ending after July 18, 1984, except as otherwise provided, see section 44 of Pub.",
+        "text": "Section applicable to taxable years ending after July 18, 1984, except as otherwise provided, see section 44 of Pub. L. 98–369, set out as a note under section 1271 of this title."
+      }
+    ]
+  }
+}

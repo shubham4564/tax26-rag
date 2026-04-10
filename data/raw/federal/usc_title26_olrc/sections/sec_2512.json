@@ -1,0 +1,71 @@
+{
+  "section_number": 2512,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle B",
+      "chapter": "CHAPTER 12",
+      "subchapter": "Subchapter B",
+      "section": "§2512"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Aug. 16, 1954, ch. 736, 68A Stat. 406 ; Pub. L. 91–614, title I, §102(b)(1), Dec. 31, 1970, 84 Stat. 1840 ; Pub. L. 94–455, title XX, §2008(a)(2)(B), Oct. 4, 1976, 90 Stat. 1891 ; Pub. L. 97–34, title IV, §442(b)(1), Aug. 13, 1981, 95 Stat. 322 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§2512",
+    "heading": "§2512. Valuation of gifts",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Cross reference",
+        "text": "For individual's right to be furnished on request a statement regarding any valuation made by the Secretary of a gift by that individual, see section 7517."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "1981",
+        "entries": [
+          "Subsec. (b). Pub. L. 97–34 substituted \"calendar year\" for \"calendar quarters\"."
+        ]
+      },
+      {
+        "year": "1976",
+        "entries": [
+          "Subsec. (c). Pub. L. 94–455 added subsec. (c)."
+        ]
+      },
+      {
+        "year": "1970",
+        "entries": [
+          "Subsec. (b). Pub. L. 91–614 substituted \"calendar quarter\" for \"calendar year\"."
+        ]
+      }
+    ],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 1981 Amendment",
+        "pub_law": "Pub. L. 97–34",
+        "effective_date": "",
+        "text": "Amendment by Pub. L. 97–34 applicable with respect to gifts made after Dec. 31, 1981, see section 442(e) of Pub. L. 97–34, set out as a note under section 2501 of this title."
+      },
+      {
+        "heading": "Effective Date of 1970 Amendment",
+        "pub_law": "Pub. L. 91–614",
+        "effective_date": "",
+        "text": "Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 31, 1970, see section 102(e) of Pub. L. 91–614, set out as a note under section 2501 of this title."
+      }
+    ]
+  }
+}

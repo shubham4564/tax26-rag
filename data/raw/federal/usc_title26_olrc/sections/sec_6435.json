@@ -1,0 +1,72 @@
+{
+  "section_number": 6435,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle F",
+      "chapter": "CHAPTER 65",
+      "subchapter": "Subchapter B",
+      "section": "§6435"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 119–21, title VII, §70525(a), July 4, 2025, 139 Stat. 282 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§6435",
+    "heading": "§6435. Dyed fuel",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "In general",
+        "text": "If a person establishes to the satisfaction of the Secretary that such person meets the requirements of subsection (b) with respect to diesel fuel or kerosene, then the Secretary shall pay to such person an amount (without interest) equal to the tax described in subsection (b)(2)(A) with respect to such diesel fuel or kerosene."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Requirements",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "In general",
+            "text": "A person meets the requirements of this subsection with respect to diesel fuel or kerosene if such person removes from a terminal eligible indelibly dyed diesel fuel or kerosene."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Eligible indelibly dyed diesel fuel or kerosene defined",
+            "text": "The term \"eligible indelibly dyed diesel fuel or kerosene\" means diesel fuel or kerosene- (A) with respect to which a tax under section 4081 was previously paid (and not credited or refunded), and (B) which is exempt from taxation under section 4082(a)."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Cross reference",
+        "text": "For civil penalty for excessive claims under this section, see section 6675."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date",
+        "pub_law": "Pub. L. 119–21",
+        "effective_date": "Effective Date of 2025 Amendment note under section 6206 of this title.",
+        "text": "Section applicable to eligible indelibly dyed diesel fuel or kerosene removed on or after the date that is 180 days after July 4, 2025, see section 70525(c) of Pub. L. 119–21, set out as an Effective Date of 2025 Amendment note under section 6206 of this title."
+      }
+    ]
+  }
+}

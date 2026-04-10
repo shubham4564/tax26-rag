@@ -1,0 +1,53 @@
+{
+  "section_number": 77,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle A",
+      "chapter": "CHAPTER 1",
+      "subchapter": "Subchapter B",
+      "part": "PART II",
+      "section": "§77"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Aug. 16, 1954, ch. 736, 68A Stat. 25 ; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§77",
+    "heading": "§77. Commodity credit loans",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Election to include loans in income",
+        "text": "Amounts received as loans from the Commodity Credit Corporation shall, at the election of the taxpayer, be considered as income and shall be included in gross income for the taxable year in which received."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Effect of election on adjustments for subsequent years",
+        "text": "If a taxpayer exercises the election provided for in subsection (a) for any taxable year, then the method of computing income so adopted shall be adhered to with respect to all subsequent taxable years unless with the approval of the Secretary a change to a different method is authorized."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "1976",
+        "entries": [
+          "Subsec. (b). Pub. L. 94–455 struck out \"or his delegate\" after \"Secretary\"."
+        ]
+      }
+    ],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": []
+  }
+}

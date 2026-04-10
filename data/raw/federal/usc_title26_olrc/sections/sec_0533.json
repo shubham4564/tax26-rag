@@ -1,0 +1,46 @@
+{
+  "section_number": 533,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle A",
+      "chapter": "CHAPTER 1",
+      "subchapter": "Subchapter G",
+      "part": "PART I",
+      "section": "§533"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Aug. 16, 1954, ch. 736, 68A Stat. 179 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§533",
+    "heading": "§533. Evidence of purpose to avoid income tax",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Unreasonable accumulation determinative of purpose",
+        "text": "For purposes of section 532, the fact that the earnings and profits of a corporation are permitted to accumulate beyond the reasonable needs of the business shall be determinative of the purpose to avoid the income tax with respect to shareholders, unless the corporation by the preponderance of the evidence shall prove to the contrary."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Holding or investment company",
+        "text": "The fact that any corporation is a mere holding or investment company shall be prima facie evidence of the purpose to avoid the income tax with respect to shareholders."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": []
+  }
+}

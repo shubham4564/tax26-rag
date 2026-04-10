@@ -1,0 +1,72 @@
+{
+  "section_number": 5370,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle E",
+      "chapter": "CHAPTER 51",
+      "subchapter": "Subchapter F",
+      "part": "PART II",
+      "section": "§5370"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1381 ; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§5370",
+    "heading": "§5370. Losses",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "General",
+        "text": "No tax shall be collected in respect of any wines lost or destroyed while in bond, except that tax shall be collected-",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Theft",
+            "text": "In the case of loss by theft, unless the Secretary shall find that the theft occurred without connivance, collusion, fraud, or negligence on the part of the proprietor or other person responsible for the tax, or the owner, consignor, consignee, bailee, or carrier, or the agents or employees of any of them; and"
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Voluntary destruction",
+            "text": "In the case of voluntary destruction, unless the wine was destroyed under Government supervision, or on such adequate notice to, and approval by, the Secretary as regulations shall provide."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Proof of loss",
+        "text": "In any case in which the wine is lost or destroyed, whether by theft or otherwise, the Secretary may require by regulations the proprietor of the bonded wine cellar or other person liable for the tax to file a claim for relief from the tax and submit proof as to the cause of such loss. In every case where it appears that the loss was by theft, the burden shall be on the proprietor or other person liable for the tax to establish to the satisfaction of the Secretary, that such loss did not occur as the result of connivance, collusion, fraud, or negligence on the part of the proprietor, owner, consignor, consignee, bailee, or carrier, or the agents or employees of any of them."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "1976",
+        "entries": [
+          "Pub. L. 94–455 struck out \"or his delegate\" after \"Secretary\" wherever appearing."
+        ]
+      }
+    ],
+    "other_notes": [
+      {
+        "heading": "Prior Provisions",
+        "text": "A prior section 5370, act Aug. 16, 1954, ch. 736, 68A Stat. 666 , consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859."
+      }
+    ]
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": []
+  }
+}

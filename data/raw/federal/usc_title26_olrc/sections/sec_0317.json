@@ -1,0 +1,46 @@
+{
+  "section_number": 317,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle A",
+      "chapter": "CHAPTER 1",
+      "subchapter": "Subchapter C",
+      "part": "PART I",
+      "section": "§317"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Aug. 16, 1954, ch. 736, 68A Stat. 99 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§317",
+    "heading": "§317. Other definitions",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Property",
+        "text": "For purposes of this part, the term \"property\" means money, securities, and any other property; except that such term does not include stock in the corporation making the distribution (or rights to acquire such stock)."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Redemption of stock",
+        "text": "For purposes of this part, stock shall be treated as redeemed by a corporation if the corporation acquires its stock from a shareholder in exchange for property, whether or not the stock so acquired is cancelled, retired, or held as treasury stock."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": []
+  }
+}

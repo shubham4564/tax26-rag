@@ -1,0 +1,180 @@
+{
+  "section_number": 195,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle A",
+      "chapter": "CHAPTER 1",
+      "subchapter": "Subchapter B",
+      "part": "PART VI",
+      "section": "§195"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 96–605, title I, §102(a), Dec. 28, 1980, 94 Stat. 3522 ; amended Pub. L. 98–369, div. A, title I, §94(a), July 18, 1984, 98 Stat. 614 ; Pub. L. 108–357, title VIII, §902(a), Oct. 22, 2004, 118 Stat. 1651 ; Pub. L. 111–240, title II, §2031(a), Sept. 27, 2010, 124 Stat. 2559 ; Pub. L. 119–21, title VII, §70302(b)(6), July 4, 2025, 139 Stat. 192 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§195",
+    "heading": "§195. Start-up expenditures",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Capitalization of expenditures",
+        "text": "Except as otherwise provided in this section, no deduction shall be allowed for start-up expenditures."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Election to deduct",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Allowance of deduction",
+            "text": "If a taxpayer elects the application of this subsection with respect to any start-up expenditures- (A) the taxpayer shall be allowed a deduction for the taxable year in which the active trade or business begins in an amount equal to the lesser of- (i) the amount of start-up expenditures with respect to the active trade or business, or (ii) $5,000, reduced (but not below zero) by the amount by which such start-up expenditures exceed $50,000, and (B) the remainder of such start-up expenditures shall be allowed as a deduction ratably over the 180-month period beginning with the month in which the active trade or business begins."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Dispositions before close of amortization period",
+            "text": "In any case in which a trade or business is completely disposed of by the taxpayer before the end of the period to which paragraph (1) applies, any deferred expenses attributable to such trade or business which were not allowed as a deduction by reason of this section may be deducted to the extent allowable under section 165."
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Special rule for taxable years beginning in 2010",
+            "text": "In the case of a taxable year beginning in 2010, paragraph (1)(A)(ii) shall be applied- (A) by substituting \"$10,000\" for \"$5,000\", and (B) by substituting \"$60,000\" for \"$50,000\"."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Definitions",
+        "text": "For purposes of this section-",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Start-up expenditures",
+            "text": "The term \"start-up expenditure\" means any amount- (A) paid or incurred in connection with- (i) investigating the creation or acquisition of an active trade or business, or (ii) creating an active trade or business, or (iii) any activity engaged in for profit and for the production of income before the day on which the active trade or business begins, in anticipation of such activity becoming an active trade or business, and (B) which, if paid or incurred in connection with the operation of an existing active trade or business (in the same field as the trade or business referred to in subparagraph (A)), would be allowable as a deduction for the taxable year in which paid or incurred. The term \"start-up expenditure\" does not include any amount with respect to which a deduction is allowable under section 163(a), 164, 174, or 174A."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Beginning of trade or business",
+            "text": "",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "In general",
+                "text": "Except as provided in subparagraph (B), the determination of when an active trade or business begins shall be made in accordance with such regulations as the Secretary may prescribe."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Acquired trade or business",
+                "text": "An acquired active trade or business shall be treated as beginning when the taxpayer acquires it."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(d)",
+        "heading": "Election",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Time for making election",
+            "text": "An election under subsection (b) shall be made not later than the time prescribed by law for filing the return for the taxable year in which the trade or business begins (including extensions thereof)."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Scope of election",
+            "text": "The period selected under subsection (b) shall be adhered to in computing taxable income for the taxable year for which the election is made and all subsequent taxable years."
+          }
+        ]
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "2025",
+        "entries": [
+          "Subsec. (c)(1). Pub. L. 119–21 substituted \"174, or 174A\" for \"or 174\" in concluding provisions."
+        ]
+      },
+      {
+        "year": "2010",
+        "entries": [
+          "Subsec. (b)(3). Pub. L. 111–240 added par. (3)."
+        ]
+      },
+      {
+        "year": "2004",
+        "entries": [
+          "Subsec. (b). Pub. L. 108–357, §902(a)(2), substituted \"deduct\" for \"amortize\" in heading.",
+          "Subsec. (b)(1). Pub. L. 108–357, §902(a)(1), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: \"Start-up expenditures may, at the election of the taxpayer, be treated as deferred expenses. Such deferred expenses shall be allowed as a deduction prorated equally over such period of not less than 60 months as may be selected by the taxpayer (beginning with the month in which the active trade or business begins).\""
+        ]
+      },
+      {
+        "year": "1984",
+        "entries": [
+          "Subsec. (a). Pub. L. 98–369 amended subsec. (a) generally, substituting provisions dealing with capitalization of expenditures for provisions dealing with election to amortize.",
+          "Subsec. (b). Pub. L. 98–369 amended subsec. (b) generally, substituting provisions dealing with election to amortize for provisions dealing with start-up expenditures.",
+          "Subsec. (c). Pub. L. 98–369 amended subsec. (c) generally, substituting provisions setting forth definitions for provisions dealing with election.",
+          "Subsec. (d). Pub. L. 98–369 amended subsec. (d) generally, substituting provisions dealing with election for provisions dealing with business beginning."
+        ]
+      }
+    ],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 2025 Amendment",
+        "pub_law": "Pub. L. 119–21",
+        "effective_date": "taxable years beginning after Dec.",
+        "text": "Amendment by Pub. L. 119–21 applicable to amounts paid or incurred in taxable years beginning after Dec. 31, 2024, subject to election for retroactive application by certain small businesses and election to deduct certain unamortized amounts paid or incurred in taxable years beginning before Jan. 1, 2025, see section 70302(e), (f) of Pub. L. 119–21, set out as an Effective Date note under section 174A of this title."
+      },
+      {
+        "heading": "Effective Date of 2010 Amendment",
+        "pub_law": "Pub. L. 111–240, title II, §2031(b), Sept. 27, 2010, 124 Stat. 2559",
+        "effective_date": "apply to amounts paid or incurred in taxable years beginning after December 31, 2009.",
+        "text": "Pub. L. 111–240, title II, §2031(b), Sept. 27, 2010, 124 Stat. 2559 , provided that: \"The amendment made by this section [amending this section] shall apply to amounts paid or incurred in taxable years beginning after December 31, 2009.\""
+      },
+      {
+        "heading": "Effective Date of 2004 Amendment",
+        "pub_law": "Pub. L. 108–357, title VIII, §902(d), Oct. 22, 2004, 118 Stat. 1652",
+        "effective_date": "apply to amounts paid or incurred after the date of the enactment of this Act [Oct.",
+        "text": "Pub. L. 108–357, title VIII, §902(d), Oct. 22, 2004, 118 Stat. 1652 , provided that: \"The amendments made by this section [amending this section and sections 248 and 709 of this title] shall apply to amounts paid or incurred after the date of the enactment of this Act [Oct. 22, 2004].\""
+      },
+      {
+        "heading": "Effective Date of 1984 Amendment",
+        "pub_law": "Pub. L. 98–369, div. A, title I, §94(c)",
+        "effective_date": "apply to taxable years beginning after June 30, 1984.",
+        "text": "Pub. L. 98–369, div. A, title I, §94(c), July 18, 1984, 98 Stat. 615 , provided that: \"The amendments made by this section [amending this section] shall apply to taxable years beginning after June 30, 1984.\""
+      },
+      {
+        "heading": "Effective Date",
+        "pub_law": "Pub. L. 96–605, title I, §102(c), Dec. 28, 1980, 94 Stat. 3522",
+        "effective_date": "apply to amounts paid or incurred after July 29, 1980, in taxable years ending after such date.",
+        "text": "Pub. L. 96–605, title I, §102(c), Dec. 28, 1980, 94 Stat. 3522 , provided that: \"The amendments made by this section [enacting this section] shall apply to amounts paid or incurred after July 29, 1980, in taxable years ending after such date.\""
+      }
+    ]
+  }
+}

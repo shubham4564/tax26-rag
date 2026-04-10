@@ -1,0 +1,73 @@
+{
+  "section_number": 7466,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle F",
+      "chapter": "CHAPTER 76",
+      "subchapter": "Subchapter C",
+      "part": "PART II",
+      "section": "§7466"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 114–113, div. Q, title IV, §431(a), Dec. 18, 2015, 129 Stat. 3125 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§7466",
+    "heading": "§7466. Judicial conduct and disability procedures",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "In general",
+        "text": "The Tax Court shall prescribe rules, consistent with the provisions of chapter 16 of title 28, United States Code, establishing procedures for the filing of complaints with respect to the conduct of any judge or special trial judge of the Tax Court and for the investigation and resolution of such complaints. In investigating and taking action with respect to any such complaint, the Tax Court shall have the powers granted to a judicial council under such chapter."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Judicial council",
+        "text": "The provisions of sections 354(b) through 360 of title 28, United States Code, regarding referral or certification to, and petition for review in the Judicial Conference of the United States, and action thereon, shall apply to the exercise by the Tax Court of the powers of a judicial council under subsection (a). The determination pursuant to section 354(b) or 355 of title 28, United States Code, shall be made based on the grounds for removal of a judge from office under section 7443(f), and certification and transmittal by the Conference of any complaint shall be made to the President for consideration under section 7443(f)."
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Hearings",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "In general",
+            "text": "In conducting hearings pursuant to subsection (a), the Tax Court may exercise the authority provided under section 1821 of title 28, United States Code, to pay the fees and allowances described in that section."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Reimbursement for expenses",
+            "text": "The Tax Court shall have the power provided under section 361 of such title 28 to award reimbursement for the reasonable expenses described in that section. Reimbursements under this paragraph shall be made out of any funds appropriated for purposes of the Tax Court."
+          }
+        ]
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date",
+        "pub_law": "Pub. L. 114–113, div. Q, title IV, §431(c), Dec. 18, 2015, 129 Stat. 3125",
+        "effective_date": "apply to proceedings commenced after the date which is 180 days after the date of the enactment of this Act [Dec.",
+        "text": "Pub. L. 114–113, div. Q, title IV, §431(c), Dec. 18, 2015, 129 Stat. 3125 , provided that: \"The amendments made by this section [enacting this section] shall apply to proceedings commenced after the date which is 180 days after the date of the enactment of this Act [Dec. 18, 2015] and, to the extent just and practicable, all proceedings pending on such date.\""
+      }
+    ]
+  }
+}

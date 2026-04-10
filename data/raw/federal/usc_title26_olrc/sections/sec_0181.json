@@ -1,0 +1,388 @@
+{
+  "section_number": 181,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle A",
+      "chapter": "CHAPTER 1",
+      "subchapter": "Subchapter B",
+      "part": "PART VI",
+      "section": "§181"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Added Pub. L. 108–357, title II, §244(a), Oct. 22, 2004, 118 Stat. 1445 ; amended Pub. L. 109–135, title IV, §403(e)(1), Dec. 21, 2005, 119 Stat. 2623 ; Pub. L. 110–343, div. C, title V, §502(a), (b), (d), Oct. 3, 2008, 122 Stat. 3876 , 3877; Pub. L. 111–312, title VII, §744(a), Dec. 17, 2010, 124 Stat. 3319 ; Pub. L. 112–240, title III, §317(a), Jan. 2, 2013, 126 Stat. 2331 ; Pub. L. 113–295, div. A, title I, §129(a), Dec. 19, 2014, 128 Stat. 4018 ; Pub. L. 114–113, div. Q, title I, §169(a)–(b)(2), (c), Dec. 18, 2015, 129 Stat. 3067 , 3068; Pub. L. 115–123, div. D, title I, §40308(a), Feb. 9, 2018, 132 Stat. 146 ; Pub. L. 116–94, div. Q, title I, §117(a), Dec. 20, 2019, 133 Stat. 3229 ; Pub. L. 116–260, div. EE, title I, §116(a), Dec. 27, 2020, 134 Stat. 3051 ; Pub. L. 119–21, title VII, §70434(a)–(f), (h)(1), July 4, 2025, 139 Stat. 244 , 245.)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§181",
+    "heading": "§181. Treatment of certain qualified productions",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Election to treat costs as expenses",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "In general",
+            "text": "A taxpayer may elect to treat the cost of any qualified film or television production, any qualified live theatrical production, and any qualified sound recording production as an expense which is not chargeable to capital account. Any cost so treated shall be allowed as a deduction."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Dollar limitation",
+            "text": "",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "In general",
+                "text": "Paragraph (1) shall not apply to so much of the aggregate cost of any qualified film or television production or any qualified live theatrical production as exceeds $15,000,000."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Higher dollar limitation for productions in certain areas",
+                "text": "In the case of any qualified film or television production or any qualified live theatrical production the aggregate cost of which is significantly incurred in an area eligible for designation as- (i) a low-income community under section 45D, or (ii) a distressed county or isolated area of distress by the Delta Regional Authority established under section 2009aa–1 of title 7, United States Code, subparagraph (A) shall be applied by substituting \"$20,000,000\" for \"$15,000,000\"."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(C)",
+                "heading": "Qualified sound recording production",
+                "text": "Paragraph (1) shall not apply to so much of the aggregate cost of any qualified sound recording production, or to so much of the aggregate, cumulative cost of all such qualified sound recording productions in the taxable year, as exceeds $150,000."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "No other deduction or amortization deduction allowable",
+        "text": "With respect to the basis of any qualified film or television production, any qualified live theatrical production, or any qualified sound recording production to which an election is made under subsection (a), no other depreciation or amortization deduction shall be allowable."
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Election",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "In general",
+            "text": "An election under this section with respect to any qualified film or television production, any qualified live theatrical production, or any qualified sound recording production shall be made in such manner as prescribed by the Secretary and by the due date (including extensions) for filing the taxpayer's return of tax under this chapter for the taxable year in which costs of the production are first incurred."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Revocation of election",
+            "text": "Any election made under this section may not be revoked without the consent of the Secretary."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(d)",
+        "heading": "Qualified film or television production",
+        "text": "For purposes of this section-",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "In general",
+            "text": "The term \"qualified film or television production\" means any production described in paragraph (2) if 75 percent of the total compensation of the production is qualified compensation."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Production",
+            "text": "",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "In general",
+                "text": "A production is described in this paragraph if such production is property described in section 168(f)(3)."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Special rules for television series",
+                "text": "In the case of a television series- (i) each episode of such series shall be treated as a separate production, and (ii) only the first 44 episodes of such series shall be taken into account."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(C)",
+                "heading": "Exception",
+                "text": "A production is not described in this paragraph if records are required under section 2257 of title 18, United States Code, to be maintained with respect to any performer in such production."
+              }
+            ]
+          },
+          {
+            "level": "paragraph",
+            "label": "(3)",
+            "heading": "Qualified compensation",
+            "text": "For purposes of paragraph (1)-",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "In general",
+                "text": "The term \"qualified compensation\" means compensation for services performed in the United States by actors, production personnel, directors, and producers."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Participations and residuals excluded",
+                "text": "The term \"compensation\" does not include participations and residuals (as defined in section 167(g)(7)(B))."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(e)",
+        "heading": "Qualified live theatrical production",
+        "text": "For purposes of this section-",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "In general",
+            "text": "The term \"qualified live theatrical production\" means any production described in paragraph (2) if 75 percent of the total compensation of the production is qualified compensation (as defined in subsection (d)(3))."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Production",
+            "text": "",
+            "children": [
+              {
+                "level": "subparagraph",
+                "label": "(A)",
+                "heading": "In general",
+                "text": "A production is described in this paragraph if such production is a live staged production of a play (with or without music) which is derived from a written book or script and is produced or presented by a taxable entity in any venue which has an audience capacity of not more than 3,000 or a series of venues the majority of which have an audience capacity of not more than 3,000."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(B)",
+                "heading": "Touring companies, etc.",
+                "text": "In the case of multiple live staged productions- (i) for which the election under this section would be allowable to the same taxpayer, and (ii) which are- (I) separate phases of a production, or (II) separate simultaneous stagings of the same production in different geographical locations (not including multiple performance locations of any one touring production), each such live staged production shall be treated as a separate production."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(C)",
+                "heading": "Phase",
+                "text": "For purposes of subparagraph (B), the term \"phase\" with respect to any qualified live theatrical production refers to each of the following, but only if each of the following is treated by the taxpayer as a separate activity for all purposes of this title: (i) The initial staging of a live theatrical production. (ii) Subsequent additional stagings or touring of such production which are produced by the same producer as the initial staging."
+              },
+              {
+                "level": "subparagraph",
+                "label": "(D)",
+                "heading": "Seasonal productions",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(i)",
+        "heading": "In general",
+        "text": "In the case of a live staged production not described in subparagraph (B) which is produced or presented by a taxable entity for not more than 10 weeks of the taxable year, subparagraph (A) shall be applied by substituting \"6,500\" for \"3,000\".",
+        "children": [
+          {
+            "level": "clause",
+            "label": "(ii)",
+            "heading": "Short taxable years",
+            "text": "For purposes of clause (i), in the case of any taxable year of less than 12 months, the number of weeks for which a production is produced or presented shall be annualized by multiplying the number of weeks the production is produced or presented during such taxable year by 12 and dividing the result by the number of months in such taxable year."
+          },
+          {
+            "level": "subparagraph",
+            "label": "(E)",
+            "heading": "Exception",
+            "text": "A production is not described in this paragraph if such production includes or consists of any performance of conduct described in section 2257(h)(1) of title 18, United States Code."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(f)",
+        "heading": "Qualified sound recording production",
+        "text": "For purposes of this section, the term \"qualified sound recording production\" means a sound recording (as defined in section 101 of title 17, United States Code) produced and recorded in the United States."
+      },
+      {
+        "level": "subsection",
+        "label": "(g)",
+        "heading": "Application of certain other rules",
+        "text": "For purposes of this section, rules similar to the rules of subsections (b)(2) and (c)(4) of section 194 shall apply."
+      },
+      {
+        "level": "subsection",
+        "label": "(h)",
+        "heading": "Termination",
+        "text": "This section shall not apply to qualified film and television productions, qualified live theatrical productions, or qualified sound recording productions commencing after December 31, 2025."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "2025",
+        "entries": [
+          "Pub. L. 119–21, §70434(h)(1), amended section catchline generally. Prior to amendment, section catchline read as follows: \"Treatment of certain qualified film and television and live theatrical productions\".",
+          "Subsec. (a)(1). Pub. L. 119–21, §70434(a), substituted \"qualified film or television production, any qualified live theatrical production, and any qualified sound recording production\" for \"qualified film or television production, and any qualified live theatrical production,\".",
+          "Subsec. (a)(2)(C). Pub. L. 119–21, §70434(b), added subpar. (C).",
+          "Subsec. (b). Pub. L. 119–21, §70434(c), substituted \"qualified film or television production, any qualified live theatrical production, or any qualified sound recording production\" for \"qualified film or television production or any qualified live theatrical production\".",
+          "Subsec. (c)(1). Pub. L. 119–21, §70434(d), substituted \"qualified film or television production, any qualified live theatrical production, or any qualified sound recording production\" for \"qualified film or television production or any qualified live theatrical production\". Subsecs. (f), (g). Pub. L. 119–21, §70434(e), added subsec. (f) and redesignated former subsec. (f) as (g). Former subsec. (g) redesignated (h).",
+          "Subsec. (h). Pub. L. 119–21, §70434(f), substituted \"qualified film and television productions, qualified live theatrical productions, or qualified sound recording productions\" for \"qualified film and television productions or qualified live theatrical productions\". Pub. L. 119–21, §70434(e), redesignated subsec. (g) as (h)."
+        ]
+      },
+      {
+        "year": "2020",
+        "entries": [
+          "Subsec. (g). Pub. L. 116–260 substituted \"December 31, 2025\" for \"December 31, 2020\"."
+        ]
+      },
+      {
+        "year": "2019",
+        "entries": [
+          "Subsec. (g). Pub. L. 116–94 substituted \"December 31, 2020\" for \"December 31, 2017\"."
+        ]
+      },
+      {
+        "year": "2018",
+        "entries": [
+          "Subsec. (g). Pub. L. 115–123 substituted \"December 31, 2017\" for \"December 31, 2016\"."
+        ]
+      },
+      {
+        "year": "2015",
+        "entries": [
+          "Pub. L. 114–113, §169(b)(2)(C), inserted \"and live theatrical\" after \"film and television\" in section catchline.",
+          "Subsec. (a)(1). Pub. L. 114–113, §169(b)(1), inserted \", and any qualified live theatrical production,\" after \"any qualified film or television production\". Subsecs. (a)(2)(A), (B), (b), (c)(1). Pub. L. 114–113, §169(b)(2)(A), inserted \"or any qualified live theatrical production\" after \"qualified film or television production\".",
+          "Subsec. (e). Pub. L. 114–113, §169(c)(2), added subsec. (e). Former subsec. (e) redesignated (f).",
+          "Subsec. (f). Pub. L. 114–113, §169(c)(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g). Pub. L. 114–113, §169(b)(2)(B), which directed insertion of \"or qualified live theatrical productions\" after \"qualified film or television productions\", was executed by making the insertion after \"qualified film and television productions\", to reflect the probable intent of Congress. Pub. L. 114–113, §169(a), substituted \"December 31, 2016\" for \"December 31, 2014\".",
+          "Subsec. (g). Pub. L. 114–113, §169(c)(1), redesignated subsec. (f) as (g)."
+        ]
+      },
+      {
+        "year": "2014",
+        "entries": [
+          "Subsec. (f). Pub. L. 113–295 substituted \"December 31, 2014\" for \"December 31, 2013\"."
+        ]
+      },
+      {
+        "year": "2013",
+        "entries": [
+          "Subsec. (f). Pub. L. 112–240 substituted \"December 31, 2013\" for \"December 31, 2011\"."
+        ]
+      },
+      {
+        "year": "2010",
+        "entries": [
+          "Subsec. (f). Pub. L. 111–312 substituted \"December 31, 2011\" for \"December 31, 2009\"."
+        ]
+      },
+      {
+        "year": "2008",
+        "entries": [
+          "Subsec. (a)(2)(A). Pub. L. 110–343, §502(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: \"Paragraph (1) shall not apply to any qualified film or television production the aggregate cost of which exceeds $15,000,000.\"",
+          "Subsec. (d)(3)(A). Pub. L. 110–343, §502(d), substituted \"actors, production personnel, directors, and producers.\" for \"actors, directors, producers, and other relevant production personnel.\"",
+          "Subsec. (f). Pub. L. 110–343, §502(a), substituted \"December 31, 2009\" for \"December 31, 2008\"."
+        ]
+      },
+      {
+        "year": "2005",
+        "entries": [
+          "Subsec. (d)(2). Pub. L. 109–135 struck out \"For purposes of a television series, only the first 44 episodes of such series may be taken into account.\" at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C)."
+        ]
+      }
+    ],
+    "other_notes": [
+      {
+        "heading": "Prior Provisions",
+        "text": "A prior section 181, Pub. L. 87–834, §2(c), Oct. 16, 1962, 76 Stat. 970 , related to a deduction for unused investment credit, prior to repeal by Pub. L. 88–272, title II, §203(a)(3)(B), (4), Feb. 26, 1964, 78 Stat. 34 , applicable in case of property placed in service after Dec. 31, 1963, with respect to taxable years ending after such date, and in case of property placed in service before Jan. 1, 1964, with respect to taxable years beginning after Dec. 31, 1963."
+      }
+    ]
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 2025 Amendment",
+        "pub_law": "Pub. L. 119–21",
+        "effective_date": "taxable years ending after July 4, 2025, see section 70434(i) of Pub.",
+        "text": "Amendment by Pub. L. 119–21 applicable to productions commencing in taxable years ending after July 4, 2025, see section 70434(i) of Pub. L. 119–21, set out as a note under section 168 of this title."
+      },
+      {
+        "heading": "Effective Date of 2020 Amendment",
+        "pub_law": "Pub. L. 116–260, div. EE, title I, §116(b), Dec. 27, 2020, 134 Stat. 3051",
+        "effective_date": "apply to productions commencing after December 31, 2020.",
+        "text": "Pub. L. 116–260, div. EE, title I, §116(b), Dec. 27, 2020, 134 Stat. 3051 , provided that: \"The amendment made by this section [amending this section] shall apply to productions commencing after December 31, 2020.\""
+      },
+      {
+        "heading": "Effective Date of 2019 Amendment",
+        "pub_law": "Pub. L. 116–94, div. Q, title I, §117(b), Dec. 20, 2019, 133 Stat. 3229",
+        "effective_date": "apply to productions commencing after December 31, 2017.",
+        "text": "Pub. L. 116–94, div. Q, title I, §117(b), Dec. 20, 2019, 133 Stat. 3229 , provided that: \"The amendment made by this section [amending this section] shall apply to productions commencing after December 31, 2017.\""
+      },
+      {
+        "heading": "Effective Date of 2018 Amendment",
+        "pub_law": "Pub. L. 115–123, div. D, title I, §40308(b), Feb. 9, 2018, 132 Stat. 146",
+        "effective_date": "apply to productions commencing after December 31, 2016.",
+        "text": "Pub. L. 115–123, div. D, title I, §40308(b), Feb. 9, 2018, 132 Stat. 146 , provided that: \"The amendment made by this section [amending this section] shall apply to productions commencing after December 31, 2016.\""
+      },
+      {
+        "heading": "Effective Date of 2015 Amendment",
+        "pub_law": "Pub. L. 114–113, div. Q, title I, §169(d), Dec. 18, 2015, 129 Stat. 3069",
+        "effective_date": "apply to productions commencing after December 31, 2014.",
+        "text": "Pub. L. 114–113, div. Q, title I, §169(d), Dec. 18, 2015, 129 Stat. 3069 , provided that: \"(1) Extension.-The amendment made by subsection (a) [amending this section] shall apply to productions commencing after December 31, 2014. \"(2) Modifications.- \"(A) In general.-The amendments made by subsections (b) and (c) [amending this section] shall apply to productions commencing after December 31, 2015. \"(B) Commencement.-For purposes of subparagraph (A), the date on which a qualified live theatrical production commences is the date of the first public performance of such production for a paying audience.\""
+      },
+      {
+        "heading": "Effective Date of 2014 Amendment",
+        "pub_law": "Pub. L. 113–295, div. A, title I, §129(b), Dec. 19, 2014, 128 Stat. 4018",
+        "effective_date": "apply to productions commencing after December 31, 2013.",
+        "text": "Pub. L. 113–295, div. A, title I, §129(b), Dec. 19, 2014, 128 Stat. 4018 , provided that: \"The amendment made by this section [amending this section] shall apply to productions commencing after December 31, 2013.\""
+      },
+      {
+        "heading": "Effective Date of 2013 Amendment",
+        "pub_law": "Pub. L. 112–240, title III, §317(b), Jan. 2, 2013, 126 Stat. 2331",
+        "effective_date": "apply to productions commencing after December 31, 2011.",
+        "text": "Pub. L. 112–240, title III, §317(b), Jan. 2, 2013, 126 Stat. 2331 , provided that: \"The amendment made by this section [amending this section] shall apply to productions commencing after December 31, 2011.\""
+      },
+      {
+        "heading": "Effective Date of 2010 Amendment",
+        "pub_law": "Pub. L. 111–312, title VII, §744(b), Dec. 17, 2010, 124 Stat. 3319",
+        "effective_date": "apply to productions commencing after December 31, 2009.",
+        "text": "Pub. L. 111–312, title VII, §744(b), Dec. 17, 2010, 124 Stat. 3319 , provided that: \"The amendment made by this section [amending this section] shall apply to productions commencing after December 31, 2009.\""
+      },
+      {
+        "heading": "Effective Date of 2008 Amendment",
+        "pub_law": "Pub. L. 110–343, div. C, title V, §502(e), Oct. 3, 2008, 122 Stat. 3877",
+        "effective_date": "apply to qualified film and television productions commencing after December 31, 2007.",
+        "text": "Pub. L. 110–343, div. C, title V, §502(e), Oct. 3, 2008, 122 Stat. 3877 , provided that: \"(1) In general.-Except as otherwise provided in this subsection, the amendments made by this section [amending this section and section 199 of this title] shall apply to qualified film and television productions commencing after December 31, 2007. \"(2) Deduction.-The amendments made by subsection (c) [amending section 199 of this title] shall apply to taxable years beginning after December 31, 2007.\""
+      },
+      {
+        "heading": "Effective Date of 2005 Amendment",
+        "pub_law": "Pub. L. 109–135",
+        "effective_date": "effective as if included in the provision of the American Jobs Creation Act of 2004, Pub.",
+        "text": "Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title."
+      },
+      {
+        "heading": "Effective Date",
+        "pub_law": "Pub. L. 108–357, title II, §244(c), Oct. 22, 2004, 118 Stat. 1447",
+        "effective_date": "apply to qualified film and television productions (as defined in section 181(d)(1) of the Internal Revenue Code of 1986, as added by this section) commencing after the date of the enactment of this Act [Oct.",
+        "text": "Pub. L. 108–357, title II, §244(c), Oct. 22, 2004, 118 Stat. 1447 , provided that: \"The amendments made by this section [enacting this section] shall apply to qualified film and television productions (as defined in section 181(d)(1) of the Internal Revenue Code of 1986, as added by this section) commencing after the date of the enactment of this Act [Oct. 22, 2004].\""
+      }
+    ]
+  }
+}

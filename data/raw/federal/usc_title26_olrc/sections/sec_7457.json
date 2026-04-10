@@ -1,0 +1,67 @@
+{
+  "section_number": 7457,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle F",
+      "chapter": "CHAPTER 76",
+      "subchapter": "Subchapter C",
+      "part": "PART II",
+      "section": "§7457"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Aug. 16, 1954, ch. 736, 68A Stat. 886 ; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§7457",
+    "heading": "§7457. Witness fees",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Amount",
+        "text": "Any witness summoned or whose deposition is taken under section 7456 shall receive the same fees and mileage as witnesses in courts of the United States."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Payment",
+        "text": "Such fees and mileage and the expenses of taking any such deposition shall be paid as follows:",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "Witnesses for Secretary",
+            "text": "In the case of witnesses for the Secretary, such payments shall be made by the Secretary out of any moneys appropriated for the collection of internal revenue taxes, and may be made in advance."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Other Witnesses",
+            "text": "In the case of any other witnesses, such payments shall be made, subject to rules prescribed by the Tax Court, by the party at whose instance the witness appears or the deposition is taken."
+          }
+        ]
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "1976",
+        "entries": [
+          "Subsec. (b)(1). Pub. L. 94–455 struck out \"or his delegate\" after \"Secretary\" wherever appearing."
+        ]
+      }
+    ],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": []
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "section_number": 6303,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle F",
+      "chapter": "CHAPTER 64",
+      "subchapter": "Subchapter A",
+      "section": "§6303"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Aug. 16, 1954, ch. 736, 68A Stat. 775 ; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834 ; Pub. L. 119–64, §2(b)(1), Dec. 26, 2025, 139 Stat. 1984 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§6303",
+    "heading": "§6303. Notice and demand for tax",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "General rule",
+        "text": "Where it is not otherwise provided by this title, the Secretary shall, as soon as practicable, and within 60 days, after the making of an assessment of a tax pursuant to section 6203, give notice to each person liable for the unpaid tax, stating the amount and demanding payment thereof. Such notice shall be left at the dwelling or usual place of business of such person, or shall be sent by mail to such person's last known address."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Assessment prior to last date for payment",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "In general",
+            "text": "Except where the Secretary believes collection would be jeopardized by delay, if any tax is assessed prior to the last date prescribed for payment of such tax, payment of such tax shall not be demanded under subsection (a) until after such date."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Postponement by reason of disaster, significant fire, or terroristic or military actions",
+            "text": "For purposes of paragraph (1), the last date prescribed for payment of any tax shall be determined after taking into account any period disregarded under section 7508A."
+          }
+        ]
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "2025",
+        "entries": [
+          "Subsec. (b). Pub. L. 119–64 designated existing provisions as par. (1), inserted heading, and added par. (2)."
+        ]
+      },
+      {
+        "year": "1976",
+        "entries": [
+          "Pub. L. 94–455 struck out \"or his delegate\" after \"Secretary\" wherever appearing."
+        ]
+      }
+    ],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 2025 Amendment",
+        "pub_law": "Pub. L. 119–64, §2(b)(2), Dec. 26, 2025, 139 Stat. 1985",
+        "effective_date": "apply to notices issued after the date of the enactment of this Act [Dec.",
+        "text": "Pub. L. 119–64, §2(b)(2), Dec. 26, 2025, 139 Stat. 1985 , provided that: \"The amendments made by this subsection [amending this section] shall apply to notices issued after the date of the enactment of this Act [Dec. 26, 2025].\""
+      }
+    ]
+  }
+}

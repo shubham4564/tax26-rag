@@ -1,0 +1,109 @@
+{
+  "section_number": 4401,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle D",
+      "chapter": "CHAPTER 35",
+      "subchapter": "Subchapter A",
+      "section": "§4401"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Aug. 16, 1954, ch. 736, 68A Stat. 525 ; Pub. L. 85–859, title I, §151(a), Sept. 2, 1958, 72 Stat. 1304 ; Pub. L. 93–499, §3(a), Oct. 29, 1974, 88 Stat. 1550 ; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834 ; Pub. L. 97–362, title I, §109(a), Oct. 25, 1982, 96 Stat. 1731 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§4401",
+    "heading": "§4401. Imposition of tax",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Wagers",
+        "text": "",
+        "children": [
+          {
+            "level": "paragraph",
+            "label": "(1)",
+            "heading": "State authorized wagers",
+            "text": "There shall be imposed on any wager authorized under the law of the State in which accepted an excise tax equal to 0.25 percent of the amount of such wager."
+          },
+          {
+            "level": "paragraph",
+            "label": "(2)",
+            "heading": "Unauthorized wagers",
+            "text": "There shall be imposed on any wager not described in paragraph (1) an excise tax equal to 2 percent of the amount of such wager."
+          }
+        ]
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Amount of wager",
+        "text": "In determining the amount of any wager for the purposes of this subchapter, all charges incident to the placing of such wager shall be included; except that if the taxpayer establishes, in accordance with regulations prescribed by the Secretary, that an amount equal to the tax imposed by this subchapter has been collected as a separate charge from the person placing such wager, the amount so collected shall be excluded."
+      },
+      {
+        "level": "subsection",
+        "label": "(c)",
+        "heading": "Persons liable for tax",
+        "text": "Each person who is engaged in the business of accepting wagers shall be liable for and shall pay the tax under this subchapter on all wagers placed with him. Each person who conducts any wagering pool or lottery shall be liable for and shall pay the tax under this subchapter on all wagers placed in such pool or lottery. Any person required to register under section 4412 who receives wagers for or on behalf of another person without having registered under section 4412 the name and place of residence of such other person shall be liable for and shall pay the tax under this subchapter on all such wagers received by him."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "1982",
+        "entries": [
+          "Subsec. (a). Pub. L. 97–362 substituted provision that there shall be imposed on any wager authorized under the law of the State in which accepted an excise tax equal to 0.25 percent of the amount of such wager and that there shall be imposed on any other wager an excise tax equal to 2 percent of the amount of such wager for provision that there be imposed on wagers, as defined in section 4421, an excise tax equal to 2 percent of the amount thereof."
+        ]
+      },
+      {
+        "year": "1976",
+        "entries": [
+          "Subsec. (b). Pub. L. 94–455 struck out \"or his delegate\" after \"Secretary\"."
+        ]
+      },
+      {
+        "year": "1974",
+        "entries": [
+          "Subsec. (a). Pub. L. 93–499 substituted \"2 percent\" for \"10 percent\"."
+        ]
+      },
+      {
+        "year": "1958",
+        "entries": [
+          "Subsec. (c). Pub. L. 85–859 made all persons required to register under section 4412 of this title who receive wagers for or on behalf of another person without having registered under section 4412 of this title the name and place of residence of such other person liable for the tax on all such wagers received by them."
+        ]
+      }
+    ],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 1982 Amendment",
+        "pub_law": "Pub. L. 97–362, title I, §109(c)(1), Oct. 25, 1982, 96 Stat. 1731",
+        "effective_date": "",
+        "text": "Pub. L. 97–362, title I, §109(c)(1), Oct. 25, 1982, 96 Stat. 1731 , provided that: \"The amendment made by subsection (a) [amending this section] shall take effect on January 1, 1983.\""
+      },
+      {
+        "heading": "Effective Date of 1974 Amendment",
+        "pub_law": "Pub. L. 93–499, §3(d)(1), Oct. 29, 1974, 88 Stat. 1551",
+        "effective_date": "",
+        "text": "Pub. L. 93–499, §3(d)(1), Oct. 29, 1974, 88 Stat. 1551 , provided that: \"The amendments made by this section [enacting section 4424 and amending this section and section 4411 of this title] take effect on December 1, 1974, and shall apply only with respect to wagers placed on or after such date.\""
+      },
+      {
+        "heading": "Effective Date of 1958 Amendment",
+        "pub_law": "Pub. L. 85–859, title I, §151(b), Sept. 2, 1958, 72 Stat. 1304",
+        "effective_date": "",
+        "text": "Pub. L. 85–859, title I, §151(b), Sept. 2, 1958, 72 Stat. 1304 , provided that: \"The amendment made by subsection (a) [amending this section] shall apply with respect to wagers received after the date of the enactment of this Act [Sept. 2, 1958].\""
+      }
+    ]
+  }
+}

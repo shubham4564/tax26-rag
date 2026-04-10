@@ -1,0 +1,51 @@
+{
+  "section_number": 6903,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle F",
+      "chapter": "CHAPTER 71",
+      "section": "§6903"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Aug. 16, 1954, ch. 736, 68A Stat. 843 ; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§6903",
+    "heading": "§6903. Notice of fiduciary relationship",
+    "text": "",
+    "children": [
+      {
+        "level": "subsection",
+        "label": "(a)",
+        "heading": "Rights and obligations of fiduciary",
+        "text": "Upon notice to the Secretary that any person is acting for another person in a fiduciary capacity, such fiduciary shall assume the powers, rights, duties, and privileges of such other person in respect of a tax imposed by this title (except as otherwise specifically provided and except that the tax shall be collected from the estate of such other person), until notice is given that the fiduciary capacity has terminated."
+      },
+      {
+        "level": "subsection",
+        "label": "(b)",
+        "heading": "Manner of notice",
+        "text": "Notice under this section shall be given in accordance with regulations prescribed by the Secretary."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "1976",
+        "entries": [
+          "Pub. L. 94–455 struck out \"or his delegate\" after \"Secretary\" wherever appearing."
+        ]
+      }
+    ],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": []
+  }
+}

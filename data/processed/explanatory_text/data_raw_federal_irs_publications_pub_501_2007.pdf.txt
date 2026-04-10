@@ -1,0 +1,1020 @@
+Userid: ________ DTD TIP04 Leadpct: -10% Pt. size: 8 ❏ Draft ❏ Ok to Print
+PAGER/SGML Fileid: D:\USERS\62pdb\documents\epicfiles\2007\P501.SGM (Init. & date)
+Page 1 of 26 of Publication 501 15:30 -  7-JAN-2008
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Publication 501 Contents
+Cat. No. 15000U
+What’s New for 2007............... 1
+Department Reminders ...................... 2
+of the
+Introduction ..................... 2Exemptions,Treasury
+Who Must File ................... 2Internal
+Revenue Who Should File ................. 4Standard
+Service Filing Status .................... 4
+Exemptions ..................... 9Deduction,
+Exemptions for Dependents ......... 9
+Phaseout of Exemptions ............ 19
+and Filing
+Standard Deduction ............... 19
+2007 Standard Deduction Tables .... 22
+How To Get Tax Help .............. 23Information
+Index .......................... 25
+For use in preparing What’s New for 2007
+2007 Returns Who must file. Generally, the amount of in-
+come you can receive before you must file a tax
+return has increased. Table 1 shows the filing
+requirements for most taxpayers.
+Exemption amount. The amount you can de-
+duct for each exemption has increased from
+$3,300 in 2006 to $3,400 in 2007.
+Exemption phaseout. You lose part of the
+benefit of your exemptions if your adjusted gross
+income is above a certain amount. For 2007, the
+phaseout begins at $117,300 for married per-
+sons filing separately; $156,400 for single indi-
+viduals; $195,500 for heads of household; and
+$234,600 for married persons filing jointly or
+qualifying widow(ers). However, in 2007, you
+can lose no more than 
+2/3 of the amount of your
+exemptions. In other words, each exemption
+cannot be reduced to less than $1,133.
+Standard deduction. The standard deduction
+for most taxpayers who do not itemize their
+deductions on Schedule A of Form 1040 is
+higher in 2007 than it was in 2006. The amount
+depends on your filing status. The 2007 Stan-
+dard Deduction Tables shown near the end of
+this publication as Tables 7, 8, and 9 can help
+you figure the amount of your deduction.
+Itemized deductions. Some of your itemized
+deductions may be limited if your adjusted gross
+income is more than $156,400 ($78,200 if you
+are married filing separately). However, in 2007,
+the amount by which these deductions are re-
+duced is only 
+2/3 of the amount of the reduction
+that otherwise would have applied. See Who
+Should Itemize, later.
+Exemption for housing person displaced by
+Hurricane Katrina expires. The $500 exemp-
+tion for housing an individual displaced by Hurri-
+cane Katrina, which was allowed for 2005 and
+2006, is no longer allowed.
+Qualifying relative. You may be able to claim
+an exemption for a child whose parent is not
+required to file a tax return. See Not a Qualifying
+Child Test.
+Get forms and other information
+faster and easier by:
+Internet • www.irs.gov
+
+Page 2 of 26 of Publication 501 15:30 -  7-JAN-2008
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Exemptions, which reduce your taxable in- We respond to many letters by telephone.
+Therefore, it would be helpful if you would in-come, are discussed in Exemptions.Reminders clude your daytime phone number, including theExemptions for Dependents explains the dif-
+area code, in your correspondence.ference between a qualifying child and a qualify-Taxpayer identification number for aliens. You can email us at *taxforms@irs.gov. (Theing relative. Other topics include the socialIf you are a nonresident or resident alien and asterisk must be included in the address.)security number requirement for dependents,you do not have and are not eligible to get a Please put “Publications Comment” on the sub-the rules for multiple support agreements, andsocial security number (SSN), you must apply ject line. Although we cannot respond individu-the rules for divorced or separated parents.for an individual taxpayer identification number ally to each email, we do appreciate your(ITIN). Your spouse also may need an ITIN if he Standard Deduction gives the rules and dol- feedback and will consider your comments asor she does not have and is not eligible to get an lar amounts for the standard deduction — a we revise our tax products.SSN. See Form W-7, Application for IRS Individ- benefit for taxpayers who do not itemize their Ordering forms and publications. Visitual Taxpayer Identification Number. Also, see deductions. This section also discusses the www.irs.gov/formspubs to download forms andSocial Security Numbers for Dependents, later. standard deduction for taxpayers who are blind publications, call 1-800-829-3676, or write to theor age 65 or older, and special rules for depen-Photographs of missing children. The Inter- address below and receive a response within 10dents. In addition, this section should help younal Revenue Service is a proud partner with the days after your request is received.decide whether you would be better off takingNational Center for Missing and Exploited Chil-
+the standard deduction or itemizing your deduc-dren. Photographs of missing children selected National Distribution Centertions.by the Center may appear in this publication on P.O. Box 8903pages that would otherwise be blank. You can How To Get Tax Help explains how to get tax Bloomington, IL 61702-8903help bring these children home by looking at the help from the IRS.
+photographs and calling 1-800-THE-LOST This publication is for U.S. citizens and resi-(1-800-843-5678) if you recognize a child. Tax questions. If you have a tax question,dent aliens only. If you are a resident alien for
+check the information available on www.irs.govthe entire year, you must follow the same tax or call 1-800-829-1040. We cannot answer taxrules that apply to U.S. citizens. The rules to questions sent to either of the above addresses.determine if you are a resident or nonresident
+Introduction alien are discussed in chapter 1 of Publication Useful Items519, U.S. Tax Guide for Aliens.This publication discusses some tax rules that You may want to see:affect every person who may have to file a fed-
+eral income tax return. It answers some basic Nonresident aliens. If you were a nonresi- Publicationquestions: who must file; who should file; what dent alien at any time during the year, the rules
+❏ 559 Survivors, Executors, andfiling status to use; how many exemptions to and tax forms that apply to you may be different
+Administratorsclaim; and the amount of the standard deduc- from those that apply to U.S. citizens. See Publi-
+tion. cation 519. ❏ 929 Tax Rules for Children andWho Must File  explains who must file an Dependentsincome tax return. If you have little or no gross Comments and suggestions. We welcomeincome, reading this section will help you decide your comments about this publication and your Form (and Instructions)if you have to file a return. suggestions for future editions. ❏ 1040X Amended U.S. Individual IncomeWho Should File will help you decide if you You can write to us at the following address: Tax Returnshould file a return, even if you are not required
+to do so. ❏ 2848 Power of Attorney and DeclarationInternal Revenue ServiceFiling Status helps you determine which filing of Representative
+Individual Forms and Publications Branchstatus to use. Filing status is important in deter- ❏ 8332 Release of Claim to Exemption forSE:W:CAR:MP:T:Imining whether you must file a return, your stan- Child of Divorced or Separated1111 Constitution Ave. NW, IR-6526dard deduction, and your tax rate. It also helps ParentsWashington, DC 20224determine what credits you may be entitled to.
+❏ 8814 Parents’ Election To Report Child’s
+Interest and DividendsTable 1. 2007 Filing Requirements Chart for Most Taxpayers
+THEN file a return
+if your gross Who Must FileAND at the end of 2007 you income was at
+If you are a U.S. citizen or resident alien,IF your filing status is... were... * least...**
+whether you must file a federal income tax return
+under 65  $ 8,750single depends upon your gross income, your filing
+status, your age, and whether you are a depen-
+65 or older $ 10,050 dent. For details, see Table 1 and Table 2. You
+also must file if one of the situations described in
+under 65 $11,250head of household Table 3 applies. The filing requirements apply
+even if you owe no tax.65 or older $12,550  You may have to pay a penalty if you are
+required to file a return but fail to do so. If youunder 65 (both spouses) $17,500married, filing jointly***
+willfully fail to file a return, you may be subject to
+criminal prosecution.65 or older (one spouse) $18,550 For information on what form to use — Form
+1040EZ, Form 1040A, or Form 1040 — see the65 or older (both spouses) $19,600
+instructions in your tax package.
+married, filing separately any age  $ 3,400 Gross income. Gross income is all income
+you receive in the form of money, goods, prop-under 65 $14,100qualifying widow(er) with erty, and services that is not exempt from tax. Ifdependent child you are married and live with your spouse in a65 or older $15,150
+community property state, half of any income
+defined by state law as community income may*  If you were born before January 2, 1943, you are considered to be 65 or older at the end of 2007. be considered yours. For a list of community**  Gross income means all income you received in the form of money, goods, property, and property states, see Community property statesservices that is not exempt from tax, including any income from sources outside the United
+under Married Filing Separately, later.States (even if you may exclude part or all of it). Do not include social security benefits unless
+you are married filing a separate return and you lived with your spouse at any time during Self-employed persons. If you are2007. self-employed in a business that provides serv-*** If you did not live with your spouse at the end of 2007 (or on the date your spouse died) and ices (where products are not a factor), youryour gross income was at least $3,400, you must file a return regardless of your age. gross income from that business is the gross
+Page 2 Publication 501 (2007)
+
+Page 3 of 26 of Publication 501 15:30 -  7-JAN-2008
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+December 31 for most taxpayers. Filing status isTable 2. 2007 Filing Requirements for Dependents 
+discussed in detail later in this publication.
+See Exemptions for Dependents to find out if you are a dependent.
+Age. Age is a factor in determining if you mustIf your parent (or someone else) can claim you as a dependent, use this table to see file a return only if you are 65 or older at the endif you must file a return. of your tax year. For 2007, you are 65 or older if
+In this table, unearned income includes taxable interest, ordinary dividends, and you were born before January 2, 1943.
+capital gain distributions. Earned income includes wages, tips, and taxable
+scholarship and fellowship grants. Gross income is the total of your unearned and Filing Requirements
+earned income. for Most Taxpayers
+Caution. If your gross income was $3,400 or more, you usually cannot be claimed You must file a return if your gross income foras a dependent unless you are a qualifying child. For details, see Exemptions for the year was at least the amount shown on theDependents. appropriate line in Table 1. Dependents should
+see Table 2 instead.
+Single dependents—  Were you either age 65 or older or blind?
+❏ No. You must file a return if any of the following apply. Deceased Persons
+1. Your unearned income was more than $850. You must file an income tax return for a dece-
+2. Your earned income was more than $5,350. dent (a person who died) if both of the following
+are true.3. Your gross income was more than the larger of —
+a. $850, or 1. You are the surviving spouse, executor,
+administrator, or legal representative.b. Your earned income (up to $5,050) plus $300.
+2. The decedent met the filing requirements
+described in this publication at the time of❏ Yes. You must file a return if any of the following apply.
+his or her death.
+1. Your unearned income was more than $2,150 ($3,450 if 65 or older and For more information, see Final Return forblind). Decedent in Publication 559.
+2. Your earned income was more than $6,650 ($7,950 if 65 or older and
+blind).
+3. Your gross income was more than $1,300 ($2,600 if 65 or older and U.S. Citizens or Resident Aliens
+Living Abroadblind) plus the larger of–
+a. $850, or For purposes of determining whether you must
+file a return, you must include in your grossb. Your earned income (up to $5,050) plus $300.
+income all of the income you earned or received
+abroad, including any income you can exclude
+under the foreign earned income exclusion. For
+Married dependents— Were you either age 65 or older or blind? more information on special tax rules that may
+❏ No. You must file a return if any of the following apply. apply to you, see Publication 54, Tax Guide for
+U.S. Citizens and Resident Aliens Abroad.1. Your gross income was at least $5 and your spouse files a separate
+return and itemizes deductions.
+Residents of Puerto Rico2. Your unearned income was more than $850.
+3. Your earned income was more than $5,350. Generally, if you are a U.S. citizen and a bona
+4. Your gross income was more than the larger of — fide resident of Puerto Rico, you must file a U.S.
+income tax return if you meet the income re-a. $850, or quirements. This is in addition to any legal re-b.  Your earned income (up to $5,050) plus $300. quirement you may have to file an income tax
+return with Puerto Rico.
+❏ Yes. You must file a return if any of the following apply. If you are a bona fide resident of Puerto Rico
+for the whole year, your U.S. gross income does1. Your gross income was at least $5 and your spouse files a separate not include income from sources within Puertoreturn and itemizes deductions. Rico. However, include in your U.S. gross in-
+2. Your unearned income was more than $1,900 ($2,950 if 65 or older and come any income you received for your services
+blind). as an employee of the United States or any U.S.
+agency. If you receive income from Puerto Ri-3. Your earned income was more than $6,400 ($7,450 if 65 or older and
+can sources that is not subject to U.S. tax, youblind). must reduce your standard deduction, which4. Your gross income was more than $1,050 ($2,100 if 65 or older and reduces the amount of income you can haveblind) plus the larger of– before you must file a U.S. income tax return.
+a. $850, or For more information, see Publication 570,
+Tax Guide for Individuals With Income Fromb. Your earned income (up to $5,050) plus $300.
+U.S. Possessions.
+Individuals With Income From U.S.
+receipts. If you are self-employed in a business You must file Form 1040 if you owe any Possessions
+involving manufacturing, merchandising, or min- self-employment tax.
+If you had income from Guam, the Common-ing, your gross income from that business is the
+TIP
+wealth of Northern Mariana Islands, Americantotal sales minus the cost of goods sold. To this
+figure, you add any income from investments Samoa, or the U.S. Virgin Islands, special rules
+and from incidental or outside operations or may apply when determining whether you mustFiling status. Your filing status generally de-
+sources. file a U.S. federal income tax return. In addition,pends on whether you are single or married. In
+you may have to file a return with the individualsome cases, it depends on other factors as well.
+possession government. See Publication 570Whether you are single or married is determined
+for more information.as of the last day of your tax year, which is
+Publication 501 (2007) Page 3
+
+Page 4 of 26 of Publication 501 15:30 -  7-JAN-2008
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+• No estimated tax payment was made forTable 3. Other Situations When You Must File a 2007 Return
+2007 and no 2006 overpayment was ap-
+plied to 2007 under your child’s name andIf any of the four conditions listed below applied to you for 2007, you must file a social security number.return. • No federal income tax was withheld from
+your child’s income under the backup with-1. You owe any special taxes, including any of the following. holding rules.
+• You are the parent whose return must bea. Alternative minimum tax. (See the Form 1040 instructions for line 45.) used when making the election to report
+your child’s unearned income.
+b. Additional tax on a qualified plan, including an individual retirement
+For more information, see Form 8814 andarrangement (IRA), or other tax-favored account. (See Publication 590, Parent’s Election To Report Child’s Interest andIndividual Retirement Arrangements (IRAs), and Publication 969, Health Dividends in Publication 929.Savings Accounts and Other Tax-Favored Health Plans.) But if you are filing a
+return only because you owe this tax, you can file Form 5329 by itself. Other Situations
+You may have to file a tax return even if yourc. Social security or Medicare tax on tips you did not report to your employer (see
+gross income is less than the amount shown inPublication 531, Reporting Tip Income) or on wages you received from an Table 1 or Table 2 for your filing status. Seeemployer who did not withhold these taxes (see Form 8919). Table 3 for those other situations when you must
+file.
+d. Write-in taxes, including uncollected social security, Medicare, or railroad
+retirement tax on tips you reported to your employer or on group-term life
+insurance and additional tax on health savings account distributions. (See
+Who Should FilePublication 531, Publication 969, and the Form 1040 instructions for line 63.)
+Even if you do not have to file, you should file ae. Household employment taxes. But if you are filing a return only because you tax return if you can get money back. For exam-owe these taxes, you can file Schedule H by itself. ple, you should file if one of the following applies.
+1. You had income tax withheld from yourf. Recapture taxes. (See the Form 1040 instructions for lines 44 and 63.) pay.
+2. You made estimated tax payments for theg. Additional tax on a health savings account from From 8889, Part III. year or had any of your overpayment for
+last year applied to this year’s estimated
+2. You received any advance earned income credit (EIC) payments from your tax.
+employer. These payments should be shown in box 9 of your Form W-2. (See 3. You qualify for the earned income credit.Publication 596, Earned Income Credit.) See Publication 596, Earned Income
+Credit (EIC), for more information.
+3. You had net earnings from self-employment of at least $400. (See Schedule SE 4. You qualify for the additional child tax
+(Form 1040) and its instructions.) credit. See the instructions in your tax
+forms package for more information on this
+credit.
+4. You had wages of $108.28 or more from a church or qualified church-controlled
+organization that is exempt from employer social security and Medicare taxes. 5. You qualify for the health coverage tax
+credit. For information about this credit,(See Schedule SE (Form 1040) and its instructions.)
+see Form 8885, Health Coverage Tax
+Credit.
+6. You qualify for the refundable credit forpay the tax due on this income, the parent is
+Dependents prior year minimum tax. See Form 8801,liable for the tax.
+Credit for Prior Year Minimum Tax — Indi-A person who is a dependent may still have to Unearned income. This is income such as viduals, Estates, and Trusts.file a return. This depends on the amount of the interest, dividends, and capital gains. Trust dis-dependent’s earned income, unearned income, tributions of interest, dividends, capital gains,and gross income. For details, see Table 2. A and survivor annuities are considered unearneddependent may also have to file if one of the income also.situations described in Table 3 applies. Filing Status
+Election to report child’s unearned incomeResponsibility of parent. If a dependent
+on parent’s return.  You may be able to in- You must determine your filing status before youchild who must file an income tax return cannot
+clude your child’s interest and dividend income can determine your filing requirements, stan-file it for any reason, such as age, a parent,
+on your tax return. If you choose to do this, your dard deduction (discussed later), and correctguardian, or other legally responsible person
+child will not have to file a return. However, all of tax. You figure your correct tax by using themust file it for the child. If the child cannot sign
+the following conditions must be met. section of the Tax Computation Worksheet orthe return, the parent or guardian must sign the
+the column in the Tax Table that applies to yourchild’s name followed by the words “By (your • Your child was under age 18 at the end of filing status.signature), parent for minor child.” 2007. (A child born on January 1, 1990, is
+You also use your filing status in determiningconsidered to be age 18 at the end ofEarned income. This is salaries, wages, pro- whether you are eligible to claim certain other2007; you cannot make the election forfessional fees, and other amounts received as deductions and credits.this child.)pay for work you actually perform. Earned in- There are five filing statuses:come (only for purposes of filing requirements • Your child had gross income only from in-
+and the standard deduction) also includes any terest and dividends (including capital gain • Single,
+part of a scholarship that you must include in distributions and Alaska Permanent Fund • Married Filing Jointly,your gross income. See chapter 1 of Publication dividends).
+970, Tax Benefits for Education, for more infor- • Married Filing Separately,• The interest and dividend income was lessmation on taxable and nontaxable scholarships. than $8,500. • Head of Household, and
+Child’s earnings. Amounts a child earns by • Your child is required to file a return for • Qualifying Widow(er) With Dependentperforming services are his or her gross income. 2007 unless you make this election. Child.This is true even if under local law the child’s
+parents have the right to the earnings and may • Your child does not file a joint return for If more than one filing status applies to you,
+actually have received them. If the child does not 2007. choose the one that will give you the lowest tax.
+Page 4 Publication 501 (2007)
+
+Page 5 of 26 of Publication 501 15:30 -  7-JAN-2008
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+spouse. Your deceased spouse’s filing status is Filing a Joint ReturnMarital Status married filing separately for that year.
+Both you and your spouse must include all ofIn general, your filing status depends on Married persons living apart. If you live your income, exemptions, and deductions onwhether you are considered unmarried or mar- apart from your spouse and meet certain tests, your joint return.ried. For federal tax purposes, a marriage you may be considered unmarried. If this appliesmeans only a legal union between a man and a Accounting period. Both of you must use theto you, you can file as head of household evenwoman as husband and wife. same accounting period, but you can use differ-though you are not divorced or legally sepa-
+ent accounting methods.rated. If you qualify to file as head of householdUnmarried persons. You are considered un- instead of as married filing separately, yourmarried for the whole year if, on the last day of Joint responsibility. Both of you may be heldstandard deduction will be higher. Also, your taxyour tax year, you are unmarried or legally sepa- responsible, jointly and individually, for the taxmay be lower, and you may be able to claim therated from your spouse under a divorce or sepa- and any interest or penalty due on your jointearned income credit. See Head of Household,rate maintenance decree. return. One spouse may be held responsible forlater.State law governs whether you are married all the tax due even if all the income was earned
+or legally separated under a divorce or separate by the other spouse.Singlemaintenance decree. Divorced taxpayer. You may be held jointly
+Divorced persons.  If you are divorced Your filing status is single if, on the last day of and individually responsible for any tax, interest,
+under a final decree by the last day of the year, the year, you are unmarried or legally separated and penalties due on a joint r eturn filed before
+you are considered unmarried for the whole from your spouse under a divorce or separate your divorce. This responsibility may app ly even
+year. maintenance decree, and you do not qualify for if your divorce decree states that your former
+another filing status. To determine your marital spouse will be responsible for any amounts dueDivorce and remarriage. If you obtain a status on the last day of the year, see Marital on previously filed joint returns.divorce in one year for the sole purpose of filing Status, earlier.tax returns as unmarried individuals, and at the Relief from joint responsibility. In some
+time of divorce you intended to and did remarry cases, one spouse may be relieved of joint liabil-Widow(er). Your filing status may be single if
+each other in the next tax year, you and your ity for tax, interest, and penalties on a joint returnyou were widowed before January 1, 2007, and
+spouse must file as married individuals. for items of the other spouse which were incor-did not remarry before the end of 2007. How-
+rectly reported on the joint return. You can askever, you might be able to use another filingAnnulled marriages. If you obtain a court for relief no matter how small the liability.status that will give you a lower tax. See Head ofdecree of annulment, which holds that no valid There are four types of relief available. Household and Qualifying Widow(er) With De-marriage ever existed, you are considered un- pendent Child, later, to see if you qualify.married even if you filed joint returns for earlier 1. Innocent spouse relief.years. You must file amended returns (Form How to file. You can file Form 1040EZ (if you 2. Separation of liability, which applies to joint1040X) claiming single or head of household have no dependents, are under 65 and not blind, filers who are divorced, widowed, legallystatus for all tax years affected by the annulment and meet other requirements), Form 1040A, or separated, or who have not lived togetherthat are not closed by the statute of limitations Form 1040. If you file Form 1040A or Form for the 12 months ending on the date elec-for filing a tax return. The statute of limitations 1040, show your filing status as single by check- tion of this relief is filed.generally does not expire until 3 years after your ing the box on line 1. Use the Single column of
+original return was filed. the Tax Table, or Section A of the Tax Computa- 3. Equitable relief.
+tion Worksheet, to figure your tax.Head of household or qualifying widow(er) 4. Relief from liability arising from communitywith dependent child. If you are considered property law.Married Filing Jointlyunmarried, you may be able to file as a head of
+ You must file Form 8857, Request for Inno-household or as a qualifying widow(er) with a You can choose married filing jointly as your cent Spouse Relief, to request any of thesedependent child. See Head of Household  and filing status if you are married and both you and kinds of relief. Publication 971, Innocent SpouseQualifying Widow(er) With Dependent Child to your spouse agree to file a joint return. On a joint Relief, explains these kinds of relief and whosee if you qualify. return, you report your combined income and may qualify for them.
+deduct your combined allowable expenses. YouMarried persons. If you are considered mar- Signing a joint return. For a return to becan file a joint return even if one of you had noried for the whole year, you and your spouse can considered a joint return, both husband and wifeincome or deductions.file a joint return, or you can file separate re- generally must sign the return.If you and your spouse decide to file a jointturns. return, your tax may be lower than your com- Spouse died before signing. If yourConsidered married. You are considered bined tax for the other filing statuses. Also, your spouse died before signing the return, the exec-married for the whole year if on the last day of standard deduction (if you do not itemize deduc- utor or administrator must sign the return foryour tax year you and your spouse meet any one tions) may be higher, and you may qualify for tax your spouse. If neither you nor anyone else hasof the following tests. benefits that do not apply to other filing statuses. yet been appointed as executor or administrator,
+you can sign the return for your spouse andIf you and your spouse each have in-1. You are married and living together as enter “Filing as surviving spouse” in the areacome, you may want to figure your taxhusband and wife. where you sign the return.both on a joint return and on separate
+TIP
+2. You are living together in a common law returns (using the filing status of married filing Spouse away from home. If your spouse ismarriage that is recognized in the state separately). You can choose the method that away from home, you should prepare the return,where you now live or in the state where gives the two of you the lower combined tax. sign it, and send it to your spouse to sign so thatthe common law marriage began. it can be filed on time.How to file. If you file as married filing jointly,3. You are married and living apart, but not you can use Form 1040 or Form 1040A. If you Injury or disease prevents signing. If yourlegally separated under a decree of di- have no dependents, are under 65 and not blind, spouse cannot sign because of injury or diseasevorce or separate maintenance. and meet other requirements, you can file Form and tells you to sign, you can sign your spouse’s
+4. You are separated under an interlocutory 1040EZ. If you file Form 1040 or Form 1040A, name in the proper space on the return followed
+(not final) decree of divorce. For purposes show this filing status by checking the box on by the words “By (your name), Husband (or
+of filing a joint return, you are not consid- line 2. Use the Married filing jointly column of the Wife).” Be sure to also sign in the space pro-
+ered divorced. Tax Table, or Section B of the Tax Computation vided for your signature. Attach a dated state-
+Worksheet, to figure your tax. ment, signed by you, to the return. The
+Spouse died during the year. If your statement should include the form number of theSpouse died during the year. If your spousespouse died during the year, you are considered return you are filing, the tax year, the reasondied during the year, you are considered mar-married for the whole year for filing status pur- your spouse cannot sign, and that your spouseried for the whole year and can choose marriedposes. has agreed to your signing for him or her.filing jointly as your filing status. See SpouseIf you did not remarry before the end of the died during the year , under Married persons , Signing as guardian of spouse. If you aretax year, you can file a joint return for yourself earlier. the guardian of your spouse who is mentallyand your deceased spouse. For the next 2 incompetent, you can sign the return for youryears, you may be entitled to the special benefits Divorced persons. If you are divorced under spouse as guardian.described later under Qualifying Widow(er) With a final decree by the last day of the year, you are
+Dependent Child. considered unmarried for the whole year and Spouse in combat zone. If your spouse is
+If you remarried before the end of the tax you cannot choose married filing jointly as your unable to sign the return because he or she is
+year, you can file a joint return with your new filing status. serving in a combat zone (such as the Persian
+Publication 501 (2007) Page 5
+
+Page 6 of 26 of Publication 501 15:30 -  7-JAN-2008
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Gulf area, Yugoslavia, or Afghanistan), or a your spouse’s SSN or ITIN in the space provided For more information, see How Much Can You
+qualified hazardous duty area (Bosnia and Her- Deduct? in chapter 1 of Publication 590, Individ-unless your spouse does not have and is not
+zegovina, Croatia, or Macedonia), and you do ual Retirement Arrangements (IRAs).required to have an SSN or ITIN. Use the Mar-
+not have a power of attorney or other statement, ried filing separately column of the Tax Table or Rental activity losses. If you actively partici-you can sign for your spouse. Attach a signed Section C of the Tax Computation Worksheet to pated in a passive rental real estate activity thatstatement to your return that explains that your figure your tax. produced a loss, you generally can deduct thespouse is serving in a combat zone. For more loss from your nonpassive income up toinformation on special tax rules for persons who $25,000. This is called a special allowance.are serving in a combat zone, or who are in Special Rules However, married persons filing separate re-missing status as a result of serving in a combat turns who lived together at any time during theIf you choose married filing separately as yourzone, see Publication 3, Armed Forces’ Tax year cannot claim this special allowance. Mar-filing status, the following special rules apply.Guide. ried persons filing separate returns who livedBecause of these special rules, you will usuallyOther reasons spouse cannot sign. If apart at all times during the year are each al-pay more tax on a separate return than if youyour spouse cannot sign the joint return for any lowed a $12,500 maximum special allowanceused another filing status that you qualify for.other reason, you can sign for your spouse only for losses from passive real estate activities.
+if you are given a valid power of attorney (a legal 1. Your tax rate generally will be higher than See Rental Activities in Publication 925, Passive
+document giving you permission to act for your it would be on a joint return. Activity and At-Risk Rules.
+spouse). Attach the power of attorney (or a copy 2. Your exemption amount for figuring the al- Community property states. If you live in Ari-of it) to your tax return. You can use Form 2848. ternative minimum tax will be half that al- zona, California, Idaho, Louisiana, Nevada,
+lowed to a joint return filer. New Mexico, Texas, Washington, or WisconsinNonresident alien or dual-status alien. A
+and file separately, your income may be consid-joint return generally cannot be filed if either 3. You cannot take the credit for child and ered separate income or community income forspouse is a nonresident alien at any time during dependent care expenses in most cases, income tax purposes. See Publication 555,the tax year. However, if one spouse was a and the amount that you can exclude from Community Property.nonresident alien or dual-status alien who was income under an employer’s dependentmarried to a U.S. citizen or resident alien at the care assistance program is limited toend of the year, the spouses can choose to file a $2,500 (instead of $5,000 if you filed a joint Joint Return Afterjoint return. If you do file a joint return, you and return). Separate Returnsyour spouse are both treated as U.S. residents
+4. You cannot take the earned income credit.for the entire tax year. See chapter 1 of Publica- You can change your filing status by filing antion 519. 5. You cannot take the exclusion or credit for amended return using Form 1040X.adoption expenses in most cases. If you or your spouse (or both of you) file aMarried Filing Separately separate return, you generally can change to a6. You cannot take the education credits (the
+joint return any time within 3 years from the dueHope credit and the lifetime learningYou can choose married filing separately as date of the separate return or returns. This doescredit), the deduction for student loan inter-your filing status if you are married. This filing not include any extensions. A separate returnest, or the tuition and fees deduction.status may benefit you if you want to be respon- includes a return filed by you or your spousesible only for your own tax or if it results in less 7. You cannot exclude any interest income claiming married filing separately, single, ortax than filing a joint return. from qualified U.S. savings bonds that you head of household filing status.If you and your spouse do not agree to file a used for higher education expenses.
+joint return, you have to use this filing status 8. If you lived with your spouse at any timeunless you qualify for head of household status, Separate Returnsduring the tax year:discussed next. After Joint ReturnYou may be able to choose head of house- a. You cannot claim the credit for the eld-hold filing status if you live apart from your Once you file a joint return, you cannot chooseerly or the disabled.spouse, meet certain tests, and are considered to file separate returns for that year after the dueb. You will have to include in income moreunmarried (explained later, under Head of date of the return.(up to 85%) of any social security orHousehold). This can apply to you even if you
+Exception. A personal representative for aequivalent railroad retirement benefitsare not divorced or legally separated. If you
+decedent can change from a joint return electedyou received, andqualify to file as head of household, instead of as
+by the surviving spouse to a separate return formarried filing separately, your tax may be lower, c. You cannot roll over amounts from a the decedent. The personal representative hasyou may be able to claim the earned income traditional IRA into a Roth IRA. 1 year from the due date (including extensions)credit and certain other credits, and your stan-
+of the return to make the change. See Publica-dard deduction will be higher. The head of 9. The following credits and deductions are tion 559 for more information on filing income taxhousehold filing status allows you to choose the reduced at income levels that are half of returns for a decedent.standard deduction even if your spouse chooses those for a joint return:to itemize deductions. See Head of Household,
+later, for more information. a. The child tax credit, Head of Household
+Unless you are required to file sepa- b. The retirement savings contributions You may be able to file as head of household ifrately, you should figure your tax both credit, you meet all the following requirements.ways (on a joint return and on separate
+TIP
+c. Itemized deductions, andreturns). This way you can make sure you are 1. You are unmarried or “considered unmar-
+using the filing status that results in the lowest d. The deduction for personal exemptions. ried” on the last day of the year.
+combined tax. However, you will generally pay 2. You paid more than half the cost of keep-more combined tax on separate returns than 10. Your capital loss deduction limit is $1,500 ing up a home for the year.you would on a joint return for the reasons listed (instead of $3,000 if you filed a joint re-
+under Special Rules, later. turn). 3. A “qualifying person” lived with you in the
+home for more than half the year (except11. If your spouse itemizes deductions, youHow to file. If you file a separate return, you for temporary absences, such as school).cannot claim the standard deduction. If yougenerally report only your own income, exemp- However, if the “qualifying person” is yourcan claim the standard deduction, your ba-tions, credits, and deductions on your individual dependent parent, he or she does notsic standard deduction is half the amountreturn. You can claim an exemption for your have to live with you. See Special rule forallowed on a joint return.spouse if your spouse had no gross income and parent, later, under Qualifying Person.
+was not the dependent of another person. How-
+Individual retirement arrangements (IRAs).ever, if your spouse had any gross income or If you qualify to file as head of house-
+You may not be able to deduct all or part of yourwas the dependent of someone else, you cannot hold, your tax rate usually will be lower
+contributions to a traditional IRA if you or yourclaim an exemption for him or her on your sepa- than the rates for single or married fil-
+TIP
+spouse was covered by an employee retirementrate return. ing separately. You will also receive a higher
+plan at work during the year. Your deduction isIf you file as married filing separately, you standard deduction than if you file as single or
+reduced or eliminated if your income is morecan use Form 1040A or Form 1040. Select this married filing separately.
+than a certain amount. This amount is muchfiling status by checking the box on line 3 of
+lower for married individuals who file separatelyeither form. You also must enter your spouse’s How to file. If you file as head of household,
+and lived together at any time during the year.full name in the space provided and must enter you can use either Form 1040A or Form 1040.
+Page 6 Publication 501 (2007)
+
+Page 7 of 26 of Publication 501 15:30 -  7-JAN-2008
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Indicate your choice of this filing status by to special circumstances. See Temporary If you were considered married for part
+checking the box on line 4 of either form. Use the absences, later. of the year and lived in a community
+Head of a household column of the Tax Table or property state (listed earlier under Mar-CAUTION
+!
+4. Your home was the main home of yourSection D of the Tax Computation Worksheet to ried Filing Separately ), special rules may applychild, stepchild, or foster child for morefigure your tax. in determining your income and expenses. Seethan half the year. (See Home of qualifying Publication 555 for more information.person, later, for rules applying to a child’s
+birth, death, or temporary absence during Nonresident alien spouse. You are consid-Considered Unmarried the year.) ered unmarried for head of household purposes
+To qualify for head of household status, you if your spouse was a nonresident alien at any5. You must be able to claim an exemptionmust be either unmarried or considered unmar- time during the year and you do not choose tofor the child. However, you meet this test ifried on the last day of the year. You are consid- treat your nonresident spouse as a residentyou cannot claim the exemption only be-ered unmarried on the last day of the tax year if alien. However, your spouse is not a qualifyingcause the noncustodial parent can claimyou meet all the following tests. person for head of household purposes. Youthe child using the rules described later in
+must have another qualifying person and meetChildren of divorced or separated parents1. You file a separate return (defined earlier the other tests to be eligible to file as a head ofunder Qualifying Child or in Support Testunder Joint Return After Separate Re- household.for Children of Divorced or Separated Par-turns). ents under Qualifying Relative. The gen- Earned income credit. Even if you are con-2. You paid more than half the cost of keep- eral rules for claiming an exemption for a sidered unmarried for head of household pur-ing up your home for the tax year. dependent are explained later under Ex- poses because you are married to a nonresidentemptions for Dependents.3. Your spouse did not live in your home dur- alien, you are still considered married for pur-
+ing the last 6 months of the tax year. Your poses of the earned income credit (unless you
+spouse is considered to live in your home meet the five tests listed earlier under Consid-
+even if he or she is temporarily absent due ered Unmarried ). You are not entitled to the
+Table 4. Who Is a Qualifying Person Qualifying You To File as Head of Household?1
+Caution.  See the text of this publication for the other requirements you must meet to claim head of household filing status.
+IF the person is your . . . AND . . . THEN that person is . . .
+he or she is single a qualifying person, whether or not you canqualifying child (such as a son,
+claim an exemption for the person.daughter, or grandchild who lived with
+you more than half the year and meets he or she is married and you can claim an a qualifying person.certain other tests)2
+exemption for him or her
+he or she is married and you cannot claim an not a qualifying person. 3
+exemption for him or her
+you can claim an exemption for him or her
+5 a qualifying person.6qualifying relative4 who is your father
+or mother you cannot claim an exemption for him or her not a qualifying person.
+he or she lived with you more than half the a qualifying person.qualifying relative4 other than your
+year, and he or she is related to you in onefather or mother (such as a
+of the ways listed under Relatives who dograndparent, brother, or sister who
+not have to live with you on page 14, andmeets certain tests).
+you can claim an exemption for him or her5
+he or she did not live with you more than half not a qualifying person.
+the year
+he or she is not related to you in one of the not a qualifying person
+ways listed under Relatives who do not have
+to live with you on page 14 and is your
+qualifying relative only because he or she
+lived with you all year as a member of your
+household
+you cannot claim an exemption for him or her not a qualifying person.
+1A person cannot qualify more than one taxpayer to use the head of household filing status for the year.
+2The term “qualifying child” is defined under Exemptions for Dependents, later. Note: If you are a noncustodial parent, the term “qualifying child” for
+head of household filing status does not include a child who is your qualifying child for exemption purposes only because of the rules described
+under Children of divorced or separated parents under Qualifying Child, later. If you are the custodial parent and those rules apply, the child
+generally is your qualifying child for head of household filing status even though the child is not a qualifying child for whom you can claim an
+exemption.
+3 This person is a qualifying person if the only reason you cannot claim the exemption is that you can be claimed as a dependent on someone
+else’s return.
+4The term “qualifying relative” is defined under Exemptions for Dependents, later.
+5If you can claim an exemption for a person only because of a multiple support agreement, that person is not a qualifying person. See Multiple
+Support Agreement.
+6See Special rule for parent for an additional requirement.
+Publication 501 (2007) Page 7
+
+Page 8 of 26 of Publication 501 15:30 -  7-JAN-2008
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Example 2—child who is not qualifyingcredit unless you file a joint return with your 1. The child must be presumed by law en-
+person. The facts are the same as in Examplespouse and meet other qualifications. forcement authorities to have been kid-
+ See Publication 596 for more information. 1 except your son was 25 years old at the end of napped by someone who is not a member
+of your family or the child’s family.the year and his gross income was $5,000. Be-Choice to treat spouse as resident. You cause he does not meet the age test (explainedare considered married if you choose to treat 2. In the year of the kidnapping, the childlater under Qualifying Child ), your son is notyour spouse as a resident alien. See chapter 1 lived with you for more than half the part ofyour qualifying child. Because he does not meetof Publication 519. the year before the kidnapping.the gross income test (explained later under
+3. You would have qualified for head ofQualifying Relative ), he is not your qualifying
+household filing status if the child had notrelative. As a result, he is not your qualifyingKeeping Up a Home been kidnapped.person for head of household purposes.
+To qualify for head of household status, you This treatment applies for all years until theExample 3—girlfriend. Your girlfriendmust pay more than half of the cost of keeping child is returned. However, the last year thislived with you all year. Even though she may beup a home for the year. You can determine treatment can apply is the earlier of:your qualifying relative if the gross income andwhether you paid more than half of the cost of
+support tests (explained later) are met, she iskeeping up a home by using the following work- 1. The year there is a determination that the
+not your qualifying person for head of householdsheet. child is dead, or
+purposes. See Table 4. 2. The year the child would have reachedCost of Keeping Up a Home age 18.Example 4—girlfriend’s child. The factsKeep for Your Records
+are the same as in Example 3 except your girl-
+friend’s 10-year-old son also lived with you all Qualifying Widow(er)Amount year. He is not your qualifying child and, be- With Dependent ChildYou Total cause he is your girlfriend’s qualifying child, he is
+Paid Cost not your qualifying relative (see Not a Qualifying If your spouse died in 2007, you can use marriedChild Test, later). As a result, he is not your filing jointly as your filing status for 2007 if youProperty taxes $ $ qualifying person for head of household pur- otherwise qualify to use that status. The year ofMortgage interest expense poses. death is the last year for which you can file jointlyRent
+with your deceased spouse. See Married FilingUtility charges Home of qualifying person. Generally, the Jointly, earlier.Upkeep and repairs qualifying person must live with you for more You may be eligible to use qualifyingProperty insurance than half of the year. widow(er) with dependent child as your filingFood consumed
+status for 2 years following the year your spouseon the premises Special rule for parent. If your qualifying died. For example, if your spouse died in 2006Other household expenses person is your father or mother, you may be and you have not remarried, you may be able toTotals $$ eligible to file as head of household even if your use this filing status for 2007 and 2008. Thefather or mother does not live with you. How- rules for using this filing status are explained inMinus total amount you () ever, you must be able to claim an exemption for detail here.paid your father or mother. Also, you must pay more This filing status entitles you to use jointthan half the cost of keeping up a home that was return tax rates and the highest standard deduc-Amount others paid $ the main home for the entire year for your father tion amount (if you do not itemize deductions).or mother. You are keeping up a main home for This status does not entitle you to file a jointyour father or mother if you pay more than half return.If the total amount you paid is more than the amount the cost of keeping your parent in a rest home orothers paid, you meet the requirement of paying more home for the elderly. How to file. If you file as a qualifying widow(er)than half the cost of keeping up the home.
+with dependent child, you can use either FormDeath or birth. You may be eligible to file as 1040A or Form 1040. Indicate your filing statushead of household if the individual who qualifies by checking the box on line 5 of either form. UseCosts you include. Include in the cost of up- you for this filing status is born or dies during the the Married filing jointly column of the Tax Tablekeep expenses such as rent, mortgage interest, year. You must have provided more than half of or Section B of the Tax Computation Worksheetreal estate taxes, insurance on the home, re- the cost of keeping up a home that was the to figure your tax.pairs, utilities, and food eaten in the home. individual’s main home for more than half of the
+If you used payments you received under year, or, if less, the period during which the Eligibility rules. You are eligible to file yourTemporary Assistance for Needy Families individual lived. 2007 return as a qualifying widow(er) with de-(TANF) or other public assistance programs to pendent child if you meet all the following tests.pay part of the cost of keeping up your home, Example. You are unmarried. Your mother,
+you cannot count them as money you paid. • You were entitled to file a joint return withfor whom you can claim an exemption, lived in
+However, you must include them in the total cost your spouse for the year your spousean apartment by herself. She died on Septem-
+of keeping up your home to figure if you paid died. It does not matter whether you actu-ber 2. The cost of the upkeep of her apartment
+over half the cost. ally filed a joint return.for the year until her death was $6,000. You paid
+$4,000 and your brother paid $2,000. Your • Your spouse died in 2005 or 2006 and youCosts you do not include. Do not include in brother made no other payments towards your did not remarry before the end of 2007.the cost of upkeep expenses such as clothing, mother’s support. Your mother had no income.education, medical treatment, vacations, life in- • You have a child or stepchild for whomBecause you paid more than half of the cost ofsurance, or transportation. Also, do not include you can claim an exemption. This doeskeeping up your mother’s apartment from Janu-the rental value of a home you own or the value not include a foster child.ary 1 until her death, and you can claim anof your services or those of a member of your exemption for her, you can file as a head of • This child lived in your home all year, ex-household. household. cept for temporary absences. See Tempo-
+rary absences, earlier, under Head ofTemporary absences. You and your quali- Household. There are also exceptions, de-Qualifying Person fying person are considered to live together scribed later, for a child who was born oreven if one or both of you are temporarily absentSee Table 4 to see who is a qualifying person. died during the year and for a kidnappedfrom your home due to special circumstancesAny person not described in Table 4 is not a child.such as illness, education, business, vacation,qualifying person. or military service. It must be reasonable to • You paid more than half the cost of keep-
+assume that the absent person will return to the ing up a home for the year. See KeepingExample 1—child. Your unmarried son home after the temporary absence. You must Up a Home, earlier, under Head of House-lived with you all year and was 18 years old at continue to keep up the home during the ab- hold.the end of the year. He did not provide more sence.than half of his own support and does not meet
+Kidnapped child. You may be eligible to filethe tests to be a qualifying child of anyone else. Example. John Reed’s wife died in 2005.
+as head of household even if the child who isAs a result, he is your qualifying child (see Quali- John has not remarried. He has continued dur-
+your qualifying person has been kidnapped. Youfying Child, later) and, because he is single, is a ing 2006 and 2007 to keep up a home for himself
+can claim head of household filing status if allqualifying person for you to claim head of house- and his child, who lives with him and for whom
+the following statements are true.hold filing status. he can claim an exemption. For 2005 he was
+Page 8 Publication 501 (2007)
+
+Page 9 of 26 of Publication 501 15:30 -  7-JAN-2008
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+entitled to file a joint return for himself and his (defined later) or a resident of Canada or Mex- your new spouse, you can be c laimed as an
+deceased wife. For 2006 and 2007, he can file ico, you may qualify for any of the exemptions exemption only on that return.
+as a qualifying widower with a dependent child. discussed here.
+Divorced or separated spouse. If you ob-After 2007, he can file as head of household if he Nonresident aliens.  Generally, if you are a tained a final decree of divorce or separatequalifies. nonresident alien (other than a resident of Can- maintenance by the end of the year, you cannot
+ada or Mexico, or certain residents of India or take your former spouse’s exemption. This ruleDeath or birth. You may be eligible to file as a Korea), you can qualify for only one personal applies even if you provided all of your formerqualifying widow(er) with dependent child if the exemption for yourself. You cannot claim ex- spouse’s support.child who qualifies you for this filing status is emptions for a spouse or dependents.born or dies during the year. You must have These restrictions do not apply if you are aprovided more than half of the cost of keeping up
+nonresident alien married to a U. S. citizen ora home that was the child’s main home during resident alien and have chosen to be treated asthe entire part of the year he or she was alive. Exemptions fora resident of the United States.
+Kidnapped child. You may be eligible to file DependentsMore information. For more information onas a qualifying widow(er) with dependent child, exemptions if you are a nonresident alien, seeeven if the child who qualifies you for this filing You are allowed one exemption for each personchapter 5 in Publication 519.status has been kidnapped. You can claim quali- you can claim as a dependent. You can claim an
+Dual-status taxpayers. If you have been bothfying widow(er) with dependent child filing status exemption for a dependent even if your depen-
+a nonresident alien and a resident alien in theif all the following statements are true. dent files a return.
+same tax year, you should see Publication 519 The term “dependent” means:1. The child must be presumed by law en- for information on determining your exemptions. • A qualifying child, orforcement authorities to have been kid-
+napped by someone who is not a member • A qualifying relative.Personal Exemptionsof your family or the child’s family. The terms “qualifying child” and “qualifying rela-You are generally allowed one exemption for2. In the year of the kidnapping, the child tive” are defined later.yourself and, if you are married, one exemptionlived with you for more than half the part of You can claim an exemption for a qualifyingfor your spouse. These are called personal ex-the year before the kidnapping. child or qualifying relative only if these threeemptions.3. You would have qualified for qualifying tests are met.widow(er) with dependent child filing status
+if the child had not been kidnapped. 1. Dependent taxpayer test.Your Own Exemption
+2. Joint return test.As mentioned earlier, this filing status You can take one exemption for yourself unless
+is available for only 2 years following 3. Citizen or resident test.you can be claimed as a dependent by another
+the year your spouse died. taxpayer. If another taxpayer is entitled to claimCAUTION
+!
+These three tests are explained in detail later.you as a dependent, you cannot take an exemp- All the requirements for claiming an exemp-tion for yourself even if the other taxpayer does tion for a dependent are summarized in Table 5.not actually claim you as a dependent.
+Dependent not allowed a personalExemptions exemption. If you can claim an ex-Your Spouse’s Exemption emption for your dependent, the de-CAUTION
+!
+Exemptions reduce your taxable income. Gen- pendent cannot claim his or her own exemptionYour spouse is never considered your depen-erally, you can deduct $3,400 for each exemp- on his or her own tax return. This is true even ifdent.tion you claim in 2007. If you are entitled to two you do not claim the dependent’s exemption onexemptions for 2007, you would deduct $6,800 Joint return. On a joint return, you can claim your return or if the exemption will be reduced($3,400 × 2). But you may lose part of the dollar one exemption for yourself and one for your under the phaseout rule described underamount of your exemptions if your adjusted spouse. Phaseout of Exemptions, later.gross income is above a certain amount. See
+Phaseout of Exemptions, later. Separate return. If you file a separate return, Housekeepers, maids, or servants. If theseYou usually can claim exemptions for your- you can claim the exemption for your spouse people work for you, you cannot claim exemp-self, your spouse, and each person you can only if your spouse had no gross income, is not tions for them.claim as a dependent. filing a return, and was not the dependent of
+another taxpayer. This is true even if the other Child tax credit. You may be entitled to a childTypes of exemptions. There are two types of taxpayer does not actually claim your spouse as tax credit for each qualifying child who wasexemptions: personal exemptions and exemp- a dependent. This is also true if your spouse is a under age 17 at the end of the year. For moretions for dependents. While each is worth the nonresident alien. information, see the instructions in your taxsame amount ($3,400 for 2007), different rules, forms package.Head of household. If you qualify for headdiscussed later, apply to each type. of household filing status because you are con-
+sidered unmarried, you can claim an exemptionWho cannot claim a personal exemption. If for your spouse if the conditions described in the Dependent Taxpayer Testyou are entitled to claim an exemption for a preceding paragraph are satisfied.dependent (such as your child), that dependent To claim the exemption for your spouse, If you could be claimed as a dependent by an-cannot claim a personal exemption on his or her check the box on line 6b of Form 1040 or Form other person, you cannot claim anyone else as aown tax return. 1040A and enter the name of your spouse in the dependent. Even if you have a qualifying child or
+space to the right of the box. Enter the SSN or qualifying relative, you cannot claim that personHow to claim exemptions. How you claim an
+ITIN of your spouse in the space provided at the as a dependent.exemption on your tax return depends on which
+top of Form 1040 or Form 1040A. If you are filing a joint return and your spouseform you file.
+could be claimed as a dependent by someoneDeath of spouse. If your spouse died duringForm 1040EZ filers. If you file Form else, you and your spouse cannot claim anythe year, you generally can claim your spouse’s1040EZ, the exemption amount is combined dependents on your joint return.exemption under the rules just explained in Jointwith the standard deduction and entered on line
+return. If you file a separate return for the year,5.
+you may be able to claim your spouse’s exemp- Joint Return TestForm 1040A filers. If you file Form 1040A, tion under the rules just described in Separatecomplete lines 6a through 6d. The total number return. You generally cannot claim a married person asof exemptions you can claim is the total in the If you remarried during the year, you cannot a dependent if he or she files a joint return.box on line 6d. Also complete line 26. take an exemption for your deceased spouse.
+If you are a surviving spouse without gross Example. You supported your 18-year-oldForm 1040 filers. If you file Form 1040,
+income and you remarry in the year your spouse daughter, and she lived with you all year whilecomplete lines 6a through 6d. Also complete line
+died, you can be claimed as an exemption on her husband was in the Armed Forces. The42.
+both the final separate return of your deceased couple files a joint return. Even though your
+U.S. citizen or resident alien.  If you are a spouse and the separate return of your new daughter is your qualifying child, you cannot
+U.S. citizen, U.S. resident alien, U.S. national spouse for that year. If you file a joint return with take an exemption for her.
+Publication 501 (2007) Page 9
+
+Page 10 of 26 of Publication 501 15:30 -  7-JAN-2008
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Table 5. Overview of the Rules for Claiming an Exemption for a Dependent
+Caution. This table is only an overview of the rules. For details, see the rest of this publication.
+• You cannot claim any dependents if you, or your spouse if filing jointly, could be claimed as a dependent by another taxpayer.
+• You cannot claim a married person who files a joint return as a dependent unless that joint return is only a claim for refund
+and there would be no tax liability for either spouse on separate returns.
+• You cannot claim a person as a dependent unless that person is a U.S. citizen, U.S. resident alien, U.S. national, or a
+resident of Canada or Mexico, for some part of the year.1
+• You cannot claim a person as a dependent unless that person is your qualifying child or qualifying relative.
+Tests To Be a Qualifying Child Tests To Be a Qualifying Relative
+1. The child must be your son, daughter, stepchild, foster 1. The person cannot be your qualifying child or the
+child, brother, sister, half brother, half sister, stepbrother, qualifying child of any other taxpayer.
+stepsister, or a descendant of any of them.
+2. The person either (a) must be related to you in one of the
+2. The child must be (a) under age 19 at the end of the year, ways listed under Relatives who do not have to live with
+(b) under age 24 at the end of the year and a full-time you, or (b) must live with you all year as a member of your
+student, or (c) any age if permanently and totally disabled. household
+2 (and your relationship must not violate local
+law).
+3. The child must have lived with you for more than half of
+the year.2 3. The person’s gross income for the year must be less than
+$3,400.3
+4. The child must not have provided more than half of his or
+her own support for the year. 4. You must provide more than half of the person’s total
+support for the year.4
+5. If the child meets the rules to be a qualifying child of more
+than one person, you must be the person entitled to claim
+the child as a qualifying child.
+1There is an exception for certain adopted children.
+2There are exceptions for temporary absences, children who were born or died during the year, children of divorced or separated parents, and
+ kidnapped children.
+3There is an exception if the person is disabled and has income from a sheltered workshop.
+4There are exceptions for multiple support agreements, children of divorced or separated parents, and kidnapped children.
+Exception. The joint return test does not apply Child’s place of residence. Children usually 2. Age,
+if a joint return is filed by the dependent and his are citizens or residents of the country of their 3. Residency,or her spouse merely as a claim for refund and parents.
+4. Support, andno tax liability would exist for either spouse on If you were a U.S. citizen when your child
+separate returns. was born, the child may be a U.S. citizen even if 5. Special test for qualifying child of morethe other parent was a nonresident alien and the than one person.Example. Your son and his wife each had child was born in a foreign country. If so, this test
+less than $3,000 of wages and no unearned These tests are explained next.is met.
+income. Neither is required to file a tax return.
+Taxes were taken out of their pay, so they filed a Foreign students’ place of residence. For-
+Relationship Testjoint return to get a refund. The exception to the eign students brought to this country under a
+joint return test applies, so you are not disquali- qualified international education exchange pro- To meet this test, a child must be:fied from claiming their exemptions just because gram and placed in American homes for a tem-
+they filed a joint return. You can claim their porary period generally are not U.S. residents • Your son, daughter, stepchild, foster child,
+exemptions if you meet all the other require- and do not meet this test. You cannot claim an or a descendant (for example, your
+ments to do so. exemption for them. However, if you provided a grandchild) of any of them, or
+home for a foreign student, you may be able to • Your brother, sister, half brother, half sis-take a charitable contribution deduction. See ter, stepbrother, stepsister, or a descen-Citizen or Resident Test Expenses Paid for Student Living With You in dant (for example, your niece or nephew)Publication 526, Charitable Contributions.You cannot claim a person as a dependent un- of any of them.
+less that person is a U.S. citizen, U.S. resident U.S. national. A U.S. national is an individualalien, U.S. national, or a resident of Canada or Adopted child. An adopted child is alwayswho, although not a U.S. citizen, owes his or herMexico, for some part of the year. However, treated as your own child. The term “adoptedallegiance to the United States. U.S. nationalsthere is an exception for certain adopted chil- child” includes a child who was lawfully placedinclude American Samoans and Northern Mari-dren, as explained next. with you for legal adoption.ana Islanders who chose to become U.S. na-
+tionals instead of U.S. citizens. Foster child. A foster child is an individualAdopted child. If you are a U.S. citizen or who is placed with you by an authorized place-U. S. national who has legally adopted a child Qualifying Child ment agency or by judgment, decree, or otherwho is not a U.S. citizen, U.S. resident alien, or order of any court of competent jurisdiction.U.S. national, this test is met if the child lived There are five tests that must be met for a childwith you as a member of your household all to be your qualifying child. The five tests are:year. This also applies if the child was lawfully
+placed with you for legal adoption. 1. Relationship,
+Page 10 Publication 501 (2007)
+
+Page 11 of 26 of Publication 501 15:30 -  7-JAN-2008
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+with you all year if your home was the child’s 2. The child received over half of his or herAge Test
+home the entire time he or she was alive during support for the year from the parents.
+To meet this test, a child must be: the year. The same is true if the child lived with 3. The child is in the custody of one or bothyou all year except for any required hospital stay• Under age 19 at the end of the year, parents for more than half of the year.following birth.
+• A full-time student under age 24 at the end 4. Either of the following statements is true.Child born alive. You may be able to claimof the year, or an exemption for a child who was born alive a. The custodial parent signs a written• Permanently and totally disabled at any during the year, even if the child lived only for a declaration, discussed later, that he ortime during the year, regardless of age. moment. State or local law must treat the child she will not claim the child as a depen-as having been born alive. There must be proof dent for the year, and the noncustodialof a live birth shown by an official document,Example. Your son turned 19 on December parent attaches this written declarationsuch as a birth certificate. The child must be10. Unless he was disabled or a full-time stu- to his or her return. (If the decree oryour qualifying child or qualifying relative, and alldent, he does not meet the age test because, at agreement went into effect after 1984,the other tests to claim an exemption for a de-the end of the year, he was not under age 19. see Divorce decree or separationpendent must be met. agreement made after 1984, later.)Full-time student. A full-time student is a stu- Stillborn child. You cannot claim an ex-dent who is enrolled for the number of hours or b. A pre-1985 decree of divorce or sepa-emption for a stillborn child.courses the school considers to be full-time at- rate maintenance or written separation
+tendance. agreement that applies to 2007 statesKidnapped child. You can treat your child as
+that the noncustodial parent can claimmeeting the residency test even if the child hasStudent defined. To qualify as a student, the child as a dependent, the decree orbeen kidnapped, but both of the following state-your child must be, during some part of each of agreement was not changed after 1984ments must be true.any 5 calendar months of the year: to say the noncustodial parent cannot
+1. The child is presumed by law enforcement claim the child as a dependent, and the1.  A full-time student at a school that has a
+authorities to have been kidnapped by noncustodial parent provides at leastregular teaching staff, course of study, and
+someone who is not a member of your $600 for the child’s support during thea regularly enrolled student body at the
+family or the child’s family. year.school, or
+2. In the year the kidnapping occurred, the2.  A student taking a full-time, on-farm train-
+child lived with you for more than half of Custodial parent and noncustodial parent.ing course given by a school described in
+the part of the year before the date of the The custodial parent is the parent with whom the(1), or by a state, county, or local govern-
+kidnapping. child lived for the greater part of the year. Thement agency.
+other parent is the noncustodial parent.This treatment applies for all years until theThe 5 calendar months do not have to be con- If the parents divorced or separated duringchild is returned. However, the last year thissecutive. the year and the child lived with both parentstreatment can apply is the earlier of:School defined. A school can be an ele- before the separation, the custodial parent is the
+mentary school, junior and senior high school, 1. The year there is a determination that the one with whom the child lived for the greater part
+college, university, or technical, trade, or child is dead, or of the rest of the year.
+mechanical school. However, an on-the-job 2. The year the child would have reachedtraining course, correspondence school, or Example. Your child lived with you for 10age 18.school offering courses only through the Internet months of the year. The child lived with your
+does not count as a school. former spouse for the other 2 months. You areChildren of divorced or separated parents. considered the custodial parent.Vocational high school students. Stu- In most cases, because of the residency test, a
+dents who work on “co-op” jobs in private indus- child of divorced or separated parents is the Written declaration.  The custodial parent
+try as a part of a school’s regular course of qualifying child of the custodial parent. However, may use either Form 8332 or a similar statement
+classroom and practical training are considered the child will be treated as the qualifying child of (containing the same information required by the
+full-time students. the noncustodial parent if all four of the following form) to make the written declaration to release
+statements are true. the exemption to the noncustodial parent. ThePermanently and totally disabled. Your noncustodial parent must attach the form orchild is permanently and totally disabled if both 1. The parents: statement to his or her tax return.of the following apply.
+The exemption can be released for 1 year,a. Are divorced or legally separated under• He or she cannot engage in any substan- for a number of specified years (for example,a decree of divorce or separate mainte-tial gainful activity because of a physical or alternate years), or for all future years, as speci-nance,mental condition. fied in the declaration. If the exemption is re-b. Are separated under a written separa- leased for more than 1 year, the original release• A doctor determines the condition has tion agreement, or must be attached to the return of the noncus-lasted or can be expected to last continu-
+todial parent for the first year, and a copy mustc. Lived apart at all times during the last 6ously for at least a year or can lead to
+months of the year. be attached for each later year.death.
+Table 6. When More Than One Person Files a Return Claiming the SameResidency Test Qualifying Child (Tie-Breaker Rule)
+To meet this test, your child must have lived with
+Caution. If a child is treated as the qualifying child of the noncustodial parentyou for more than half of the year. There are
+under the rules for children of divorced or separated parents, see Applying thisexceptions for temporary absences, children
+who were born or died during the year, kid- special test to divorced or separated parents.
+napped children, and children of divorced or
+separated parents.
+IF more than one person files a return claiming THEN the child will be treated as
+the same qualifying child and . . . the qualifying child of the. . .Temporary absences. Your child is consid-
+ered to have lived with you during periods of only one of the persons is the child’s parent, parent.time when one of you, or both, are temporarily
+absent due to special circumstances such as:
+parent with whom the child lived
+• Illness, two of the persons are parents of the child and they for the longer period of time
+do not file a joint return together, during the year.• Education,
+• Business, two of the persons are parents of the child, they do
+not file a joint return together, and the child lived parent with the higher adjusted
+• Vacation, or with each parent the same amount of time during gross income (AGI).• Military service. the year,
+none of the persons are the child’s parent, person with the highest AGI.Death or birth of child. A child who was born
+or died during the year is treated as having lived
+Publication 501 (2007) Page 11
+
+Page 12 of 26 of Publication 501 15:30 -  7-JAN-2008
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Divorce decree or separation agreement child is a qualifying child of each of these per- dependent. Because of the Dependent Tax-
+made after 1984. If the divorce decree or sep- sons, only one person can actually treat the child payer Test  explained earlier, you cannot treat
+aration agreement went into effect after 1984, as a qualifying child. To meet this special test, your daughter as a qualifying child and cannot
+the noncustodial parent can attach certain you must be the person who can treat the child claim her as a dependent. Only your mother can
+pages from the decree or agreement instead of as a qualifying child. treat your daughter as a qualifying child.
+Form 8332. To be able to do this, the decree or If you and another person have the same
+agreement must state all three of the following. Example 5—separated parents. You,qualifying child, you and the other person(s) can
+your husband, and your 10-year-old son liveddecide which of you will treat the child as a1. The noncustodial parent can claim the together until August 1, 2007, when your hus-qualifying child. That person can take all of thechild as a dependent without regard to any following tax benefits (provided the person is band moved out of the household. In August andcondition, such as payment of support. eligible for each benefit) based on the qualifying September, your son lived with you. For the rest
+child. of the year, your son lived with your husband.2. The custodial parent will not claim the child
+Your son is a qualifying child of both you andas a dependent for the year. • The exemption for the child. your husband because your son lived with each3. The years for which the noncustodial par- • The child tax credit. of you for more than half the year and becauseent, rather than the custodial parent, can he met the relationship, age, and support tests• Head of household filing status.claim the child as a dependent. for both of you. At the end of the year, you and
+• The credit for child and dependent care your husband still were not divorced, legallyThe noncustodial parent must attach all of
+expenses. separated, or separated under a written separa-the following pages of the decree or agreement
+tion agreement, so the special rule for divorcedto his or her tax return. • The exclusion from income for dependent or separated parents does not apply.care benefits.• The cover page (write the other parent’s You and your husband will file separate re-social security number on this page). • The earned income credit. turns. Your husband agrees to let you treat your
+• The pages that include all of the informa- son as a qualifying child. This means, if yourThe other person cannot take any of these bene-tion identified in items (1) through (3) husband does not claim your son as a qualifyingfits based on this qualifying child. In other words,above. child, you can claim your son as a dependentyou and the other person cannot agree to divide
+and treat him as a qualifying child for the childthese tax benefits between you.• The signature page with the other parent’s tax credit and exclusion for dependent care ben-signature and the date of the agreement. If you and the other person(s) cannot agree on efits, if you qualify for each of those tax benefits.who will claim the child and more than one However, you cannot claim head of householdperson files a return claiming the same child, theThe noncustodial parent must attach filing status because you and your husband didIRS will disallow all but one of the claims usingthe required information even if it was not live apart the last 6 months of the year. As athe tie-breaker rule in Table 6.filed with a return in an earlier year. result, your filing status is married filing sepa-
+CAUTION
+!
+rately, so you cannot claim the earned incomeExample 1—child lived with parent and credit or the credit for child and dependent careRemarried parent. If you remarry, the sup- grandparent. You and your 3-year-old daugh- expenses.port provided by your new spouse is treated as ter Jane lived with your mother all year. You areprovided by you. 25 years old and earned $9,000 for the year. Example 6—separated parents claimYour mother is not your dependent. Jane is aParents who never married. This special same child. The facts are the same as inqualifying child of both you and your motherrule for divorced or separated parents also ap- Example 5 except that you and your husbandbecause she meets the relationship, age, resi-plies to parents who never married. both claim your son as a qualifying child. In thisdency, and support tests for both you and your case, only your husband will be allowed to treatmother. However, only one of you can claim her. your son as a qualifying child. This is because,You agree to let your mother claim Jane. ThisSupport Test (To Be a Qualifying during 2007, the boy lived with him longer thanmeans your mother can claim Jane as a depen-Child) with you. If you claimed an exemption, the childdent and can claim her as a qualifying child for tax credit, head of household filing status, creditTo meet this test, the child cannot have provided the child tax credit, head of household filing for child and dependent care expenses, exclu-more than half of his or her own support for the status, credit for child and dependent care ex- sion for dependent care benefits, or the earnedyear. penses, exclusion for dependent care benefits, income credit for your son, the IRS will disallowand the earned income credit, if she qualifies forThis test is different from the support test to your claim to all these tax benefits. In addition,each of those tax benefits (and if you do notbe a qualifying relative, which is described later. because you and your husband did not live apartclaim Jane as a dependent or as a qualifyingHowever, to see what is or is not support, see the last 6 months of the year, your husbandchild for any of those tax benefits).Support Test (To Be a Qualifying Relative) , cannot claim head of household filing status. Aslater. If you are not sure whether a child provided a result, his filing status is married filing sepa-Example 2—two persons claim samemore than half of his or her own support, you rately, so he cannot claim the earned incomechild. The facts are the same as in Example 1may find  Worksheet 1 helpful. credit or the credit for child and dependent careexcept that you and your mother both claim Jane expenses.as a dependent and claim her as a qualifyingScholarships. A scholarship received by a child for the child tax credit and earned incomechild who is a full-time student is not taken into Example 7—unmarried parents. You,credit. In this case, you as the child’s parent willaccount in determining whether the child pro- your 5-year-old son, and your son’s father livedbe the only one allowed to claim Jane as avided more than half of his or her own support. together all year. You and your son’s father aredependent and claim her as a qualifying child for not married. Your son is a qualifying child of boththe child tax credit and earned income credit. you and his father because he meets the rela-The IRS will disallow your mother’s claim toSpecial Test for Qualifying Child of tionship, age, residency, and support tests forthese tax benefits unless she has another quali-More Than One Person both you and his father. Your adjusted grossfying child. income (AGI) is $12,000 and your son’s father’s
+AGI is $14,000. Your son’s father agrees to letIf your qualifying child is not a qualify- Example 3—qualifying children split be-
+ing child for anyone else, this test does you treat the child as a qualifying child. Thistween two persons. The facts are the same
+not apply to you and you do not need to means you can claim him as a dependent andas in Example 1 except that you also have two
+TIP
+read about it. This is also true if your qualifying treat him as a qualifying child for the child taxother young children who are qualifying children
+child is not a qualifying child for anyone else credit, head of household filing status, credit forof both you and your mother. Only one of you
+except your spouse with whom you file a joint child and dependent care expenses, exclusioncan claim each child as a dependent. However,
+return. for dependent care benefits, and the earnedyou and your mother can split the three qualify-
+income credit, if you qualify for each of those taxing children between you. For example, you canIf a child is treated as the qualifying benefits (and if your son’s father does not claimclaim one child as a dependent and your motherchild of the noncustodial parent under your son as a dependent or as a qualifying childcan claim the other two.the rules for children of divorced orCAUTION
+!
+for any of those tax benefits).separated parents described earlier, see Apply- Example 4—taxpayer who is a qualifyinging this special test to divorced or separated Example 8—unmarried parents claimchild. The facts are the same as in Example 1parents, later. same child. The facts are the same as inexcept that you are only 18 years old and did not
+Sometimes, a child meets the relationship, Example 7 except that you and your son’s fatherprovide more than half of your own support for
+age, residency, and support tests to be a qualify- both claim your son as a qualifying child. In thisthe year. This means you are your mother’s
+ing child of more than one person. Although the qualifying child and she could claim you as a case, only your son’s father will b e allowed to
+Page 12 Publication 501 (2007)
+
+Page 13 of 26 of Publication 501 15:30 -  7-JAN-2008
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Child of person not required to file a return.treat your son as a qualifying child. This is be- mother paid the entire cost of keeping up the
+home.)cause his AGI, $14,000, is more than your AGI, A child is not the qualifying child of any other
+$12,000. If you claimed an exemption, the child taxpayer and so may qualify as your qualifying
+Example 2. The facts are the same as intax credit, head of household filing status, credit relative if the child’s parent (or other person for
+Example 1 except that you and your mother bothfor child and dependent care expenses, exclu- whom the child is defined as a qualifying child) is
+claim your son as a qualifying child for thesion for dependent care benefits, or the earned not required to file an income tax return andearned income credit. Your mother also claimsincome credit for your son, the IRS will disallow either:him as a qualifying child for head of householdyour claim to all these tax benefits. • Does not file an income tax return, orfiling status. You as the child’s parent will be the
+only one allowed to claim your son as a qualify-Example 9—child did not live with a par- • Files a return only to get a refund of in-ing child for the earned income credit. The IRSent. You and your 7-year-old niece, your sis- come tax withheld.will disallow your mother’s claim to the earnedter’s child, lived with your mother all year. You
+income credit and head of household filing sta-are 25 years old, and your AGI is $9,300. Your
+Example 1—return not required. Youtus unless she has another qualifying child.mother’s AGI is $15,000. Your niece is a qualify-
+support an unrelated friend and her 3-year-olding child of both you and your mother because
+child, who lived with you all year in your home.she meets the relationship, age, residency, and Qualifying Relative Your friend has no gross income, is not requiredsupport tests for both you and your mother.
+There are four tests that must be met for a to file a 2007 tax return, and does not file a 2007However, only one of you can treat her as a
+person to be your qualifying relative. The fourqualifying child. Your mother agrees to let you tax return. Both your friend and her child are
+tests are:treat the child as a qualifying child. your qualifying relatives if the member of house-
+hold or relationship test, gross income test, and1. Not a qualifying child test,Example 10—child did not live with a par- support test are met.ent. The facts are the same as in Example 9 2. Member of household or relationship test,except that you and your mother both claim your Example 2—return filed to claim refund.3. Gross income test, andniece as a qualifying child. In this case, only your The facts are the same as in Example 1 except
+mother will be allowed to treat your niece as a 4. Support test. your friend had wages of $1,500 during the yearqualifying child. This is because your mother’s and had income tax withheld from her wages.AGI, $15,000, is more than your AGI, $9,300. If Age. Unlike a qualifying child, a qualifying rel- She files a return only to get a refund of theyou claimed an exemption, the child tax credit, ative can be any age. There is no age test for a income tax withheld and does not claim thehead of household filing status, credit for child qualifying relative. earned income credit or any other tax credits orand dependent care expenses, exclusion for deductions. Both your friend and her child areKidnapped child. You can treat a child asdependent care benefits, or the earned income your qualifying relatives if the relationship testyour qualifying relative even if the child has beencredit for your niece, the IRS will disallow your (specifically, the member of household test),kidnapped, but both of the following statementsclaim to all these tax benefits. gross income test, and support test are met.must be true.
+Applying this special test to divorced or sep- 1. The child is presumed by law enforcement Example 3—earned income creditarated parents. If a child is treated as the authorities to have been kidnapped by claimed. The facts are the same as in Exam-qualifying child of the noncustodial parent under someone who is not a member of your ple 2 except your friend had wages of $8,000the rules for children of divorced or separated family or the child’s family. during the year and claimed the earned incomeparents described earlier, only the noncustodial
+credit on her return. Your friend’s child is theparent can claim an exemption and the child tax 2. In the year the kidnapping occurred, the
+qualifying child of another taxpayer (your friend),credit for the child. However, the noncustodial child met the tests to be your qualifying
+parent cannot claim the child as a qualifying so you cannot claim your friend’s child as yourrelative for the part of the year before the
+child for head of household filing status, the qualifying relative.date of the kidnapping.
+credit for child and dependent care expenses, This treatment applies for all years until thethe exclusion for dependent care benefits, and Child in Canada or Mexico. A child who liveschild is returned. However, the last year thisthe earned income credit. Only the custodial in Canada or Mexico may be your qualifyingtreatment can apply is the earlier of:parent or other eligible taxpayer can claim the relative, and you may be able to claim the childchild as a qualifying child for these four tax as a dependent. If the child does not live with1. The year there is a determination that thebenefits. If the custodial parent and another eli- child is dead, or you, the child does not meet the residency testgible taxpayer both claim the child as a qualify- to be your qualifying child. If the persons the2. The year the child would have reacheding child for any of these four tax benefits, the child does live with are not U.S. citizens andage 18.IRS will disallow all but one of the claims using have no U.S. gross income, those persons arethe tie-breaker rule in Table 6. not “taxpayers,” so the child is not the qualifying
+child of any other taxpayer. If the child is not yourExample 1. You and your 5-year-old son Not a Qualifying Child Test qualifying child or the qualifying child of anylived all year with your mother, who paid the
+other taxpayer, the child is your qualifying rela-entire cost of keeping up the home. Under the A child is not your qualifying relative if the child is tive if the gross income test and the support testrules for children of divorced or separated par- your qualifying child or the qualifying child of any are met.ents, your son is treated as the qualifying child of other taxpayer.
+his father, who can claim an exemption and the You cannot claim as a dependent a child who
+child tax credit for the child if he meets all the Example 1. Your 22-year-old daughter, who lives in a foreign country other than Canada or
+requirements to do so. Because of this, you is a full-time student, lives with you and meets all Mexico, unless the child is a U.S. citizen, U.S.
+cannot claim an exemption or the child tax credit the tests to be your qualifying child. She is not resident alien, or U.S. national for some part of
+for your son. However, your son’s father cannot your qualifying relative. the year. There is an exception for certainclaim your son as a qualifying child for head of adopted children who lived with you all year. Seehousehold filing status, the credit for child and Example 2. Your 2-year-old son lives with Citizen or Resident Test, earlier.dependent care expenses, the exclusion for de- your parents and meets all the tests to be their
+pendent care benefits, or the earned income qualifying child. He is not your qualifying rela- Example. You provide all the support ofcredit. You and your mother did not have any tive. your children, ages 6, 8, and 12, who live inchild care expenses or dependent care benefits, Mexico with your mother and have no income.but the boy is a qualifying child of both you and Example 3. Your son lives with you but is You are single and live in the United States.your mother for head of household filing status not your qualifying child because he is 30 years Your mother is not a U.S. citizen and has noand the earned income credit because he meets old and does not meet the age test. He may be U.S. income, so she is not a “taxpayer.” Yourthe relationship, age, residency, and support your qualifying relative if the gross income test children are not your qualifying children becausetests for both you and your mother. (Note: The and the support test are met. they do not meet the residency test. Also, theysupport test does not apply for the earned in- are not the qualifying children of any other tax-come credit.) However, you agree to let your Example 4. Your 13-year-old grandson
+payer, so they are your qualifying relatives andmother claim your son. This means she can lived with his mother for 3 months, with his uncle
+you can claim them as dependents if all the testsclaim him for head of household filing status and for 4 months, and with you for 5 months during
+are met. You may also be able to claim yourthe earned income credit if she qualifies for each the year. He is not your qualifying child because
+mother as a dependent if all the tests are met,and if you do not claim him as a qualifying child he does not meet the residency test. He may be
+including the gross income test and the supportfor the earned income credit. (You cannot claim your qualifying relative if the gross income test
+head of household filing status because your test. and the support test are met.
+Publication 501 (2007) Page 13
+
+Page 14 of 26 of Publication 501 15:30 -  7-JAN-2008
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Death or birth. A person who died during the come solely from activities at the workshop thatMember of Household or
+year, but lived with you as a member of your are incident to this medical care.Relationship Test
+household until death, will meet this test. The A “sheltered workshop” is a school that:
+To meet this test, a person must either: same is true for a child who was born during the • Provides special instruction or training de-year and lived with you as a member of your signed to alleviate the disability of the indi-1. Live with you all year as a member of your household for the rest of the year. The test is vidual, andhousehold, or also met if a child lived with you as a member of
+• Is operated by certain tax-exempt organi-your household except for any required hospital2. Be related to you in one of the ways listed
+zations or by a state, a U.S. possession, astay following birth.under Relatives who do not have to live
+political subdivision of a state or posses-If your dependent died during the year andwith you.
+sion, the United States, or the District ofyou otherwise qualified to claim an exemptionIf at any time during the year the person was Columbia.for the dependent, you can still claim the exemp-your spouse, that person cannot be your qualify- tion.ing relative. However, see Personal Exemp- “Permanently and totally disabled” has thetions, earlier. same meaning here as under Qualifying Child,Example. Your dependent mother died on
+earlier.January 15. She met the tests to be your qualify-Relatives who do not have to live with you. ing relative. The other tests to claim an exemp-A person related to you in any of the following tion for a dependent were also met. You canways does not have to live with you all year as a Support Test (To Be a Qualifyingclaim an exemption for her on your return.member of your household to meet this test. Relative)• Your child, stepchild, foster child, or a de- Local law violated. A person does not meet
+To meet this test, you generally must providescendant of any of them (for example, this test if at any time during the year the rela-
+more than half of a person’s total support duringyour grandchild). (A legally adopted child tionship between you and that person violates
+the calendar year.is considered your child.) local law.
+However, if two or more persons provide• Your brother, sister, half brother, half sis- support, but no one person provides more thanExample. Your girlfriend lived with you as ater, stepbrother, or stepsister. half of a person’s total support, see Multiplemember of your household all year. However,
+Support Agreement, later.• Your father, mother, grandparent, or other your relationship with her violated the laws of the
+direct ancestor, but not foster parent. state where you live, because she was married How to determine if support test is met.to someone else. Therefore, she does not meet• Your stepfather or stepmother. You figure whether you have provided morethis test and you cannot claim her as a depen- than half of a person’s total support by compar-• A son or daughter of your brother or sister. dent. ing the amount you contributed to that person’s
+• A brother or sister of your father or support with the entire amount of support thatAdopted child. An adopted child is alwaysmother. person received from all sources. This includestreated as your own child. The term “adopted support the person provided from his or her own• Your son-in-law, daughter-in-law, fa- child” includes a child who was lawfully placed funds.ther-in-law, mother-in-law, brother-in-law, with you for legal adoption. You may find Worksheet 1 helpful in figuringor sister-in-law. whether you provided more than half of a per-Cousin. Your cousin meets this test only if heAny of these relationships that were established son’s support.or she lives with you all year as a member ofby marriage are not ended by death or divorce. your household. A cousin is a descendant of a Person’s own funds not used for support.
+brother or sister of your father or mother. A person’s own funds are not support unlessExample. You and your wife began sup- they are actually spent for support.porting your wife’s father, a widower, in 2001.
+Your wife died in 2006. In spite of your wife’s Gross Income Test Example. Your mother received $2,400 indeath, your father-in-law continues to meet this social security benefits and $300 in interest. Shetest, and you can claim him as a dependent if all To meet this test, a person’s gross income for paid $2,000 for lodging and $400 for recreation.other tests are met, including the gross income the year must be less than $3,400. She put $300 in a savings account.test and support test. Even though your mother received a total ofGross income defined. Gross income is allFoster child. A foster child is an individual $2,700 ($2,400 + $300), she spent only $2,400income in the form of money, property, andwho is placed with you by an authorized place- ($2,000 + $400) for her own support. If youservices that is not exempt from tax.ment agency or by judgment, decree, or other spent more than $2,400 for her support and noIn a manufacturing, merchandising, or min-order of any court of competent jurisdiction. other support was received, you have provideding business, gross income is the total net sales
+more than half of her support.minus the cost of goods sold, plus any miscella-Joint return. If you file a joint return, the per- neous income from the business.son can be related to either you or your spouse. Child’s wages used for own support. YouGross receipts from rental property are grossAlso, the person does not need to be related to cannot include in your contribution to yourincome. Do not deduct taxes, repairs, etc., tothe spouse who provides support. child’s support any support that is paid for by thedetermine the gross income from rental prop-For example, your spouse’s uncle who re- child with the child’s own wages, even if you paiderty.ceives more than half of his support from you the wages.Gross income includes a partner’s share ofmay be your qualifying relative, even though he the gross (not a share of the net) partnership Year support is provided. The year you pro-does not live with you. However, if you and your income. vide the support is the year you pay for it, even ifspouse file separate returns, your spouse’s un- you do so with borrowed money that you repayGross income also includes all unemploy-cle can be your qualifying relative only if he lives in a later year.ment compensation and certain scholarship andwith you all year as a member of your house- If you use a fiscal year to report your income,fellowship grants. Scholarships received by de-hold. you must provide more than half of the depen-gree candidates that are used for tuition, fees,
+dent’s support for the calendar year in whichsupplies, books, and equipment required forTemporary absences. A person is consid-
+your fiscal year begins.particular courses may not be included in grossered to live with you as a member of your house-
+income. For more information about scholar-hold during periods of time when one of you, or Armed Forces dependency allotments. Theships, see chapter 1 of Publication 970, Taxboth, are temporarily absent due to special cir- part of the allotment contributed by the govern-Benefits for Education.cumstances such as: ment and the part taken out of your military payTax-exempt income, such as certain social• Illness, are both considered provided by you in figuringsecurity benefits, is not included in gross in- whether you provide more than half of the sup-• Education, come. port. If your allotment is used to support persons
+Disabled dependent working at sheltered• Business, other than those you name, you can take the
+workshop. For purposes of this test (the gross exemptions for them if they otherwise qualify.• Vacation, or income test), the gross income of an individual
+who is permanently and totally disabled at any Example. You are in the Armed Forces.• Military service.
+time during the year does not include income for You authorize an allotment for your widowed
+If the person is placed in a nursing home for services the individual performs at a sheltered mother that she uses to support her self and her
+an indefinite period of time to receive constant workshop. The availability of medical care at the sister. If the allotment provi des more than half of
+medical care, the absence may be considered workshop must be the main reason for the indi- each person’s support, you can take an  exemp-
+temporary. vidual’s presence there. Also, the income must tion for each of them, if they otherwise qualify,
+Page 14 Publication 501 (2007)
+
+Page 15 of 26 of Publication 501 15:30 -  7-JAN-2008
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+even though you authorize the allotment only for Smiths’ unreimbursed expenses are not deduct- Medical expenses foryour mother. ible as charitable contributions but are consid- mother .............. 6 0 0ered support they provided for Lauren.Tax-exempt military quarters allowances. Parents’ total support. . . $4,100 $4,700These allowances are treated the same way as
+Home for the aged. If you make a lump-sum You must apply the support test separatelydependency allotments in figuring support. The
+advance payment to a home for the aged to take to each parent. You provide $2,000 ($1,000allotment of pay and the tax-exempt basic allow-
+care of your relative for life and the payment is lodging, $1,000 food) of your father’s total sup-ance for quarters are both considered as pro-
+port of $4,100 — less than half. You providebased on that person’s life expectancy, thevided by you for support.
+$2,600 to your mother ($1,000 lodging, $1,000amount of support you provide each year is the
+food, $600 medical) — more than half of herlump-sum payment divided by the relative’s lifeTax-exempt income. In figuring a person’s total support of $4,700. You meet the supportexpectancy. The amount of support you providetotal support, include tax-exempt income, sav- test for your mother, but not your father. Heatalso includes any other amounts you providedings, and borrowed amounts used to support and utility costs are included in the fair rentalduring the year.that person. Tax-exempt income includes cer- value of the lodging, so these are not consideredtain social security benefits, welfare benefits, separately.nontaxable life insurance proceeds, Armed Total SupportForces family allotments, nontaxable pensions,
+Lodging. If you provide a person with lodging,and tax-exempt interest. To figure if you provided more than half of a you are considered to provide support equal toperson’s support, you must first determine the the fair rental value of the room, apartment,Example 1. You provide $4,000 toward total support provided for that person. Total sup- house, or other shelter in which the person lives.your mother’s support during the year. She has port includes amounts spent to provide food, Fair rental value includes a reasonable allow-earned income of $600, nontaxable social se- lodging, clothing, education, medical and dental ance for the use of furniture and appliances, andcurity benefits of $4,800, and tax-exempt inter- care, recreation, transportation, and similar ne- for heat and other utilities that are provided.est of $200. She uses all these for her support. cessities.You cannot claim an exemption for your mother Fair rental value defined. This is theGenerally, the amount of an item of supportbecause the $4,000 you provide is not more amount you could reasonably expect to receiveis the amount of the expense incurred in provid-than half of her total support of $9,600. from a stranger for the same kind of lodging. It ising that item. For lodging, the amount of support used instead of actual expenses such as taxes,Example 2. Your brother’s daughter takes is the fair rental value of the lodging. interest, depreciation, paint, insurance, utilities,out a student loan of $2,500 and uses it to pay Expenses that are not directly related to any cost of furniture and appliances, etc. In someher college tuition. She is personally responsible one member of a household, such as the cost of cases, fair rental value may be equal to the rentfor the loan. You provide $2,000 toward her total food for the household, must be divided among paid.support. You cannot claim an exemption for her the members of the household. If you provide the total lodging, the amount ofbecause you provide less than half of her sup- support you provide is the fair rental value of theport. Example 1. Grace Brown, mother of Mary room the person uses, or a share of the fair
+Miller, lives with Frank and Mary Miller and theirSocial security benefits. If a husband and rental value of the entire dwelling if the person
+two children. Grace gets social security benefitswife each receive benefits that are paid by one has use of your entire home. If you do not pro-
+of $2,400, which she spends for clothing, trans-check made out to both of them, half of the total vide the total lodging, the total fair rental value
+portation, and recreation. Grace has no otherpaid is considered to be for the support of each must be divided depending on how much of the
+spouse, unless they can show otherwise. income. Frank and Mary’s total food expense for total lodging you provide. If you provide  only a
+part and the person supplies the rest, the fairthe household is $5,200. They pay Grace’sIf a child receives social security benefits and rental value must be divided between both ofmedical and drug expenses of $1,200. The fairuses them toward his or her own support, the you according to the amount each provides.rental value of the lodging provided for Grace isbenefits are considered as provided by the child.
+$1,800 a year, based on the cost of similarSupport provided by the state (welfare, Example. Your parents live rent free in arooming facilities. Figure Grace’s total supportfood stamps, housing, etc.). Benefits pro- house you own. It has a fair rental value ofas follows:vided by the state to a needy person generally $5,400 a year furnished, which includes a fair
+are considered support provided by the state. rental value of $3,600 for the house and $1,800Fair rental value of lodging ...... $  1,800However, payments based on the needs of the for the furniture. This does not include heat and
+recipient will not be considered as used entirely utilities. The house is completely furnished withClothing, transportation, and
+for that person’s support if it is shown that part of recreation .................. 2,400 furniture belonging to your parents. You pay
+the payments were not used for that purpose. $600 for their utility bills. Utilities are not usuallyMedical expenses ............ 1,200 included in rent for houses in the area where
+Share of food (1/5 of $5,200) ..... 1,040 your parents live. Therefore, you consider theFoster care payments and expenses. Pay-
+total fair rental value of the lodging to be $6,000ments you receive for the support of a foster Total support ............... $6,440
+($3,600 fair rental value of the unfurnishedchild from a child placement agency are consid-
+house, $1,800 allowance for the furnishings pro-ered support provided by the agency. Similarly, The support Frank and Mary provide ($1,800
+vided by your parents, and $600 cost of utilities)payments you receive for the support of a foster lodging + $1,200 medical expenses + $1,040
+of which you are considered to provide $4,200child from a state or county are considered sup- food = $4,040) is more than half of Grace’s
+($3,600 + $600).port provided by the state or county. $6,440 total support.
+If you are not in the trade or business of Person living in his or her own home. TheExample 2. Your parents live with you, yourproviding foster care and your unreimbursed total fair rental value of a person’s home that hespouse, and your two children in a house youout-of-pocket expenses in caring for a foster or she owns is considered support contributedown. The fair rental value of your parents’ sharechild were mainly to benefit an organization by that person.of the lodging is $2,000 a year ($1,000 each),qualified to receive deductible charitable contri- Living with someone rent free. If you livewhich includes furnishings and utilities. Your fa-butions, the expenses are deductible as charita- with a person rent free in his or her home, youther receives a nontaxable pension of $4,200,ble contributions but are not considered support must reduce the amount you provide for supportwhich he spends equally between your motheryou provided. For more information about the of that person by the fair rental value of lodgingand himself for items of support such as cloth-deduction for charitable contributions, see Publi- he or she provides you.ing, transportation, and recreation. Your totalcation 526. If your unreimbursed expenses are food expense for the household is $6,000. Yournot deductible as charitable contributions, they heat and utility bills amount to $1,200. Your Property. Property provided as support isare considered support you provided. mother has hospital and medical expenses of measured by its fair market value. Fair marketIf you are in the trade or business of provid- $600, which you pay during the year. Figure value is the price that property would sell for oning foster care, your unreimbursed expenses your parents’ total support as follows: the open market. It is the price that would beare not considered support provided by you. agreed upon between a willing buyer and a
+willing seller, with neither being required to act,Support provided Father MotherExample.  Lauren, a foster child, lived with and both having reasonable knowledge of theMr. and Mrs. Smith for the last 3 months of the Fair rental value of lodging $1,000 $1,000 relevant facts.year. The Smiths cared for Lauren because they Pension spent for theirwanted to adopt her (although she had not been Capital expenses. Capital items, such assupport ............. 2,100 2,100placed with them for adoption). They did not furniture, appliances, and cars, that are bought
+care for her as a trade or business or to benefit for a person during the year can be included inShare of food (1/6 of
+$6,000) ............. 1,000 1,000the agency that placed her in their home. The total support under certain circumstances.
+Publication 501 (2007) Page 15
+
+Page 16 of 26 of Publication 501 15:30 -  7-JAN-2008
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+The following examples show when a capital 4. Funeral expenses. A child will be treated as being the qualifying
+item is or is not support. relative of his or her noncustodial parent if all5. Scholarships received by your child if your four of the following statements are true.child is a full-time student. Example 1. You buy a $200 power lawn
+1. The parents:mower for your 13-year-old child. The child is 6. Survivors’ and Dependents’ Educational
+given the duty of keeping the lawn trimmed. Assistance payments used for the support a. Are divorced or legally separated underBecause the lawn mower benefits all members of the child who receives them. a decree of divorce or separate mainte-of the household, you cannot include the cost of nance,the lawn mower in the support of your child.
+b. Are separated under a written separa-Multiple Support AgreementExample 2. You buy a $150 television set tion agreement, or
+as a birthday present for your 12-year-old child. Sometimes no one provides more than half of c. Lived apart at all times during the last 6The television set is placed in your child’s bed- the support of a person. Instead, two or more months of the year.room. You can include the cost of the television persons, each of whom would be able to takeset in the support of your child. the exemption but for the support test, together 2. The child received over half of his or her
+provide more than half of the person’s support. support for the year from the parents.Example 3. You pay $5,000 for a car and When this happens, you can agree that anyregister it in your name. You and your 3. The child is in the custody of one or bothone of you who individually provides more than17-year-old daughter use the car equally. Be- parents for more than half of the year.10% of the person’s support, but only one, cancause you own the car and do not give it to your claim an exemption for that person as a qualify- 4. Either of the following statements is true.daughter but merely let her use it, you cannot ing relative. Each of the others must sign ainclude the cost of the car in your daughter’s a. The custodial parent signs a writtenstatement agreeing not to claim the exemptiontotal support. However, you can include in your declaration, discussed later, that he orfor that year. The person who claims the exemp-daughter’s support your out-of-pocket expenses she will not claim the child as a depen-tion must keep these signed statements for hisof operating the car for her benefit. dent for the year, and the noncustodialor her records. A multiple support declaration parent attaches this written declarationidentifying each of the others who agreed not toExample 4. Your 17-year-old son, using to his or her return. (If the decree orclaim the exemption must be attached to thepersonal funds, buys a car for $4,500. You pro- agreement went into effect after 1984,return of the person claiming the exemption.vide all the rest of your son’s support — $4,000. see Divorce decree or separationForm 2120, Multiple Support Declaration, canSince the car is bought and owned by your son, agreement made after 1984, later.)be used for this purpose.the car’s fair market value ($4,500) must be
+b. A pre-1985 decree of divorce or sepa-You can claim an exemption under a multipleincluded in his support. Your son has provided
+rate maintenance or written separationsupport agreement for someone related to youmore than half of his own total support of $8,500
+agreement that applies to 2007 states($4,500 + $4,000), so he is not your qualifying or for someone who lived with you all year as a
+that the noncustodial parent can claimchild. You did not provide more than half of his member of your household.
+the child as a dependent, the decree ortotal support, so he is not your qualifying rela-
+agreement was not changed after 1984Example 1. You, your sister, and your twotive. You cannot claim an exemption for your
+to say the noncustodial parent cannotbrothers provide the entire support of yourson.
+claim the child as a dependent, and themother for the year. You provide 45%, yourMedical insurance premiums. Medical insur- noncustodial parent provides at leastsister 35%, and your two brothers each provideance premiums you pay, including premiums for $600 for the child’s support during the10%. Either you or your sister can claim ansupplementary Medicare coverage, are in- year.exemption for your mother. The other must signcluded in the support you provide. a statement agreeing not to take an exemption
+for your mother. The one who claims the exemp-Medical insurance benefits. Medical in- Custodial parent and noncustodial parent.surance benefits, including basic and supple- tion must attach Form 2120, or a similar declara- The custodial parent is the parent with whom thementary Medicare benefits, are not part of tion, to his or her return and must keep the child lived for the greater part of the year. Thesupport. statement signed by the other for his or her other parent is the noncustodial parent.records. Because neither brother provides more If the parents divorced or separated duringTuition payments and allowances under the than 10% of the support, neither can take the the year and the child lived with both parentsGI Bill. Amounts veterans receive under the exemption and neither has to sign a statement. before the separation, the custodial parent is theGI Bill for tuition payments and allowances while
+one with whom the child lived for the greater partthey attend school are included in total support. Example 2. You and your brother each pro- of the rest of the year.vide 20% of your mother’s support for the year.Example. During the year, your son re- The remaining 60% of her support is provided Example. Your child lived with you for 10ceives $2,200 from the government under the GI equally by two persons who are not related to months of the year. The child lived with yourBill. He uses this amount for his education. You her. She does not live with them. Because more former spouse for the other 2 months. You areprovide the rest of his support — $2,000. Be- than half of her support is provided by persons considered the custodial parent.cause GI benefits are included in total support, who cannot claim an exemption for her, no oneyour son’s total support is $4,200 ($2,200 + Written declaration.  The custodial parentcan take the exemption.$2,000). You have not provided more than half may use either Form 8332 or a similar statementof his support. (containing the same information required by theExample 3. Your father lives with you and form) to make the written declaration to releaseChild care expenses. If you pay someone to receives 25% of his support from social security, the exemption to the noncustodial parent. Theprovide child or dependent care, you can include 40% from you, 24% from his brother (your un- noncustodial parent must attach the form orthese payments in the amount you provided for cle), and 11% from a friend. Either you or your statement to his or her tax return.the support of your child or disabled dependent, uncle can take the exemption for your father if The exemption can be released for 1 year,even if you claim a credit for the payments. For the other signs a statement agreeing not to. The for a number of specified years (for example,information on the credit, see Publication 503, one who takes the exemption must attach Form alternate years), or for all future years, as speci-Child and Dependent Care Expenses. 2120, or a similar declaration, to his return and fied in the declaration. If the exemption is re-must keep for his records the signed statementOther support items. Other items may be leased for more than 1 year, the original releasefrom the one agreeing not to take the exemption.considered as support depending on the facts in must be attached to the return of the noncus-each case. todial parent for the first year, and a copy must
+be attached for each later year.Support Test for Children of
+Divorced or Separated Parents Divorce decree or separation agreementDo Not Include in Total Support made after 1984. If the divorce decree or sep-In most cases, a child of divorced or separated aration agreement went into effect after 1984,The following items are not included in total parents will be a qualifying child of one of the the noncustodial parent can attach certainsupport. parents. See Children of divorced or separated pages from the decree or agreement instead ofparents under Qualifying Child,  earlier. How-1. Federal, state, and local income taxes paid Form 8332. To be able to do this, the decree orever, if the child does not meet the requirementsby persons from their own income. agreement must state all three of the following.to be a qualifying child of either parent, the child2. Social security and Medicare taxes paid by may be a qualifying relative of one of the par- 1. The noncustodial parent can claim thepersons from their own income. ents. In that case, the following rules must be child as a dependent without regard to any
+used in applying the support test.3. Life insurance premiums. condition, such as payment of support.
+Page 16 Publication 501 (2007)
+
+Page 17 of 26 of Publication 501 15:30 -  7-JAN-2008
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+2. The custodial parent will not claim the child Remarried parent. If you remarry, the sup- Alimony. Payments to a spouse that are
+as a dependent for the year. port provided by your new spouse is treated as includible in the spouse’s gross income as either
+provided by you. alimony, separate maintenance payments, or3. The years for which the noncustodial par- similar payments from an estate or trust, are notChild support under pre-1985 agreement.ent, rather than the custodial parent, can treated as a payment for the support of a depen-All child support payments actually receivedclaim the child as a dependent. dent.from the noncustodial parent under a pre-1985The noncustodial parent must attach all of agreement are considered used for the support Parents who never married. This special rulethe following pages of the decree or agreement of the child. for divorced or separated parents also applies toto his or her tax return. parents who never married.
+Example. Under a pre-1985 agreement, the• The cover page (write the other parent’s Multiple support agreement. If the support ofnoncustodial parent provides $1,200 for thesocial security number on this page). the child is determined under a multiple supportchild’s support. This amount is considered sup- agreement, this special support test for divorced• The pages that include all of the informa- port provided by the noncustodial parent even if or separated parents does not apply.tion identified in items (1) through (3) the $1,200 was actually spent on things otherabove. than support.
+• The signature page with the other parent’s
+signature and the date of the agreement.
+The noncustodial parent must attach
+the required information even if it was
+filed with a return in an earlier year.
+CAUTION
+!
+Publication 501 (2007) Page 17
+
+Page 18 of 26 of Publication 501 15:30 -  7-JAN-2008
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Worksheet 1. Worksheet for Determining Support Keep for Your Records
+Funds Belonging to the Person You Supported
+1. Enter the total funds belonging to the person you supported, including income received (taxable
+and nontaxable) and amounts borrowed during the year, plus the amount in savings and other
+accounts at the beginning of the year ............................................ 1.
+2. Enter the amount on line 1 that was used for the person’s support ....................... 2.
+3. Enter the amount on line 1 that was used for other purposes ........................... 3.
+4. Enter the total amount in the person’s savings and other accounts at the end of the year ....... 4.
+5. Add lines 2 through 4. (This amount should equal line 1.) .............................. 5.
+Expenses for Entire Household (where the person you supported lived)
+6. Lodging (complete line 6a or 6b):
+6a. Enter the total rent paid .................................................. 6a.
+6b. Enter the fair rental value of the home. If the person you supported owned the home,
+also include this amount in line 21. ............................................ 6b.
+7. Enter the total food expenses ................................................. 7.
+8. Enter the total amount of utilities (heat, light, water, etc. not included in line 6a or 6b) .......... 8.
+9. Enter the total amount of repairs (not included in line 6a or 6b) .......................... 9.
+10. Enter the total of other expenses. Do not include expenses of maintaining the home, such as
+mortgage interest, real estate taxes, and insurance. ................................. 10.
+11. Add lines 6a through 10. These are the total household expenses ....................... 11.
+12. Enter total number of persons who lived in the household ............................. 12.
+Expenses for the Person You Supported
+13. Divide line 11 by line 12. This is the person’s share of the household expenses.............. 13.
+14. Enter the person’s total clothing expenses ........................................ 14.
+15. Enter the person’s total education expenses....................................... 15.
+16. Enter the person’s total medical and dental expenses not paid for or reimbursed by insurance . . . 16.
+17. Enter the person’s total travel and recreation expenses ............................... 17.
+18. Enter the total of the person’s other expenses...................................... 18.
+19. Add lines 13 through 18. This is the total cost of the person’s support for the year ............ 19.
+Did the Person Provide More Than Half of His or Her Own Support?
+20. Multiply line 19 by 50% (.50) .................................................. 20.
+21. Enter the amount from line 2, plus the amount from line 6b if the person you supported owned
+the home. This is the amount the person provided for his or her own support ................ 21.
+22. Is line 21 more than line 20?
+No. You meet the support test for this person to be your qualifying child. If this person also meets the other tests to be a
+qualifying child, stop here; do not complete lines 23–26. Otherwise, go to line 23 and fill out the rest of the worksheet to
+determine if this person is your qualifying relative.
+ Yes. You do not meet the support test for this person to be either your qualifying child or your qualifying relative. Stop
+here.
+Did You Provide More Than Half?
+23. Enter the amount others provided for the person’s support. Include amounts provided by state,
+local, and other welfare societies or agencies. Do not include any amounts included on line 1. . . . 23.
+24. Add lines 21 and 23 ........................................................ 24.
+25. Subtract line 24 from line 19. This is the amount you provided for the person’s support......... 25.
+26. Is line 25 more than line 20?
+Yes. You meet the support test for this person to be your qualifying relative.
+ No. You do not meet the support test for this person to be your qualifying relative. You cannot claim an exemption for this
+person unless you can do so under a multiple support agreement, the support test for children of divorced or separated
+parents, or the special rule for kidnapped children. See Multiple Support Agreement, Support Test for Children of Divorced or
+Separated Parents, or Kidnapped child under Qualifying Relative.
+Page 18 Publication 501 (2007)
+
+Page 19 of 26 of Publication 501 15:30 -  7-JAN-2008
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Worksheet 2. Worksheet for Determining the Deduction for Exemptions Keep for Your Records
+1. Is the amount on Form 1040, line 38, or Form 1040A, line 22, more than the amount on line 4 below for your
+filing status?
+❏ No. Stop. Multiply $3,400 by the total number of exemptions claimed on line 6d of Form 1040 or Form
+1040A and enter the result on Form 1040, line 42, or Form 1040A, line 26.
+❏ Yes. Continue.
+2. Multiply $3,400 by the total number of exemptions claimed on line 6d of Form 1040 or Form 1040A. ........ 2 .
+3. Enter the amount from Form 1040, line 38, or Form 1040A, line 22 ......... 3 .
+4. Enter the amount shown below for your filing status:
+• Married filing separately—$117,300
+• Single—$156,400
+}
+........... 4 .• Head of household—$195,500
+• Married filing jointly or Qualifying widow(er)—$234,600
+5. Subtract line 4 from line 3. . ................................... 5 .
+6. Is line 5 more than $122,500 ($61,250 if married filing
+separately)?
+❏ Yes. Multiply $1,133 by the total number of exemptions
+claimed on line 6d of Form 1040 or Form 1040A.
+Enter the result here and on Form 1040, line 42, or
+Form 1040A, line 26. Do not complete the rest of
+this worksheet.
+❏ No. Divide line 5 by $2,500 ($1,250 if married filing
+separately). If the result is not a whole number,
+increase it to the next whole number (for example,
+increase 0.0004 to 1). ............ 6 .
+7. Multiply line 6 by 2% (.02) and enter the result as a decimal . .................................. 7 .
+8. Multiply line 2 by line 7 ............................................................ 8 .
+9. Divide line 8 by 1.5 .............................................................. 9 .
+10. Deduction for exemptions. Subtract line 9 from line 2. Enter the result here and on Form 1040, line 42, or
+Form 1040A, line 26 ............................................................. 1 0 .
+number (ITIN) or adoption taxpayer identifica-Social Security tion number (ATIN) instead of an SSN.Phaseout of Numbers for Dependents
+Taxpayer identification numbers forExemptions You must list the social security number (SSN) aliens. If your dependent is a resident or non-
+of any dependent for whom you claim an exemp- resident alien who does not have and is notThe amount you can claim as a deduction for tion in column (2) of line 6c of your Form 1040 or eligible to get an SSN, your dependent mustexemptions is reduced once your adjusted gross Form 1040A. apply for an individual taxpayer identificationincome (AGI) goes above a certain level for your number (ITIN). For details on how to apply, see If you do not list the dependent’s SSNfiling status. These levels are as follows: Form W-7, Application for IRS Individual Tax-when required or if you list an incorrect payer Identification Number.SSN, the exemption may be disal-AGI Level
+CAUTION
+!
+lowed. Taxpayer identification numbers forThat Reduces
+adoptees. If you have a child who was placedFiling Status Exemption Amount
+with you by an authorized placement agency,Married filing separately . . $117,300 No SSN. If a person for whom you expect to
+Single .............. 156,400 you may be able to claim an exemption for theclaim an exemption on your return does notHead of household ...... 195,500 child. However, if you cannot get an SSN or anhave an SSN, either you or that person shouldMarried filing jointly ..... 234,600 ITIN for the child, you must get an adoptionapply for an SSN as soon as possible by filingQualifying widow(er) ..... 234,600 taxpayer identification number (ATIN) for theForm SS-5, Application for a Social Security
+child from the IRS. See Form W-7A, ApplicationCard, with the Social Security AdministrationYou must reduce the dollar amount of your for Taxpayer Identification Number for Pending(SSA). Information about applying for an SSNexemptions by 2% for each $2,500, or part of U.S. Adoptions, for details.and Form SS-5 is available at your local SSA$2,500 ($1,250 if you are married filing sepa-
+office.rately), that your AGI exceeds the amount
+It usually takes about 2 weeks to get an SSN.shown above for your filing status. However, you
+If you do not have a required SSN by the filingcan lose no more than 2/3 of the dollar amount of
+due date, you can file Form 4868, Application foryour exemptions. In other words, each exemp- Standard DeductionAutomatic Extension of Time To File U.S. Indi-tion cannot be reduced to less than $1,133.
+vidual Income Tax Return, for an extension ofIf your AGI exceeds the level for your filing Most taxpayers have a choice of either taking atime to file.status, use Worksheet 2 to figure the amount of standard deduction or itemizing their deduc-your deduction for exemptions. tions. The standard deduction is a dollar amountBorn and died in 2007. If your child was
+that reduces the amount of income on which youborn and died in 2007, and you do not have an
+are taxed. It is a benefit that eliminates the needSSN for the child, you may attach a copy of the
+for many taxpayers to itemize actual deductions,child’s birth certificate instead. If you do, enter
+such as medical expenses, charitable contribu-“DIED” in column (2) of line 6c of your Form
+tions, and taxes, on Schedule A of Form 1040.1040 or Form 1040A.
+The standard deduction is higher for taxpayers
+Alien or adoptee with no SSN. If your depen- who are 65 or older or blind. If you have a
+dent does not have and cannot get an SSN, you choice, you can use the method that gives you
+must list the individual taxpayer identification the lower tax.
+Publication 501 (2007) Page 19
+
+Page 20 of 26 of Publication 501 15:30 -  7-JAN-2008
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+You benefit from the standard deduc- this fact. You must keep the statement in your Michael uses Table 9 to find his standard deduc-
+tion if your standard deduction is more records. tion. He enters $150 (his earned income) on line
+than the total of your allowable item- 1, $450 ($150 plus $300) on line 3, $850 (theIf your vision can be corrected beyond these
+TIP
+ized deductions. limits only by contact lenses that you can wear larger of $450 and $850) on line 5, and $5,350
+only briefly because of pain, infection, or ulcers, on line 6. The amount of his standard deduction,
+Persons not eligible for the standard deduc- you can take the higher standard deduction for on line 7a, is $850 (the smaller of $850 and
+tion. Your standard deduction is zero and you blindness if you otherwise qualify. $5,350).
+should itemize any deductions you have if:
+Example 2. Joe, a 22-year-old full-time col-1. You are married, filing a separate return, Spouse 65 or Older or Blind lege student, is claimed on his parents’ 2007 taxand your spouse itemizes deductions,
+return. Joe is married and files a separate return.You can take the higher standard deduction if2. You are filing a tax return for a short tax His wife does not itemize deductions on heryour spouse is age 65 or older or blind and:year because of a change in your annual separate return.accounting period, or 1. You file a joint return, or Joe has $1,500 in interest income and3. You are a nonresident or dual-status alien wages of $3,800. He has no itemized deduc-2. You file a separate return and can claim anduring the year. You are considered a tions. Joe finds his standard deduction by usingexemption for your spouse because yourdual-status alien if you were both a nonresi- spouse had no gross income and an ex- Table 9. He enters his earned income, $3,800,dent and resident alien during the year. emption for your spouse could not be on line 1. He adds lines 1 and 2 and entersIf you are a nonresident alien who is mar- claimed by another taxpayer. $4,100 on line 3. On line 5 he enters $4,100, theried to a U.S. citizen or resident alien at the larger of lines 3 and 4. Since Joe is married filingend of the year, you can choose to be You cannot claim the higher standard a separate return, he enters $5,350 on line 6. Ontreated as a U.S. resident. (See Publication deduction for an individual other than line 7a he enters $4,100 as his standard deduc-519.) If you make this choice, you can take yourself and your spouse. tion because it is smaller than $5,350, the
+CAUTION
+!
+the standard deduction. amount on line 6.
+If an exemption for you can be Example 3. Amy, who is single, is claimedExamplesclaimed on another person’s return on her parents’ 2007 tax return. She is 18 years(such as your parents’ return), yourCAUTION
+!
+The following examples illustrate how to deter- old and blind. She has interest income of $1,300standard deduction may be limited. See Stan- mine your standard deduction using Tables 7 and wages of $2,900. She has no itemized de-dard Deduction for Dependents, later. and 8. ductions. Amy uses Table 9 to find her standard
+deduction. She enters her wages of $2,900 onStandard Deduction Amount Example 1. Larry, 46, and Donna, 33, are line 1. She adds lines 1 and 2 and enters $3,200
+filing a joint return for 2007. Neither is blind. on line 3. On line 5 she enters $3,200, the largerThe standard deduction amount depends on They decide not to itemize their deductions. of lines 3 and 4. Since she is single, Amy entersyour filing status, whether you are 65 or older or They use Table 7. Their standard deduction is $5,350 on line 6. She enters $3,200 on line 7a.blind, and whether an exemption can be claimed $10,700. This is the smaller of the amounts on lines 5 andfor you by another taxpayer. Generally, the stan-
+6. Because she checked one box in the top partdard deduction amounts are adjusted each year Example 2. Assume the same facts as in of the worksheet, she enters $1,300 on line 7b.for inflation. The standard deduction amounts Example 1, except that Larry is blind at the end She then adds the amounts on lines 7a and 7bfor most taxpayers for 2007 are shown in Table of 2007. Larry and Donna use Table 8. Their and enters her standard deduction of $4,500 on7. standard deduction is $11,750. line 7c.The amount of the standard deduction for a
+decedent’s final tax return is the same as it Example 3. Bill and Terry are filing a jointwould have been had the decedent continued to Who Should Itemizereturn for 2007. Both are over age 65. Neither islive. However, if the decedent was not 65 or blind. If they do not itemize deductions, they use You should itemize deductions if your total de-older at the time of death, the higher standard Table 8. Their standard deduction is $12,800. ductions are more than the standard deductiondeduction for age cannot be claimed.
+amount. Also, you should itemize if you do notStandard Deduction for qualify for the standard deduction, as discussed
+DependentsHigher Standard Deduction for Age earlier under Persons not eligible for the stan-
+(65 or Older) dard deduction.The standard deduction for an individual for You should first figure your itemized deduc-whom an exemption can be claimed on anotherIf you do not itemize deductions, you are entitled tions and compare that amount to your standardperson’s tax return is generally limited to theto a higher standard deduction if you are age 65 deduction to make sure you are using thegreater of:or older at the end of the year. You are consid- method that gives you the greater benefit.ered 65 on the day before your 65th birthday. 1. $850, orTherefore, you can take a higher standard You may be subject to a limit on some
+deduction for 2007 if you were born before Janu- of your itemized deductions if your ad-2. The individual’s earned income for the
+ary 2, 1943. justed gross income (AGI) is more thanyear plus $300 (but not more than the reg- CAUTION
+!
+Use Table 8 to figure the standard deduction $156,400 ($78,200 if you are married filing sep-ular standard deduction amount, generally
+amount. arately). See the instructions for Schedule A$5,350).
+(Form 1040), line 29, for more information onHowever, if the individual is 65 or older or blind, figuring the correct amount of your itemized de-the standard deduction may be higher.Higher Standard Deduction for ductions.If an exemption for you (or your spouse if youBlindness are married filing jointly) can be claimed on When to itemize. You may benefit from
+someone else’s return, use Table 9 to determineIf you are blind on the last day of the year and itemizing your deductions on Schedule A (Form
+your standard deduction.you do not itemize deductions, you are entitled 1040) if you:
+to a higher standard deduction. Use Table 8. Earned income defined. Earned income is 1. Do not qualify for the standard deduction,You qualify for this benefit if you are totally or salaries, wages, tips, professional fees, and or the amount you can claim is limited,partly blind. other amounts received as pay for work you
+2. Had large uninsured medical and dentalactually perform.Partly blind. If you are partly blind, you must expenses during the year,For purposes of the standard deduction,get a certified statement from an eye doctor or
+earned income also includes any part of a schol-registered optometrist that: 3. Paid interest and taxes on your home,arship or fellowship grant that you must include
+4. Had large unreimbursed employee busi-1. You cannot see better than 20/200 in the in your gross income. See chapter 1 of Publica-
+ness expenses or other miscellaneous de-better eye with glasses or contact lenses, tion 970 for more information on what qualifies
+ductions,or as a scholarship or fellowship grant.
+5. Had large uninsured casualty or theft2. Your field of vision is not more than 20 Example 1. Michael is single. His parents losses,degrees. claim an exemption for him on their 2007 tax
+6. Made large contributions to qualified chari-If your eye condition will never improve be- return. He has interest income of $780 and
+ties, oryond these limits, the statement should include wages of $150. He has no itemized deductions.
+Page 20 Publication 501 (2007)
+
+Page 21 of 26 of Publication 501 15:30 -  7-JAN-2008
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+7. Have total itemized deductions that are deductions on your state tax return is greater the same changes. Both of you must file a con-
+more than the standard deduction to which than the tax benefit you lose on your federal sent to assessment for any additional tax  either
+you otherwise are entitled. return by not taking the standard deduction. To one may owe as a result of the change.
+make this election, you must check the box on You and your spouse can use the methodIf you decide to itemize your deductions, line 30 of Schedule A. that gives you the lower total tax, even thoughcomplete Schedule A and attach it to your Form one of you may pay more tax than you wouldChanging your mind. If you do not itemize1040. Enter the amount from Schedule A, line have paid by using the other method. You bothyour deductions and later find that you should29, on Form 1040, line 40. must use the same method of claiming deduc-have itemized — or if you itemize your deduc-Electing to itemize for state tax or other pur- tions. If one itemizes deductions, the othertions and later find you should not have — youposes. Even if your itemized deductions are should itemize because he or she will not qualifycan change your return by filing Form 1040X.less than the amount of your standard deduc- for the standard deduction. See Persons not
+tion, you can elect to itemize deductions on your Married persons who filed separate re- eligible for the standard deduction, earlier.
+federal return rather than take the standard de- turns. You can change methods of taking de-
+duction. You may want to do this, for example, if ductions only if you and your spouse both make
+the tax benefit of being able to itemize your
+Publication 501 (2007) Page 21
+
+Page 22 of 26 of Publication 501 15:30 -  7-JAN-2008
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+2007 Standard Deduction Tables Table 9. Standard Deduction Worksheet for
+Dependents
+If you are married filling a separate return and your spouse Use this worksheet only if someone else can claimitemizes deductions, or if you are a dual-status alien, you cannot an exemption for you (or your spouse if marriedtake the standard deduction even if you were born before Janu-CAUTION
+!
+filing jointly).ary 2, 1943, or you are blind.
+If you were born before January 2, 1943, or you are blind,Table 7. Standard Deduction Chart for Most People* check the correct number of boxes below. Then go to the
+worksheet.Your standard
+Born beforeIf your filing status is... deduction is: You January 2, 1943 Blind Single or Married filing separately $5,350
+Married filing jointly or Qualifying
+Your spouse, if claiming Born beforewidow(er) with dependent child 10,700
+spouse’s exemption January 2, 1943 Blind 
+Head of household 7,850
+*Do not use this chart if you were born before January 2, 1943, or you are blind,
+or if someone else can claim an exemption for you (or your spouse if married
+Total number of boxes you checkedfiling jointly). Use Table 8 or 9 instead.
+1. Enter your earned income (defined 1.
+below). If none, enter -0-.
+2. Additional amount 2. $300
+3. Add lines 1 and 2. 3.
+4. Minimum standard deduction. 4. $850Table 8. Standard Deduction Chart for People Born
+Before January 2, 1943, or Who are Blind* 5. Enter the larger of line 3 or line 4. 5.
+Check the correct number of boxes below. Then go to the 6. Enter the amount shown below forchart. your filing status.
+Born beforeYou Blind • Single or Married filing separately—January 2, 1943 $5,350 6.
+• Married filing jointly—$10,700
+Born before • Head of household—$7,850Your spouse, if claiming Blind January 2, 1943 spouse’s exemption
+7. Standard deduction.
+a. Enter the smaller of line 5 or line 6. IfTotal number of boxes you checked born after January 1, 1943, and not
+AND the number THEN blind, stop here. This is your
+in the box your standard deduction. Otherwise, go
+above is... standard on to line 7b. 7a.
+IF your deduction b. If born before January 2, 1943, orfiling status is... is... blind, multiply $1,300 ($1,050 if
+Single 1 $6,650 married ) by the number in the box
+above. 7b.2 7,950
+c. Add lines 7a and 7b. This is yourMarried filing jointly 1 11,750
+standard deduction for 2007. 7c. or Qualifying 2 12,800
+widow(er) with 3 13,850
+Earned income includes wages, salaries, tips, professional fees, anddependent child 4 14,900
+other compensation received for personal services you performed. It
+Married filing 1 6,400 also includes any amount received as a scholarship that you must
+include in your income.separately 2 7,450
+3 8,500
+4 9,550
+Head of household 1 9,150
+2 10,450
+*If someone can claim an exemption for you (or your spouse if married filing
+jointly), use Table 9, instead.
+Page 22 Publication 501 (2007)
+
+Page 23 of 26 of Publication 501 15:30 -  7-JAN-2008
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+• Research your tax questions online. certain forms, instructions, and publica-
+tions. Some IRS offices, libraries, groceryHow To Get Tax Help • Search publications online by topic or stores, copy centers, city and county gov-keyword. ernment offices, credit unions, and officeYou can get help with unresolved tax issues,
+• View Internal Revenue Bulletins (IRBs) supply stores have a collection of productsorder free publications and forms, ask tax ques- published in the last few years. available to print from a CD or photocopytions, and get information from the IRS in sev-
+from reproducible proofs. Also, some IRSeral ways. By selecting the method that is best • Figure your withholding allowances usingfor you, you will have quick and easy access to offices and libraries have the Internal Rev-the withholding calculator online attax help. enue Code, regulations, Internal Revenuewww.irs.gov/individuals.
+Bulletins, and Cumulative Bulletins avail-Contacting your Taxpayer Advocate. The • Determine if Form 6251 must be filed us- able for research purposes.Taxpayer Advocate Service (TAS) is an inde- ing our Alternative Minimum Tax (AMT)
+• Services. You can walk in to your localpendent organization within the IRS whose em- Assistant.
+Taxpayer Assistance Center every busi-ployees assist taxpayers who are experiencing • Sign up to receive local and national tax ness day for personal, face-to-face taxeconomic harm, who are seeking help in resolv- news by email. help. An employee can explain IRS letters,ing tax problems that have not been resolved
+through normal channels, or who believe that an • Get information on starting and operating request adjustments to your tax account,
+IRS system or procedure is not working as it a small business. or help you set up a payment plan. If you
+should. need to resolve a tax problem, have ques-
+You can contact the TAS by calling the TAS tions about how the tax law applies to your
+toll-free case intake line at 1-877-777-4778 or individual tax return, or you’re more com-Phone. Many services are available byTTY/TDD 1-800-829-4059 to see if you are eligi- fortable talking with someone in person,phone.ble for assistance. You can also call or write to visit your local Taxpayer Assistance
+your local taxpayer advocate, whose phone Center where you can spread out yournumber and address are listed in your local records and talk with an IRS representa-telephone directory and in Publication 1546, tive face-to-face. No appointment is nec-• Ordering forms, instructions, and publica-Taxpayer Advocate Service — Your Voice at essary, but if you prefer, you can call yourtions. Call 1-800-829-3676 to order cur-the IRS. You can file Form 911, Request for local Center and leave a message re-rent-year forms, instructions, andTaxpayer Advocate Service Assistance (And publications, and prior-year forms and in- questing an appointment to resolve a taxApplication for Taxpayer Assistance Order), or structions. You should receive your order account issue. A representative will callask an IRS employee to complete it on your within 10 days. you back within 2 business days to sched-behalf. For more information, go to www.irs.gov/ ule an in-person appointment at your con-• Asking tax questions. Call the IRS withadvocate. venience. To find the number, go to www.your tax questions at 1-800-829-1040.Taxpayer Advocacy Panel (TAP). The irs.gov/localcontacts or look in the phone
+• Solving problems. You can getTAP listens to taxpayers, identifies taxpayer is- book under United States Government, In-
+face-to-face help solving tax problemssues, and makes suggestions for improving IRS ternal Revenue Service.
+every business day in IRS Taxpayer As-services and customer satisfaction. If you have
+sistance Centers. An employee can ex-suggestions for improvements, contact the TAP, Mail. You can send your order forplain IRS letters, request adjustments totoll free at 1-888-912-1227 or go to forms, instructions, and publications toyour account, or help you set up a pay-www.improveirs.org. the address below. You should receivement plan. Call your local Taxpayer Assis- a response within 10 days after your request isLow Income Taxpayer Clinics (LITCs). tance Center for an appointment. To find received.LITCs are independent organizations that pro- the number, go to www.irs.gov/localcon-vide low income taxpayers with representation tacts or look in the phone book underin federal tax controversies with the IRS for free National Distribution CenterUnited States Government, Internal Reve-or for a nominal charge. The clinics also provide P.O. Box 8903nue Service.tax education and outreach for taxpayers with Bloomington, IL 61702-8903
+• TTY/TDD equipment. If you have accesslimited English proficiency or who speak English
+CD/DVD for tax products. You canto TTY/TDD equipment, callas a second language. Publication 4134, Low
+order Publication 1796, IRS Tax Prod-1-800-829-4059 to ask tax questions or toIncome Taxpayer Clinic List, provides informa-
+ucts CD/DVD, and obtain:order forms and publications.tion on clinics in your area. It is available at www.
+irs.gov or at your local IRS office. • TeleTax topics. Call 1-800-829-4477 to lis-
+ten to pre-recorded messages coveringFree tax services. To find out what services • Current-year forms, instructions, and pub-various tax topics.are available, get Publication 910, IRS Guide to lications.
+Free Tax Services. It contains a list of free tax • Refund information. To check the status of • Prior-year forms, instructions, and publica-publications and describes other free tax infor- your 2007 refund, call 1-800-829-4477 tions.mation services, including tax education and and press 1 for automated refund informa-assistance programs and a list of TeleTax top- • Bonus: Historical Tax Products DVD -tion or call 1-800-829-1954. Be sure to
+ics. wait at least 6 weeks from the date you Ships with the final release.Accessible versions of IRS published prod- filed your return (3 weeks if you filed elec- • Tax Map: an electronic research tool anducts are available on request in a variety of tronically). Have your 2007 tax return finding aid.alternative formats for people with disabilities. available because you will need to know
+your social security number, your filing • Tax law frequently asked questions.Internet. You can access the IRS web-
+status, and the exact whole dollar amountsite at www.irs.gov 24 hours a day, 7 • Tax Topics from the IRS telephone re-of your refund.days a week to: sponse system.
+Evaluating the quality of our telephone • Fill-in, print, and save features for most tax
+services. To ensure IRS representatives give forms.• E-file your return. Find out about commer-
+accurate, courteous, and professional answers,cial tax preparation and e-file services • Internal Revenue Bulletins.we use several methods to evaluate the qualityavailable free to eligible taxpayers.
+of our telephone services. One method is for a • Toll-free and email technical support.• Check the status of your 2007 refund. second IRS representative to listen in on or • The CD which is released twice during theClick on Where’s My Refund. Wait at least record random telephone calls. Another is to ask year.6 weeks from the date you filed your re- some callers to complete a short survey at the – The first release will ship the beginningturn (3 weeks if you filed electronically). end of the call. of January 2008.Have your 2007 tax return available be-
+– The final release will ship the beginningcause you will need to know your social Walk-in. Many products and services
+of March 2008.security number, your filing status, and the are available on a walk-in basis.
+exact whole dollar amount of your refund.
+Purchase the CD/DVD from National Techni-• Download forms, instructions, and publica- cal Information Service (NTIS) at www.irs.gov/tions. cdorders for $35 (no handling fee) or call• Products. You can walk in to many post
+• Order IRS products online. offices, libraries, and IRS offices to pick up 1-877-CDFORMS (1-877-233-6767) toll free to
+Publication 501 (2007) Page 23
+
+Page 24 of 26 of Publication 501 15:30 -  7-JAN-2008
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+buy the CD/DVD for $35 (plus a $5 handling • Tax law changes for 2007. • An interactive “Teens in Biz” module that
+fee). Price is subject to change. gives practical tips for teens about starting• Tax Map: an electronic research tool and their own business, creating a businessfinding aid.CD for small businesses. Publication plan, and filing taxes.3207, The Small Business Resource • Web links to various government agen-Guide CD for 2007, is a must for every cies, business associations, and IRS orga- An updated version of this CD is availablesmall business owner or any taxpayer about to nizations. each year in early April. You can get a free copystart a business. This year’s CD includes: by calling 1-800-829-3676 or by visiting www.irs.• “Rate the Product” survey—your opportu- gov/smallbiz.• Helpful information, such as how to pre- nity to suggest changes for future editions.pare a business plan, find financing for • A site map of the CD to help you navigateyour business, and much more. the pages of the CD with ease.• All the business tax forms, instructions,
+and publications needed to successfully
+manage a business.
+Page 24 Publication 501 (2007)
+
+Page 25 of 26 of Publication 501 15:30 -  7-JAN-2008
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+To help us develop a more useful index, please let us know if you have ideas for index entries.Index
+ See “Comments and Suggestions” in the “Introduction” for the ways you can reach us.
+Children: Domestic help, no exemption Form 1040EZ:A
+Adopted child (See Adoption) for ......................... 9 Personal exemption ......... 9Abroad, citizens living, filing
+Adoption (See Adopted child) Use of ...................... 5Dual-status taxpayers:requirements ............... 3
+Birth of child ..............8 ,  9 Form 1040X:Exemptions ................. 9Absence, temporary ...... 8 ,  1 1 ,
+Claiming parent, when child is Change of filing status ....... 6Joint returns not available .... 614
+head of household ........ 8 Itemized deductions, change toAccounting periods, joint Custody of ................. 1 1 standard deduction ....... 2 1returns ..................... 5 Death of child .............8 ,  9 E Standard deduction, change toAdopted child ........... 10, 14 Dividends of ................ 4 Earned income: itemized deductions ...... 2 1Taxpayer identification Filing requirements as Defined for purposes of Form 8814, parents’ election tonumber .................. 1 9 dependents (Table 2) ...... 3 standard deduction ....... 2 0 report child’s interest andAdvance earned income credit, Investment income of child Dependent filing requirements dividends .................. 4effect on filing requirements under age 18 ...........3 ,  4 (Table 2) ................. 3 Form 8857, innocent spouse(Table 3) ................... 4 Kidnapped ........... 8 ,  11, 13 Earned income credit ......... 4 relief ....................... 5Age: Social security number ..... 1 9 Nonresident alien spouse .... 7 Form SS-5, social securityFiling status Stillborn ................... 1 1 Two persons with same number request ........... 1 9determination ............. 3 Church employees, filing qualifying child ........... 1 2 Form W-7, individual taxpayerGross income and filing requirements (Table 3) ..... 4 Elderly persons: identification numberrequirements (Table 1) .... 2 Citizen or resident test ...... 1 0 Home for the aged ......... 1 5 request ................... 1 9Standard deduction for age 65 Citizens outside U.S., filing Standard deduction for age 65 Form W-7A, adoption taxpayeror older .................. 2 0 requirements ............... 3 or older .................. 2 0 identification numberTest ....................... 1 1
+Comments on publication .... 2 Equitable relief, Innocent request ................... 1 9Aliens: spouse ..................... 5Common law marriage ....... 5 Foster care payments andDual-status (See Dual-status
+Exemptions ............... 9-19Community property expenses ................. 1 5taxpayers)
+Amount ..................... 1states ...................... 6Nonresident (See Nonresident Foster child .......... 10, 14, 15
+Deduction for exemptions,Cousin ...................... 1 4aliens) Free tax services ............ 2 3determination of (WorksheetCustody of child ............. 1 1Alimony ..................... 1 7 Funeral expenses ........... 1 62 ) ....................... 1 9Alternative minimum tax (AMT), Dependents ................. 9effect on filing requirements D Personal (See Personal G(Table 3) ................... 4 exemption)Death: GI Bill benefits .............. 1 6Amended returns  (See also Phaseout ................1 ,  1 9Of child .................... 1 1 Gross income:Form 1040X) .............6 ,  2 1 Of dependent ............8 ,  1 4 Defined ..................... 2Change from itemized to Of spouse ................5 ,  9 Filing requirements (Tablestandard deduction (or vice FDecedents  (See also Death of 1 ) ...................... 2versa) ................... 2 1 Fair rental value ............. 1 5spouse) ..................... 5 Dependent filing requirementsAmerican citizens abroad .... 3 Figures  (See Tables and figures)Filing requirements .......... 3 (Table 2) ................. 3Annulled marriages, filing Filing requirements ........ 2 - 4Deductions: Test ....................... 1 4status ...................... 5 Filing status ................ 4 - 9Personal exemption ......... 9 Group-term life insurance .... 4Armed forces: Annulled marriages .......... 5Standard deduction ......... 1 9Combat zone, signing return for Change to:Dependent taxpayer test ..... 9spouse ................... 5 HJoint return after separateDependents:Dependency allotments ..... 1 4 returns ................. 6 Head of household ......... 6 - 8Birth of .................... 1 4GI Bill benefits ............. 1 6 Separate returns after joint Exemption for spouse ....... 9Born and died withinMilitary quarters return ................6 ,  8 Filing requirements (Tableyear ..................... 1 9allotments ............... 1 5 Determination of ..........3 ,  4 1 ) ........................ 2Child’s earnings............. 4Assistance  (See Tax help) Head of household ........5 ,  6 Health insuranceDeath of ................... 1 4ATINs (Adoption taxpayer Marital status, determination premiums ................. 1 6Earned income .............. 4identification o f ........................ 5Exemption for ............... 9 Help  (See Tax help)numbers) ................. 1 9 Married filing jointly (See JointFiling requirements ........3 ,  4 Home:returns)Married, filing joint return ..... 9 Aged, home for ............. 1 5Married filing separately (SeeNot allowed to claim Cost of keeping up .......... 8B Married filing separately)dependents ............... 9 Household workers, noBirth of child ................. 8 Unmarried persons (See SingleQualifying child ............. 1 0 exemption for .............. 9Blind persons, standard taxpayers)Qualifying relative .......... 1 3deduction ................. 2 0 Food stamps ................ 1 5Social security number ..... 1 9
+IForeign employment, filingStandard deduction for ..... 2 0
+requirements ............... 3Worksheet (Table 9) ...... 2 2 Income:C Unearned income ........... 4 Gross ..................... 1 4Foreign students ............ 1 0Canada, resident of ...... 9 ,  1 0 , Tax exempt ................ 1 5Disabled: Form 1040:13 Child ...................... 1 1 Individual retirementPersonal exemption ......... 9Capital expenses ............ 1 5 Dependent ................. 1 4 arrangements (IRAs):Schedule A, itemized deductionChild born alive ............. 1 1 Filing requirements (Tablelimit ..................... 2 0Divorced parents ............ 1 1
+Child care expenses ......... 1 6 3 ) ........................ 4Social security numbers .... 1 9Divorced taxpayers:
+Child custody ............... 1 1 Married filing separately ..... 6Use of ....................5 ,  6Child custody .............. 1 1
+Child support under pre-1985 Individual taxpayerForm 1040A:Filing status ................. 5
+agreement ................ 1 7 identification numbersPersonal exemption ......... 9Joint returns, responsibility
+Child tax credit ............... 9 (ITINs) ...................2 ,  1 9Social security numbers .... 1 9f o r........................ 5
+Use of ....................5 ,  6Child, qualifying ............. 1 0 Personal exemption ......... 9 Innocent spouse relief ........ 5
+Publication 501 (2007) Page 25
+
+Page 26 of 26 of Publication 501 15:30 -  7-JAN-2008
+The type and rule above prints on all proofs including departmental reproduction proofs. MUST be removed before printing.
+Insurance premiums: Medical savings accounts ST
+Life ........................ 1 6 (MSAs, effect on filing Scholarships ......4 ,  12, 14, 16, Tables and figures  (See also
+Medical .................... 1 6 requirements (Table 3) ..... 4 20 Worksheets) ............... 1 8
+IRAs  (See Individual retirement Medicare taxes, not Filing requirements:Self-employed persons:
+arrangements (IRAs)) support ................... 1 6 Dependents (Table 2) ..... 3Filing requirements (Table
+Gross income levels (TableItemized deductions: Member of household or 3 ) ........................ 4
+1 ) ...................... 2Changing from standard to relationship test ........... 1 4 Gross income ............... 2
+Other situations requiringitemized deduction (or vice Mexico, resident of .... 9 ,  10, 13 Separate returns  (See Married
+filing (Table 3) .......... 4versa) ................... 2 1 filing separately)Military  (See Armed forces)
+Standard deduction:Choosing to itemize ........ 2 0 Separated parents ........... 1 1Missing children, photographs Age 65 or older or blindLimits on .................1 ,  2 0 of in IRS publications ...... 2 Separated taxpayers: (Table 8) .............. 2 2Married filing separately .... 2 1 Filing status ................. 5More information  (See Tax help) Dependents, worksheet forWhen to itemize ............ 2 0 Living apart but not legallyMultiple support (Table 9) .............. 2 2ITINs (Individual taxpayer separated ................. 5agreement ................ 1 6 Most people (Table 7) .... 2 2identification Personal exemption ......... 9 Tax help ..................... 2 3numbers) ................. 1 9 Signatures, joint returns ...... 5N Tax returns:Single taxpayers:National of the United Amended (See Form 1040X)J Filing status ................. 5States ..................... 1 0 Filing of (See FilingGross income filingJoint return test .............. 9 requirements)Nonresident aliens ........... 2 requirements (Table 1) .... 2Joint returns ............... 5 - 6 Joint returns (See Joint returns)Dependents ................ 1 9 How to file and forms ........ 5Dependents on ............. 1 4 Who must file ........ 1 ,  2 ,  3 ,  4Earned income credit ........ 7 Personal exemption ......... 9Personal exemption ......... 9 Exemptions ................. 9 Taxes, not support .......... 1 6Social security and MedicareJoint return ................. 6 Tax-exempt income ......... 1 5taxes:Spouse ..................... 7K Taxpayer Advocate .......... 2 3Reporting of (Table 3) ....... 4Kidnapped children: Temporary absences .... 11, 14Support, not included in ..... 1 6Head of household status O Tips, reporting of (TableSocial security benefits ..... 1 5a n d ...................... 8 3) .......................... 4Overseas taxpayers .......... 3 Social security numbers (SSNs)Qualifying child ............. 1 1 Total support ................ 1 5for dependents ............ 1 9Qualifying relative .......... 1 3 TTY/TDD information ........ 2 3Spouse  (See also JointPWidow(er) with dependent
+returns) ..................... 5 Tuition, benefits under GIParent, claiming head ofchild ...................... 9
+Deceased .................5 ,  9 Bill ........................ 1 6household for .............. 8
+Dual-status alien spouse ..... 6Parents who neverL Exemption for ............... 9married ................... 1 2 ULife insurance premiums .... 1 6 Innocent spouse relief ....... 5Parents, divorced or U.S. citizen or resident ...... 1 0Limit on itemized Nonresident alien ........... 7separated ................. 1 1 U.S. citizens filing abroad, filingdeductions ................ 2 0 Signing joint returns ......... 5Penalty, failure to file ......... 2 requirements:Surviving (See SurvivingLocal income taxes, itemized Filing requirements .......... 3Personal exemption .......... 9 spouse)deductions ................ 2 1 Phaseout ................1 ,  1 9 U.S. national ................ 1 0SSNs  (See Social securityLocal law violated ........... 1 4 Phaseout of exemptions ...... 1 U.S. possessions, incomenumbers (SSNs))Lodging ..................... 1 5 from ....................... 3Photographs of missing Standard deduction ...... 19-21Losses, rental real estate ..... 6 children in IRS Unmarried persons  (See SingleMarried filing jointly .......... 5
+publications ................ 2 taxpayers)Tables and figures .......... 2 2M Publications  (See Tax help) State or local incomeMarital status, determination Puerto Rico, residents of ..... 3 taxes ...................... 2 1 Wof .......................... 5 Stillborn child ............... 1 1 Welfare benefits ............. 1 5Married dependents, filing joint Students:Q What’s New for 2007:return ...................... 9 Defined .................... 1 1 Exemption amount .......... 1Qualifying:  (See also SurvivingMarried filing jointly  (See Joint Foreign .................... 1 0 Exemption phaseout ......... 1spouse)returns) Suggestions for Limit on itemizedChild ...................... 1 0Married filing separately ...... 6 publication ................. 2 deduction ................. 1Relative ................... 1 3Changing method from or to Who must file ............... 1Surviving spouse ............ 8 Support test:itemized deductions ...... 2 1 Widow/widower ............. 8 Qualifying child ............. 1 2 Widow/widower  (See SurvivingExemption for spouse ....... 9 Qualifying relative .......... 1 4 spouse)Itemized deductions ........ 2 1 Surviving spouse: Worksheets:RMarried taxpayers  (See also Death of spouse (See Death of Deduction for exemptions,Recapture taxes .............. 4Joint returns) ................ 5 spouse) determination of .......... 1 9Relationship test ........ 10, 14Age 65 or older spouse, Gross income filing Head of household status andstandard deduction ....... 2 0 Relative, qualifying .......... 1 3 requirements (Table 1) .... 2 cost of keeping upBlind spouse, standard Remarriage after divorce ..... 5 Single filing status ........... 5 home ..................... 8deduction ................ 2 0 Rental losses ................. 6 Widow(er) with dependent Standard deduction ......... 2 2Dual-status alien spouse ..... 6 Residency test .............. 1 1 child ....................8 ,  9 Support test ................ 1 8Filing status ................. 5 Kidnapped child ........... 9 ■Medical insurance
+premiums ................. 1 6
+Page 26 Publication 501 (2007)

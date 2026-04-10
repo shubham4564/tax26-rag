@@ -1,0 +1,66 @@
+{
+  "section_number": 6336,
+  "section_type": "normal",
+  "metadata": {
+    "usc_location": {
+      "title": "Title 26 – Internal Revenue Code",
+      "subtitle": "Subtitle F",
+      "chapter": "CHAPTER 64",
+      "subchapter": "Subchapter D",
+      "part": "PART II",
+      "section": "§6336"
+    },
+    "currency": "Text contains those laws in effect on April 8, 2026",
+    "source_credit": "(Aug. 16, 1954, ch. 736, 68A Stat. 786 ; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834 ; Pub. L. 116–25, title I, §1404(a), July 1, 2019, 133 Stat. 997 .)"
+  },
+  "statute": {
+    "level": "section",
+    "label": "§6336",
+    "heading": "§6336. Sale of perishable goods",
+    "text": "",
+    "children": [
+      {
+        "level": "paragraph",
+        "label": "(1)",
+        "heading": "Return to owner",
+        "text": "If the owner of the property can be readily found, the Secretary shall give him notice of such determination of the appraised value of the property. The property shall be returned to the owner if, within such time as may be specified in the notice, the owner- (A) Pays to the Secretary an amount equal to the appraised value, or (B) Gives bond in such form, with such sureties, and in such amount as the Secretary shall prescribe, to pay the appraised amount at such time as the Secretary determines to be appropriate in the circumstances."
+      },
+      {
+        "level": "paragraph",
+        "label": "(2)",
+        "heading": "Immediate sale",
+        "text": "If the owner does not pay such amount or furnish such bond in accordance with this section, the Secretary shall as soon as practicable make public sale of the property in accordance with such regulations as may be prescribed by the Secretary."
+      }
+    ]
+  },
+  "editorial_notes": {
+    "title": "Editorial Notes",
+    "references_in_text": [],
+    "amendments": [
+      {
+        "year": "2019",
+        "entries": [
+          "Pub. L. 116–25 struck out \"or become greatly reduced in price or value by keeping, or that such property cannot be kept without great expense\" after \"to perish\" in introductory provisions."
+        ]
+      },
+      {
+        "year": "1976",
+        "entries": [
+          "Pub. L. 94–455 struck out \"or his delegate\" after \"Secretary\" wherever appearing."
+        ]
+      }
+    ],
+    "other_notes": []
+  },
+  "statutory_notes": {
+    "title": "Statutory Notes and Related Subsidiaries",
+    "notes": [
+      {
+        "heading": "Effective Date of 2019 Amendment",
+        "pub_law": "Pub. L. 116–25, title I, §1404(b)",
+        "effective_date": "apply to property seized after the date of the enactment of this Act [July 1, 2019].",
+        "text": "Pub. L. 116–25, title I, §1404(b), July 1, 2019, 133 Stat. 997 , provided that: \"The amendment made by this section [amending this section] shall apply to property seized after the date of the enactment of this Act [July 1, 2019].\""
+      }
+    ]
+  }
+}

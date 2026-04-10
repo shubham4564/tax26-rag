@@ -1,0 +1,3313 @@
+{
+  "state": "Nevada",
+  "sections_found": 826,
+  "sections": [
+    {
+      "text": "Chapter 0",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-000.html"
+    },
+    {
+      "text": "Chapter 1",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-001.html"
+    },
+    {
+      "text": "Chapter 1A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-001A.html"
+    },
+    {
+      "text": "Chapter 2",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-002.html"
+    },
+    {
+      "text": "Chapter 2A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-002A.html"
+    },
+    {
+      "text": "Chapter 3",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-003.html"
+    },
+    {
+      "text": "Chapter 4",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-004.html"
+    },
+    {
+      "text": "Chapter 5",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-005.html"
+    },
+    {
+      "text": "Chapter 6",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-006.html"
+    },
+    {
+      "text": "Chapter 7",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-007.html"
+    },
+    {
+      "text": "Chapter 10",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-010.html"
+    },
+    {
+      "text": "Chapter 11",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-011.html"
+    },
+    {
+      "text": "Chapter 12",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-012.html"
+    },
+    {
+      "text": "Chapter 13",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-013.html"
+    },
+    {
+      "text": "Chapter 14",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-014.html"
+    },
+    {
+      "text": "Chapter 15",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-015.html"
+    },
+    {
+      "text": "Chapter 16",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-016.html"
+    },
+    {
+      "text": "Chapter 17",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-017.html"
+    },
+    {
+      "text": "Chapter 18",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-018.html"
+    },
+    {
+      "text": "Chapter 19",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-019.html"
+    },
+    {
+      "text": "Chapter 20",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-020.html"
+    },
+    {
+      "text": "Chapter 21",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-021.html"
+    },
+    {
+      "text": "Chapter 22",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-022.html"
+    },
+    {
+      "text": "Chapter 28",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-028.html"
+    },
+    {
+      "text": "Chapter 29",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-029.html"
+    },
+    {
+      "text": "Chapter 29A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-029A.html"
+    },
+    {
+      "text": "Chapter 30",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-030.html"
+    },
+    {
+      "text": "Chapter 31",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-031.html"
+    },
+    {
+      "text": "Chapter 31A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-031A.html"
+    },
+    {
+      "text": "Chapter 32",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-032.html"
+    },
+    {
+      "text": "Chapter 33",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-033.html"
+    },
+    {
+      "text": "Chapter 34",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-034.html"
+    },
+    {
+      "text": "Chapter 35",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-035.html"
+    },
+    {
+      "text": "Chapter 36",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-036.html"
+    },
+    {
+      "text": "Chapter 37",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-037.html"
+    },
+    {
+      "text": "Chapter 38",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-038.html"
+    },
+    {
+      "text": "Chapter 39",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-039.html"
+    },
+    {
+      "text": "Chapter 40",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-040.html"
+    },
+    {
+      "text": "Chapter 41",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-041.html"
+    },
+    {
+      "text": "Chapter 41A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-041A.html"
+    },
+    {
+      "text": "Chapter 41B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-041B.html"
+    },
+    {
+      "text": "Chapter 42",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-042.html"
+    },
+    {
+      "text": "Chapter 43",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-043.html"
+    },
+    {
+      "text": "Chapter 47",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-047.html"
+    },
+    {
+      "text": "Chapter 48",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-048.html"
+    },
+    {
+      "text": "Chapter 49",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-049.html"
+    },
+    {
+      "text": "Chapter 50",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-050.html"
+    },
+    {
+      "text": "Chapter 51",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-051.html"
+    },
+    {
+      "text": "Chapter 52",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-052.html"
+    },
+    {
+      "text": "Chapter 53",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-053.html"
+    },
+    {
+      "text": "Chapter 54",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-054.html"
+    },
+    {
+      "text": "Chapter 55",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-055.html"
+    },
+    {
+      "text": "Chapter 56",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-056.html"
+    },
+    {
+      "text": "Chapter 62A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-062A.html"
+    },
+    {
+      "text": "Chapter 62B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-062B.html"
+    },
+    {
+      "text": "Chapter 62C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-062C.html"
+    },
+    {
+      "text": "Chapter 62D",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-062D.html"
+    },
+    {
+      "text": "Chapter 62E",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-062E.html"
+    },
+    {
+      "text": "Chapter 62F",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-062F.html"
+    },
+    {
+      "text": "Chapter 62G",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-062G.html"
+    },
+    {
+      "text": "Chapter 62H",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-062H.html"
+    },
+    {
+      "text": "Chapter 62I",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-062I.html"
+    },
+    {
+      "text": "Chapter 63",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-063.html"
+    },
+    {
+      "text": "Chapter 64",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-064.html"
+    },
+    {
+      "text": "Chapter 65",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-065.html"
+    },
+    {
+      "text": "Chapter 66",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-066.html"
+    },
+    {
+      "text": "Chapter 67",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-067.html"
+    },
+    {
+      "text": "Chapter 68",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-068.html"
+    },
+    {
+      "text": "Chapter 69",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-069.html"
+    },
+    {
+      "text": "Chapter 70",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-070.html"
+    },
+    {
+      "text": "Chapter 71",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-071.html"
+    },
+    {
+      "text": "Chapter 72",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-072.html"
+    },
+    {
+      "text": "Chapter 73",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-073.html"
+    },
+    {
+      "text": "Chapter 74",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-074.html"
+    },
+    {
+      "text": "Chapter 75",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-075.html"
+    },
+    {
+      "text": "Chapter 75A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-075A.html"
+    },
+    {
+      "text": "Chapter 76",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-076.html"
+    },
+    {
+      "text": "Chapter 77",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-077.html"
+    },
+    {
+      "text": "Chapter 78",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-078.html"
+    },
+    {
+      "text": "Chapter 78A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-078A.html"
+    },
+    {
+      "text": "Chapter 78B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-078B.html"
+    },
+    {
+      "text": "Chapter 80",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-080.html"
+    },
+    {
+      "text": "Chapter 81",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-081.html"
+    },
+    {
+      "text": "Chapter 82",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-082.html"
+    },
+    {
+      "text": "Chapter 82A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-082A.html"
+    },
+    {
+      "text": "Chapter 84",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-084.html"
+    },
+    {
+      "text": "Chapter 86",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-086.html"
+    },
+    {
+      "text": "Chapter 87",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-087.html"
+    },
+    {
+      "text": "Chapter 87A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-087A.html"
+    },
+    {
+      "text": "Chapter 88",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-088.html"
+    },
+    {
+      "text": "Chapter 88A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-088A.html"
+    },
+    {
+      "text": "Chapter 89",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-089.html"
+    },
+    {
+      "text": "Chapter 90",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-090.html"
+    },
+    {
+      "text": "Chapter 91",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-091.html"
+    },
+    {
+      "text": "Chapter 92A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-092A.html"
+    },
+    {
+      "text": "Chapter 97",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-097.html"
+    },
+    {
+      "text": "Chapter 97A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-097A.html"
+    },
+    {
+      "text": "Chapter 97B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-097B.html"
+    },
+    {
+      "text": "Chapter 99",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-099.html"
+    },
+    {
+      "text": "Chapter 100",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-100.html"
+    },
+    {
+      "text": "Chapter 101",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-101.html"
+    },
+    {
+      "text": "Chapter 102",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-102.html"
+    },
+    {
+      "text": "Chapter 104",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-104.html"
+    },
+    {
+      "text": "Chapter 104A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-104A.html"
+    },
+    {
+      "text": "Chapter 104B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-104B.html"
+    },
+    {
+      "text": "Chapter 104C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-104C.html"
+    },
+    {
+      "text": "Chapter 105",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-105.html"
+    },
+    {
+      "text": "Chapter 106",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-106.html"
+    },
+    {
+      "text": "Chapter 107",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-107.html"
+    },
+    {
+      "text": "Chapter 107A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-107A.html"
+    },
+    {
+      "text": "Chapter 108",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-108.html"
+    },
+    {
+      "text": "Chapter 111",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-111.html"
+    },
+    {
+      "text": "Chapter 112",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-112.html"
+    },
+    {
+      "text": "Chapter 113",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-113.html"
+    },
+    {
+      "text": "Chapter 115",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-115.html"
+    },
+    {
+      "text": "Chapter 116",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-116.html"
+    },
+    {
+      "text": "Chapter 116A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-116A.html"
+    },
+    {
+      "text": "Chapter 116B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-116B.html"
+    },
+    {
+      "text": "Chapter 117",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-117.html"
+    },
+    {
+      "text": "Chapter 118",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-118.html"
+    },
+    {
+      "text": "Chapter 118A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-118A.html"
+    },
+    {
+      "text": "Chapter 118B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-118B.html"
+    },
+    {
+      "text": "Chapter 118C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-118C.html"
+    },
+    {
+      "text": "Chapter 119",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-119.html"
+    },
+    {
+      "text": "Chapter 119A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-119A.html"
+    },
+    {
+      "text": "Chapter 119B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-119B.html"
+    },
+    {
+      "text": "Chapter 120",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-120.html"
+    },
+    {
+      "text": "Chapter 120A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-120A.html"
+    },
+    {
+      "text": "Chapter 122",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-122.html"
+    },
+    {
+      "text": "Chapter 122A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-122A.html"
+    },
+    {
+      "text": "Chapter 123",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-123.html"
+    },
+    {
+      "text": "Chapter 123A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-123A.html"
+    },
+    {
+      "text": "Chapter 125",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-125.html"
+    },
+    {
+      "text": "Chapter 125A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-125A.html"
+    },
+    {
+      "text": "Chapter 125B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-125B.html"
+    },
+    {
+      "text": "Chapter 125C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-125C.html"
+    },
+    {
+      "text": "Chapter 125D",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-125D.html"
+    },
+    {
+      "text": "Chapter 125E",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-125E.html"
+    },
+    {
+      "text": "Chapter 126",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-126.html"
+    },
+    {
+      "text": "Chapter 127",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-127.html"
+    },
+    {
+      "text": "Chapter 128",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-128.html"
+    },
+    {
+      "text": "Chapter 129",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-129.html"
+    },
+    {
+      "text": "Chapter 130",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-130.html"
+    },
+    {
+      "text": "Chapter 132",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-132.html"
+    },
+    {
+      "text": "Chapter 133",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-133.html"
+    },
+    {
+      "text": "Chapter 133A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-133A.html"
+    },
+    {
+      "text": "Chapter 134",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-134.html"
+    },
+    {
+      "text": "Chapter 135",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-135.html"
+    },
+    {
+      "text": "Chapter 136",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-136.html"
+    },
+    {
+      "text": "Chapter 137",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-137.html"
+    },
+    {
+      "text": "Chapter 138",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-138.html"
+    },
+    {
+      "text": "Chapter 139",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-139.html"
+    },
+    {
+      "text": "Chapter 140",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-140.html"
+    },
+    {
+      "text": "Chapter 141",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-141.html"
+    },
+    {
+      "text": "Chapter 142",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-142.html"
+    },
+    {
+      "text": "Chapter 143",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-143.html"
+    },
+    {
+      "text": "Chapter 144",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-144.html"
+    },
+    {
+      "text": "Chapter 145",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-145.html"
+    },
+    {
+      "text": "Chapter 146",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-146.html"
+    },
+    {
+      "text": "Chapter 147",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-147.html"
+    },
+    {
+      "text": "Chapter 148",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-148.html"
+    },
+    {
+      "text": "Chapter 149",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-149.html"
+    },
+    {
+      "text": "Chapter 150",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-150.html"
+    },
+    {
+      "text": "Chapter 151",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-151.html"
+    },
+    {
+      "text": "Chapter 152",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-152.html"
+    },
+    {
+      "text": "Chapter 153",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-153.html"
+    },
+    {
+      "text": "Chapter 154",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-154.html"
+    },
+    {
+      "text": "Chapter 155",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-155.html"
+    },
+    {
+      "text": "Chapter 156",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-156.html"
+    },
+    {
+      "text": "Chapter 158",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-158.html"
+    },
+    {
+      "text": "Chapter 159",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-159.html"
+    },
+    {
+      "text": "Chapter 159A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-159A.html"
+    },
+    {
+      "text": "Chapter 160",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-160.html"
+    },
+    {
+      "text": "Chapter 161",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-161.html"
+    },
+    {
+      "text": "Chapter 162",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-162.html"
+    },
+    {
+      "text": "Chapter 162A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-162A.html"
+    },
+    {
+      "text": "Chapter 162B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-162B.html"
+    },
+    {
+      "text": "Chapter 162C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-162C.html"
+    },
+    {
+      "text": "Chapter 163",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-163.html"
+    },
+    {
+      "text": "Chapter 164",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-164.html"
+    },
+    {
+      "text": "Chapter 165",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-165.html"
+    },
+    {
+      "text": "Chapter 166",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-166.html"
+    },
+    {
+      "text": "Chapter 166A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-166A.html"
+    },
+    {
+      "text": "Chapter 167",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-167.html"
+    },
+    {
+      "text": "Chapter 169",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-169.html"
+    },
+    {
+      "text": "Chapter 170",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-170.html"
+    },
+    {
+      "text": "Chapter 171",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-171.html"
+    },
+    {
+      "text": "Chapter 172",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-172.html"
+    },
+    {
+      "text": "Chapter 173",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-173.html"
+    },
+    {
+      "text": "Chapter 174",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-174.html"
+    },
+    {
+      "text": "Chapter 175",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-175.html"
+    },
+    {
+      "text": "Chapter 176",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-176.html"
+    },
+    {
+      "text": "Chapter 176A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-176A.html"
+    },
+    {
+      "text": "Chapter 177",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-177.html"
+    },
+    {
+      "text": "Chapter 178",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-178.html"
+    },
+    {
+      "text": "Chapter 178A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-178A.html"
+    },
+    {
+      "text": "Chapter 179",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-179.html"
+    },
+    {
+      "text": "Chapter 179A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-179A.html"
+    },
+    {
+      "text": "Chapter 179B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-179B.html"
+    },
+    {
+      "text": "Chapter 179C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-179C.html"
+    },
+    {
+      "text": "Chapter 179D",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-179D.html"
+    },
+    {
+      "text": "Chapter 180",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-180.html"
+    },
+    {
+      "text": "Chapter 189",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-189.html"
+    },
+    {
+      "text": "Chapter 193",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-193.html"
+    },
+    {
+      "text": "Chapter 194",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-194.html"
+    },
+    {
+      "text": "Chapter 195",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-195.html"
+    },
+    {
+      "text": "Chapter 196",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-196.html"
+    },
+    {
+      "text": "Chapter 197",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-197.html"
+    },
+    {
+      "text": "Chapter 198",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-198.html"
+    },
+    {
+      "text": "Chapter 199",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-199.html"
+    },
+    {
+      "text": "Chapter 200",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-200.html"
+    },
+    {
+      "text": "Chapter 201",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-201.html"
+    },
+    {
+      "text": "Chapter 202",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-202.html"
+    },
+    {
+      "text": "Chapter 203",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-203.html"
+    },
+    {
+      "text": "Chapter 204",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-204.html"
+    },
+    {
+      "text": "Chapter 205",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-205.html"
+    },
+    {
+      "text": "Chapter 205A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-205A.html"
+    },
+    {
+      "text": "Chapter 206",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-206.html"
+    },
+    {
+      "text": "Chapter 207",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-207.html"
+    },
+    {
+      "text": "Chapter 208",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-208.html"
+    },
+    {
+      "text": "Chapter 209",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-209.html"
+    },
+    {
+      "text": "Chapter 211",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-211.html"
+    },
+    {
+      "text": "Chapter 211A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-211A.html"
+    },
+    {
+      "text": "Chapter 212",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-212.html"
+    },
+    {
+      "text": "Chapter 213",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-213.html"
+    },
+    {
+      "text": "Chapter 215A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-215A.html"
+    },
+    {
+      "text": "Chapter 217",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-217.html"
+    },
+    {
+      "text": "Chapter 218A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-218A.html"
+    },
+    {
+      "text": "Chapter 218B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-218B.html"
+    },
+    {
+      "text": "Chapter 218C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-218C.html"
+    },
+    {
+      "text": "Chapter 218D",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-218D.html"
+    },
+    {
+      "text": "Chapter 218E",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-218E.html"
+    },
+    {
+      "text": "Chapter 218F",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-218F.html"
+    },
+    {
+      "text": "Chapter 218G",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-218G.html"
+    },
+    {
+      "text": "Chapter 218H",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-218H.html"
+    },
+    {
+      "text": "Chapter 219",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-219.html"
+    },
+    {
+      "text": "Chapter 219A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-219A.html"
+    },
+    {
+      "text": "Chapter 220",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-220.html"
+    },
+    {
+      "text": "Chapter 223",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-223.html"
+    },
+    {
+      "text": "Chapter 224",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-224.html"
+    },
+    {
+      "text": "Chapter 225",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-225.html"
+    },
+    {
+      "text": "Chapter 226",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-226.html"
+    },
+    {
+      "text": "Chapter 227",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-227.html"
+    },
+    {
+      "text": "Chapter 228",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-228.html"
+    },
+    {
+      "text": "Chapter 231",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-231.html"
+    },
+    {
+      "text": "Chapter 231A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-231A.html"
+    },
+    {
+      "text": "Chapter 232",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-232.html"
+    },
+    {
+      "text": "Chapter 232A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-232A.html"
+    },
+    {
+      "text": "Chapter 232B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-232B.html"
+    },
+    {
+      "text": "Chapter 233",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-233.html"
+    },
+    {
+      "text": "Chapter 233A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-233A.html"
+    },
+    {
+      "text": "Chapter 233B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-233B.html"
+    },
+    {
+      "text": "Chapter 233C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-233C.html"
+    },
+    {
+      "text": "Chapter 233F",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-233F.html"
+    },
+    {
+      "text": "Chapter 233G",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-233G.html"
+    },
+    {
+      "text": "Chapter 233I",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-233I.html"
+    },
+    {
+      "text": "Chapter 234",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-234.html"
+    },
+    {
+      "text": "Chapter 235",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-235.html"
+    },
+    {
+      "text": "Chapter 236",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-236.html"
+    },
+    {
+      "text": "Chapter 237",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-237.html"
+    },
+    {
+      "text": "Chapter 237A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-237A.html"
+    },
+    {
+      "text": "Chapter 238",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-238.html"
+    },
+    {
+      "text": "Chapter 239",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-239.html"
+    },
+    {
+      "text": "Chapter 239A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-239A.html"
+    },
+    {
+      "text": "Chapter 239B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-239B.html"
+    },
+    {
+      "text": "Chapter 239C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-239C.html"
+    },
+    {
+      "text": "Chapter 240",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-240.html"
+    },
+    {
+      "text": "Chapter 240A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-240A.html"
+    },
+    {
+      "text": "Chapter 241",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-241.html"
+    },
+    {
+      "text": "Chapter 241A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-241A.html"
+    },
+    {
+      "text": "Chapter 242",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-242.html"
+    },
+    {
+      "text": "Chapter 243",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-243.html"
+    },
+    {
+      "text": "Chapter 244",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-244.html"
+    },
+    {
+      "text": "Chapter 244A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-244A.html"
+    },
+    {
+      "text": "Chapter 245",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-245.html"
+    },
+    {
+      "text": "Chapter 246",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-246.html"
+    },
+    {
+      "text": "Chapter 247",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-247.html"
+    },
+    {
+      "text": "Chapter 248",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-248.html"
+    },
+    {
+      "text": "Chapter 249",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-249.html"
+    },
+    {
+      "text": "Chapter 250",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-250.html"
+    },
+    {
+      "text": "Chapter 251",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-251.html"
+    },
+    {
+      "text": "Chapter 252",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-252.html"
+    },
+    {
+      "text": "Chapter 253",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-253.html"
+    },
+    {
+      "text": "Chapter 254",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-254.html"
+    },
+    {
+      "text": "Chapter 255",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-255.html"
+    },
+    {
+      "text": "Chapter 257",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-257.html"
+    },
+    {
+      "text": "Chapter 258",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-258.html"
+    },
+    {
+      "text": "Chapter 259",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-259.html"
+    },
+    {
+      "text": "Chapter 260",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-260.html"
+    },
+    {
+      "text": "Chapter 265",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-265.html"
+    },
+    {
+      "text": "Chapter 266",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-266.html"
+    },
+    {
+      "text": "Chapter 267",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-267.html"
+    },
+    {
+      "text": "Chapter 268",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-268.html"
+    },
+    {
+      "text": "Chapter 269",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-269.html"
+    },
+    {
+      "text": "Chapter 270",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-270.html"
+    },
+    {
+      "text": "Chapter 270A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-270A.html"
+    },
+    {
+      "text": "Chapter 270B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-270B.html"
+    },
+    {
+      "text": "Chapter 271",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-271.html"
+    },
+    {
+      "text": "Chapter 271A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-271A.html"
+    },
+    {
+      "text": "Chapter 271B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-271B.html"
+    },
+    {
+      "text": "Chapter 274",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-274.html"
+    },
+    {
+      "text": "Chapter 277",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-277.html"
+    },
+    {
+      "text": "Chapter 277A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-277A.html"
+    },
+    {
+      "text": "Chapter 277B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-277B.html"
+    },
+    {
+      "text": "Chapter 278",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-278.html"
+    },
+    {
+      "text": "Chapter 278A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-278A.html"
+    },
+    {
+      "text": "Chapter 278B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-278B.html"
+    },
+    {
+      "text": "Chapter 278C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-278C.html"
+    },
+    {
+      "text": "Chapter 279",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-279.html"
+    },
+    {
+      "text": "Chapter 279A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-279A.html"
+    },
+    {
+      "text": "Chapter 279B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-279B.html"
+    },
+    {
+      "text": "Chapter 280",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-280.html"
+    },
+    {
+      "text": "Chapter 281",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-281.html"
+    },
+    {
+      "text": "Chapter 281A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-281A.html"
+    },
+    {
+      "text": "Chapter 282",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-282.html"
+    },
+    {
+      "text": "Chapter 283",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-283.html"
+    },
+    {
+      "text": "Chapter 284",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-284.html"
+    },
+    {
+      "text": "Chapter 285",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-285.html"
+    },
+    {
+      "text": "Chapter 286",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-286.html"
+    },
+    {
+      "text": "Chapter 287",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-287.html"
+    },
+    {
+      "text": "Chapter 288",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-288.html"
+    },
+    {
+      "text": "Chapter 289",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-289.html"
+    },
+    {
+      "text": "Chapter 293",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-293.html"
+    },
+    {
+      "text": "Chapter 293B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-293B.html"
+    },
+    {
+      "text": "Chapter 293C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-293C.html"
+    },
+    {
+      "text": "Chapter 293D",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-293D.html"
+    },
+    {
+      "text": "Chapter 294A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-294A.html"
+    },
+    {
+      "text": "Chapter 295",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-295.html"
+    },
+    {
+      "text": "Chapter 298",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-298.html"
+    },
+    {
+      "text": "Chapter 304",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-304.html"
+    },
+    {
+      "text": "Chapter 306",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-306.html"
+    },
+    {
+      "text": "Chapter 308",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-308.html"
+    },
+    {
+      "text": "Chapter 315",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-315.html"
+    },
+    {
+      "text": "Chapter 318",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-318.html"
+    },
+    {
+      "text": "Chapter 318A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-318A.html"
+    },
+    {
+      "text": "Chapter 319",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-319.html"
+    },
+    {
+      "text": "Chapter 320",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-320.html"
+    },
+    {
+      "text": "Chapter 321",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-321.html"
+    },
+    {
+      "text": "Chapter 322",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-322.html"
+    },
+    {
+      "text": "Chapter 323",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-323.html"
+    },
+    {
+      "text": "Chapter 324",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-324.html"
+    },
+    {
+      "text": "Chapter 325",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-325.html"
+    },
+    {
+      "text": "Chapter 326",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-326.html"
+    },
+    {
+      "text": "Chapter 327",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-327.html"
+    },
+    {
+      "text": "Chapter 328",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-328.html"
+    },
+    {
+      "text": "Chapter 329",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-329.html"
+    },
+    {
+      "text": "Chapter 331",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-331.html"
+    },
+    {
+      "text": "Chapter 332",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-332.html"
+    },
+    {
+      "text": "Chapter 333",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-333.html"
+    },
+    {
+      "text": "Chapter 333A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-333A.html"
+    },
+    {
+      "text": "Chapter 334",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-334.html"
+    },
+    {
+      "text": "Chapter 336",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-336.html"
+    },
+    {
+      "text": "Chapter 338",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-338.html"
+    },
+    {
+      "text": "Chapter 339",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-339.html"
+    },
+    {
+      "text": "Chapter 340",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-340.html"
+    },
+    {
+      "text": "Chapter 341",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-341.html"
+    },
+    {
+      "text": "Chapter 342",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-342.html"
+    },
+    {
+      "text": "Chapter 344",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-344.html"
+    },
+    {
+      "text": "Chapter 345",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-345.html"
+    },
+    {
+      "text": "Chapter 348",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-348.html"
+    },
+    {
+      "text": "Chapter 348A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-348A.html"
+    },
+    {
+      "text": "Chapter 349",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-349.html"
+    },
+    {
+      "text": "Chapter 350",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-350.html"
+    },
+    {
+      "text": "Chapter 350A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-350A.html"
+    },
+    {
+      "text": "Chapter 351",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-351.html"
+    },
+    {
+      "text": "Chapter 353",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-353.html"
+    },
+    {
+      "text": "Chapter 353A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-353A.html"
+    },
+    {
+      "text": "Chapter 353B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-353B.html"
+    },
+    {
+      "text": "Chapter 353C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-353C.html"
+    },
+    {
+      "text": "Chapter 353D",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-353D.html"
+    },
+    {
+      "text": "Chapter 354",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-354.html"
+    },
+    {
+      "text": "Chapter 355",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-355.html"
+    },
+    {
+      "text": "Chapter 356",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-356.html"
+    },
+    {
+      "text": "Chapter 357",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-357.html"
+    },
+    {
+      "text": "Chapter 358",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-358.html"
+    },
+    {
+      "text": "Chapter 360",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-360.html"
+    },
+    {
+      "text": "Chapter 360A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-360A.html"
+    },
+    {
+      "text": "Chapter 360B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-360B.html"
+    },
+    {
+      "text": "Chapter 361",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-361.html"
+    },
+    {
+      "text": "Chapter 361A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-361A.html"
+    },
+    {
+      "text": "Chapter 362",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-362.html"
+    },
+    {
+      "text": "Chapter 363A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-363A.html"
+    },
+    {
+      "text": "Chapter 363B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-363B.html"
+    },
+    {
+      "text": "Chapter 363C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-363C.html"
+    },
+    {
+      "text": "Chapter 363D",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-363D.html"
+    },
+    {
+      "text": "Chapter 364",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-364.html"
+    },
+    {
+      "text": "Chapter 365",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-365.html"
+    },
+    {
+      "text": "Chapter 366",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-366.html"
+    },
+    {
+      "text": "Chapter 368A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-368A.html"
+    },
+    {
+      "text": "Chapter 369",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-369.html"
+    },
+    {
+      "text": "Chapter 370",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-370.html"
+    },
+    {
+      "text": "Chapter 370A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-370A.html"
+    },
+    {
+      "text": "Chapter 371",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-371.html"
+    },
+    {
+      "text": "Chapter 372",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-372.html"
+    },
+    {
+      "text": "Chapter 372A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-372A.html"
+    },
+    {
+      "text": "Chapter 372B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-372B.html"
+    },
+    {
+      "text": "Chapter 373",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-373.html"
+    },
+    {
+      "text": "Chapter 374",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-374.html"
+    },
+    {
+      "text": "Chapter 374A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-374A.html"
+    },
+    {
+      "text": "Chapter 375",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-375.html"
+    },
+    {
+      "text": "Chapter 375A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-375A.html"
+    },
+    {
+      "text": "Chapter 375B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-375B.html"
+    },
+    {
+      "text": "Chapter 376A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-376A.html"
+    },
+    {
+      "text": "Chapter 377",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-377.html"
+    },
+    {
+      "text": "Chapter 377A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-377A.html"
+    },
+    {
+      "text": "Chapter 377B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-377B.html"
+    },
+    {
+      "text": "Chapter 377C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-377C.html"
+    },
+    {
+      "text": "Chapter 377D",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-377D.html"
+    },
+    {
+      "text": "Chapter 378",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-378.html"
+    },
+    {
+      "text": "Chapter 378A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-378A.html"
+    },
+    {
+      "text": "Chapter 379",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-379.html"
+    },
+    {
+      "text": "Chapter 380",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-380.html"
+    },
+    {
+      "text": "Chapter 380A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-380A.html"
+    },
+    {
+      "text": "Chapter 381",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-381.html"
+    },
+    {
+      "text": "Chapter 383",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-383.html"
+    },
+    {
+      "text": "Chapter 384",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-384.html"
+    },
+    {
+      "text": "Chapter 385",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-385.html"
+    },
+    {
+      "text": "Chapter 385A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-385A.html"
+    },
+    {
+      "text": "Chapter 385B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-385B.html"
+    },
+    {
+      "text": "Chapter 386",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-386.html"
+    },
+    {
+      "text": "Chapter 387",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-387.html"
+    },
+    {
+      "text": "Chapter 388",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-388.html"
+    },
+    {
+      "text": "Chapter 388A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-388A.html"
+    },
+    {
+      "text": "Chapter 388C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-388C.html"
+    },
+    {
+      "text": "Chapter 388D",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-388D.html"
+    },
+    {
+      "text": "Chapter 388E",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-388E.html"
+    },
+    {
+      "text": "Chapter 388F",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-388F.html"
+    },
+    {
+      "text": "Chapter 388G",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-388G.html"
+    },
+    {
+      "text": "Chapter 388H",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-388H.html"
+    },
+    {
+      "text": "Chapter 389",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-389.html"
+    },
+    {
+      "text": "Chapter 390",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-390.html"
+    },
+    {
+      "text": "Chapter 391",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-391.html"
+    },
+    {
+      "text": "Chapter 391A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-391A.html"
+    },
+    {
+      "text": "Chapter 391B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-391B.html"
+    },
+    {
+      "text": "Chapter 392",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-392.html"
+    },
+    {
+      "text": "Chapter 393",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-393.html"
+    },
+    {
+      "text": "Chapter 394",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-394.html"
+    },
+    {
+      "text": "Chapter 396",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-396.html"
+    },
+    {
+      "text": "Chapter 397",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-397.html"
+    },
+    {
+      "text": "Chapter 398",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-398.html"
+    },
+    {
+      "text": "Chapter 398A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-398A.html"
+    },
+    {
+      "text": "Chapter 399",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-399.html"
+    },
+    {
+      "text": "Chapter 400",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-400.html"
+    },
+    {
+      "text": "Chapter 403",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-403.html"
+    },
+    {
+      "text": "Chapter 404",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-404.html"
+    },
+    {
+      "text": "Chapter 405",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-405.html"
+    },
+    {
+      "text": "Chapter 407",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-407.html"
+    },
+    {
+      "text": "Chapter 407A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-407A.html"
+    },
+    {
+      "text": "Chapter 408",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-408.html"
+    },
+    {
+      "text": "Chapter 410",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-410.html"
+    },
+    {
+      "text": "Chapter 412",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-412.html"
+    },
+    {
+      "text": "Chapter 413",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-413.html"
+    },
+    {
+      "text": "Chapter 414",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-414.html"
+    },
+    {
+      "text": "Chapter 414A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-414A.html"
+    },
+    {
+      "text": "Chapter 415",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-415.html"
+    },
+    {
+      "text": "Chapter 415A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-415A.html"
+    },
+    {
+      "text": "Chapter 416",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-416.html"
+    },
+    {
+      "text": "Chapter 417",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-417.html"
+    },
+    {
+      "text": "Chapter 418",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-418.html"
+    },
+    {
+      "text": "Chapter 419",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-419.html"
+    },
+    {
+      "text": "Chapter 422",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-422.html"
+    },
+    {
+      "text": "Chapter 422A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-422A.html"
+    },
+    {
+      "text": "Chapter 424",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-424.html"
+    },
+    {
+      "text": "Chapter 425",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-425.html"
+    },
+    {
+      "text": "Chapter 426",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-426.html"
+    },
+    {
+      "text": "Chapter 427A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-427A.html"
+    },
+    {
+      "text": "Chapter 428",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-428.html"
+    },
+    {
+      "text": "Chapter 430A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-430A.html"
+    },
+    {
+      "text": "Chapter 432",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-432.html"
+    },
+    {
+      "text": "Chapter 432A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-432A.html"
+    },
+    {
+      "text": "Chapter 432B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-432B.html"
+    },
+    {
+      "text": "Chapter 432C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-432C.html"
+    },
+    {
+      "text": "Chapter 433",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-433.html"
+    },
+    {
+      "text": "Chapter 433A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-433A.html"
+    },
+    {
+      "text": "Chapter 433B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-433B.html"
+    },
+    {
+      "text": "Chapter 433C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-433C.html"
+    },
+    {
+      "text": "Chapter 435",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-435.html"
+    },
+    {
+      "text": "Chapter 437",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-437.html"
+    },
+    {
+      "text": "Chapter 439",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-439.html"
+    },
+    {
+      "text": "Chapter 439A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-439A.html"
+    },
+    {
+      "text": "Chapter 439B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-439B.html"
+    },
+    {
+      "text": "Chapter 440",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-440.html"
+    },
+    {
+      "text": "Chapter 441A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-441A.html"
+    },
+    {
+      "text": "Chapter 442",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-442.html"
+    },
+    {
+      "text": "Chapter 444",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-444.html"
+    },
+    {
+      "text": "Chapter 444A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-444A.html"
+    },
+    {
+      "text": "Chapter 445A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-445A.html"
+    },
+    {
+      "text": "Chapter 445B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-445B.html"
+    },
+    {
+      "text": "Chapter 445C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-445C.html"
+    },
+    {
+      "text": "Chapter 445D",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-445D.html"
+    },
+    {
+      "text": "Chapter 446",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-446.html"
+    },
+    {
+      "text": "Chapter 447",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-447.html"
+    },
+    {
+      "text": "Chapter 449",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-449.html"
+    },
+    {
+      "text": "Chapter 449A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-449A.html"
+    },
+    {
+      "text": "Chapter 450",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-450.html"
+    },
+    {
+      "text": "Chapter 450B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-450B.html"
+    },
+    {
+      "text": "Chapter 451",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-451.html"
+    },
+    {
+      "text": "Chapter 452",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-452.html"
+    },
+    {
+      "text": "Chapter 453",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-453.html"
+    },
+    {
+      "text": "Chapter 453B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-453B.html"
+    },
+    {
+      "text": "Chapter 453C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-453C.html"
+    },
+    {
+      "text": "Chapter 454",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-454.html"
+    },
+    {
+      "text": "Chapter 455",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-455.html"
+    },
+    {
+      "text": "Chapter 455A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-455A.html"
+    },
+    {
+      "text": "Chapter 455B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-455B.html"
+    },
+    {
+      "text": "Chapter 455C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-455C.html"
+    },
+    {
+      "text": "Chapter 457",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-457.html"
+    },
+    {
+      "text": "Chapter 458",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-458.html"
+    },
+    {
+      "text": "Chapter 458A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-458A.html"
+    },
+    {
+      "text": "Chapter 459",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-459.html"
+    },
+    {
+      "text": "Chapter 459A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-459A.html"
+    },
+    {
+      "text": "Chapter 460",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-460.html"
+    },
+    {
+      "text": "Chapter 461",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-461.html"
+    },
+    {
+      "text": "Chapter 461A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-461A.html"
+    },
+    {
+      "text": "Chapter 462",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-462.html"
+    },
+    {
+      "text": "Chapter 463",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-463.html"
+    },
+    {
+      "text": "Chapter 463A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-463A.html"
+    },
+    {
+      "text": "Chapter 463B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-463B.html"
+    },
+    {
+      "text": "Chapter 464",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-464.html"
+    },
+    {
+      "text": "Chapter 465",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-465.html"
+    },
+    {
+      "text": "Chapter 466",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-466.html"
+    },
+    {
+      "text": "Chapter 467",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-467.html"
+    },
+    {
+      "text": "Chapter 472",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-472.html"
+    },
+    {
+      "text": "Chapter 474",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-474.html"
+    },
+    {
+      "text": "Chapter 475",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-475.html"
+    },
+    {
+      "text": "Chapter 476",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-476.html"
+    },
+    {
+      "text": "Chapter 477",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-477.html"
+    },
+    {
+      "text": "Chapter 480",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-480.html"
+    },
+    {
+      "text": "Chapter 481",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-481.html"
+    },
+    {
+      "text": "Chapter 481A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-481A.html"
+    },
+    {
+      "text": "Chapter 482",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-482.html"
+    },
+    {
+      "text": "Chapter 482A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-482A.html"
+    },
+    {
+      "text": "Chapter 482B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-482B.html"
+    },
+    {
+      "text": "Chapter 482C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-482C.html"
+    },
+    {
+      "text": "Chapter 483",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-483.html"
+    },
+    {
+      "text": "Chapter 484A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-484A.html"
+    },
+    {
+      "text": "Chapter 484B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-484B.html"
+    },
+    {
+      "text": "Chapter 484C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-484C.html"
+    },
+    {
+      "text": "Chapter 484D",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-484D.html"
+    },
+    {
+      "text": "Chapter 484E",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-484E.html"
+    },
+    {
+      "text": "Chapter 485",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-485.html"
+    },
+    {
+      "text": "Chapter 486",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-486.html"
+    },
+    {
+      "text": "Chapter 487",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-487.html"
+    },
+    {
+      "text": "Chapter 488",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-488.html"
+    },
+    {
+      "text": "Chapter 489",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-489.html"
+    },
+    {
+      "text": "Chapter 490",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-490.html"
+    },
+    {
+      "text": "Chapter 493",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-493.html"
+    },
+    {
+      "text": "Chapter 494",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-494.html"
+    },
+    {
+      "text": "Chapter 495",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-495.html"
+    },
+    {
+      "text": "Chapter 496",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-496.html"
+    },
+    {
+      "text": "Chapter 497",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-497.html"
+    },
+    {
+      "text": "Chapter 498",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-498.html"
+    },
+    {
+      "text": "Chapter 501",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-501.html"
+    },
+    {
+      "text": "Chapter 502",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-502.html"
+    },
+    {
+      "text": "Chapter 503",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-503.html"
+    },
+    {
+      "text": "Chapter 504",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-504.html"
+    },
+    {
+      "text": "Chapter 505",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-505.html"
+    },
+    {
+      "text": "Chapter 506",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-506.html"
+    },
+    {
+      "text": "Chapter 512",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-512.html"
+    },
+    {
+      "text": "Chapter 513",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-513.html"
+    },
+    {
+      "text": "Chapter 514",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-514.html"
+    },
+    {
+      "text": "Chapter 514A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-514A.html"
+    },
+    {
+      "text": "Chapter 517",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-517.html"
+    },
+    {
+      "text": "Chapter 519",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-519.html"
+    },
+    {
+      "text": "Chapter 519A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-519A.html"
+    },
+    {
+      "text": "Chapter 520",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-520.html"
+    },
+    {
+      "text": "Chapter 522",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-522.html"
+    },
+    {
+      "text": "Chapter 527",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-527.html"
+    },
+    {
+      "text": "Chapter 528",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-528.html"
+    },
+    {
+      "text": "Chapter 532",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-532.html"
+    },
+    {
+      "text": "Chapter 533",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-533.html"
+    },
+    {
+      "text": "Chapter 534",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-534.html"
+    },
+    {
+      "text": "Chapter 534A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-534A.html"
+    },
+    {
+      "text": "Chapter 534B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-534B.html"
+    },
+    {
+      "text": "Chapter 535",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-535.html"
+    },
+    {
+      "text": "Chapter 536",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-536.html"
+    },
+    {
+      "text": "Chapter 537",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-537.html"
+    },
+    {
+      "text": "Chapter 538",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-538.html"
+    },
+    {
+      "text": "Chapter 539",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-539.html"
+    },
+    {
+      "text": "Chapter 540",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-540.html"
+    },
+    {
+      "text": "Chapter 540A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-540A.html"
+    },
+    {
+      "text": "Chapter 541",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-541.html"
+    },
+    {
+      "text": "Chapter 543",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-543.html"
+    },
+    {
+      "text": "Chapter 544",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-544.html"
+    },
+    {
+      "text": "Chapter 547",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-547.html"
+    },
+    {
+      "text": "Chapter 548",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-548.html"
+    },
+    {
+      "text": "Chapter 549",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-549.html"
+    },
+    {
+      "text": "Chapter 550",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-550.html"
+    },
+    {
+      "text": "Chapter 551",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-551.html"
+    },
+    {
+      "text": "Chapter 552",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-552.html"
+    },
+    {
+      "text": "Chapter 553",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-553.html"
+    },
+    {
+      "text": "Chapter 554",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-554.html"
+    },
+    {
+      "text": "Chapter 555",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-555.html"
+    },
+    {
+      "text": "Chapter 556",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-556.html"
+    },
+    {
+      "text": "Chapter 557",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-557.html"
+    },
+    {
+      "text": "Chapter 561",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-561.html"
+    },
+    {
+      "text": "Chapter 562",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-562.html"
+    },
+    {
+      "text": "Chapter 563",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-563.html"
+    },
+    {
+      "text": "Chapter 564",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-564.html"
+    },
+    {
+      "text": "Chapter 565",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-565.html"
+    },
+    {
+      "text": "Chapter 566",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-566.html"
+    },
+    {
+      "text": "Chapter 567",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-567.html"
+    },
+    {
+      "text": "Chapter 568",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-568.html"
+    },
+    {
+      "text": "Chapter 569",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-569.html"
+    },
+    {
+      "text": "Chapter 571",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-571.html"
+    },
+    {
+      "text": "Chapter 573",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-573.html"
+    },
+    {
+      "text": "Chapter 574",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-574.html"
+    },
+    {
+      "text": "Chapter 574A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-574A.html"
+    },
+    {
+      "text": "Chapter 575",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-575.html"
+    },
+    {
+      "text": "Chapter 576",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-576.html"
+    },
+    {
+      "text": "Chapter 577",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-577.html"
+    },
+    {
+      "text": "Chapter 581",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-581.html"
+    },
+    {
+      "text": "Chapter 582",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-582.html"
+    },
+    {
+      "text": "Chapter 583",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-583.html"
+    },
+    {
+      "text": "Chapter 584",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-584.html"
+    },
+    {
+      "text": "Chapter 585",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-585.html"
+    },
+    {
+      "text": "Chapter 586",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-586.html"
+    },
+    {
+      "text": "Chapter 587",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-587.html"
+    },
+    {
+      "text": "Chapter 588",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-588.html"
+    },
+    {
+      "text": "Chapter 590",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-590.html"
+    },
+    {
+      "text": "Chapter 597",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-597.html"
+    },
+    {
+      "text": "Chapter 598",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-598.html"
+    },
+    {
+      "text": "Chapter 598A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-598A.html"
+    },
+    {
+      "text": "Chapter 598B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-598B.html"
+    },
+    {
+      "text": "Chapter 598C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-598C.html"
+    },
+    {
+      "text": "Chapter 598D",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-598D.html"
+    },
+    {
+      "text": "Chapter 599A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-599A.html"
+    },
+    {
+      "text": "Chapter 599B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-599B.html"
+    },
+    {
+      "text": "Chapter 600",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-600.html"
+    },
+    {
+      "text": "Chapter 600A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-600A.html"
+    },
+    {
+      "text": "Chapter 601",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-601.html"
+    },
+    {
+      "text": "Chapter 602",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-602.html"
+    },
+    {
+      "text": "Chapter 603",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-603.html"
+    },
+    {
+      "text": "Chapter 603A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-603A.html"
+    },
+    {
+      "text": "Chapter 604A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-604A.html"
+    },
+    {
+      "text": "Chapter 604B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-604B.html"
+    },
+    {
+      "text": "Chapter 604C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-604C.html"
+    },
+    {
+      "text": "Chapter 604D",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-604D.html"
+    },
+    {
+      "text": "Chapter 606",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-606.html"
+    },
+    {
+      "text": "Chapter 607",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-607.html"
+    },
+    {
+      "text": "Chapter 608",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-608.html"
+    },
+    {
+      "text": "Chapter 609",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-609.html"
+    },
+    {
+      "text": "Chapter 610",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-610.html"
+    },
+    {
+      "text": "Chapter 611",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-611.html"
+    },
+    {
+      "text": "Chapter 612",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-612.html"
+    },
+    {
+      "text": "Chapter 613",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-613.html"
+    },
+    {
+      "text": "Chapter 614",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-614.html"
+    },
+    {
+      "text": "Chapter 615",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-615.html"
+    },
+    {
+      "text": "Chapter 616A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-616A.html"
+    },
+    {
+      "text": "Chapter 616B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-616B.html"
+    },
+    {
+      "text": "Chapter 616C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-616C.html"
+    },
+    {
+      "text": "Chapter 616D",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-616D.html"
+    },
+    {
+      "text": "Chapter 617",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-617.html"
+    },
+    {
+      "text": "Chapter 618",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-618.html"
+    },
+    {
+      "text": "Chapter 622",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-622.html"
+    },
+    {
+      "text": "Chapter 622A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-622A.html"
+    },
+    {
+      "text": "Chapter 623",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-623.html"
+    },
+    {
+      "text": "Chapter 623A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-623A.html"
+    },
+    {
+      "text": "Chapter 624",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-624.html"
+    },
+    {
+      "text": "Chapter 625",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-625.html"
+    },
+    {
+      "text": "Chapter 625A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-625A.html"
+    },
+    {
+      "text": "Chapter 627",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-627.html"
+    },
+    {
+      "text": "Chapter 628",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-628.html"
+    },
+    {
+      "text": "Chapter 628A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-628A.html"
+    },
+    {
+      "text": "Chapter 628B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-628B.html"
+    },
+    {
+      "text": "Chapter 629",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-629.html"
+    },
+    {
+      "text": "Chapter 629A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-629A.html"
+    },
+    {
+      "text": "Chapter 630",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-630.html"
+    },
+    {
+      "text": "Chapter 630A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-630A.html"
+    },
+    {
+      "text": "Chapter 631",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-631.html"
+    },
+    {
+      "text": "Chapter 632",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-632.html"
+    },
+    {
+      "text": "Chapter 633",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-633.html"
+    },
+    {
+      "text": "Chapter 634",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-634.html"
+    },
+    {
+      "text": "Chapter 634A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-634A.html"
+    },
+    {
+      "text": "Chapter 634B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-634B.html"
+    },
+    {
+      "text": "Chapter 635",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-635.html"
+    },
+    {
+      "text": "Chapter 636",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-636.html"
+    },
+    {
+      "text": "Chapter 637",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-637.html"
+    },
+    {
+      "text": "Chapter 637B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-637B.html"
+    },
+    {
+      "text": "Chapter 638",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-638.html"
+    },
+    {
+      "text": "Chapter 639",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-639.html"
+    },
+    {
+      "text": "Chapter 640",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-640.html"
+    },
+    {
+      "text": "Chapter 640A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-640A.html"
+    },
+    {
+      "text": "Chapter 640B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-640B.html"
+    },
+    {
+      "text": "Chapter 640C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-640C.html"
+    },
+    {
+      "text": "Chapter 640D",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-640D.html"
+    },
+    {
+      "text": "Chapter 640E",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-640E.html"
+    },
+    {
+      "text": "Chapter 641",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-641.html"
+    },
+    {
+      "text": "Chapter 641A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-641A.html"
+    },
+    {
+      "text": "Chapter 641B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-641B.html"
+    },
+    {
+      "text": "Chapter 641C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-641C.html"
+    },
+    {
+      "text": "Chapter 641D",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-641D.html"
+    },
+    {
+      "text": "Chapter 642",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-642.html"
+    },
+    {
+      "text": "Chapter 643",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-643.html"
+    },
+    {
+      "text": "Chapter 644A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-644A.html"
+    },
+    {
+      "text": "Chapter 645",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-645.html"
+    },
+    {
+      "text": "Chapter 645A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-645A.html"
+    },
+    {
+      "text": "Chapter 645B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-645B.html"
+    },
+    {
+      "text": "Chapter 645C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-645C.html"
+    },
+    {
+      "text": "Chapter 645D",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-645D.html"
+    },
+    {
+      "text": "Chapter 645F",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-645F.html"
+    },
+    {
+      "text": "Chapter 645G",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-645G.html"
+    },
+    {
+      "text": "Chapter 645H",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-645H.html"
+    },
+    {
+      "text": "Chapter 646",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-646.html"
+    },
+    {
+      "text": "Chapter 647",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-647.html"
+    },
+    {
+      "text": "Chapter 648",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-648.html"
+    },
+    {
+      "text": "Chapter 649",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-649.html"
+    },
+    {
+      "text": "Chapter 651",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-651.html"
+    },
+    {
+      "text": "Chapter 652",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-652.html"
+    },
+    {
+      "text": "Chapter 653",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-653.html"
+    },
+    {
+      "text": "Chapter 654",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-654.html"
+    },
+    {
+      "text": "Chapter 655",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-655.html"
+    },
+    {
+      "text": "Chapter 656",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-656.html"
+    },
+    {
+      "text": "Chapter 656A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-656A.html"
+    },
+    {
+      "text": "Chapter 657",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-657.html"
+    },
+    {
+      "text": "Chapter 657A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-657A.html"
+    },
+    {
+      "text": "Chapter 658",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-658.html"
+    },
+    {
+      "text": "Chapter 659",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-659.html"
+    },
+    {
+      "text": "Chapter 660",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-660.html"
+    },
+    {
+      "text": "Chapter 661",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-661.html"
+    },
+    {
+      "text": "Chapter 662",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-662.html"
+    },
+    {
+      "text": "Chapter 663",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-663.html"
+    },
+    {
+      "text": "Chapter 664",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-664.html"
+    },
+    {
+      "text": "Chapter 665",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-665.html"
+    },
+    {
+      "text": "Chapter 666",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-666.html"
+    },
+    {
+      "text": "Chapter 666A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-666A.html"
+    },
+    {
+      "text": "Chapter 667",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-667.html"
+    },
+    {
+      "text": "Chapter 668",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-668.html"
+    },
+    {
+      "text": "Chapter 669",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-669.html"
+    },
+    {
+      "text": "Chapter 669A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-669A.html"
+    },
+    {
+      "text": "Chapter 670B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-670B.html"
+    },
+    {
+      "text": "Chapter 671",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-671.html"
+    },
+    {
+      "text": "Chapter 672",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-672.html"
+    },
+    {
+      "text": "Chapter 673",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-673.html"
+    },
+    {
+      "text": "Chapter 675",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-675.html"
+    },
+    {
+      "text": "Chapter 676A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-676A.html"
+    },
+    {
+      "text": "Chapter 677",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-677.html"
+    },
+    {
+      "text": "Chapter 678A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-678A.html"
+    },
+    {
+      "text": "Chapter 678B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-678B.html"
+    },
+    {
+      "text": "Chapter 678C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-678C.html"
+    },
+    {
+      "text": "Chapter 678D",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-678D.html"
+    },
+    {
+      "text": "Chapter 679A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-679A.html"
+    },
+    {
+      "text": "Chapter 679B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-679B.html"
+    },
+    {
+      "text": "Chapter 680A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-680A.html"
+    },
+    {
+      "text": "Chapter 680B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-680B.html"
+    },
+    {
+      "text": "Chapter 680C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-680C.html"
+    },
+    {
+      "text": "Chapter 681A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-681A.html"
+    },
+    {
+      "text": "Chapter 681B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-681B.html"
+    },
+    {
+      "text": "Chapter 682A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-682A.html"
+    },
+    {
+      "text": "Chapter 682B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-682B.html"
+    },
+    {
+      "text": "Chapter 683A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-683A.html"
+    },
+    {
+      "text": "Chapter 683C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-683C.html"
+    },
+    {
+      "text": "Chapter 684A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-684A.html"
+    },
+    {
+      "text": "Chapter 684B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-684B.html"
+    },
+    {
+      "text": "Chapter 685A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-685A.html"
+    },
+    {
+      "text": "Chapter 685B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-685B.html"
+    },
+    {
+      "text": "Chapter 686A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-686A.html"
+    },
+    {
+      "text": "Chapter 686B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-686B.html"
+    },
+    {
+      "text": "Chapter 686C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-686C.html"
+    },
+    {
+      "text": "Chapter 687A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-687A.html"
+    },
+    {
+      "text": "Chapter 687B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-687B.html"
+    },
+    {
+      "text": "Chapter 687C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-687C.html"
+    },
+    {
+      "text": "Chapter 688A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-688A.html"
+    },
+    {
+      "text": "Chapter 688B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-688B.html"
+    },
+    {
+      "text": "Chapter 688C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-688C.html"
+    },
+    {
+      "text": "Chapter 688D",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-688D.html"
+    },
+    {
+      "text": "Chapter 689",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-689.html"
+    },
+    {
+      "text": "Chapter 689A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-689A.html"
+    },
+    {
+      "text": "Chapter 689B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-689B.html"
+    },
+    {
+      "text": "Chapter 689C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-689C.html"
+    },
+    {
+      "text": "Chapter 690A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-690A.html"
+    },
+    {
+      "text": "Chapter 690B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-690B.html"
+    },
+    {
+      "text": "Chapter 690C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-690C.html"
+    },
+    {
+      "text": "Chapter 690D",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-690D.html"
+    },
+    {
+      "text": "Chapter 691A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-691A.html"
+    },
+    {
+      "text": "Chapter 691B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-691B.html"
+    },
+    {
+      "text": "Chapter 691C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-691C.html"
+    },
+    {
+      "text": "Chapter 691D",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-691D.html"
+    },
+    {
+      "text": "Chapter 691E",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-691E.html"
+    },
+    {
+      "text": "Chapter 692A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-692A.html"
+    },
+    {
+      "text": "Chapter 692B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-692B.html"
+    },
+    {
+      "text": "Chapter 692C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-692C.html"
+    },
+    {
+      "text": "Chapter 693A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-693A.html"
+    },
+    {
+      "text": "Chapter 693B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-693B.html"
+    },
+    {
+      "text": "Chapter 694A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-694A.html"
+    },
+    {
+      "text": "Chapter 694B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-694B.html"
+    },
+    {
+      "text": "Chapter 694C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-694C.html"
+    },
+    {
+      "text": "Chapter 695A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-695A.html"
+    },
+    {
+      "text": "Chapter 695B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-695B.html"
+    },
+    {
+      "text": "Chapter 695C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-695C.html"
+    },
+    {
+      "text": "Chapter 695D",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-695D.html"
+    },
+    {
+      "text": "Chapter 695E",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-695E.html"
+    },
+    {
+      "text": "Chapter 695F",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-695F.html"
+    },
+    {
+      "text": "Chapter 695G",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-695G.html"
+    },
+    {
+      "text": "Chapter 695H",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-695H.html"
+    },
+    {
+      "text": "Chapter 695I",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-695I.html"
+    },
+    {
+      "text": "Chapter 695J",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-695J.html"
+    },
+    {
+      "text": "Chapter 695K",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-695K.html"
+    },
+    {
+      "text": "Chapter 696A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-696A.html"
+    },
+    {
+      "text": "Chapter 696B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-696B.html"
+    },
+    {
+      "text": "Chapter 696C",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-696C.html"
+    },
+    {
+      "text": "Chapter 697",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-697.html"
+    },
+    {
+      "text": "Chapter 701",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-701.html"
+    },
+    {
+      "text": "Chapter 701A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-701A.html"
+    },
+    {
+      "text": "Chapter 701B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-701B.html"
+    },
+    {
+      "text": "Chapter 702",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-702.html"
+    },
+    {
+      "text": "Chapter 703",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-703.html"
+    },
+    {
+      "text": "Chapter 704",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-704.html"
+    },
+    {
+      "text": "Chapter 704A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-704A.html"
+    },
+    {
+      "text": "Chapter 704B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-704B.html"
+    },
+    {
+      "text": "Chapter 705",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-705.html"
+    },
+    {
+      "text": "Chapter 706",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-706.html"
+    },
+    {
+      "text": "Chapter 706A",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-706A.html"
+    },
+    {
+      "text": "Chapter 706B",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-706B.html"
+    },
+    {
+      "text": "Chapter 707",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-707.html"
+    },
+    {
+      "text": "Chapter 708",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-708.html"
+    },
+    {
+      "text": "Chapter 709",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-709.html"
+    },
+    {
+      "text": "Chapter 710",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-710.html"
+    },
+    {
+      "text": "Chapter 711",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-711.html"
+    },
+    {
+      "text": "Chapter 712",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-712.html"
+    },
+    {
+      "text": "Chapter 719",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-719.html"
+    },
+    {
+      "text": "Chapter 720",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-720.html"
+    },
+    {
+      "text": "Chapter 721",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-721.html"
+    },
+    {
+      "text": "Chapter 722",
+      "url": "https://www.leg.state.nv.us/nrs//NRS-722.html"
+    },
+    {
+      "text": "NRS\r\nCOMPARATIVE SECTION TABLES",
+      "url": "https://www.leg.state.nv.us/nrs//../NRSCompTbls/NRSCompTblsTOC.html"
+    },
+    {
+      "text": "TABLE OF NRS\r\nCHAPTERS REPEALED AND SECTIONS REPEALED, EXPIRED OR REPLACED",
+      "url": "https://www.leg.state.nv.us/nrs//../NRSRepealed/RR_Index.html"
+    }
+  ],
+  "base_url": "https://www.leg.state.nv.us/nrs/",
+  "scraped_date": "2026-02-10T23:46:12.874889",
+  "note": "Generic scraping - sections may need validation"
+}
