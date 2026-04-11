@@ -12,6 +12,25 @@ The code is organized by workflow stage:
 - `evaluation/` runs dataset-based evaluation and summary reports
 - `app.py` is the Streamlit demo
 
+## Data Used
+
+This project uses two legal sources for retrieval:
+
+- Federal tax law (Title 26 / IRC), parsed from JSON section files.
+- Nevada tax law files, parsed into the same chunk format.
+
+Main data locations:
+
+- Raw input root: `data/raw/`
+- Federal sections consumed by ingestion: `data/raw/federal/usc_title26_olrc/sections/`
+- Nevada raw files expected by ingestion: `data/raw/nevada/`
+- Generated corpora: `data/chunks/flat_corpus.jsonl` and `data/chunks/hierarchy_corpus.jsonl`
+- Vector index storage (Chroma): `data/indexes/`
+- Evaluation set (generated from Hugging Face in `evaluation.load_dataset`): `data/eval_set.jsonl`
+- Evaluation outputs and report: `outputs/eval_results/`
+
+If you place data in different folders, update paths in `config.py` (and, if needed, `ingestion/run_pipeline.py`).
+
 ## Quick Start
 
 1. Create and activate your Python environment.
@@ -21,16 +40,39 @@ The code is organized by workflow stage:
 pip install -r requirements.txt
 ```
 
-3. Create a `.env` file in the project root and add your provider keys/settings.
+3. Create a `.env` file in the project root.
 
-At minimum, set:
+Use one of these examples (pick one provider at a time):
+
+Gemini
 
 ```env
 LLM_PROVIDER=gemini
-GEMINI_API_KEY=your_key_here
+GEMINI_API_KEY=your_gemini_key_here
+GEMINI_MODEL=gemini-1.5-flash
 ```
 
-(If you use OpenAI or Anthropic, set those keys instead.)
+OpenAI
+
+```env
+LLM_PROVIDER=openai
+OPENAI_API_KEY=your_openai_key_here
+```
+
+Anthropic
+
+```env
+LLM_PROVIDER=anthropic
+ANTHROPIC_API_KEY=your_anthropic_key_here
+```
+
+Perplexity
+
+```env
+LLM_PROVIDER=perplexity
+PERPLEXITY_API_KEY=your_perplexity_key_here
+PERPLEXITY_MODEL=sonar
+```
 
 ## Typical Run Order
 
